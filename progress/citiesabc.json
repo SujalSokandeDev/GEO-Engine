@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:38:26.046001+00:00",
+  "last_update": "2026-07-02T11:41:02.707637+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -758,7 +758,37 @@
     "https://citiesabc.com/city/kangar",
     "https://citiesabc.com/city/sintok",
     "https://citiesabc.com/city/subang-jaya",
-    "https://citiesabc.com/city/petaling-jaya"
+    "https://citiesabc.com/city/petaling-jaya",
+    "https://citiesabc.com/city/kota-samarahan",
+    "https://citiesabc.com/city/semenyih",
+    "https://citiesabc.com/city/bandar-sunway",
+    "https://citiesabc.com/city/bedong",
+    "https://citiesabc.com/city/alor-setar",
+    "https://citiesabc.com/city/cyberjaya",
+    "https://citiesabc.com/city/bukit-jalil",
+    "https://citiesabc.com/city/ipoh",
+    "https://citiesabc.com/city/kuala-terengganu",
+    "https://citiesabc.com/city/jeli",
+    "https://citiesabc.com/city/kuching",
+    "https://citiesabc.com/city/kota-kinabalu",
+    "https://citiesabc.com/city/nilai",
+    "https://citiesabc.com/city/melaka-city",
+    "https://citiesabc.com/city/putrajaya",
+    "https://citiesabc.com/city/miri",
+    "https://citiesabc.com/city/seri-kembangan",
+    "https://citiesabc.com/city/tanjong-malim",
+    "https://citiesabc.com/city/kajang",
+    "https://citiesabc.com/city/thanh-hoa-city",
+    "https://citiesabc.com/city/haiphong",
+    "https://citiesabc.com/city/nha-trang-city",
+    "https://citiesabc.com/city/hue",
+    "https://citiesabc.com/city/quy-nhon",
+    "https://citiesabc.com/city/thai-nguyen-city",
+    "https://citiesabc.com/city/can-tho",
+    "https://citiesabc.com/city/vinh",
+    "https://citiesabc.com/city/dalat",
+    "https://citiesabc.com/city/da-nang",
+    "https://citiesabc.com/city/ajman"
   ],
   "results": [
     {
@@ -38013,6 +38043,4609 @@
       },
       "content_length": 425183,
       "audited_at": "2026-07-02T11:38:25.570260+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kota-samarahan",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.608,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "1.459921",
+              "longitude": "110.488266"
+            },
+            "url": "https://citiesabc.com/city/kota-samarahan",
+            "name": "Kota Samarahan",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/19_Kota_Samarahan_345d5cd269.jpeg"
+            ],
+            "@context": "https://schema.org",
+            "population": "29395 (2024)",
+            "postalCode": "94300",
+            "description": "Kota Samarahan is a rapidly developing town in Sarawak, Malaysia, serving as the administrative center of the Samarahan District. Known as the \"Town of Knowledge\" (Kota Ilmu), it is a significant education and medical hub, positioned as a satellite town to Kuching.",
+            "alternateName": [
+              "Muara Tuang",
+              "Kota Ilmu"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kota-samarahan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kota-samarahan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Kota Samarahan, Sarawak's 'Town of Knowledge,' a significant education and medical hub. With a 2024 population of 29,395, it's a rapidly developing town. Start exploring!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/19_Kota_Samarahan_345d5cd269.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kota Samarahan: Sarawak's Town of Knowledge & Education Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2333"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3500"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kota Samarahan: Sarawak's Town of Knowledge & Education Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kota-samarahan"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne121c67fef9047008cf649df54b8d426",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kota Samarahan: Sarawak's Town of Knowledge & Education Hub",
+            "og:description": "Explore Kota Samarahan, Sarawak's 'Town of Knowledge,' a significant education and medical hub. With a 2024 population of 29,395, it's a rapidly developing town. Start exploring!",
+            "og:url": "https://citiesabc.com/city/kota-samarahan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/19_Kota_Samarahan_345d5cd269.jpeg",
+            "og:image:width": "3500",
+            "og:image:height": "2333",
+            "og:image:alt": "Kota Samarahan: Sarawak's Town of Knowledge & Education Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426779
+      },
+      "content_length": 426779,
+      "audited_at": "2026-07-02T11:38:35.729397+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/semenyih",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.567,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.9476167",
+              "longitude": "101.8470485"
+            },
+            "url": "https://citiesabc.com/city/semenyih",
+            "name": "Semenyih",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "100767 (2025)",
+            "postalCode": "43500",
+            "description": "Semenyih is a town and mukim in the Hulu Langat District of southeastern Selangor, Malaysia. Located approximately 28 km southeast of Kuala Lumpur, it is characterized by hilly terrain, scenic waterfalls, and notable developments like the University of Nottingham Malaysia Campus. The town has experienced significant growth, transforming into an increasingly urbanized area.",
+            "governmentType": "Municipal Council (under constitutional monarchy)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/semenyih",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/semenyih",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Semenyih is a vibrant town in Selangor with a projected population of 100,767. Known for its hilly terrain, scenic waterfalls, and lower cost of living, it's ideal for students. Explore Semenyih!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Semenyih: Hilly Terrain, Waterfalls & Nottingham Campus"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/semenyih"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne861b17eb6f84bb59c8a5a442ccd64ed",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Semenyih: Hilly Terrain, Waterfalls & Nottingham Campus",
+            "og:description": "Semenyih is a vibrant town in Selangor with a projected population of 100,767. Known for its hilly terrain, scenic waterfalls, and lower cost of living, it's ideal for students. Explore Semenyih!",
+            "og:url": "https://citiesabc.com/city/semenyih",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 418161
+      },
+      "content_length": 418161,
+      "audited_at": "2026-07-02T11:38:36.303406+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bandar-sunway",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.568,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.0683743",
+              "longitude": "101.6024829"
+            },
+            "url": "https://citiesabc.com/city/bandar-sunway",
+            "name": "Bandar Sunway",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/17_Bandar_Sunway_88c8c6d2b4.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "72162 (2020)",
+            "postalCode": "46150",
+            "description": "Bandar Sunway, also known as Sunway City, is a thriving integrated township located in Subang Jaya, Selangor, Malaysia. Transformed from a former tin mining wasteland, it is renowned for its comprehensive array of entertainment, commercial, educational, and medical facilities, attracting millions of visitors annually and offering a \"Resort Living Within A City\" concept.",
+            "alternateName": [
+              "Sunway City"
+            ],
+            "governmentType": "Local government (appointed)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bandar-sunway",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bandar-sunway",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Bandar Sunway, also known as Sunway City. Explore this integrated township's attractions, from theme parks to shopping malls. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/17_Bandar_Sunway_88c8c6d2b4.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bandar Sunway Guide | Sunway City's Top Sights & Activities"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bandar Sunway Guide | Sunway City's Top Sights & Activities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bandar-sunway"
+              }
+            ]
+          },
+          {
+            "@id": "_:N92dc4b2e2c034ed1b1e9ab88a4c2ab75",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bandar Sunway Guide | Sunway City's Top Sights & Activities",
+            "og:description": "Discover Bandar Sunway, also known as Sunway City. Explore this integrated township's attractions, from theme parks to shopping malls. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/bandar-sunway",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/17_Bandar_Sunway_88c8c6d2b4.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "800",
+            "og:image:alt": "Bandar Sunway Guide | Sunway City's Top Sights & Activities",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426307
+      },
+      "content_length": 426307,
+      "audited_at": "2026-07-02T11:38:36.493764+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bedong",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.306,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.7296523",
+              "longitude": "100.5127073"
+            },
+            "url": "https://citiesabc.com/city/bedong",
+            "name": "Bedong",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/16_Bedong_685b7c5fcf.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "14678 (2020)",
+            "postalCode": "08100",
+            "description": "Bedong is a small town in Kedah, Malaysia, known for its local markets and charm. It serves as a central hub for rural areas, providing essential services to residents.",
+            "governmentType": "Local government appointed by state government (part of Malaysia's federal constitutional monarchy)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bedong",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bedong",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bedong is a charming small town in Kedah, Malaysia, known for its local markets and tranquil ambiance. With a population of 14,678, it serves as a vital local hub. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/16_Bedong_685b7c5fcf.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bedong Guide | Local Markets & Charm in Kedah, Malaysia"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "271"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "474"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bedong Guide | Local Markets & Charm in Kedah, Malaysia"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bedong"
+              }
+            ]
+          },
+          {
+            "@id": "_:N45d9be854e3f41e2a9c9abe2d1a719ec",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bedong Guide | Local Markets & Charm in Kedah, Malaysia",
+            "og:description": "Bedong is a charming small town in Kedah, Malaysia, known for its local markets and tranquil ambiance. With a population of 14,678, it serves as a vital local hub. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/bedong",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/16_Bedong_685b7c5fcf.webp",
+            "og:image:width": "474",
+            "og:image:height": "271",
+            "og:image:alt": "Bedong Guide | Local Markets & Charm in Kedah, Malaysia",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423931
+      },
+      "content_length": 423931,
+      "audited_at": "2026-07-02T11:38:44.386693+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/alor-setar",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.405,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "6.1263074",
+              "longitude": "100.3671695"
+            },
+            "url": "https://citiesabc.com/city/alor-setar",
+            "name": "Alor Setar",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/15_Alor_Setar_eda51e21bc.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "423,868 (2020)",
+            "postalCode": "05000, 05050, 05100, 05150, 05200, 05250, 05300, 05350, 05400, 05500, 05502, 05503, 05506, 05520, 06650",
+            "description": "Alor Setar is the state capital of Kedah, Malaysia. It's a key transportation hub in the northern Malay Peninsula, known for its cultural heritage, historical sites, and as the birthplace of two Malaysian Prime Ministers.",
+            "alternateName": [
+              "Kota Setar",
+              "Alor Star"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/alor-setar",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N2bee5cee89f84b6b8aab6c44c682654b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/alor-setar",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Alor Setar, Kedah's historic capital and transport hub. Explore cultural heritage, historical sites, and enjoy its budget-friendly charm. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/15_Alor_Setar_eda51e21bc.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Alor Setar: Malaysia's Historic Capital & Transport Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "6000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Alor Setar: Malaysia's Historic Capital & Transport Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/alor-setar"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Alor Setar: Malaysia's Historic Capital & Transport Hub",
+            "og:description": "Discover Alor Setar, Kedah's historic capital and transport hub. Explore cultural heritage, historical sites, and enjoy its budget-friendly charm. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/alor-setar",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/15_Alor_Setar_eda51e21bc.jpg",
+            "og:image:width": "6000",
+            "og:image:height": "4000",
+            "og:image:alt": "Alor Setar: Malaysia's Historic Capital & Transport Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428843
+      },
+      "content_length": 428843,
+      "audited_at": "2026-07-02T11:38:43.257254+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/cyberjaya",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.905,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.921318",
+              "longitude": "101.6559349"
+            },
+            "url": "https://citiesabc.com/city/cyberjaya",
+            "name": "Cyberjaya",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/14_Cyberjaya_8501dbb9d0.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "49276 (2020)",
+            "postalCode": "63000, 63100, 63200, 63300",
+            "description": "Cyberjaya is a planned city in Malaysia, a science park at the core of Malaysia Digital. Near Putrajaya, it aims to be Malaysia's Silicon Valley, attracting tech companies and fostering digital innovation.",
+            "alternateName": [
+              "Silicon Valley of Malaysia"
+            ],
+            "governmentType": "Local council (appointed by state government) within a Constitutional Monarchy (Malaysia)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/cyberjaya",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N258b81bbda484856b88043930a7f0cc3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/cyberjaya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Cyberjaya, Malaysia's tech hub and digital innovation center. Home to over 900 businesses and a vibrant student community. Discover more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/14_Cyberjaya_8501dbb9d0.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Cyberjaya: Malaysia Digital Tech Hub & Student Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3264"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4928"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Cyberjaya: Malaysia Digital Tech Hub & Student Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/cyberjaya"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Cyberjaya: Malaysia Digital Tech Hub & Student Guide",
+            "og:description": "Explore Cyberjaya, Malaysia's tech hub and digital innovation center. Home to over 900 businesses and a vibrant student community. Discover more!",
+            "og:url": "https://citiesabc.com/city/cyberjaya",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/14_Cyberjaya_8501dbb9d0.jpg",
+            "og:image:width": "4928",
+            "og:image:height": "3264",
+            "og:image:alt": "Cyberjaya: Malaysia Digital Tech Hub & Student Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 432543
+      },
+      "content_length": 432543,
+      "audited_at": "2026-07-02T11:38:44.013336+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bukit-jalil",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.224,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.0586745",
+              "longitude": "101.6917068"
+            },
+            "url": "https://citiesabc.com/city/bukit-jalil",
+            "name": "Bukit Jalil",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/13_Bukit_Jalil_7a44b45457.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "322,511 (2020)",
+            "postalCode": "57000",
+            "description": "Bukit Jalil is an affluent suburb in Kuala Lumpur, known for the National Sports Complex built for the 1998 Commonwealth Games. It has developed into a residential and commercial hub with high-rise and landed properties.",
+            "alternateName": [
+              "Bukit Jalil Estate"
+            ],
+            "governmentType": "Federal administration with local government (under Kuala Lumpur City Hall)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bukit-jalil",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bukit-jalil",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bukit Jalil is an affluent Kuala Lumpur suburb, a bustling residential & commercial hub with the National Sports Complex. Discover its tech innovation and well-connected transport. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/13_Bukit_Jalil_7a44b45457.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bukit Jalil Guide: Sports, Technology & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2306"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4100"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bukit Jalil Guide: Sports, Technology & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bukit-jalil"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5cae06d99ed445c68c8b7aa9d830669f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bukit Jalil Guide: Sports, Technology & Student Life",
+            "og:description": "Bukit Jalil is an affluent Kuala Lumpur suburb, a bustling residential & commercial hub with the National Sports Complex. Discover its tech innovation and well-connected transport. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/bukit-jalil",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/13_Bukit_Jalil_7a44b45457.jpg",
+            "og:image:width": "4100",
+            "og:image:height": "2306",
+            "og:image:alt": "Bukit Jalil Guide: Sports, Technology & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 422689
+      },
+      "content_length": 422689,
+      "audited_at": "2026-07-02T11:38:52.230014+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/ipoh",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.619,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "4.6005126",
+              "longitude": "101.0757837"
+            },
+            "url": "https://citiesabc.com/city/ipoh",
+            "name": "Ipoh",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/12_Ipoh_f2209e40a3.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "759,952 (2020)",
+            "postalCode": "30xxx, 31xxx",
+            "description": "Ipoh is the capital of Perak, Malaysia, known for its British colonial architecture, culinary scene, and limestone hills with cave temples. A crucial land transportation hub in West Malaysia.",
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/ipoh",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/ipoh",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ipoh, the capital of Perak, known for its colonial architecture, vibrant food scene, and stunning cave temples. An affordable city and crucial transport hub. Plan your trip."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/12_Ipoh_f2209e40a3.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ipoh Guide: Architecture, Food, Cave Temples & Transport"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "6000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ipoh Guide: Architecture, Food, Cave Temples & Transport"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/ipoh"
+              }
+            ]
+          },
+          {
+            "@id": "_:N27f90df94c9148a999ab315550072a65",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ipoh Guide: Architecture, Food, Cave Temples & Transport",
+            "og:description": "Discover Ipoh, the capital of Perak, known for its colonial architecture, vibrant food scene, and stunning cave temples. An affordable city and crucial transport hub. Plan your trip.",
+            "og:url": "https://citiesabc.com/city/ipoh",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/12_Ipoh_f2209e40a3.jpg",
+            "og:image:width": "6000",
+            "og:image:height": "4000",
+            "og:image:alt": "Ipoh Guide: Architecture, Food, Cave Temples & Transport",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 418572
+      },
+      "content_length": 418572,
+      "audited_at": "2026-07-02T11:38:52.662748+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kuala-terengganu",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.147,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.3303° N",
+              "longitude": "103.1408° E"
+            },
+            "url": "https://citiesabc.com/city/kuala-terengganu",
+            "name": "Kuala Terengganu",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/11_Kuala_Terengganu_2d035b4465.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "406,314 (2020)",
+            "postalCode": "20xxx, 21xxx",
+            "description": "Kuala Terengganu is the state capital of Terengganu, Malaysia. It's a coastal city known for its traditional architecture, vibrant markets, and proximity to beautiful islands.",
+            "alternateName": [
+              "KT"
+            ],
+            "governmentType": "City Council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kuala-terengganu",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kuala-terengganu",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Kuala Terengganu is a coastal Malaysian capital, known for traditional architecture, vibrant markets, and beautiful islands. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/11_Kuala_Terengganu_2d035b4465.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kuala Terengganu City Guide: Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2666"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kuala Terengganu City Guide: Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kuala-terengganu"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5b7ef660481c4b15827833d70c1a8805",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kuala Terengganu City Guide: Top Sights & Culture",
+            "og:description": "Kuala Terengganu is a coastal Malaysian capital, known for traditional architecture, vibrant markets, and beautiful islands. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/kuala-terengganu",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/11_Kuala_Terengganu_2d035b4465.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2666",
+            "og:image:alt": "Kuala Terengganu City Guide: Top Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 421006
+      },
+      "content_length": 421006,
+      "audited_at": "2026-07-02T11:38:52.286168+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/jeli",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.144,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.700699",
+              "longitude": "101.8431511"
+            },
+            "url": "https://citiesabc.com/city/jeli",
+            "name": "Jeli",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/10_Jeli_c61c5e3035.png"
+            ],
+            "@context": "https://schema.org",
+            "population": "56,800 (2023)",
+            "postalCode": "17600",
+            "description": "Jeli is a district in the western part of Kelantan, Malaysia, situated near the border with Perak and Thailand. Known for its lush natural landscapes, it serves as a gateway to the East Coast states and is characterized by its agricultural heritage, particularly rubber plantations, and a growing focus on educational development.",
+            "governmentType": "Local authority (Jeli District Council)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/jeli",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N9dd0b0edd5c44532a3ac68788c90ee0a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/jeli",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Jeli, western Kelantan's gateway to the East Coast. Known for lush natural landscapes, agricultural heritage & a growing education hub. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/10_Jeli_c61c5e3035.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Jeli, Kelantan Guide: Nature, Education & East Coast Gateway"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "360"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "640"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jeli, Kelantan Guide: Nature, Education & East Coast Gateway"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/jeli"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jeli, Kelantan Guide: Nature, Education & East Coast Gateway",
+            "og:description": "Discover Jeli, western Kelantan's gateway to the East Coast. Known for lush natural landscapes, agricultural heritage & a growing education hub. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/jeli",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/10_Jeli_c61c5e3035.png",
+            "og:image:width": "640",
+            "og:image:height": "360",
+            "og:image:alt": "Jeli, Kelantan Guide: Nature, Education & East Coast Gateway",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 436333
+      },
+      "content_length": 436333,
+      "audited_at": "2026-07-02T11:39:02.808781+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kuching",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.141,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "1.5533785",
+              "longitude": "110.359503"
+            },
+            "url": "https://citiesabc.com/city/kuching",
+            "name": "Kuching",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/09_Kuching_b55397a010.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "613,522 (2023)",
+            "postalCode": "93xxx",
+            "description": "Kuching, officially the City of Kuching, is the capital and most populous city in the state of Sarawak, Malaysia. Located on the island of Borneo along the Sarawak River, it serves as a major industrial and commercial hub in East Malaysia. Known as \"Cat City\" and a UNESCO Creative City of Gastronomy, it boasts a rich history, diverse culture, and numerous natural attractions.",
+            "alternateName": [
+              "City of Kuching",
+              "Cat City"
+            ],
+            "governmentType": "City council (administered by two separate local authorities, Kuching North City Hall and Kuching South City Council)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kuching",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7f44181da2214c4283776a3c37bb1aba",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kuching",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Kuching, Sarawak's capital and UNESCO Creative City of Gastronomy. Enjoy its rich history, diverse culture, and natural beauty. Visit today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/09_Kuching_b55397a010.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Explore Kuching: Sarawak's Capital, Cat City & Gastronomy"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Explore Kuching: Sarawak's Capital, Cat City & Gastronomy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kuching"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Explore Kuching: Sarawak's Capital, Cat City & Gastronomy",
+            "og:description": "Discover Kuching, Sarawak's capital and UNESCO Creative City of Gastronomy. Enjoy its rich history, diverse culture, and natural beauty. Visit today!",
+            "og:url": "https://citiesabc.com/city/kuching",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/09_Kuching_b55397a010.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "3000",
+            "og:image:alt": "Explore Kuching: Sarawak's Capital, Cat City & Gastronomy",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426765
+      },
+      "content_length": 426765,
+      "audited_at": "2026-07-02T11:39:00.206529+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kota-kinabalu",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 21.533,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.9843644",
+              "longitude": "116.077344"
+            },
+            "url": "https://citiesabc.com/city/kota-kinabalu",
+            "name": "Kota Kinabalu",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/08_Kota_Kinabalu_8c30e743f9.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "500,421 (2020)",
+            "postalCode": "88xxx, 89xxx",
+            "description": "Kota Kinabalu, often referred to as 'KK,' is the bustling capital city of Sabah, Malaysia, situated on the northwest coast of Borneo. It serves as a prominent gateway for tourists exploring the natural wonders of Sabah.",
+            "alternateName": [
+              "KK",
+              "Jesselton"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kota-kinabalu",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5527cf56d4eb4950be07b0ffafdc1e19",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kota-kinabalu",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Kota Kinabalu is Sabah, Malaysia's bustling capital and a major gateway to Borneo's natural wonders. With a population of 500,421, discover your adventure."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/08_Kota_Kinabalu_8c30e743f9.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kota Kinabalu City Guide: Borneo's Capital & Top Tourist Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2848"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4288"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kota Kinabalu City Guide: Borneo's Capital & Top Tourist Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kota-kinabalu"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kota Kinabalu City Guide: Borneo's Capital & Top Tourist Hub",
+            "og:description": "Kota Kinabalu is Sabah, Malaysia's bustling capital and a major gateway to Borneo's natural wonders. With a population of 500,421, discover your adventure.",
+            "og:url": "https://citiesabc.com/city/kota-kinabalu",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/08_Kota_Kinabalu_8c30e743f9.jpg",
+            "og:image:width": "4288",
+            "og:image:height": "2848",
+            "og:image:alt": "Kota Kinabalu City Guide: Borneo's Capital & Top Tourist Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423217
+      },
+      "content_length": 423217,
+      "audited_at": "2026-07-02T11:39:16.073031+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/nilai",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.589,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.802455",
+              "longitude": "101.7988711"
+            },
+            "url": "https://citiesabc.com/city/nilai",
+            "name": "Nilai",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/07_Nilai_794f4ffed2.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "38,612 (2010)",
+            "postalCode": "71800, 71807, 71809",
+            "description": "Nilai is a rapidly developing city in Negeri Sembilan, Malaysia, near Kuala Lumpur International Airport. It serves as an educational hub with universities and is a popular shopping destination, driven by its location and development initiatives.",
+            "governmentType": "City Council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/nilai",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na5ffa1b84f8d4f9884c49b8b343d7622",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/nilai",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Nilai is a rapidly developing city, an educational hub with universities, and a popular shopping destination. Located near KLIA, discover its vibrant culture. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/07_Nilai_794f4ffed2.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Nilai: Malaysia City Guide, Education Hub & Shopping"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1944"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2896"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Nilai: Malaysia City Guide, Education Hub & Shopping"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/nilai"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Nilai: Malaysia City Guide, Education Hub & Shopping",
+            "og:description": "Nilai is a rapidly developing city, an educational hub with universities, and a popular shopping destination. Located near KLIA, discover its vibrant culture. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/nilai",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/07_Nilai_794f4ffed2.jpg",
+            "og:image:width": "2896",
+            "og:image:height": "1944",
+            "og:image:alt": "Nilai: Malaysia City Guide, Education Hub & Shopping",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423302
+      },
+      "content_length": 423302,
+      "audited_at": "2026-07-02T11:39:24.423117+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/melaka-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.894,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.189594",
+              "longitude": "102.2500868"
+            },
+            "url": "https://citiesabc.com/city/melaka-city",
+            "name": "Melaka City",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/06_Melaka_City_a789f639af.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "579000 (2019)",
+            "postalCode": "75000, 75050, 75100, 75150, 75200, 75250, 75260, 75300, 75350, 75400, 75450, 75460, 75500-75596, 75600-75690, 75700-75760, 75900-75990, 76100-76450, 77000-77500, 78000-78309",
+            "description": "Melaka City, also known as Malacca City, is the historic capital of the Malaysian state of Malacca. Situated on the Strait of Malacca, it served as a vital trading hub for centuries, attracting diverse cultures. Its rich past under Malay sultanates and subsequent Portuguese, Dutch, and British colonial rule has endowed it with a unique multicultural heritage, evident in its architecture and traditions.",
+            "alternateName": [
+              "Malacca City"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/melaka-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/melaka-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Melaka City, a UNESCO World Heritage Site, rich with multicultural heritage from centuries of trade and colonial rule. Discover top sights & student life. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/06_Melaka_City_a789f639af.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Melaka City Guide: UNESCO Heritage, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1600"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2400"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Melaka City Guide: UNESCO Heritage, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/melaka-city"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc65586373c104abf98e8df5da6e3f9ca",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Melaka City Guide: UNESCO Heritage, Culture & Top Sights",
+            "og:description": "Explore Melaka City, a UNESCO World Heritage Site, rich with multicultural heritage from centuries of trade and colonial rule. Discover top sights & student life. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/melaka-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/06_Melaka_City_a789f639af.jpg",
+            "og:image:width": "2400",
+            "og:image:height": "1600",
+            "og:image:alt": "Melaka City Guide: UNESCO Heritage, Culture & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 431897
+      },
+      "content_length": 431897,
+      "audited_at": "2026-07-02T11:39:24.976664+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/putrajaya",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.567,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.926361",
+              "longitude": "101.696445"
+            },
+            "url": "https://citiesabc.com/city/putrajaya",
+            "name": "Putrajaya",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/05_Putrajaya_80b4e6102d.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "119,700 (Q1 2024)",
+            "postalCode": "62000, 62007, 62050, 62100, 62150, 62200, 62250, 62300, 62502, 62504, 62505, 62506, 62510, 62512, 62514, 62516, 62517, 62518, 62519, 62520",
+            "description": "Putrajaya, officially the Federal Territory of Putrajaya, is Malaysia's administrative and judicial capital. This modern, planned city is celebrated for its distinctive architecture, extensive green spaces, and a large man-made lake.",
+            "alternateName": [
+              "Federal Territory of Putrajaya"
+            ],
+            "governmentType": "Direct federal administration (Putrajaya Corporation)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/putrajaya",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/putrajaya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Putrajaya, Malaysia's administrative and judicial capital, is a modern 'Intelligent Garden City' with distinctive architecture, vast green spaces, and world-class infrastructure. Discover Putrajaya today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/05_Putrajaya_80b4e6102d.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Putrajaya - Malaysia's Federal Capital | Smart City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1348"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2400"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Putrajaya - Malaysia's Federal Capital | Smart City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/putrajaya"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4f4b66e4e4fd4618b68931feed3ff46b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Putrajaya - Malaysia's Federal Capital | Smart City Guide",
+            "og:description": "Putrajaya, Malaysia's administrative and judicial capital, is a modern 'Intelligent Garden City' with distinctive architecture, vast green spaces, and world-class infrastructure. Discover Putrajaya today!",
+            "og:url": "https://citiesabc.com/city/putrajaya",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/05_Putrajaya_80b4e6102d.jpg",
+            "og:image:width": "2400",
+            "og:image:height": "1348",
+            "og:image:alt": "Putrajaya - Malaysia's Federal Capital | Smart City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 435628
+      },
+      "content_length": 435628,
+      "audited_at": "2026-07-02T11:39:23.065263+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/miri",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 28.295,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "4.4179767",
+              "longitude": "114.0155348"
+            },
+            "url": "https://citiesabc.com/city/miri",
+            "name": "Miri",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/04_Miri_8e8d7b4a66.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "255,100 (2023)",
+            "postalCode": "98000, 98007, 98008, 98009",
+            "description": "Miri, a coastal city in north-eastern Sarawak, Malaysia, on Borneo, is the second-largest city in Sarawak. Known as the birthplace of the Malaysian petroleum industry, it has evolved into a vibrant resort city and a primary gateway to several renowned national parks, including the UNESCO World Heritage Site, Gunung Mulu National Park.",
+            "governmentType": "City Council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/miri",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nbb2389f9842d47c09f6b3f2860eeac7e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/miri",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Miri, Sarawak's second-largest city and birthplace of Malaysia's petroleum industry. It's a vibrant resort city & key eco-tourism gateway. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/04_Miri_8e8d7b4a66.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Miri City Guide: Resort City & Eco-Tourism Gateway"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1472"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2617"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Miri City Guide: Resort City & Eco-Tourism Gateway"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/miri"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Miri City Guide: Resort City & Eco-Tourism Gateway",
+            "og:description": "Explore Miri, Sarawak's second-largest city and birthplace of Malaysia's petroleum industry. It's a vibrant resort city & key eco-tourism gateway. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/miri",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/04_Miri_8e8d7b4a66.jpg",
+            "og:image:width": "2617",
+            "og:image:height": "1472",
+            "og:image:alt": "Miri City Guide: Resort City & Eco-Tourism Gateway",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 420862
+      },
+      "content_length": 420862,
+      "audited_at": "2026-07-02T11:39:58.341804+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/seri-kembangan",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 46.447,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.021998",
+              "longitude": "101.7055411"
+            },
+            "url": "https://citiesabc.com/city/seri-kembangan",
+            "name": "Seri Kembangan",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/03_Seri_Kembangan_e591cd58ae.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "130,252 (2020)",
+            "postalCode": "43300",
+            "description": "Seri Kembangan, formerly Serdang New Village, is a town in Selangor, Malaysia, established in 1950. Situated between Kuala Lumpur and Putrajaya, it is a residential and commercial hub.",
+            "alternateName": [
+              "Serdang New Village"
+            ],
+            "governmentType": "Local council (Subang Jaya City Council) within a federal constitutional monarchy",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/seri-kembangan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N269722da74b34c9cb9ef3c618b8bc497",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/seri-kembangan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Seri Kembangan, a vibrant residential & commercial hub in Selangor. With 130,252 residents, it's well-connected by expressways & MRT. Discover your guide!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/03_Seri_Kembangan_e591cd58ae.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Seri Kembangan: Selangor's Residential & Commercial Hub Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Seri Kembangan: Selangor's Residential & Commercial Hub Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/seri-kembangan"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Seri Kembangan: Selangor's Residential & Commercial Hub Guide",
+            "og:description": "Explore Seri Kembangan, a vibrant residential & commercial hub in Selangor. With 130,252 residents, it's well-connected by expressways & MRT. Discover your guide!",
+            "og:url": "https://citiesabc.com/city/seri-kembangan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/03_Seri_Kembangan_e591cd58ae.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "3000",
+            "og:image:alt": "Seri Kembangan: Selangor's Residential & Commercial Hub Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 437129
+      },
+      "content_length": 437129,
+      "audited_at": "2026-07-02T11:40:13.240951+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/tanjong-malim",
+      "score": 0,
+      "band": "critical",
+      "http_status": 0,
+      "error": "Timeout (10s)",
+      "score_breakdown": {},
+      "recommendations_count": 0,
+      "duration_seconds": 44.074,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.679539",
+              "longitude": "101.52027"
+            },
+            "url": "https://citiesabc.com/city/tanjong-malim",
+            "name": "Tanjong Malim",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "66103 (2020)",
+            "postalCode": "35xxx, 35900, 35910",
+            "description": "Tanjong Malim is a town in Perak, Malaysia, bordering Selangor. Once an agricultural hub, it's now a manufacturing and high-value services center, driven by the automotive industry and education.",
+            "alternateName": [
+              "Tanjung Malim"
+            ],
+            "governmentType": "District Council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/tanjong-malim",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N56f62066b81c44b68a46e492a45b4541",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/tanjong-malim",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Tanjong Malim, Perak – the Education Town, home to Universiti Pendidikan Sultan Idris (UPSI), and an emerging global automotive hub. Explore opportunities, plan your visit, and find essential services in this dynamic Malaysian town."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Tanjong Malim Guide: Education, Automotive & Services Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/tanjong-malim"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Tanjong Malim Guide: Education, Automotive & Services Hub",
+            "og:description": "Discover Tanjong Malim, Perak – the Education Town, home to Universiti Pendidikan Sultan Idris (UPSI), and an emerging global automotive hub. Explore opportunities, plan your visit, and find essential services in this dynamic Malaysian town.",
+            "og:url": "https://citiesabc.com/city/tanjong-malim",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 425580
+      },
+      "content_length": 425580,
+      "audited_at": "2026-07-02T11:40:10.744545+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kajang",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.287,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.9933226",
+              "longitude": "101.7877607"
+            },
+            "url": "https://citiesabc.com/city/kajang",
+            "name": "Kajang",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/01_Kajang_715ebe9efb.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,047,356 (2020)",
+            "postalCode": "43000, 43007, 43009, 43100, 43200, 43500, 43558, 43600, 43650, 43700, 56000",
+            "description": "Kajang is a vibrant city in Selangor, Malaysia, known as \"Satay Town\" for its famous satay. As a residential and administrative hub near Kuala Lumpur, Kajang blends historical roots with modern urban development.",
+            "alternateName": [
+              "Satay Town"
+            ],
+            "governmentType": "Municipal Council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kajang",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N9d0f86a0ae3b4588b35e696939aad4bb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kajang",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Kajang, Malaysia's \"Satay Town,\" a vibrant hub known for its delicious satay, over 1 million residents, and excellent transport. Start exploring!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/01_Kajang_715ebe9efb.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Explore Kajang: Malaysia's Satay Town, Education & Transport Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Explore Kajang: Malaysia's Satay Town, Education & Transport Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kajang"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Explore Kajang: Malaysia's Satay Town, Education & Transport Hub",
+            "og:description": "Discover Kajang, Malaysia's \"Satay Town,\" a vibrant hub known for its delicious satay, over 1 million residents, and excellent transport. Start exploring!",
+            "og:url": "https://citiesabc.com/city/kajang",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/01_Kajang_715ebe9efb.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1280",
+            "og:image:alt": "Explore Kajang: Malaysia's Satay Town, Education & Transport Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 427367
+      },
+      "content_length": 427367,
+      "audited_at": "2026-07-02T11:40:24.739177+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/thanh-hoa-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 18.916,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "19.806692",
+              "longitude": "105.7851816"
+            },
+            "url": "https://citiesabc.com/city/thanh-hoa-city",
+            "name": "Thanh Hoa City",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/09_Thanh_Hoa_City_ec0aa8d995.png"
+            ],
+            "@context": "https://schema.org",
+            "population": "850000 (2024)",
+            "postalCode": "440000",
+            "description": "Thanh Hoa City is the capital of Thanh Hoa Province in Vietnam's North Central Coast region, approximately 150 km south of Hanoi. As a historical, economic, and cultural hub, it serves as a crucial crossroads. The city has undergone significant development and rebuilding, emphasizing its vital role within the province and the broader North Central Coast, combining a rich history with modern aspirations.",
+            "governmentType": "Provincial city",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/thanh-hoa-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N99e9a501bdc94f679e6b35d0584414bb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/thanh-hoa-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Thanh Hoa City, capital of Thanh Hoa Province, is a historical, economic, and cultural hub in Vietnam. Discover this dynamic city of 850,000 residents! Start your journey!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/09_Thanh_Hoa_City_ec0aa8d995.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thanh Hoa City Guide: History, Economy & Culture Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "768"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1366"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thanh Hoa City Guide: History, Economy & Culture Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/thanh-hoa-city"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thanh Hoa City Guide: History, Economy & Culture Hub",
+            "og:description": "Thanh Hoa City, capital of Thanh Hoa Province, is a historical, economic, and cultural hub in Vietnam. Discover this dynamic city of 850,000 residents! Start your journey!",
+            "og:url": "https://citiesabc.com/city/thanh-hoa-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/09_Thanh_Hoa_City_ec0aa8d995.png",
+            "og:image:width": "1366",
+            "og:image:height": "768",
+            "og:image:alt": "Thanh Hoa City Guide: History, Economy & Culture Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 433101
+      },
+      "content_length": 433101,
+      "audited_at": "2026-07-02T11:40:34.556653+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/haiphong",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 19.329,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "20.8449115",
+              "longitude": "106.6880841"
+            },
+            "url": "https://citiesabc.com/city/haiphong",
+            "name": "Haiphong",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/08_Haiphong_a3451f20cb.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "4,660,000 (2025)",
+            "postalCode": "04xxx–05xxx",
+            "description": "Haiphong is a major port city in northern Vietnam and a key economic, industrial, and cultural center. Known as the \"City of Red Flamboyant Trees,\" it offers a blend of historical significance and modern development. It serves as a vital gateway to popular tourist destinations such as Cat Ba Island and Lan Ha Bay.",
+            "alternateName": [
+              "Hải Phòng"
+            ],
+            "governmentType": "Centrally-controlled Municipality",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/haiphong",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/haiphong",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Haiphong, Vietnam's third-largest city and major port. Known as the \"City of Red Flamboyant Trees,\" it's a gateway to Cat Ba Island and Lan Ha Bay. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/08_Haiphong_a3451f20cb.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Haiphong: Vietnam's Port City, Red Flamboyant Trees & Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "797"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Haiphong: Vietnam's Port City, Red Flamboyant Trees & Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/haiphong"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc7f4a5a5b0c543a3991e4d6fcc7725b1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Haiphong: Vietnam's Port City, Red Flamboyant Trees & Guide",
+            "og:description": "Explore Haiphong, Vietnam's third-largest city and major port. Known as the \"City of Red Flamboyant Trees,\" it's a gateway to Cat Ba Island and Lan Ha Bay. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/haiphong",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/08_Haiphong_a3451f20cb.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "797",
+            "og:image:alt": "Haiphong: Vietnam's Port City, Red Flamboyant Trees & Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428873
+      },
+      "content_length": 428873,
+      "audited_at": "2026-07-02T11:40:36.448330+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/nha-trang-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.813,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "12.2529152",
+              "longitude": "109.1899018"
+            },
+            "url": "https://citiesabc.com/city/nha-trang-city",
+            "name": "Nha Trang City",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/07_Nha_Trang_City_f70f0fd1d0.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "579000 (2023)",
+            "postalCode": "625080",
+            "description": "Nha Trang is a coastal city and the capital of Khánh Hòa Province on the South Central Coast of Vietnam. Renowned for its pristine beaches, vibrant diving spots, and marine research institutions, Nha Trang Bay is celebrated as one of the world's most beautiful bays. It serves as a significant tourist and economic hub.",
+            "alternateName": [
+              "Kauthara"
+            ],
+            "governmentType": "Provincial city within a Socialist Republic",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/nha-trang-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na6a88282b66b410c8b0e66f7ddc67279",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/nha-trang-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Nha Trang City is a coastal gem renowned for pristine beaches, vibrant diving, and a beautiful bay. Discover its rich history, marine science, and affordable student life. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/07_Nha_Trang_City_f70f0fd1d0.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Nha Trang City Guide: Beaches, Sights & Marine Science"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Nha Trang City Guide: Beaches, Sights & Marine Science"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/nha-trang-city"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Nha Trang City Guide: Beaches, Sights & Marine Science",
+            "og:description": "Nha Trang City is a coastal gem renowned for pristine beaches, vibrant diving, and a beautiful bay. Discover its rich history, marine science, and affordable student life. Explore now!",
+            "og:url": "https://citiesabc.com/city/nha-trang-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/07_Nha_Trang_City_f70f0fd1d0.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1280",
+            "og:image:alt": "Nha Trang City Guide: Beaches, Sights & Marine Science",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 419791
+      },
+      "content_length": 419791,
+      "audited_at": "2026-07-02T11:40:45.245510+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/hue",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.845,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "16.4637117",
+              "longitude": "107.5908628"
+            },
+            "url": "https://citiesabc.com/city/hue",
+            "name": "Hue",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/06_Hue_0b13d58817.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,380,000 (2024)",
+            "postalCode": "530000",
+            "description": "Hue, located in central Vietnam, served as the imperial capital of the Nguyễn dynasty from 1802 to 1945. Renowned for its rich history, cultural heritage, and elegant architecture, it is home to a UNESCO World Heritage Site.",
+            "alternateName": [
+              "Huế"
+            ],
+            "governmentType": "Direct-controlled municipality",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/hue",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc55d5aa697104c7b8915a2107a523cad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/hue",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Hue, Vietnam's former imperial capital (1802-1945) and a UNESCO World Heritage Site, boasts rich history, elegant architecture, and vibrant cuisine. Explore its charm."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/06_Hue_0b13d58817.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hue: Imperial Capital of Vietnam & UNESCO World Heritage Site"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1185"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1919"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hue: Imperial Capital of Vietnam & UNESCO World Heritage Site"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/hue"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hue: Imperial Capital of Vietnam & UNESCO World Heritage Site",
+            "og:description": "Hue, Vietnam's former imperial capital (1802-1945) and a UNESCO World Heritage Site, boasts rich history, elegant architecture, and vibrant cuisine. Explore its charm.",
+            "og:url": "https://citiesabc.com/city/hue",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/06_Hue_0b13d58817.jpg",
+            "og:image:width": "1919",
+            "og:image:height": "1185",
+            "og:image:alt": "Hue: Imperial Capital of Vietnam & UNESCO World Heritage Site",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 421725
+      },
+      "content_length": 421725,
+      "audited_at": "2026-07-02T11:40:45.405369+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/quy-nhon",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.033,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "13.7829673",
+              "longitude": "109.2196634"
+            },
+            "url": "https://citiesabc.com/city/quy-nhon",
+            "name": "Quy Nhon",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/05_Quy_Nhon_d20e54a4df.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "481,110 (2022)",
+            "postalCode": "55100-55199",
+            "description": "Quy Nhon is a coastal city in central Vietnam, now the capital of Gia Lai province (formerly Binh Dinh province). Its diverse topography includes mountains, forests, and a 42-kilometer coastline with sandy beaches. Historically an agricultural and fishing hub, the city's economy is increasingly driven by service industries, tourism, and manufacturing. It is recognized as a key geo-economic and tourism center in the region.",
+            "alternateName": [
+              "Quy Nhơn"
+            ],
+            "governmentType": "Provincial city (Class-1)",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/quy-nhon",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4767102e2c2c4e4c8e3c8cdd29c77a11",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/quy-nhon",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Quy Nhon, a coastal city in Vietnam featuring a 42-km coastline & sandy beaches. It's a key tourism hub with low living costs. Start exploring!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/05_Quy_Nhon_d20e54a4df.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Quy Nhon Guide: Vietnam Coastal City & Key Tourism Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1297"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Quy Nhon Guide: Vietnam Coastal City & Key Tourism Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/quy-nhon"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Quy Nhon Guide: Vietnam Coastal City & Key Tourism Hub",
+            "og:description": "Discover Quy Nhon, a coastal city in Vietnam featuring a 42-km coastline & sandy beaches. It's a key tourism hub with low living costs. Start exploring!",
+            "og:url": "https://citiesabc.com/city/quy-nhon",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/05_Quy_Nhon_d20e54a4df.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1297",
+            "og:image:alt": "Quy Nhon Guide: Vietnam Coastal City & Key Tourism Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423991
+      },
+      "content_length": 423991,
+      "audited_at": "2026-07-02T11:40:45.627823+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/thai-nguyen-city",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.778,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "21.5671559",
+              "longitude": "105.8252038"
+            },
+            "url": "https://citiesabc.com/city/thai-nguyen-city",
+            "name": "Thai Nguyen City",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/04_Thai_Nguyen_City_c4a2d21cdf.png"
+            ],
+            "@context": "https://schema.org",
+            "population": "420,000 (2018)",
+            "postalCode": "250000",
+            "description": "Thai Nguyen is the capital of Thái Nguyên Province in Vietnam. It's known for Tân Cương tea, Vietnam's first steel mill, and a major regional university complex, serving as a vital economic and educational hub.",
+            "alternateName": [
+              "Thái Nguyên"
+            ],
+            "governmentType": "Provincial city within a Socialist Republic",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/thai-nguyen-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/thai-nguyen-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Thai Nguyen City, a first-class city of 420,000, is an economic and education hub, famed for Tân C??ng tea. Discover more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/04_Thai_Nguyen_City_c4a2d21cdf.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thai Nguyen City: Economic & Education Hub | Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "831"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1517"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thai Nguyen City: Economic & Education Hub | Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/thai-nguyen-city"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1b76bab125c349919f582298e2170882",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thai Nguyen City: Economic & Education Hub | Guide",
+            "og:description": "Thai Nguyen City, a first-class city of 420,000, is an economic and education hub, famed for Tân C??ng tea. Discover more!",
+            "og:url": "https://citiesabc.com/city/thai-nguyen-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/04_Thai_Nguyen_City_c4a2d21cdf.png",
+            "og:image:width": "1517",
+            "og:image:height": "831",
+            "og:image:alt": "Thai Nguyen City: Economic & Education Hub | Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 432050
+      },
+      "content_length": 432050,
+      "audited_at": "2026-07-02T11:40:54.062775+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/can-tho",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.779,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "10.0451618",
+              "longitude": "105.7468535"
+            },
+            "url": "https://citiesabc.com/city/can-tho",
+            "name": "Can Tho",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/03_Can_Tho_be4a523cbb.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "2007500 (2025)",
+            "postalCode": "94xxx",
+            "description": "Can Tho is the largest city in Vietnam's Mekong Delta region, renowned for its vibrant floating markets, traditional rice paper-making villages, and scenic rural canals. Serving as a crucial commercial and economic center, the city embodies the rich cultural heritage and riverine lifestyle of the Mekong Delta.",
+            "alternateName": [
+              "Western Metropolis",
+              "Tây Đô"
+            ],
+            "governmentType": "Municipality (Class-1)",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/can-tho",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na2d64018a0d84e3797446c00b1965ca9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/can-tho",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Can Tho, the largest city in Vietnam's Mekong Delta, boasts vibrant floating markets & scenic canals. Discover its rich culture, economic hub status, and affordable charm. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/03_Can_Tho_be4a523cbb.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Can Tho Guide: Vietnam's Mekong Delta & Floating Markets"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2250"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Can Tho Guide: Vietnam's Mekong Delta & Floating Markets"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/can-tho"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Can Tho Guide: Vietnam's Mekong Delta & Floating Markets",
+            "og:description": "Can Tho, the largest city in Vietnam's Mekong Delta, boasts vibrant floating markets & scenic canals. Discover its rich culture, economic hub status, and affordable charm. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/can-tho",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/03_Can_Tho_be4a523cbb.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2250",
+            "og:image:alt": "Can Tho Guide: Vietnam's Mekong Delta & Floating Markets",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423458
+      },
+      "content_length": 423458,
+      "audited_at": "2026-07-02T11:40:54.261590+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/vinh",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 1,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.91,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "18.67641",
+              "longitude": "105.6768446"
+            },
+            "url": "https://citiesabc.com/city/vinh",
+            "name": "Vinh",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/02_Vinh_20a699253a.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "790,000 (2024)",
+            "postalCode": "460000",
+            "description": "Vinh is the capital of Nghệ An province and an economic and cultural center of North-Central Vietnam. It is a key point in the East–West economic corridor and a major transportation hub, accessible by highway, railroad, boat, and air.",
+            "alternateName": [
+              "Ke Van",
+              "Ke Vinh",
+              "Vinh Thi"
+            ],
+            "governmentType": "Provincial city (Class-1)",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/vinh",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na6331fa2dc98404d98036b446740ab1b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/vinh",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Vinh, Ngh? An's capital, a key economic and transport hub in North-Central Vietnam. It's also a major educational center with affordable living. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/02_Vinh_20a699253a.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vinh: Capital of Ngh? An, Transport & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1440"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vinh: Capital of Ngh? An, Transport & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/vinh"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vinh: Capital of Ngh? An, Transport & Economic Hub",
+            "og:description": "Discover Vinh, Ngh? An's capital, a key economic and transport hub in North-Central Vietnam. It's also a major educational center with affordable living. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/vinh",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/02_Vinh_20a699253a.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1440",
+            "og:image:alt": "Vinh: Capital of Ngh? An, Transport & Economic Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 427592
+      },
+      "content_length": 427592,
+      "audited_at": "2026-07-02T11:40:53.098936+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/dalat",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.803,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "11.9404192",
+              "longitude": "108.4583132"
+            },
+            "url": "https://citiesabc.com/city/dalat",
+            "name": "Dalat",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/01_Dalat_91fcc2c247.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "258,014 (2022)",
+            "postalCode": "670000, 671640, 671300",
+            "description": "Dalat is the capital of Lâm Đồng Province, Vietnam, nestled in the Central Highlands. Known for its mild, temperate climate and lush landscapes, it is often called the \"City of Eternal Spring.\" The city features charming French colonial architecture.",
+            "alternateName": [
+              "Da Lat",
+              "Đà Lạt",
+              "City of Eternal Spring",
+              "Little Paris"
+            ],
+            "governmentType": "Provincial city (Class-1) with People's Committee",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/dalat",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ncb6cf6bafd9245b1b054d0ce1106ea75",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/dalat",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Dalat, the 'City of Eternal Spring' in Vietnam's Central Highlands. Explore charming French colonial architecture and lush landscapes. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/01_Dalat_91fcc2c247.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Dalat Guide: City of Eternal Spring, French Architecture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Dalat Guide: City of Eternal Spring, French Architecture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/dalat"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Dalat Guide: City of Eternal Spring, French Architecture",
+            "og:description": "Discover Dalat, the 'City of Eternal Spring' in Vietnam's Central Highlands. Explore charming French colonial architecture and lush landscapes. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/dalat",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/01_Dalat_91fcc2c247.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1280",
+            "og:image:alt": "Dalat Guide: City of Eternal Spring, French Architecture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 422599
+      },
+      "content_length": 422599,
+      "audited_at": "2026-07-02T11:41:02.707219+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/da-nang",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.309,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "16.0544068",
+              "longitude": "108.2021667"
+            },
+            "url": "https://citiesabc.com/city/da-nang",
+            "name": "Da Nang",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/00_Da_Nang_77328c5cc9.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,286,000 (2025)",
+            "postalCode": "50xxx",
+            "description": "Da Nang is a vital port city in Vietnam, known for beaches and infrastructure. It is near UNESCO sites like Hoi An and My Son, making it a significant tourist destination.",
+            "alternateName": [
+              "Cửa Hàn",
+              "Tourane"
+            ],
+            "governmentType": "Municipality (Class-1) under a unitary Marxist–Leninist one-party socialist republic",
+            "containedInPlace": {
+              "name": "Vietnam",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/da-nang",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (UTC+07:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Vietnamese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+84"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/da-nang",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Da Nang, Vietnam's vibrant port city known for beautiful beaches and proximity to UNESCO sites. A rapidly developing hub with budget-friendly student living. Start your adventure!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/00_Da_Nang_77328c5cc9.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Da Nang City Guide: Beaches, UNESCO Sites & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1281"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Da Nang City Guide: Beaches, UNESCO Sites & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/da-nang"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8153605254ef49e299b550c3e87d97aa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Da Nang City Guide: Beaches, UNESCO Sites & Student Life",
+            "og:description": "Discover Da Nang, Vietnam's vibrant port city known for beautiful beaches and proximity to UNESCO sites. A rapidly developing hub with budget-friendly student living. Start your adventure!",
+            "og:url": "https://citiesabc.com/city/da-nang",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/00_Da_Nang_77328c5cc9.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1281",
+            "og:image:alt": "Da Nang City Guide: Beaches, UNESCO Sites & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428180
+      },
+      "content_length": 428180,
+      "audited_at": "2026-07-02T11:41:02.443641+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/ajman",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.851,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.3995° N",
+              "longitude": "55.4796° E"
+            },
+            "url": "https://citiesabc.com/city/ajman",
+            "name": "Ajman",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/ff89d5829bd8b3c2070fa86084a636c2_71022bd907.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "423,929 (2025)",
+            "postalCode": "00000",
+            "description": "Ajman is the capital of the Emirate of Ajman in the UAE, known for its coastal location along the Arabian Gulf.",
+            "governmentType": "Monarchy",
+            "containedInPlace": {
+              "name": "United Arab Emirates",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/ajman",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC+4 (UAE Standard Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/ajman",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ajman, the UAE's coastal capital, ranked 2nd safest city globally in 2025. Explore its growing tourism, eco-friendly transport, and vibrant culture. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/ff89d5829bd8b3c2070fa86084a636c2_71022bd907.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ajman: UAE Capital, Coastal Gem, 2nd Safest City 2025"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "900"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1480"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ajman: UAE Capital, Coastal Gem, 2nd Safest City 2025"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/ajman"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8de86eafc0e34ec780692741f67cc61b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ajman: UAE Capital, Coastal Gem, 2nd Safest City 2025",
+            "og:description": "Discover Ajman, the UAE's coastal capital, ranked 2nd safest city globally in 2025. Explore its growing tourism, eco-friendly transport, and vibrant culture. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/ajman",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/ff89d5829bd8b3c2070fa86084a636c2_71022bd907.jpg",
+            "og:image:width": "1480",
+            "og:image:height": "900",
+            "og:image:alt": "Ajman: UAE Capital, Coastal Gem, 2nd Safest City 2025",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 403465
+      },
+      "content_length": 403465,
+      "audited_at": "2026-07-02T11:41:00.411761+00:00"
     }
   ],
   "crawl_stats": {
