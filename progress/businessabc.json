@@ -2,7 +2,7 @@
   "site_name": "businessabc",
   "sitemap_url": "https://businessabc.net/sitemap.xml",
   "created_at": "2026-07-02T11:26:32.812798+00:00",
-  "last_update": "2026-07-02T12:29:31.411918+00:00",
+  "last_update": "2026-07-02T12:32:31.855591+00:00",
   "status": "in_progress",
   "urls": [
     "https://businessabc.net",
@@ -10606,7 +10606,37 @@
     "https://businessabc.net/wiki/compass-group",
     "https://businessabc.net/wiki/lonza",
     "https://businessabc.net/wiki/maersk",
-    "https://businessabc.net/wiki/msci"
+    "https://businessabc.net/wiki/msci",
+    "https://businessabc.net/wiki/ferrari",
+    "https://businessabc.net/wiki/lloyds-banking-group",
+    "https://businessabc.net/wiki/banco-bradesco",
+    "https://businessabc.net/wiki/trane-technologies",
+    "https://businessabc.net/wiki/intesa-sanpaolo",
+    "https://businessabc.net/wiki/ing",
+    "https://businessabc.net/wiki/munich-re-munchener-ruck",
+    "https://businessabc.net/wiki/tokio-marine",
+    "https://businessabc.net/wiki/nordea-bank",
+    "https://businessabc.net/wiki/vodafone",
+    "https://businessabc.net/wiki/biontech",
+    "https://businessabc.net/wiki/wesfarmers",
+    "https://businessabc.net/wiki/maruti-suzuki-india",
+    "https://businessabc.net/wiki/bank-of-china-hong-kong",
+    "https://businessabc.net/wiki/sun_hung_kai_properties",
+    "https://businessabc.net/wiki/hyundai",
+    "https://businessabc.net/wiki/xiaomi",
+    "https://businessabc.net/wiki/welltower",
+    "https://businessabc.net/wiki/manulife-financial",
+    "https://businessabc.net/wiki/wuxi-apptec",
+    "https://businessabc.net/wiki/jiangsu-hengrui-medicine",
+    "https://businessabc.net/wiki/anta-sports",
+    "https://businessabc.net/wiki/uob",
+    "https://businessabc.net/wiki/barclays",
+    "https://businessabc.net/wiki/engie",
+    "https://businessabc.net/wiki/naspers",
+    "https://businessabc.net/wiki/singtel",
+    "https://businessabc.net/wiki/eversource-energy",
+    "https://businessabc.net/wiki/great_wall_motors",
+    "https://businessabc.net/wiki/imperial-oil"
   ],
   "results": [
     {
@@ -66612,6 +66642,2796 @@
       },
       "content_length": 156660,
       "audited_at": "2026-07-02T12:29:31.370899+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/ferrari",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.255,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Ferrari",
+            "description": "Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy.",
+            "url": "https://businessabc.net/wiki/ferrari"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N9a9311d5e2854d1980ff49457d5af3b0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/ferrari",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ferrari"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/ferrari"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ferrari",
+            "og:description": "Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy.",
+            "og:url": "https://businessabc.net/wiki/ferrari",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172317
+      },
+      "content_length": 172317,
+      "audited_at": "2026-07-02T12:29:49.110407+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/lloyds-banking-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.253,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Lloyds Banking Group",
+            "description": "",
+            "url": "https://businessabc.net/wiki/lloyds-banking-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/lloyds-banking-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Lloyds Banking Group on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Lloyds Banking Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/lloyds-banking-group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfd14c3e6973148ac8dbf7799d733de59",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Lloyds Banking Group",
+            "og:description": "Learn more about Lloyds Banking Group on citiesabc",
+            "og:url": "https://businessabc.net/wiki/lloyds-banking-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171179
+      },
+      "content_length": 171179,
+      "audited_at": "2026-07-02T12:29:49.147814+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/banco-bradesco",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.082,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Banco Bradesco",
+            "description": "",
+            "url": "https://businessabc.net/wiki/banco-bradesco"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/banco-bradesco",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Banco Bradesco on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Banco Bradesco"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/banco-bradesco"
+              }
+            ]
+          },
+          {
+            "@id": "_:N305be0c7cbd143209103d2db323d9a78",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Banco Bradesco",
+            "og:description": "Learn more about Banco Bradesco on citiesabc",
+            "og:url": "https://businessabc.net/wiki/banco-bradesco",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157240
+      },
+      "content_length": 157240,
+      "audited_at": "2026-07-02T12:29:57.326913+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/trane-technologies",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.324,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Trane Technologies",
+            "description": "",
+            "url": "https://businessabc.net/wiki/trane-technologies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/trane-technologies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Trane Technologies on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Trane Technologies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/trane-technologies"
+              }
+            ]
+          },
+          {
+            "@id": "_:N87a02e8553f84702937cc2691126c841",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Trane Technologies",
+            "og:description": "Learn more about Trane Technologies on citiesabc",
+            "og:url": "https://businessabc.net/wiki/trane-technologies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168845
+      },
+      "content_length": 168845,
+      "audited_at": "2026-07-02T12:29:57.538035+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/intesa-sanpaolo",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.339,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Intesa Sanpaolo",
+            "description": "",
+            "url": "https://businessabc.net/wiki/intesa-sanpaolo"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nade5d0d07f4441a88f8d211ed0b47dab",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/intesa-sanpaolo",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Intesa Sanpaolo on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Intesa Sanpaolo"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/intesa-sanpaolo"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Intesa Sanpaolo",
+            "og:description": "Learn more about Intesa Sanpaolo on citiesabc",
+            "og:url": "https://businessabc.net/wiki/intesa-sanpaolo",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 182355
+      },
+      "content_length": 182355,
+      "audited_at": "2026-07-02T12:30:05.928905+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/ing",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.143,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "ING",
+            "description": "",
+            "url": "https://businessabc.net/wiki/ing"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N45a33112d3604041bf6cfbdbcc606adb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/ing",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about ING on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ING"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/ing"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ING",
+            "og:description": "Learn more about ING on citiesabc",
+            "og:url": "https://businessabc.net/wiki/ing",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 170019
+      },
+      "content_length": 170019,
+      "audited_at": "2026-07-02T12:30:05.789783+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/munich-re-munchener-ruck",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.24,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Munich RE (Münchener Rück)",
+            "description": "",
+            "url": "https://businessabc.net/wiki/munich-re-munchener-ruck"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/munich-re-munchener-ruck",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Munich RE (Münchener Rück) on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Munich RE (Münchener Rück)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/munich-re-munchener-ruck"
+              }
+            ]
+          },
+          {
+            "@id": "_:N591825e6c0bb41ca857abafa7fa7753e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Munich RE (Münchener Rück)",
+            "og:description": "Learn more about Munich RE (Münchener Rück) on citiesabc",
+            "og:url": "https://businessabc.net/wiki/munich-re-munchener-ruck",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166110
+      },
+      "content_length": 166110,
+      "audited_at": "2026-07-02T12:30:15.364760+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/tokio-marine",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.081,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Tokio Marine",
+            "description": "",
+            "url": "https://businessabc.net/wiki/tokio-marine"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/tokio-marine",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Tokio Marine on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Tokio Marine"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/tokio-marine"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfefc31224e1d4e3387a912ea1204deec",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Tokio Marine",
+            "og:description": "Learn more about Tokio Marine on citiesabc",
+            "og:url": "https://businessabc.net/wiki/tokio-marine",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153190
+      },
+      "content_length": 153190,
+      "audited_at": "2026-07-02T12:30:15.589838+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/nordea-bank",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 25.893,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Nordea Bank",
+            "description": "",
+            "url": "https://businessabc.net/wiki/nordea-bank"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/nordea-bank",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Nordea Bank on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Nordea Bank"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/nordea-bank"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8f1f1f9dd57e46c58a5c03a04ed10b43",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Nordea Bank",
+            "og:description": "Learn more about Nordea Bank on citiesabc",
+            "og:url": "https://businessabc.net/wiki/nordea-bank",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163709
+      },
+      "content_length": 163709,
+      "audited_at": "2026-07-02T12:30:42.629202+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/vodafone",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 26.027,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Vodafone",
+            "description": "",
+            "url": "https://businessabc.net/wiki/vodafone"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N362f6d2b076f476fa774cd19d5c89f3a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/vodafone",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Vodafone on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vodafone"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/vodafone"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vodafone",
+            "og:description": "Learn more about Vodafone on citiesabc",
+            "og:url": "https://businessabc.net/wiki/vodafone",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169435
+      },
+      "content_length": 169435,
+      "audited_at": "2026-07-02T12:30:42.667948+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/biontech",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.694,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "BioNTech",
+            "description": "",
+            "url": "https://businessabc.net/wiki/biontech"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/biontech",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about BioNTech on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BioNTech"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/biontech"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb856f82a113f4798ad50008b09368b10",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BioNTech",
+            "og:description": "Learn more about BioNTech on citiesabc",
+            "og:url": "https://businessabc.net/wiki/biontech",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162928
+      },
+      "content_length": 162928,
+      "audited_at": "2026-07-02T12:30:51.477920+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/wesfarmers",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.295,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Wesfarmers",
+            "description": "Australian conglomerate operating in retail, chemical, fertiliser, industrial and safety products.",
+            "url": "https://businessabc.net/wiki/wesfarmers"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1e603ada1dcc4347abfe21a5aa9de69c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/wesfarmers",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Australian conglomerate operating in retail, chemical, fertiliser, industrial and safety products."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Wesfarmers"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/wesfarmers"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Wesfarmers",
+            "og:description": "Australian conglomerate operating in retail, chemical, fertiliser, industrial and safety products.",
+            "og:url": "https://businessabc.net/wiki/wesfarmers",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172493
+      },
+      "content_length": 172493,
+      "audited_at": "2026-07-02T12:30:52.067620+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/maruti-suzuki-india",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.465,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Maruti Suzuki India",
+            "description": "",
+            "url": "https://businessabc.net/wiki/maruti-suzuki-india"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N522510c0f75b449b85f2f50134b5edcb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/maruti-suzuki-india",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Maruti Suzuki India on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Maruti Suzuki India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/maruti-suzuki-india"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Maruti Suzuki India",
+            "og:description": "Learn more about Maruti Suzuki India on citiesabc",
+            "og:url": "https://businessabc.net/wiki/maruti-suzuki-india",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160964
+      },
+      "content_length": 160964,
+      "audited_at": "2026-07-02T12:31:00.586406+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/bank-of-china-hong-kong",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.463,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Bank of China (Hong Kong)",
+            "description": "Bank of China is a state-owned commercial bank and one of the big four banks in the People's Republic of China.",
+            "url": "https://businessabc.net/wiki/bank-of-china-hong-kong"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/bank-of-china-hong-kong",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bank of China is a state-owned commercial bank and one of the big four banks in the People's Republic of China."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bank of China (Hong Kong)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/bank-of-china-hong-kong"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ned08034f86f041c0b799776e46f6bdb6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bank of China (Hong Kong)",
+            "og:description": "Bank of China is a state-owned commercial bank and one of the big four banks in the People's Republic of China.",
+            "og:url": "https://businessabc.net/wiki/bank-of-china-hong-kong",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173533
+      },
+      "content_length": 173533,
+      "audited_at": "2026-07-02T12:31:00.733927+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sun_hung_kai_properties",
+      "score": 58,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.458,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sun Hung Kai Properties",
+            "description": "",
+            "url": "https://businessabc.net/wiki/sun_hung_kai_properties"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/sun_hung_kai_properties",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Sun Hung Kai Properties on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sun Hung Kai Properties"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sun_hung_kai_properties"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8663009ea3224791834736ca1c8bbdb6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sun Hung Kai Properties",
+            "og:description": "Learn more about Sun Hung Kai Properties on citiesabc",
+            "og:url": "https://businessabc.net/wiki/sun_hung_kai_properties",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166634
+      },
+      "content_length": 166634,
+      "audited_at": "2026-07-02T12:31:09.270889+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/hyundai",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.388,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Hyundai",
+            "description": "",
+            "url": "https://businessabc.net/wiki/hyundai"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne7bb015816584376ab13f924c0dd8de7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/hyundai",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Hyundai on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hyundai"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/hyundai"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hyundai",
+            "og:description": "Learn more about Hyundai on citiesabc",
+            "og:url": "https://businessabc.net/wiki/hyundai",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171164
+      },
+      "content_length": 171164,
+      "audited_at": "2026-07-02T12:31:09.231875+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/xiaomi",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.994,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Xiaomi",
+            "description": "Xiaomi is a Chinese multinational corporation and technology company headquartered in Beijing, China.",
+            "url": "https://businessabc.net/wiki/xiaomi"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0e390661d68f4a72b9ded982a76d5f10",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/xiaomi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Xiaomi is a Chinese multinational corporation and technology company headquartered in Beijing, China."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Xiaomi"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/xiaomi"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Xiaomi",
+            "og:description": "Xiaomi is a Chinese multinational corporation and technology company headquartered in Beijing, China.",
+            "og:url": "https://businessabc.net/wiki/xiaomi",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 181185
+      },
+      "content_length": 181185,
+      "audited_at": "2026-07-02T12:31:17.353429+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/welltower",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.873,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Welltower",
+            "description": "",
+            "url": "https://businessabc.net/wiki/welltower"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8d785de818fb45c79b02c0f00e68782d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/welltower",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Welltower on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Welltower"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/welltower"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Welltower",
+            "og:description": "Learn more about Welltower on citiesabc",
+            "og:url": "https://businessabc.net/wiki/welltower",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167106
+      },
+      "content_length": 167106,
+      "audited_at": "2026-07-02T12:31:16.971662+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/manulife-financial",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.542,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Manulife Financial",
+            "description": "Canadian multinational insurance company and financial services provider.",
+            "url": "https://businessabc.net/wiki/manulife-financial"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8cbdc705ee9148ea8e4a40888fdf95e9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/manulife-financial",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Canadian multinational insurance company and financial services provider."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Manulife Financial"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/manulife-financial"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Manulife Financial",
+            "og:description": "Canadian multinational insurance company and financial services provider.",
+            "og:url": "https://businessabc.net/wiki/manulife-financial",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168321
+      },
+      "content_length": 168321,
+      "audited_at": "2026-07-02T12:31:26.968871+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/wuxi-apptec",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.351,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "WuXi AppTec",
+            "description": "A broad portfolio of R&D and manufacturing services",
+            "url": "https://businessabc.net/wiki/wuxi-apptec"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nffb7442cc0e044ff849492165dfdc76a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/wuxi-apptec",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A broad portfolio of R&D and manufacturing services"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "WuXi AppTec"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/wuxi-apptec"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "WuXi AppTec",
+            "og:description": "A broad portfolio of R&D and manufacturing services",
+            "og:url": "https://businessabc.net/wiki/wuxi-apptec",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168079
+      },
+      "content_length": 168079,
+      "audited_at": "2026-07-02T12:31:27.825404+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/jiangsu-hengrui-medicine",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.328,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Jiangsu Hengrui Medicine",
+            "description": "",
+            "url": "https://businessabc.net/wiki/jiangsu-hengrui-medicine"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3943740302584f05a0917e3b34b29008",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/jiangsu-hengrui-medicine",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Jiangsu Hengrui Medicine on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jiangsu Hengrui Medicine"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/jiangsu-hengrui-medicine"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jiangsu Hengrui Medicine",
+            "og:description": "Learn more about Jiangsu Hengrui Medicine on citiesabc",
+            "og:url": "https://businessabc.net/wiki/jiangsu-hengrui-medicine",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155182
+      },
+      "content_length": 155182,
+      "audited_at": "2026-07-02T12:31:36.417523+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/anta-sports",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.284,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Anta Sports",
+            "description": "ANTA Sports has been engaging in the design, development, manufacturing and marketing of professional sports products.",
+            "url": "https://businessabc.net/wiki/anta-sports"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd87cb0a0d8784850979962921b4d11f9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/anta-sports",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "ANTA Sports has been engaging in the design, development, manufacturing and marketing of professional sports products."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Anta Sports"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/anta-sports"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Anta Sports",
+            "og:description": "ANTA Sports has been engaging in the design, development, manufacturing and marketing of professional sports products.",
+            "og:url": "https://businessabc.net/wiki/anta-sports",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 174769
+      },
+      "content_length": 174769,
+      "audited_at": "2026-07-02T12:31:36.378036+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/uob",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.46,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "UOB",
+            "description": "Leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America.",
+            "url": "https://businessabc.net/wiki/uob"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ncd2d85f3d4e9495d99303c1d3888239b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/uob",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "UOB"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/uob"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "UOB",
+            "og:description": "Leading bank in Asia with a global network of more than 500 branches and offices in 19 countries and territories in Asia Pacific, Europe and North America.",
+            "og:url": "https://businessabc.net/wiki/uob",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173350
+      },
+      "content_length": 173350,
+      "audited_at": "2026-07-02T12:31:47.850295+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/barclays",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.458,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Barclays",
+            "description": "Barclays PLC, through its subsidiaries, provides various financial products and services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia.",
+            "url": "https://businessabc.net/wiki/barclays"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne2a262caf2d4497eacb5900e4895a71d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/barclays",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Barclays PLC, through its subsidiaries, provides various financial products and services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Barclays"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/barclays"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Barclays",
+            "og:description": "Barclays PLC, through its subsidiaries, provides various financial products and services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia.",
+            "og:url": "https://businessabc.net/wiki/barclays",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 203005
+      },
+      "content_length": 203005,
+      "audited_at": "2026-07-02T12:31:47.905817+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/engie",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 21.536,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "ENGIE",
+            "description": "",
+            "url": "https://businessabc.net/wiki/engie"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/engie",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about ENGIE on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ENGIE"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/engie"
+              }
+            ]
+          },
+          {
+            "@id": "_:N95726065c13c4c10aa3df3c819670865",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ENGIE",
+            "og:description": "Learn more about ENGIE on citiesabc",
+            "og:url": "https://businessabc.net/wiki/engie",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173100
+      },
+      "content_length": 173100,
+      "audited_at": "2026-07-02T12:32:11.554650+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/naspers",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 21.677,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Naspers",
+            "description": "The largest publishing company in South Africa throughout the 20th century with interests across newspapers, magazines and books.",
+            "url": "https://businessabc.net/wiki/naspers"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N26a86a5ace3f47d997ce669c356bf837",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/naspers",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "The largest publishing company in South Africa throughout the 20th century with interests across newspapers, magazines and books."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Naspers"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/naspers"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Naspers",
+            "og:description": "The largest publishing company in South Africa throughout the 20th century with interests across newspapers, magazines and books.",
+            "og:url": "https://businessabc.net/wiki/naspers",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 182662
+      },
+      "content_length": 182662,
+      "audited_at": "2026-07-02T12:32:11.515219+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/singtel",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.098,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Singtel",
+            "description": "",
+            "url": "https://businessabc.net/wiki/singtel"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nefafad3863fb4bef9f015c3dd968a366",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/singtel",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Singtel on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Singtel"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/singtel"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Singtel",
+            "og:description": "Learn more about Singtel on citiesabc",
+            "og:url": "https://businessabc.net/wiki/singtel",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169179
+      },
+      "content_length": 169179,
+      "audited_at": "2026-07-02T12:32:20.581436+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/eversource-energy",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.525,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Eversource Energy",
+            "description": "",
+            "url": "https://businessabc.net/wiki/eversource-energy"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/eversource-energy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Eversource Energy on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Eversource Energy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/eversource-energy"
+              }
+            ]
+          },
+          {
+            "@id": "_:N341a755f628c46caa0f544ef8104bae6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Eversource Energy",
+            "og:description": "Learn more about Eversource Energy on citiesabc",
+            "og:url": "https://businessabc.net/wiki/eversource-energy",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164495
+      },
+      "content_length": 164495,
+      "audited_at": "2026-07-02T12:32:21.298004+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/great_wall_motors",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.288,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Great Wall Motors",
+            "description": "",
+            "url": "https://businessabc.net/wiki/great_wall_motors"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/great_wall_motors",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Great Wall Motors on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Great Wall Motors"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/great_wall_motors"
+              }
+            ]
+          },
+          {
+            "@id": "_:N848427859b584f138d35942e06e8a4fc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Great Wall Motors",
+            "og:description": "Learn more about Great Wall Motors on citiesabc",
+            "og:url": "https://businessabc.net/wiki/great_wall_motors",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162686
+      },
+      "content_length": 162686,
+      "audited_at": "2026-07-02T12:32:31.855301+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/imperial-oil",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.289,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Imperial Oil",
+            "description": "",
+            "url": "https://businessabc.net/wiki/imperial-oil"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf2a1af7cdcf94025a4c6d1eb3bf70fab",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/imperial-oil",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Imperial Oil on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Imperial Oil"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/imperial-oil"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Imperial Oil",
+            "og:description": "Learn more about Imperial Oil on citiesabc",
+            "og:url": "https://businessabc.net/wiki/imperial-oil",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172917
+      },
+      "content_length": 172917,
+      "audited_at": "2026-07-02T12:32:31.816025+00:00"
     }
   ],
   "crawl_stats": {
