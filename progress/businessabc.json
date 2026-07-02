@@ -2,7 +2,7 @@
   "site_name": "businessabc",
   "sitemap_url": "https://businessabc.net/sitemap.xml",
   "created_at": "2026-07-02T11:26:32.812798+00:00",
-  "last_update": "2026-07-02T12:04:15.552871+00:00",
+  "last_update": "2026-07-02T12:07:45.467512+00:00",
   "status": "in_progress",
   "urls": [
     "https://businessabc.net",
@@ -10366,7 +10366,37 @@
     "https://businessabc.net/wiki/occidental-petroleum",
     "https://businessabc.net/wiki/amphenol",
     "https://businessabc.net/wiki/oreilly-automotive",
-    "https://businessabc.net/wiki/paychex"
+    "https://businessabc.net/wiki/paychex",
+    "https://businessabc.net/wiki/enphase-energy",
+    "https://businessabc.net/wiki/valero-energy",
+    "https://businessabc.net/wiki/freeport_mcmoran",
+    "https://businessabc.net/wiki/bce",
+    "https://businessabc.net/wiki/kraft-heinz",
+    "https://businessabc.net/wiki/peugeot",
+    "https://businessabc.net/wiki/shopify",
+    "https://businessabc.net/wiki/eni",
+    "https://businessabc.net/wiki/sumitomo-mitsui-financial-group",
+    "https://businessabc.net/wiki/autozone",
+    "https://businessabc.net/wiki/xcel-energy",
+    "https://businessabc.net/wiki/kimberly_clark",
+    "https://businessabc.net/wiki/workday",
+    "https://businessabc.net/wiki/fortinet",
+    "https://businessabc.net/wiki/cintas",
+    "https://businessabc.net/wiki/williams-companies",
+    "https://businessabc.net/wiki/realty-income",
+    "https://businessabc.net/wiki/sysco",
+    "https://businessabc.net/wiki/hess",
+    "https://businessabc.net/wiki/agilent-technologies",
+    "https://businessabc.net/wiki/iqvia",
+    "https://businessabc.net/wiki/johnson_controls",
+    "https://businessabc.net/wiki/the-travelers-companies",
+    "https://businessabc.net/wiki/capital-one",
+    "https://businessabc.net/wiki/aflac",
+    "https://businessabc.net/wiki/waste_connections",
+    "https://businessabc.net/wiki/arista-networks",
+    "https://businessabc.net/wiki/simon-property-group",
+    "https://businessabc.net/wiki/hilton-worldwide",
+    "https://businessabc.net/wiki/hoya"
   ],
   "results": [
     {
@@ -44052,6 +44082,2796 @@
       },
       "content_length": 166058,
       "audited_at": "2026-07-02T12:04:15.552541+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/enphase-energy",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 21.338,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Enphase Energy",
+            "description": "An American energy technology company headquartered in Fremont, California that develops and manufactures solar micro-inverters, battery energy storage, and EV charging stations primarily for residential customers.",
+            "url": "https://businessabc.net/wiki/enphase-energy"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/enphase-energy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American energy technology company headquartered in Fremont, California that develops and manufactures solar micro-inverters, battery energy storage, and EV charging stations primarily for residential customers."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Enphase Energy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/enphase-energy"
+              }
+            ]
+          },
+          {
+            "@id": "_:N908a6090ba444b888a7a8b99252fb7b1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Enphase Energy",
+            "og:description": "An American energy technology company headquartered in Fremont, California that develops and manufactures solar micro-inverters, battery energy storage, and EV charging stations primarily for residential customers.",
+            "og:url": "https://businessabc.net/wiki/enphase-energy",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158409
+      },
+      "content_length": 158409,
+      "audited_at": "2026-07-02T12:04:44.116412+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/valero-energy",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 21.34,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Valero Energy",
+            "description": "A Fortune 500 international manufacturer and marketer of transportation fuels, other petrochemical products, and power.",
+            "url": "https://businessabc.net/wiki/valero-energy"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/valero-energy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A Fortune 500 international manufacturer and marketer of transportation fuels, other petrochemical products, and power."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Valero Energy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/valero-energy"
+              }
+            ]
+          },
+          {
+            "@id": "_:N91a91fce99804041bc8e13c7451990b5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Valero Energy",
+            "og:description": "A Fortune 500 international manufacturer and marketer of transportation fuels, other petrochemical products, and power.",
+            "og:url": "https://businessabc.net/wiki/valero-energy",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184867
+      },
+      "content_length": 184867,
+      "audited_at": "2026-07-02T12:04:44.265244+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/freeport_mcmoran",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.415,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Freeport-McMoRan",
+            "description": "An American mining company based in the Freeport-McMoRan Center, in Phoenix, Arizona. ",
+            "url": "https://businessabc.net/wiki/freeport_mcmoran"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1078dfc5d9c5456294cccbf10746d8ab",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/freeport_mcmoran",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American mining company based in the Freeport-McMoRan Center, in Phoenix, Arizona. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Freeport-McMoRan"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/freeport_mcmoran"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Freeport-McMoRan",
+            "og:description": "An American mining company based in the Freeport-McMoRan Center, in Phoenix, Arizona. ",
+            "og:url": "https://businessabc.net/wiki/freeport_mcmoran",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160568
+      },
+      "content_length": 160568,
+      "audited_at": "2026-07-02T12:04:53.788753+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/bce",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.506,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "BCE",
+            "description": "A full-service mechanical, electrical and fire protection engineering consulting firm.",
+            "url": "https://businessabc.net/wiki/bce"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6d32d385d4ee49a3a29a8e8fe4bc4f15",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/bce",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A full-service mechanical, electrical and fire protection engineering consulting firm."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BCE"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/bce"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BCE",
+            "og:description": "A full-service mechanical, electrical and fire protection engineering consulting firm.",
+            "og:url": "https://businessabc.net/wiki/bce",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156834
+      },
+      "content_length": 156834,
+      "audited_at": "2026-07-02T12:04:53.717351+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/kraft-heinz",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.391,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Kraft Heinz",
+            "description": "An American multinational food company formed by the merger of Kraft Foods and Heinz co-headquartered in Chicago and Pittsburgh.",
+            "url": "https://businessabc.net/wiki/kraft-heinz"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne9f1061c6bfb425cb116f393a8c673a8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/kraft-heinz",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational food company formed by the merger of Kraft Foods and Heinz co-headquartered in Chicago and Pittsburgh."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kraft Heinz"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/kraft-heinz"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kraft Heinz",
+            "og:description": "An American multinational food company formed by the merger of Kraft Foods and Heinz co-headquartered in Chicago and Pittsburgh.",
+            "og:url": "https://businessabc.net/wiki/kraft-heinz",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168136
+      },
+      "content_length": 168136,
+      "audited_at": "2026-07-02T12:05:03.259427+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/peugeot",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.623,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Peugeot",
+            "description": "A French brand of automobiles owned by Stellantis.",
+            "url": "https://businessabc.net/wiki/peugeot"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/peugeot",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A French brand of automobiles owned by Stellantis."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Peugeot"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/peugeot"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1abffa085a3a4fde803452d38fa04fcd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Peugeot",
+            "og:description": "A French brand of automobiles owned by Stellantis.",
+            "og:url": "https://businessabc.net/wiki/peugeot",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163469
+      },
+      "content_length": 163469,
+      "audited_at": "2026-07-02T12:05:03.758145+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/shopify",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.039,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Shopify",
+            "description": "A Canadian multinational e-commerce company headquartered in Ottawa, Ontario.",
+            "url": "https://businessabc.net/wiki/shopify"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N10706114b51b42c1bc3554701650ec37",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/shopify",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A Canadian multinational e-commerce company headquartered in Ottawa, Ontario."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Shopify"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/shopify"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Shopify",
+            "og:description": "A Canadian multinational e-commerce company headquartered in Ottawa, Ontario.",
+            "og:url": "https://businessabc.net/wiki/shopify",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172560
+      },
+      "content_length": 172560,
+      "audited_at": "2026-07-02T12:05:11.924945+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/eni",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.267,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "ENI",
+            "description": "An Italian multinational energy company headquartered in Rome. ",
+            "url": "https://businessabc.net/wiki/eni"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/eni",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An Italian multinational energy company headquartered in Rome. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ENI"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/eni"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne2bc70a65bd24215abb2502e3904f37f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ENI",
+            "og:description": "An Italian multinational energy company headquartered in Rome. ",
+            "og:url": "https://businessabc.net/wiki/eni",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172089
+      },
+      "content_length": 172089,
+      "audited_at": "2026-07-02T12:05:12.150270+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sumitomo-mitsui-financial-group",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.475,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sumitomo Mitsui Financial Group",
+            "description": "A Japanese multinational banking and financial services institution headquartered in Yurakucho, Chiyoda, Tokyo, Japan.",
+            "url": "https://businessabc.net/wiki/sumitomo-mitsui-financial-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N280053ee34814ace9fb52ac98f80c10c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/sumitomo-mitsui-financial-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A Japanese multinational banking and financial services institution headquartered in Yurakucho, Chiyoda, Tokyo, Japan."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sumitomo Mitsui Financial Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sumitomo-mitsui-financial-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sumitomo Mitsui Financial Group",
+            "og:description": "A Japanese multinational banking and financial services institution headquartered in Yurakucho, Chiyoda, Tokyo, Japan.",
+            "og:url": "https://businessabc.net/wiki/sumitomo-mitsui-financial-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171236
+      },
+      "content_length": 171236,
+      "audited_at": "2026-07-02T12:05:21.549868+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/autozone",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.477,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "AutoZone",
+            "description": "An American retailer of aftermarket automotive parts and accessories, the largest in the United States.",
+            "url": "https://businessabc.net/wiki/autozone"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/autozone",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American retailer of aftermarket automotive parts and accessories, the largest in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "AutoZone"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/autozone"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8e1e9beb4bc94b8094244d818245d76c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "AutoZone",
+            "og:description": "An American retailer of aftermarket automotive parts and accessories, the largest in the United States.",
+            "og:url": "https://businessabc.net/wiki/autozone",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184710
+      },
+      "content_length": 184710,
+      "audited_at": "2026-07-02T12:05:21.592707+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/xcel-energy",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.385,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Xcel Energy",
+            "description": "An American produces electric energy using coal, nuclear, natural gas, wind, hydro, biomass and solar sources. ",
+            "url": "https://businessabc.net/wiki/xcel-energy"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/xcel-energy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American produces electric energy using coal, nuclear, natural gas, wind, hydro, biomass and solar sources. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Xcel Energy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/xcel-energy"
+              }
+            ]
+          },
+          {
+            "@id": "_:N77073a4854c04885a967acb258e3b491",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Xcel Energy",
+            "og:description": "An American produces electric energy using coal, nuclear, natural gas, wind, hydro, biomass and solar sources. ",
+            "og:url": "https://businessabc.net/wiki/xcel-energy",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173019
+      },
+      "content_length": 173019,
+      "audited_at": "2026-07-02T12:05:30.095080+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/kimberly_clark",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.032,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Kimberly-Clark",
+            "description": "An American multinational personal care corporation that produces mostly paper-based consumer products.",
+            "url": "https://businessabc.net/wiki/kimberly_clark"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/kimberly_clark",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational personal care corporation that produces mostly paper-based consumer products."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kimberly-Clark"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/kimberly_clark"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6fac356e8a03433eafec36bedba378cd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kimberly-Clark",
+            "og:description": "An American multinational personal care corporation that produces mostly paper-based consumer products.",
+            "og:url": "https://businessabc.net/wiki/kimberly_clark",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 178105
+      },
+      "content_length": 178105,
+      "audited_at": "2026-07-02T12:05:29.726535+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/workday",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 19.008,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Workday",
+            "description": "Workday is a cloud software company providing finance, HR, planning, contracts, learning, and student systems in one platform for organisations worldwide.",
+            "url": "https://businessabc.net/wiki/workday"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nbeaa1f4158ea4c0ca2060bf9625c88fd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/workday",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Workday is a cloud software company providing finance, HR, planning, contracts, learning, and student systems in one platform for organisations worldwide."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Workday"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/workday"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Workday",
+            "og:description": "Workday is a cloud software company providing finance, HR, planning, contracts, learning, and student systems in one platform for organisations worldwide.",
+            "og:url": "https://businessabc.net/wiki/workday",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 191381
+      },
+      "content_length": 191381,
+      "audited_at": "2026-07-02T12:05:50.324378+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/fortinet",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 19.062,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Fortinet",
+            "description": "An American multinational corporation headquartered in Sunnyvale, California.",
+            "url": "https://businessabc.net/wiki/fortinet"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/fortinet",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational corporation headquartered in Sunnyvale, California."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Fortinet"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/fortinet"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf3f8fb778f324df585be77544ddc7c52",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Fortinet",
+            "og:description": "An American multinational corporation headquartered in Sunnyvale, California.",
+            "og:url": "https://businessabc.net/wiki/fortinet",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173697
+      },
+      "content_length": 173697,
+      "audited_at": "2026-07-02T12:05:50.238151+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/cintas",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.125,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Cintas",
+            "description": "An American corporation headquartered in Mason, Ohio.",
+            "url": "https://businessabc.net/wiki/cintas"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/cintas",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American corporation headquartered in Mason, Ohio."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Cintas"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/cintas"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5cd08bb1bd8448b091cd604dfdafb122",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Cintas",
+            "og:description": "An American corporation headquartered in Mason, Ohio.",
+            "og:url": "https://businessabc.net/wiki/cintas",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160055
+      },
+      "content_length": 160055,
+      "audited_at": "2026-07-02T12:05:59.700923+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/williams-companies",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.826,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Williams Companies",
+            "description": "An American energy company based in Tulsa, Oklahoma. Its core business is natural gas processing and transportation, with additional petroleum and electricity generation assets",
+            "url": "https://businessabc.net/wiki/williams-companies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nca288d20d73443a8a5a56388ac689992",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/williams-companies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American energy company based in Tulsa, Oklahoma. Its core business is natural gas processing and transportation, with additional petroleum and electricity generation assets"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Williams Companies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/williams-companies"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Williams Companies",
+            "og:description": "An American energy company based in Tulsa, Oklahoma. Its core business is natural gas processing and transportation, with additional petroleum and electricity generation assets",
+            "og:url": "https://businessabc.net/wiki/williams-companies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171105
+      },
+      "content_length": 171105,
+      "audited_at": "2026-07-02T12:05:58.510004+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/realty-income",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.912,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Realty Income",
+            "description": "A real estate investment trust that invests in free-standing, single-tenant commercial properties in the United States, Spain and the United Kingdom that are subject to NNN Leases.",
+            "url": "https://businessabc.net/wiki/realty-income"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ndd39f070a8714b0aadf1c4e4d5e01e7f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/realty-income",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A real estate investment trust that invests in free-standing, single-tenant commercial properties in the United States, Spain and the United Kingdom that are subject to NNN Leases."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Realty Income"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/realty-income"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Realty Income",
+            "og:description": "A real estate investment trust that invests in free-standing, single-tenant commercial properties in the United States, Spain and the United Kingdom that are subject to NNN Leases.",
+            "og:url": "https://businessabc.net/wiki/realty-income",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158602
+      },
+      "content_length": 158602,
+      "audited_at": "2026-07-02T12:06:10.900970+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sysco",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.209,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sysco",
+            "description": "The world's largest broadline food distributor; it has more than 600,000 clients in a wide array of fields.",
+            "url": "https://businessabc.net/wiki/sysco"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nef4b82cdbd564fe0a06ab3328121a59a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/sysco",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "The world's largest broadline food distributor; it has more than 600,000 clients in a wide array of fields."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sysco"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sysco"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sysco",
+            "og:description": "The world's largest broadline food distributor; it has more than 600,000 clients in a wide array of fields.",
+            "og:url": "https://businessabc.net/wiki/sysco",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167330
+      },
+      "content_length": 167330,
+      "audited_at": "2026-07-02T12:06:10.812600+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/hess",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.75,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Hess",
+            "description": "An American global independent energy company involved in the exploration and production of crude oil and natural gas.",
+            "url": "https://businessabc.net/wiki/hess"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/hess",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American global independent energy company involved in the exploration and production of crude oil and natural gas."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hess"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/hess"
+              }
+            ]
+          },
+          {
+            "@id": "_:N171f2db457624ccead374ac6b5ea7042",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hess",
+            "og:description": "An American global independent energy company involved in the exploration and production of crude oil and natural gas.",
+            "og:url": "https://businessabc.net/wiki/hess",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 174690
+      },
+      "content_length": 174690,
+      "audited_at": "2026-07-02T12:06:20.773476+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/agilent-technologies",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.863,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Agilent Technologies",
+            "description": "An American life sciences company that provides instruments, software, services, and consumables for the entire laboratory workflow. ",
+            "url": "https://businessabc.net/wiki/agilent-technologies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5212568e1a5c468fafbc3f49fd8c76ce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/agilent-technologies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American life sciences company that provides instruments, software, services, and consumables for the entire laboratory workflow. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Agilent Technologies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/agilent-technologies"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Agilent Technologies",
+            "og:description": "An American life sciences company that provides instruments, software, services, and consumables for the entire laboratory workflow. ",
+            "og:url": "https://businessabc.net/wiki/agilent-technologies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165952
+      },
+      "content_length": 165952,
+      "audited_at": "2026-07-02T12:06:20.819855+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/iqvia",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 19.364,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "IQVIA",
+            "description": "An American multinational company serving the combined industries of health information technology and clinical research.",
+            "url": "https://businessabc.net/wiki/iqvia"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/iqvia",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational company serving the combined industries of health information technology and clinical research."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "IQVIA"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/iqvia"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd0e7918c1cfd4fdba95d9d842e85e95b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "IQVIA",
+            "og:description": "An American multinational company serving the combined industries of health information technology and clinical research.",
+            "og:url": "https://businessabc.net/wiki/iqvia",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160347
+      },
+      "content_length": 160347,
+      "audited_at": "2026-07-02T12:06:40.998483+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/johnson_controls",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 19.335,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Johnson Controls",
+            "description": "An American Irish-domiciled multinational conglomerate headquartered in Cork, Ireland, that produces fire, HVAC, and security equipment for buildings. ",
+            "url": "https://businessabc.net/wiki/johnson_controls"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/johnson_controls",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American Irish-domiciled multinational conglomerate headquartered in Cork, Ireland, that produces fire, HVAC, and security equipment for buildings. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Johnson Controls"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/johnson_controls"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc1eaf697414b4f5e8d7821ff4972be58",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Johnson Controls",
+            "og:description": "An American Irish-domiciled multinational conglomerate headquartered in Cork, Ireland, that produces fire, HVAC, and security equipment for buildings. ",
+            "og:url": "https://businessabc.net/wiki/johnson_controls",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167162
+      },
+      "content_length": 167162,
+      "audited_at": "2026-07-02T12:06:41.322831+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/the-travelers-companies",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 36.803,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "The Travelers Companies",
+            "description": "An American insurance company. It is the second-largest writer of U.S. commercial property casualty insurance, and the sixth-largest writer of U.S. personal insurance through independent agents.",
+            "url": "https://businessabc.net/wiki/the-travelers-companies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/the-travelers-companies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American insurance company. It is the second-largest writer of U.S. commercial property casualty insurance, and the sixth-largest writer of U.S. personal insurance through independent agents."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The Travelers Companies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/the-travelers-companies"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0c63fa197ec04846a0e0d42b06587438",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The Travelers Companies",
+            "og:description": "An American insurance company. It is the second-largest writer of U.S. commercial property casualty insurance, and the sixth-largest writer of U.S. personal insurance through independent agents.",
+            "og:url": "https://businessabc.net/wiki/the-travelers-companies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 196827
+      },
+      "content_length": 196827,
+      "audited_at": "2026-07-02T12:07:19.220118+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/capital-one",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.681,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Capital One",
+            "description": "An American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States.",
+            "url": "https://businessabc.net/wiki/capital-one"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N2db4e33c14ee4a0984c8fe4f7c94d4ea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/capital-one",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Capital One"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/capital-one"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Capital One",
+            "og:description": "An American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States.",
+            "og:url": "https://businessabc.net/wiki/capital-one",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169266
+      },
+      "content_length": 169266,
+      "audited_at": "2026-07-02T12:06:52.098406+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/aflac",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.228,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Aflac",
+            "description": "An American insurance company and is the largest provider of supplemental insurance in the United States.",
+            "url": "https://businessabc.net/wiki/aflac"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/aflac",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American insurance company and is the largest provider of supplemental insurance in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Aflac"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/aflac"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3866f6df5815488fbd081c162850f9de",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Aflac",
+            "og:description": "An American insurance company and is the largest provider of supplemental insurance in the United States.",
+            "og:url": "https://businessabc.net/wiki/aflac",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 176244
+      },
+      "content_length": 176244,
+      "audited_at": "2026-07-02T12:07:27.522698+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/waste_connections",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.226,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Waste Connections",
+            "description": "A North American integrated waste services company that provides waste collection, transfer, disposal and recycling services, primarily of solid waste. ",
+            "url": "https://businessabc.net/wiki/waste_connections"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N58591a4d243f4949af0c35174a29b728",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/waste_connections",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A North American integrated waste services company that provides waste collection, transfer, disposal and recycling services, primarily of solid waste. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Waste Connections"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/waste_connections"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Waste Connections",
+            "og:description": "A North American integrated waste services company that provides waste collection, transfer, disposal and recycling services, primarily of solid waste. ",
+            "og:url": "https://businessabc.net/wiki/waste_connections",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162720
+      },
+      "content_length": 162720,
+      "audited_at": "2026-07-02T12:07:27.432837+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/arista-networks",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.125,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Arista Networks",
+            "description": "an American computer networking company headquartered in Santa Clara, California.",
+            "url": "https://businessabc.net/wiki/arista-networks"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nedffcbfd2139420db973a5be469927ad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/arista-networks",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "an American computer networking company headquartered in Santa Clara, California."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Arista Networks"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/arista-networks"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Arista Networks",
+            "og:description": "an American computer networking company headquartered in Santa Clara, California.",
+            "og:url": "https://businessabc.net/wiki/arista-networks",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160527
+      },
+      "content_length": 160527,
+      "audited_at": "2026-07-02T12:07:36.717692+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/simon-property-group",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.599,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Simon Property Group",
+            "description": "An American real estate investment trust that invests in shopping malls, outlet centers, and community/lifestyle centers.",
+            "url": "https://businessabc.net/wiki/simon-property-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/simon-property-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American real estate investment trust that invests in shopping malls, outlet centers, and community/lifestyle centers."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Simon Property Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/simon-property-group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nde9452ce5229414aa25b0a704ef7879a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Simon Property Group",
+            "og:description": "An American real estate investment trust that invests in shopping malls, outlet centers, and community/lifestyle centers.",
+            "og:url": "https://businessabc.net/wiki/simon-property-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166610
+      },
+      "content_length": 166610,
+      "audited_at": "2026-07-02T12:07:37.219605+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/hilton-worldwide",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.092,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Hilton Worldwide",
+            "description": "An American multinational hospitality company that manages and franchises a broad portfolio of hotels and resorts.",
+            "url": "https://businessabc.net/wiki/hilton-worldwide"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N69fd26110d0847d293842643ba3f70c9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/hilton-worldwide",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational hospitality company that manages and franchises a broad portfolio of hotels and resorts."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hilton Worldwide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/hilton-worldwide"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hilton Worldwide",
+            "og:description": "An American multinational hospitality company that manages and franchises a broad portfolio of hotels and resorts.",
+            "og:url": "https://businessabc.net/wiki/hilton-worldwide",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169786
+      },
+      "content_length": 169786,
+      "audited_at": "2026-07-02T12:07:45.429619+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/hoya",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.089,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Hoya",
+            "description": "Japanese company manufacturing optical products such as photomasks, photomask blanks and hard disk drive platters, contact lenses and eyeglass lenses for the health-care market, medical photonics, lasers, photographic filters, medical flexible endoscopy equipment, and software",
+            "url": "https://businessabc.net/wiki/hoya"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/hoya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Japanese company manufacturing optical products such as photomasks, photomask blanks and hard disk drive platters, contact lenses and eyeglass lenses for the health-care market, medical photonics, lasers, photographic filters, medical flexible endoscopy equipment, and software"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hoya"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/hoya"
+              }
+            ]
+          },
+          {
+            "@id": "_:N24336a51ebef4fdb98c04c4e4baff353",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hoya",
+            "og:description": "Japanese company manufacturing optical products such as photomasks, photomask blanks and hard disk drive platters, contact lenses and eyeglass lenses for the health-care market, medical photonics, lasers, photographic filters, medical flexible endoscopy equipment, and software",
+            "og:url": "https://businessabc.net/wiki/hoya",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163772
+      },
+      "content_length": 163772,
+      "audited_at": "2026-07-02T12:07:45.467232+00:00"
     }
   ],
   "crawl_stats": {
