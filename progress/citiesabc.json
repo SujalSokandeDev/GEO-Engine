@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:47:41.614887+00:00",
+  "last_update": "2026-07-02T11:48:52.345431+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -938,7 +938,37 @@
     "https://citiesabc.com/wiki/hanoi-university",
     "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-agriculture-and-forestry",
     "https://citiesabc.com/wiki/hanoi-university-of-civil-engineering",
-    "https://citiesabc.com/wiki/nha-trang-university"
+    "https://citiesabc.com/wiki/nha-trang-university",
+    "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+    "https://citiesabc.com/wiki/vietnam-maritime-university",
+    "https://citiesabc.com/wiki/hanoi-university-of-industry",
+    "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+    "https://citiesabc.com/wiki/saigon-university",
+    "https://citiesabc.com/wiki/vnu-university-of-science",
+    "https://citiesabc.com/wiki/fpt-university",
+    "https://citiesabc.com/wiki/hanoi-architectural-university",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+    "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+    "https://citiesabc.com/wiki/dalat-university",
+    "https://citiesabc.com/wiki/hue-university",
+    "https://citiesabc.com/wiki/hong-duc-university",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+    "https://citiesabc.com/wiki/thai-nguyen-university",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+    "https://citiesabc.com/wiki/thuongmai-university",
+    "https://citiesabc.com/wiki/the-university-of-danang",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+    "https://citiesabc.com/wiki/van-lang-university",
+    "https://citiesabc.com/wiki/hanoi-law-university",
+    "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+    "https://citiesabc.com/wiki/university-of-information-technology",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+    "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+    "https://citiesabc.com/wiki/hanoi-university-of-culture",
+    "https://citiesabc.com/wiki/quy-nhon-university"
   ],
   "results": [
     {
@@ -65949,6 +65979,4747 @@
       },
       "content_length": 153047,
       "audited_at": "2026-07-02T11:47:41.100040+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.502,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Vietnam_National_University_of_Agriculture_e392228a91.png",
+            "name": "Vietnam National University of Agriculture",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://eng.vnua.edu.vn/",
+              "https://www.facebook.com/p/Vietnam-National-University-of-Agriculture-100057614012851/",
+              "https://www.linkedin.com/company/vietnam-national-university-of-agriculture",
+              "https://www.instagram.com/explore/locations/1008874577/vietnam-national-university-of-agriculture/",
+              "https://crafs.vnua.edu.vn/en/video/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2W4J+2PC, Ng. 86 Đ. Trâu Quỳ, Trâu Quỳ, Gia Lâm, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://eng.vnua.edu.vn/",
+                "name": "Vietnam National University of Agriculture",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.0050533",
+                "longitude": "105.9317643"
+              },
+              "@type": "Place"
+            },
+            "description": "Vietnam National University of Agriculture (VNUA) is a key national university in Hanoi, specializing in human resource training and scientific research in agriculture and rural development.",
+            "foundingDate": "1956-10-12",
+            "alternateName": [
+              "VNUA"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Vietnam National University of Agriculture, a key institution established in 1956, specializing in agriculture and rural development."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Vietnam_National_University_of_Agriculture_e392228a91.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vietnam National University of Agriculture | Established..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "94"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "533"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vietnam National University of Agriculture | Established..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6064a624594545a4a30341cbc7be2957",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vietnam National University of Agriculture | Established...",
+            "og:description": "Discover Vietnam National University of Agriculture, a key institution established in 1956, specializing in agriculture and rural development.",
+            "og:url": "https://citiesabc.com/wiki/vietnam-national-university-of-agriculture",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Vietnam_National_University_of_Agriculture_e392228a91.png",
+            "og:image:width": "533",
+            "og:image:height": "94",
+            "og:image:alt": "Vietnam National University of Agriculture | Established...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158290
+      },
+      "content_length": 158290,
+      "audited_at": "2026-07-02T11:47:49.561910+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/vietnam-maritime-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.499,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/vietnam-maritime-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Vietnam_Maritime_University_8caad17869.png",
+            "name": "Vietnam Maritime University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://eng.vimaru.edu.vn/",
+              "https://www.facebook.com/vimaruvietnam/",
+              "https://www.linkedin.com/school/vietnam-maritime-university/",
+              "https://www.youtube.com/@daihochanghaivietnam.official/about"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "484 Lạch Tray, Đổng Quốc Bình, Lê Chân, Hải Phòng, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Haiphong"
+            },
+            "hasPart": [
+              {
+                "url": "https://eng.vimaru.edu.vn/",
+                "name": "Vietnam Maritime University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Haiphong"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.8372141",
+                "longitude": "106.6947903"
+              },
+              "@type": "Place"
+            },
+            "description": "Vietnam Maritime University is a leading public institution in Haiphong, specializing in maritime education and research.",
+            "foundingDate": "1956-04-01",
+            "alternateName": [
+              "VMU",
+              "Haiphong Maritime University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/vietnam-maritime-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/vietnam-maritime-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Vietnam Maritime University, established in 1956, offering specialized maritime and engineering courses in Haiphong."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Vietnam_Maritime_University_8caad17869.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vietnam Maritime University - Established 1956"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "567"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "569"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vietnam Maritime University - Established 1956"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/vietnam-maritime-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6d5d2883b05f4b07a099c5680ff5d4dd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vietnam Maritime University - Established 1956",
+            "og:description": "Discover Vietnam Maritime University, established in 1956, offering specialized maritime and engineering courses in Haiphong.",
+            "og:url": "https://citiesabc.com/wiki/vietnam-maritime-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Vietnam_Maritime_University_8caad17869.png",
+            "og:image:width": "569",
+            "og:image:height": "567",
+            "og:image:alt": "Vietnam Maritime University - Established 1956",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 151596
+      },
+      "content_length": 151596,
+      "audited_at": "2026-07-02T11:47:49.490355+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hanoi-university-of-industry",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.226,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hanoi-university-of-industry",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hanoi_University_of_Industry_1db3dd5af2.png",
+            "name": "Hanoi University of Industry",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.haui.edu.vn/en",
+              "https://www.facebook.com/tuyensinh.haui",
+              "https://www.linkedin.com/school/dhcnhn/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 298 Đ. Cầu Diễn, Minh Khai, Bắc Từ Liêm, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.haui.edu.vn/en",
+                "name": "Hanoi University of Industry",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.053731",
+                "longitude": "105.7351068"
+              },
+              "@type": "Place"
+            },
+            "description": "Hanoi University of Industry (HaUI) is a public technical university in Hanoi, Vietnam, renowned for its strong tradition in engineering and economics education.",
+            "foundingDate": "1898",
+            "alternateName": [
+              "HaUI"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hanoi-university-of-industry",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/hanoi-university-of-industry",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hanoi University of Industry, a public technical university founded in 1898. Learn about its extensive programs and student life."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Industry_1db3dd5af2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hanoi University of Industry - Established 1898"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "121"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "417"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hanoi University of Industry - Established 1898"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hanoi-university-of-industry"
+              }
+            ]
+          },
+          {
+            "@id": "_:N09c3b90dcf5d4a4baae9ec33f61b7409",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hanoi University of Industry - Established 1898",
+            "og:description": "Discover Hanoi University of Industry, a public technical university founded in 1898. Learn about its extensive programs and student life.",
+            "og:url": "https://citiesabc.com/wiki/hanoi-university-of-industry",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Industry_1db3dd5af2.png",
+            "og:image:width": "417",
+            "og:image:height": "121",
+            "og:image:alt": "Hanoi University of Industry - Established 1898",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158133
+      },
+      "content_length": 158133,
+      "audited_at": "2026-07-02T11:47:49.529506+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.739,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Medicine_and_Pharmacy_at_Ho_Chi_Minh_City_137abfaa8e.png",
+            "name": "University of Medicine and Pharmacy at Ho Chi Minh City",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://ump.edu.vn/",
+              "https://www.facebook.com/ump.edu.vn/",
+              "https://www.linkedin.com/company/university-of-medicine-and-pharmacy-at-ho-chi-minh-city-ump",
+              "https://www.instagram.com/explore/locations/305814529756453/university-of-medicine-and-pharmacy-ho-chi-minh-city/",
+              "https://www.youtube.com/@daihoc-yduochcm"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "217 Đ. Hồng Bàng, Phường 11, Quận 5, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://ump.edu.vn/",
+                "name": "University of Medicine and Pharmacy at Ho Chi Minh City",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7552477",
+                "longitude": "106.6629332"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Medicine and Pharmacy at Ho Chi Minh City is a leading Vietnamese institution for medical and pharmaceutical education, offering a wide range of graduate and postgraduate programs.",
+            "foundingDate": "1947",
+            "alternateName": [
+              "UMP"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5442842024cd43f4a3f71d19bed48e41",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Medicine and Pharmacy at Ho Chi Minh City, a leading institution established in 1947. Learn more about its programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Medicine_and_Pharmacy_at_Ho_Chi_Minh_City_137abfaa8e.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Medicine and Pharmacy at Ho Chi Minh City -..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Medicine and Pharmacy at Ho Chi Minh City -..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Medicine and Pharmacy at Ho Chi Minh City -...",
+            "og:description": "Discover the University of Medicine and Pharmacy at Ho Chi Minh City, a leading institution established in 1947. Learn more about its programs.",
+            "og:url": "https://citiesabc.com/wiki/university-of-medicine-and-pharmacy-at-ho-chi-minh-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Medicine_and_Pharmacy_at_Ho_Chi_Minh_City_137abfaa8e.png",
+            "og:image:width": "225",
+            "og:image:height": "225",
+            "og:image:alt": "University of Medicine and Pharmacy at Ho Chi Minh City -...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157981
+      },
+      "content_length": 157981,
+      "audited_at": "2026-07-02T11:47:55.495319+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/saigon-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.738,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/saigon-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Saigon_University_75bd3b3cc5.jpg",
+            "name": "Saigon University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.sgu.edu.vn",
+              "https://m.facebook.com/103958636308233/",
+              "https://www.linkedin.com/company/saigon-university-official",
+              "https://www.instagram.com/explore/locations/349104611/saigon-university/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "273 An Duong Vuong, Ward 3, District 5, Ho Chi Minh City, 700000 Southeast Region, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.sgu.edu.vn",
+                "name": "Saigon University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7599171",
+                "longitude": "106.6822583"
+              },
+              "@type": "Place"
+            },
+            "description": "Saigon University is a public, non-profit higher education institution in Ho Chi Minh City, Vietnam, offering diverse programs across various disciplines.",
+            "foundingDate": "2007-04-25",
+            "alternateName": [
+              "SGU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/saigon-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N037ca9b61b004dcdbcd53d0aa8a17a9d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/saigon-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Saigon University, a public higher education institution established in 2007 in Ho Chi Minh City, Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Saigon_University_75bd3b3cc5.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Saigon University - Ho Chi Minh City"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Saigon University - Ho Chi Minh City"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/saigon-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Saigon University - Ho Chi Minh City",
+            "og:description": "Discover Saigon University, a public higher education institution established in 2007 in Ho Chi Minh City, Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/saigon-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Saigon_University_75bd3b3cc5.jpg",
+            "og:image:width": "200",
+            "og:image:height": "200",
+            "og:image:alt": "Saigon University - Ho Chi Minh City",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155246
+      },
+      "content_length": 155246,
+      "audited_at": "2026-07-02T11:47:55.463126+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/vnu-university-of-science",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.944,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/vnu-university-of-science",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/VNU_University_of_Science_Hanoi_082246fa71.jpg",
+            "name": "VNU University of Science",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "www.hus.vnu.edu.vn",
+              "https://www.facebook.com/HanoiUniversityofScience/",
+              "https://www.linkedin.com/company/hanoi-university-of-science/",
+              "https://www.youtube.com/channel/UCqfWZ7NnAoRjFyTBiT2lh4w"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "334 Đ. Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "www.hus.vnu.edu.vn",
+                "name": "VNU University of Science",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.9958722",
+                "longitude": "105.8079772"
+              },
+              "@type": "Place"
+            },
+            "description": "VNU University of Science is a leading public university in Hanoi, Vietnam, specializing in natural sciences and technology.",
+            "foundingDate": "1993",
+            "alternateName": [
+              "VNU-HUS",
+              "Hanoi University of Science"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/vnu-university-of-science",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/vnu-university-of-science",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover VNU University of Science, established in 1993. Learn about its academic offerings and contributions to science and technology."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/VNU_University_of_Science_Hanoi_082246fa71.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "VNU University of Science | Established 1993"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "604"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "470"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "VNU University of Science | Established 1993"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/vnu-university-of-science"
+              }
+            ]
+          },
+          {
+            "@id": "_:N298640903de64170ae1f0ef98685e23c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "VNU University of Science | Established 1993",
+            "og:description": "Discover VNU University of Science, established in 1993. Learn about its academic offerings and contributions to science and technology.",
+            "og:url": "https://citiesabc.com/wiki/vnu-university-of-science",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/VNU_University_of_Science_Hanoi_082246fa71.jpg",
+            "og:image:width": "470",
+            "og:image:height": "604",
+            "og:image:alt": "VNU University of Science | Established 1993",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153886
+      },
+      "content_length": 153886,
+      "audited_at": "2026-07-02T11:47:55.615360+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/fpt-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.376,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/fpt-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/FPT_University_218032cdf9.png",
+            "name": "FPT University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://daihoc.fpt.edu.vn/en/",
+              "https://www.facebook.com/DaihocFPTHaNoi/",
+              "https://www.linkedin.com/school/fpt-university/",
+              "https://x.com/fpteduglobal?lang=bg",
+              "https://www.instagram.com/fpt_university/?hl=en",
+              "https://www.youtube.com/channel/UC4vAAvyjYMpirmYayY4_lHQ"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Hoa Lac Hi-tech Park, Km29, Đại lộ Thăng Long, Thạch Hoà, Thạch Thất, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://daihoc.fpt.edu.vn/en/",
+                "name": "FPT University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.0130567",
+                "longitude": "105.5268773"
+              },
+              "@type": "Place"
+            },
+            "description": "FPT University is a private university in Vietnam, established by the FPT Group, focusing on technology and business-related education.",
+            "foundingDate": "2006",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/fpt-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/fpt-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore FPT University, established in 2006, offering technology and business education in Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/FPT_University_218032cdf9.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "FPT University - Established 2006"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "925"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1541"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FPT University - Established 2006"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/fpt-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb0d70be3032348e9834ebcda529d56db",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FPT University - Established 2006",
+            "og:description": "Explore FPT University, established in 2006, offering technology and business education in Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/fpt-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/FPT_University_218032cdf9.png",
+            "og:image:width": "1541",
+            "og:image:height": "925",
+            "og:image:alt": "FPT University - Established 2006",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156641
+      },
+      "content_length": 156641,
+      "audited_at": "2026-07-02T11:48:01.251229+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hanoi-architectural-university",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.469,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hanoi-architectural-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hanoi_Architectural_University_d404fd274f.jpg",
+            "name": "Hanoi Architectural University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://hau.edu.vn",
+              "https://www.facebook.com/pages/Hanoi-Architectural-University/192470710817155",
+              "https://www.linkedin.com/company/hanoi-architectural-university"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Km 10 Nguyen Trai Street, Thanh Xuan District, Hanoi, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://hau.edu.vn",
+                "name": "Hanoi Architectural University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.9805574",
+                "longitude": "105.7891549"
+              },
+              "@type": "Place"
+            },
+            "description": "Hanoi Architectural University is Vietnam's flagship public university specializing in architecture, planning, and civil engineering education and research.",
+            "foundingDate": "1969",
+            "alternateName": [
+              "HAU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hanoi-architectural-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6bdda6cc613b4e4e9d0d41383d549216",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/hanoi-architectural-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hanoi Architectural University, established in 1969. Explore its programs in architecture, planning, and civil engineering."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_Architectural_University_d404fd274f.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hanoi Architectural University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "958"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "960"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hanoi Architectural University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hanoi-architectural-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hanoi Architectural University | Established 1969",
+            "og:description": "Discover Hanoi Architectural University, established in 1969. Explore its programs in architecture, planning, and civil engineering.",
+            "og:url": "https://citiesabc.com/wiki/hanoi-architectural-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_Architectural_University_d404fd274f.jpg",
+            "og:image:width": "960",
+            "og:image:height": "958",
+            "og:image:alt": "Hanoi Architectural University | Established 1969",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156047
+      },
+      "content_length": 156047,
+      "audited_at": "2026-07-02T11:48:01.216466+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.398,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_International_University_91e864badc.png",
+            "name": "Ho Chi Minh City International University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "www.hcmiu.edu.vn"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "khu phố 6, TP Thủ Đức, Ho Chi Minh City, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "www.hcmiu.edu.vn",
+                "name": "Ho Chi Minh City International University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8775848",
+                "longitude": "106.8016196"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City International University is the first and only public research university in Vietnam that offers programs taught entirely in English.",
+            "foundingDate": "2003-12-05",
+            "alternateName": [
+              "HCMIU",
+              "VNU-HCM International University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City International University, the first public research university in Vietnam with English-taught programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_International_University_91e864badc.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City International University - Public Resear..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "224"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City International University - Public Resear..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd80729631fe641eea50f183915acb258",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City International University - Public Resear...",
+            "og:description": "Discover Ho Chi Minh City International University, the first public research university in Vietnam with English-taught programs.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-international-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_International_University_91e864badc.png",
+            "og:image:width": "225",
+            "og:image:height": "224",
+            "og:image:alt": "Ho Chi Minh City International University - Public Resear...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 152921
+      },
+      "content_length": 152921,
+      "audited_at": "2026-07-02T11:48:01.287389+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.361,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hai_Phong_University_of_Medicine_and_Pharmacy_b9e24109b3.webp",
+            "name": "Hai Phong University of Medicine and Pharmacy",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "www.hpmu.edu.vn",
+              "https://www.facebook.com/dhyhp/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "72A Nguyễn Bỉnh Khiêm, Đằng Giang, Ngô Quyền, Hải Phòng, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Haiphong"
+            },
+            "hasPart": [
+              {
+                "url": "www.hpmu.edu.vn",
+                "name": "Hai Phong University of Medicine and Pharmacy",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Haiphong"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.8422698",
+                "longitude": "106.6980684"
+              },
+              "@type": "Place"
+            },
+            "description": "Hai Phong University of Medicine and Pharmacy is a public institution in Haiphong, Vietnam, dedicated to training high-quality healthcare professionals and advancing medical and pharmaceutical science.",
+            "foundingDate": "1979",
+            "alternateName": [
+              "HPMU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Hai Phong University of Medicine and Pharmacy, established in 1979. Find out more about its commitment to training healthcare professionals in Haipho..."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hai_Phong_University_of_Medicine_and_Pharmacy_b9e24109b3.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hai Phong University of Medicine and Pharmacy | Est. 1979"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hai Phong University of Medicine and Pharmacy | Est. 1979"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf8010c40c14644ab98daf2609ab39902",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hai Phong University of Medicine and Pharmacy | Est. 1979",
+            "og:description": "Explore Hai Phong University of Medicine and Pharmacy, established in 1979. Find out more about its commitment to training healthcare professionals in Haipho...",
+            "og:url": "https://citiesabc.com/wiki/hai-phong-university-of-medicine-and-pharmacy",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hai_Phong_University_of_Medicine_and_Pharmacy_b9e24109b3.webp",
+            "og:image:width": "1200",
+            "og:image:height": "1200",
+            "og:image:alt": "Hai Phong University of Medicine and Pharmacy | Est. 1979",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 152269
+      },
+      "content_length": 152269,
+      "audited_at": "2026-07-02T11:48:08.886094+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.359,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Transport_438adcc29e.jpg",
+            "name": "Ho Chi Minh City University of Transport",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://www.ut.edu.vn",
+              "https://www.facebook.com/gtvt.tpHCM/",
+              "https://www.linkedin.com/school/uth-university-of-transport-ho-chi-minh-city/",
+              "https://www.instagram.com/explore/locations/575487646/ho-chi-minh-city-university-of-transport/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "02 Võ Oanh, Thạnh Lộc, Mỹ Tây, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "http://www.ut.edu.vn",
+                "name": "Ho Chi Minh City University of Transport",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8045178",
+                "longitude": "106.7167175"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Transport is a leading multidisciplinary university in Vietnam, specializing in various transportation-related fields.",
+            "foundingDate": "1988",
+            "alternateName": [
+              "UT-HCMC"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Transport, established in 1988. Learn about its diverse transportation and engineering programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Transport_438adcc29e.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Transport | Established 1988"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "263"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "192"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Transport | Established 1988"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1d56a84900f342798f19b340ca65a75f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Transport | Established 1988",
+            "og:description": "Discover Ho Chi Minh City University of Transport, established in 1988. Learn about its diverse transportation and engineering programs.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-transport",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Transport_438adcc29e.jpg",
+            "og:image:width": "192",
+            "og:image:height": "263",
+            "og:image:alt": "Ho Chi Minh City University of Transport | Established 1988",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160618
+      },
+      "content_length": 160618,
+      "audited_at": "2026-07-02T11:48:08.844696+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/dalat-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.355,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/dalat-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Dalat_University_60ed495bd2.png",
+            "name": "Dalat University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://dlu.edu.vn/en/",
+              "https://www.facebook.com/DalatUni/",
+              "https://www.linkedin.com/company/dalatuniversity",
+              "https://www.instagram.com/explore/locations/511998845/dalat-university/",
+              "https://www.youtube.com/@dlu_channel5961/videos"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Lâm Đồng",
+              "streetAddress": "1 Đường Phù Đổng Thiên Vương, Phường 8, Đà Lạt, Lâm Đồng, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Dalat"
+            },
+            "hasPart": [
+              {
+                "url": "https://dlu.edu.vn/en/",
+                "name": "Dalat University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Dalat"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "11.9545604",
+                "longitude": "108.4442049"
+              },
+              "@type": "Place"
+            },
+            "description": "Dalat University is a multidisciplinary public university in Vietnam, known for its beautiful campus and diverse academic programs.",
+            "foundingDate": "1957-08-08",
+            "alternateName": [
+              "University of Dalat",
+              "Đại học Đà Lạt"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/dalat-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N520675fdf1554d478fa42958e134b3e2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/dalat-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Dalat University, a public institution in Dalat, Vietnam established in 1957. Learn about its programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Dalat_University_60ed495bd2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Dalat University - Established 1957"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Dalat University - Established 1957"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/dalat-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Dalat University - Established 1957",
+            "og:description": "Discover Dalat University, a public institution in Dalat, Vietnam established in 1957. Learn about its programs.",
+            "og:url": "https://citiesabc.com/wiki/dalat-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Dalat_University_60ed495bd2.png",
+            "og:image:width": "225",
+            "og:image:height": "225",
+            "og:image:alt": "Dalat University - Established 1957",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155312
+      },
+      "content_length": 155312,
+      "audited_at": "2026-07-02T11:48:08.715415+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hue-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.405,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hue-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hue_University_1ec18e0b07.png",
+            "name": "Hue University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://hueuni.edu.vn/portal/en/",
+              "https://www.facebook.com/unihue/",
+              "https://www.linkedin.com/company/hue-uni",
+              "https://twitter.com/irenhue",
+              "https://www.instagram.com/explore/locations/495245128/hue-university/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Lê Lợi, Vĩnh Ninh, Huế, Thành phố Huế, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Hue"
+            },
+            "hasPart": [
+              {
+                "url": "https://hueuni.edu.vn/portal/en/",
+                "name": "Hue University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Hue"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "16.4582908",
+                "longitude": "107.5796112"
+              },
+              "@type": "Place"
+            },
+            "description": "Hue University is a public, research-oriented university system in Hue, Vietnam, responsible for training students and conducting research across various disciplines.",
+            "foundingDate": "1957",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hue-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/hue-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn about Hue University, a public research university in Hue, Vietnam, established in 1957. Discover its diverse academic programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hue_University_1ec18e0b07.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hue University - Established 1957"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "395"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "380"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hue University - Established 1957"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hue-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfe1d394969c04ef69da898519bb95b1c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hue University - Established 1957",
+            "og:description": "Learn about Hue University, a public research university in Hue, Vietnam, established in 1957. Discover its diverse academic programs.",
+            "og:url": "https://citiesabc.com/wiki/hue-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hue_University_1ec18e0b07.png",
+            "og:image:width": "380",
+            "og:image:height": "395",
+            "og:image:alt": "Hue University - Established 1957",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 152628
+      },
+      "content_length": 152628,
+      "audited_at": "2026-07-02T11:48:15.342220+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hong-duc-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.81,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hong-duc-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hong_Duc_University_ecd588c4ce.avif",
+            "name": "Hong Duc University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://en.hdu.edu.vn/",
+              "https://www.facebook.com/DHHongDuc/",
+              "https://www.linkedin.com/school/dai-hoc-hong-duc/",
+              "https://www.youtube.com/@hdu-tv/about"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Thanh Hoa province",
+              "streetAddress": "565 Đ. Quang Trung, Quảng Thịnh, Thanh Hóa, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Thanh Hoa City"
+            },
+            "hasPart": [
+              {
+                "url": "https://en.hdu.edu.vn/",
+                "name": "Hong Duc University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Thanh Hoa City"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "19.7687114",
+                "longitude": "105.7765945"
+              },
+              "@type": "Place"
+            },
+            "description": "Hong Duc University is a public, multidisciplinary university located in Thanh Hoa City, Vietnam, established in 1997.",
+            "foundingDate": "1997-09-24",
+            "alternateName": [
+              "HDU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hong-duc-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/hong-duc-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hong Duc University, established in 1997 in Thanh Hoa City, Vietnam. Learn more about its programs and contributions."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hong_Duc_University_ecd588c4ce.avif"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hong Duc University - Established 1997"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "627"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hong Duc University - Established 1997"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hong-duc-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N280faf5404164db8a89f258c198d3bc0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hong Duc University - Established 1997",
+            "og:description": "Discover Hong Duc University, established in 1997 in Thanh Hoa City, Vietnam. Learn more about its programs and contributions.",
+            "og:url": "https://citiesabc.com/wiki/hong-duc-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hong_Duc_University_ecd588c4ce.avif",
+            "og:image:width": "1200",
+            "og:image:height": "627",
+            "og:image:alt": "Hong Duc University - Established 1997",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 152675
+      },
+      "content_length": 152675,
+      "audited_at": "2026-07-02T11:48:14.786513+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.809,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/HUTECH_University_Ho_Chi_Minh_City_University_of_Technology_5e81a519fc.png",
+            "name": "Ho Chi Minh City University of Technology (HUTECH)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.hutech.edu.vn/english",
+              "https://www.facebook.com/hutechuniversity/",
+              "https://www.linkedin.com/school/hcm-university-of-technology-hutech/",
+              "https://x.com/hutechvietnam?lang=en",
+              "https://www.instagram.com/hutechuniversity/",
+              "https://www.youtube.com/@HUTECHuniversityoftechnology"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "475A Điện Biên Phủ, Phường 25, Bình Thạnh, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.hutech.edu.vn/english",
+                "name": "Ho Chi Minh City University of Technology (HUTECH)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8016175",
+                "longitude": "106.7144559"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Technology (HUTECH) is a leading private, multidisciplinary university in Vietnam, committed to providing high-quality education across various fields.",
+            "foundingDate": "1995-04-26",
+            "alternateName": [
+              "HUTECH"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf8d63d18b4f8468185f13c390acfac94",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Technology (HUTECH), a leading Vietnamese university established in 1995. Learn about its programs and quality focus."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/HUTECH_University_Ho_Chi_Minh_City_University_of_Technology_5e81a519fc.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Technology (HUTECH) - Esta..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "637"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1134"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Technology (HUTECH) - Esta..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Technology (HUTECH) - Esta...",
+            "og:description": "Discover Ho Chi Minh City University of Technology (HUTECH), a leading Vietnamese university established in 1995. Learn about its programs and quality focus.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-hutech",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/HUTECH_University_Ho_Chi_Minh_City_University_of_Technology_5e81a519fc.png",
+            "og:image:width": "1134",
+            "og:image:height": "637",
+            "og:image:alt": "Ho Chi Minh City University of Technology (HUTECH) - Esta...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157642
+      },
+      "content_length": 157642,
+      "audited_at": "2026-07-02T11:48:14.821517+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/thai-nguyen-university",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.087,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/thai-nguyen-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Thai_Nguyen_University_a342b82b0a.png",
+            "name": "Thai Nguyen University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://tnu.edu.vn/",
+              "https://www.facebook.com/tnu.edu.vn/",
+              "https://x.com/tnuniversity",
+              "https://www.instagram.com/explore/locations/308381407/thai-nguyen-university/",
+              "https://www.youtube.com/channel/UC88QpG7ZtwR2It0lm33WSRw/videos?view=0"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Thai Nguyen",
+              "streetAddress": "Tân Thịnh, Thai Nguyen, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Thai Nguyen City"
+            },
+            "hasPart": [
+              {
+                "url": "https://tnu.edu.vn/",
+                "name": "Thai Nguyen University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Thai Nguyen City"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.5873212",
+                "longitude": "105.812738"
+              },
+              "@type": "Place"
+            },
+            "description": "Thai Nguyen University is a comprehensive public university in Thai Nguyen, Vietnam, offering a broad range of undergraduate and graduate programs and committed to high-quality education, research, and community engagement.",
+            "foundingDate": "1994",
+            "alternateName": [
+              "TNU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/thai-nguyen-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N46f8c42c286d466cb40d9aedb5fc73af",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/thai-nguyen-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Thai Nguyen University, a comprehensive public university in Thai Nguyen City, Vietnam, established in 1994."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Thai_Nguyen_University_a342b82b0a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thai Nguyen University - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1079"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1250"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thai Nguyen University - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/thai-nguyen-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thai Nguyen University - Established 1994",
+            "og:description": "Discover Thai Nguyen University, a comprehensive public university in Thai Nguyen City, Vietnam, established in 1994.",
+            "og:url": "https://citiesabc.com/wiki/thai-nguyen-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Thai_Nguyen_University_a342b82b0a.png",
+            "og:image:width": "1250",
+            "og:image:height": "1079",
+            "og:image:alt": "Thai Nguyen University - Established 1994",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158449
+      },
+      "content_length": 158449,
+      "audited_at": "2026-07-02T11:48:21.998599+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.616,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Social_Sciences_and_Humanities_feccf012d1.png",
+            "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://hcmussh.edu.vn/",
+              "https://www.linkedin.com/company/ho-chi-minh-university-of-social-sciences-and-humanities-ussh",
+              "https://www.youtube.com/user/hcmusshchannel"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "10-12 Đinh Tiên Hoàng, phường Sài Gòn, Quận 1, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://hcmussh.edu.vn/",
+                "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7858607",
+                "longitude": "106.7027086"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Social Sciences and Humanities is a leading public institution in Southern Vietnam specializing in social sciences and humanities.",
+            "foundingDate": "1957",
+            "alternateName": [
+              "HCMUSSH",
+              "Ho Chi Minh City University of Social Sciences and Humanities"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7aed93ff51c748828f932f291244f713",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Ho Chi Minh City University of Social Sciences and Humanities, a key institution established in 1957 in Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Social_Sciences_and_Humanities_feccf012d1.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Social Sciences and Humani..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "309"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "420"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Social Sciences and Humani..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Social Sciences and Humani...",
+            "og:description": "Explore Ho Chi Minh City University of Social Sciences and Humanities, a key institution established in 1957 in Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-social-sciences-and-humanities",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Social_Sciences_and_Humanities_feccf012d1.png",
+            "og:image:width": "420",
+            "og:image:height": "309",
+            "og:image:alt": "Ho Chi Minh City University of Social Sciences and Humani...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158092
+      },
+      "content_length": 158092,
+      "audited_at": "2026-07-02T11:48:24.910443+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.603,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Law_bd062efce7.png",
+            "name": "Ho Chi Minh City University of Law",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://hcmulaw.edu.vn/",
+              "https://www.facebook.com/hcmcul/",
+              "https://www.linkedin.com/company/ho-chi-minh-city-university-of-law",
+              "https://www.youtube.com/channel/UC1527nxaEyu6JyK9bZVxRpg"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2 Đ. Nguyễn Tất Thành, Phường 13, Quận 4, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://hcmulaw.edu.vn/",
+                "name": "Ho Chi Minh City University of Law",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7674758",
+                "longitude": "106.7056752"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Law (ULAW) is a prominent public legal education institution in Vietnam, recognized for its comprehensive academic programs and significant contributions to legal and public administrative reform.",
+            "foundingDate": "1996-03-30",
+            "alternateName": [
+              "ULAW"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Ho Chi Minh City University of Law, a prominent legal institution established in 1996. Learn more about its programs and contributions."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Law_bd062efce7.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Law - Established 1996"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1500"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1500"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Law - Established 1996"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law"
+              }
+            ]
+          },
+          {
+            "@id": "_:N577fa306a62d4efe8004ac12bbd7ba68",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Law - Established 1996",
+            "og:description": "Explore Ho Chi Minh City University of Law, a prominent legal institution established in 1996. Learn more about its programs and contributions.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-law",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Law_bd062efce7.png",
+            "og:image:width": "1500",
+            "og:image:height": "1500",
+            "og:image:alt": "Ho Chi Minh City University of Law - Established 1996",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158713
+      },
+      "content_length": 158713,
+      "audited_at": "2026-07-02T11:48:24.648818+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/thuongmai-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.382,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/thuongmai-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Thuongmai_University_6ba8821a71.jpg",
+            "name": "Thuongmai University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://tmu.edu.vn",
+              "https://www.facebook.com/thuongmaiuniversity/",
+              "https://www.linkedin.com/school/thuongmai-universitytmu/",
+              "https://x.com/thuongmaiu",
+              "https://www.instagram.com/thuongmaiuniversity/?hl=en",
+              "https://www.youtube.com/channel/UC9-NJM8V8oXewEIfPHica_Q"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "79 Đ. Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Hà Nội 122868, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://tmu.edu.vn",
+                "name": "Thuongmai University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.0365464",
+                "longitude": "105.7749447"
+              },
+              "@type": "Place"
+            },
+            "description": "Thuongmai University is a public university in Hanoi, Vietnam, recognized for its multi-disciplinary training, particularly in economics and business.",
+            "foundingDate": "1960",
+            "alternateName": [
+              "TMU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/thuongmai-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N354ef320f6d246e79b32e3f364ddbbfa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/thuongmai-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Thuongmai University, established in 1960 in Hanoi, Vietnam, offering multi-disciplinary economics and business training."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Thuongmai_University_6ba8821a71.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thuongmai University - Established 1960"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "287"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "288"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thuongmai University - Established 1960"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/thuongmai-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thuongmai University - Established 1960",
+            "og:description": "Discover Thuongmai University, established in 1960 in Hanoi, Vietnam, offering multi-disciplinary economics and business training.",
+            "og:url": "https://citiesabc.com/wiki/thuongmai-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Thuongmai_University_6ba8821a71.jpg",
+            "og:image:width": "288",
+            "og:image:height": "287",
+            "og:image:alt": "Thuongmai University - Established 1960",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158857
+      },
+      "content_length": 158857,
+      "audited_at": "2026-07-02T11:48:30.440551+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-university-of-danang",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.6,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-university-of-danang",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/The_University_of_Danang_0500f9877a.png",
+            "name": "The University of Danang",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://www.udn.vn/english",
+              "https://www.facebook.com/udn.vn/",
+              "https://www.linkedin.com/school/the-uni-of-danang/",
+              "https://www.instagram.com/daihocdanang/?hl=en",
+              "https://www.youtube.com/watch?v=MpGN6g9qyIs"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "41 Đ. Lê Duẩn, Hải Châu, Đà Nẵng 550000, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Da Nang"
+            },
+            "hasPart": [
+              {
+                "url": "http://www.udn.vn/english",
+                "name": "The University of Danang",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Da Nang"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "16.0710251",
+                "longitude": "108.2201228"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Danang is a regional multi-disciplinary public university system in Central Vietnam.",
+            "foundingDate": "1994-04-04",
+            "alternateName": [
+              "UD"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-university-of-danang",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-university-of-danang",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The University of Danang, a multi-disciplinary public university system in Central Vietnam established in 1994."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/The_University_of_Danang_0500f9877a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "The University of Danang - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The University of Danang - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-university-of-danang"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne76a37153fea4f71a42534a57de5c8c6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The University of Danang - Established 1994",
+            "og:description": "Discover The University of Danang, a multi-disciplinary public university system in Central Vietnam established in 1994.",
+            "og:url": "https://citiesabc.com/wiki/the-university-of-danang",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/The_University_of_Danang_0500f9877a.png",
+            "og:image:width": "800",
+            "og:image:height": "800",
+            "og:image:alt": "The University of Danang - Established 1994",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155645
+      },
+      "content_length": 155645,
+      "audited_at": "2026-07-02T11:48:30.404355+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.384,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif",
+            "name": "Ho Chi Minh City University of Education",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://hcmue.edu.vn/en/",
+              "https://www.facebook.com/HCMUE.SPK/",
+              "https://www.linkedin.com/school/hcm-education-university/",
+              "https://www.instagram.com/explore/locations/1029666706/ho-chi-minh-city-university-of-education/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "280 Đ. An Dương Vương, Phường 7, Quận 5, Hồ Chí Minh 720000, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://hcmue.edu.vn/en/",
+                "name": "Ho Chi Minh City University of Education",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.761394",
+                "longitude": "106.6821834"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Education is a national key teacher education university in Vietnam, specializing in tertiary-level training of teachers and lecturers.",
+            "foundingDate": "1976-10-27",
+            "alternateName": [
+              "HCMUE"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Education, a leading teacher training institution in Vietnam established in 1976."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Education - Established 1976"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "627"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Education - Established 1976"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neddab830e5b64f46a4edb7d4b8e931a0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Education - Established 1976",
+            "og:description": "Discover Ho Chi Minh City University of Education, a leading teacher training institution in Vietnam established in 1976.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-education",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif",
+            "og:image:width": "1200",
+            "og:image:height": "627",
+            "og:image:alt": "Ho Chi Minh City University of Education - Established 1976",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154233
+      },
+      "content_length": 154233,
+      "audited_at": "2026-07-02T11:48:30.369581+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/van-lang-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.25,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/van-lang-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Van_Lang_University_6bd643d9ed.png",
+            "name": "Van Lang University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.vlu.edu.vn/en",
+              "https://www.facebook.com/truongdaihocvanlang/",
+              "https://www.linkedin.com/company/vanlang-university"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "69/68 Đ. Đặng Thuỳ Trâm, Phường 13, Bình Thạnh, Hồ Chí Minh 70000, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.vlu.edu.vn/en",
+                "name": "Van Lang University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8275396",
+                "longitude": "106.7000258"
+              },
+              "@type": "Place"
+            },
+            "description": "Van Lang University is a prominent private higher education institution located in Ho Chi Minh City, Vietnam, established in 1995.",
+            "foundingDate": "1995-01-27",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/van-lang-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N044a413eb20f479ab589ad5f3a012920",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/van-lang-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Van Lang University, a private institution established in 1995 in Ho Chi Minh City, Vietnam. Learn about its programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Van_Lang_University_6bd643d9ed.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Van Lang University - Established 1995"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "485"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1932"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Van Lang University - Established 1995"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/van-lang-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Van Lang University - Established 1995",
+            "og:description": "Discover Van Lang University, a private institution established in 1995 in Ho Chi Minh City, Vietnam. Learn about its programs.",
+            "og:url": "https://citiesabc.com/wiki/van-lang-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Van_Lang_University_6bd643d9ed.png",
+            "og:image:width": "1932",
+            "og:image:height": "485",
+            "og:image:alt": "Van Lang University - Established 1995",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154256
+      },
+      "content_length": 154256,
+      "audited_at": "2026-07-02T11:48:35.890129+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hanoi-law-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.249,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hanoi-law-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hanoi_Law_University_708c982ac8.webp",
+            "name": "Hanoi Law University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://hlu.edu.vn",
+              "https://www.facebook.com/p/Hanoi-Law-University-100057280967271/",
+              "https://www.linkedin.com/school/hanoi-law-university-hlu/",
+              "https://www.instagram.com/explore/locations/1005189085/hanoi-law-university/",
+              "https://www.youtube.com/@HanoiLawUniversity/videos"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "87 Đ. Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "http://hlu.edu.vn",
+                "name": "Hanoi Law University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.0213609",
+                "longitude": "105.8093781"
+              },
+              "@type": "Place"
+            },
+            "description": "Hanoi Law University is a leading public institution in Vietnam dedicated to training high-quality legal professionals and conducting significant legal research.",
+            "foundingDate": "1979-11-10",
+            "alternateName": [
+              "HLU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hanoi-law-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/hanoi-law-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hanoi Law University, established in 1979, offering comprehensive legal programs. Learn more about its..."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_Law_University_708c982ac8.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hanoi Law University - Established 1979"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "168"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "168"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hanoi Law University - Established 1979"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hanoi-law-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N771a0c96d04447aab0e11cfd43eb1d05",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hanoi Law University - Established 1979",
+            "og:description": "Discover Hanoi Law University, established in 1979, offering comprehensive legal programs. Learn more about its...",
+            "og:url": "https://citiesabc.com/wiki/hanoi-law-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_Law_University_708c982ac8.webp",
+            "og:image:width": "168",
+            "og:image:height": "168",
+            "og:image:alt": "Hanoi Law University - Established 1979",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156269
+      },
+      "content_length": 156269,
+      "audited_at": "2026-07-02T11:48:35.907226+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.457,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hanoi_University_of_Business_and_Technology_618af9c226.png",
+            "name": "Hanoi University of Business and Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.facebook.com/DHKDCN/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "29A Ngõ 124 Phố Vĩnh Tuy, Thanh Long, Hai Bà Trưng, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "name": "Hanoi University of Business and Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.9998644",
+                "longitude": "105.8777141"
+              },
+              "@type": "Place"
+            },
+            "description": "Hanoi University of Business and Technology (HUBT) is a coeducational, non-profit public higher education institution in Hanoi, Vietnam, established in 1996, offering a range of undergraduate and graduate programs.",
+            "foundingDate": "1996",
+            "alternateName": [
+              "HUBT"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne4d4a3f29e904a0c9702080f8dd8f22d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hanoi University of Business and Technology, established in 1996 in Hanoi, Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Business_and_Technology_618af9c226.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hanoi University of Business and Technology - Established..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2928"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4416"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hanoi University of Business and Technology - Established..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hanoi University of Business and Technology - Established...",
+            "og:description": "Discover Hanoi University of Business and Technology, established in 1996 in Hanoi, Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/hanoi-university-of-business-and-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Business_and_Technology_618af9c226.png",
+            "og:image:width": "4416",
+            "og:image:height": "2928",
+            "og:image:alt": "Hanoi University of Business and Technology - Established...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155285
+      },
+      "content_length": 155285,
+      "audited_at": "2026-07-02T11:48:36.079333+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-information-technology",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.21,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-information-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Information_Technology_3afc2479db.svg",
+            "name": "University of Information Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://en.uit.edu.vn/",
+              "https://www.facebook.com/uit.edu.vn",
+              "https://www.linkedin.com/school/university-of-information-technology-vnuhcm/",
+              "https://www.instagram.com/uit.edu.vn/",
+              "https://www.youtube.com/user/UITchannel"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Hàn Thuyên, khu phố 6 P, Thủ Đức, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://en.uit.edu.vn/",
+                "name": "University of Information Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8700089",
+                "longitude": "106.8030541"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Information Technology (UIT) is a public university in Ho Chi Minh City, Vietnam, specializing in information and communication technology.",
+            "foundingDate": "2006-06-08",
+            "alternateName": [
+              "UIT",
+              "University of Information Technology"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-information-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-information-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Information Technology, a public institution in Ho Chi Minh City focused on IT education."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Information_Technology_3afc2479db.svg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Information Technology - Established 2006"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "702"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "869"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Information Technology - Established 2006"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-information-technology"
+              }
+            ]
+          },
+          {
+            "@id": "_:N07e1037b3704419ca1795e68baf26a57",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Information Technology - Established 2006",
+            "og:description": "Discover the University of Information Technology, a public institution in Ho Chi Minh City focused on IT education.",
+            "og:url": "https://citiesabc.com/wiki/university-of-information-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Information_Technology_3afc2479db.svg",
+            "og:image:width": "869",
+            "og:image:height": "702",
+            "og:image:alt": "University of Information Technology - Established 2006",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155333
+      },
+      "content_length": 155333,
+      "audited_at": "2026-07-02T11:48:45.390052+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.523,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif",
+            "name": "Ho Chi Minh City University of Technology and Education",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://en.hcmute.edu.vn/",
+              "https://www.facebook.com/HCMUTE.SPK/",
+              "https://www.linkedin.com/school/hcmutespkt/",
+              "https://www.instagram.com/explore/locations/529650639/ho-chi-minh-city-university-of-technology-and-education/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "01 Đ. Võ Văn Ngan, Linh Chiểu, Thủ Đức, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://en.hcmute.edu.vn/",
+                "name": "Ho Chi Minh City University of Technology and Education",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8506324",
+                "longitude": "106.7719131"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Technology and Education (HCMUTE) is a prominent public multidisciplinary university in Vietnam focused on technical education, research, and innovation.",
+            "foundingDate": "1962-10-05",
+            "alternateName": [
+              "HCMUTE"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N98f8e1f139624e4ea6e5123c70c31244",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Technology and Education, established in 1962. Learn more about its technical education and research focus in Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Technology and Education -..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "627"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Technology and Education -..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Technology and Education -...",
+            "og:description": "Discover Ho Chi Minh City University of Technology and Education, established in 1962. Learn more about its technical education and research focus in Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-technology-and-education",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Technology_and_Education_377e577065.avif",
+            "og:image:width": "1200",
+            "og:image:height": "627",
+            "og:image:alt": "Ho Chi Minh City University of Technology and Education -...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158999
+      },
+      "content_length": 158999,
+      "audited_at": "2026-07-02T11:48:46.757476+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.731,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Architecture_5b3e4d35d2.png",
+            "name": "Ho Chi Minh City University of Architecture",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://en.uah.edu.vn/",
+              "https://www.facebook.com/uah.sinhvien",
+              "https://www.linkedin.com/company/university-of-architecture-ho-chi-minh-city-uah",
+              "https://www.instagram.com/uah196/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "196 Pasteur, Phường 6, Quận 3, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "http://en.uah.edu.vn/",
+                "name": "Ho Chi Minh City University of Architecture",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7819872",
+                "longitude": "106.6944895"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Architecture is the leading university in Vietnam for architecture, civil engineering, and design education and research.",
+            "foundingDate": "1976",
+            "alternateName": [
+              "UAH"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Architecture, founded in 1976. Explore its leading programs in architecture, civil engineering, and design."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Architecture_5b3e4d35d2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Architecture - Established..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "342"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "343"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Architecture - Established..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb9cbb5eeeea24e8aa7f5b590bdf014ea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Architecture - Established...",
+            "og:description": "Discover Ho Chi Minh City University of Architecture, founded in 1976. Explore its leading programs in architecture, civil engineering, and design.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Architecture_5b3e4d35d2.png",
+            "og:image:width": "343",
+            "og:image:height": "342",
+            "og:image:alt": "Ho Chi Minh City University of Architecture - Established...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156845
+      },
+      "content_length": 156845,
+      "audited_at": "2026-07-02T11:48:46.790855+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.222,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Economics_and_Law_VNU_HCMC_00aa4ae267.png",
+            "name": "University of Economics and Law, Vietnam National University, Ho Chi Minh City",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.uel.edu.vn/",
+              "https://www.facebook.com/UEL.VNU/",
+              "https://www.instagram.com/uel_vnuhcm/",
+              "https://www.youtube.com/channel/UCspE6xEofka8hI-qZXdJh2g/about"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "669 QL1A, khu phố 6, Thủ Đức, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.uel.edu.vn/",
+                "name": "University of Economics and Law, Vietnam National University, Ho Chi Minh City",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.8704225",
+                "longitude": "106.7783101"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Economics and Law (UEL) is a public higher education institution and a member of Vietnam National University, Ho Chi Minh City, specializing in economics, law, and management.",
+            "foundingDate": "2010-03-24",
+            "alternateName": [
+              "UEL"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Economics and Law, Vietnam National University, Ho Chi Minh City, a public institution specializing in economics, law, and managem..."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Economics_and_Law_VNU_HCMC_00aa4ae267.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Economics and Law, Vietnam National Univers..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Economics and Law, Vietnam National Univers..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na0ab2e2e74e64ef4b1c32b634496daa0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Economics and Law, Vietnam National Univers...",
+            "og:description": "Discover the University of Economics and Law, Vietnam National University, Ho Chi Minh City, a public institution specializing in economics, law, and managem...",
+            "og:url": "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Economics_and_Law_VNU_HCMC_00aa4ae267.png",
+            "og:image:width": "225",
+            "og:image:height": "225",
+            "og:image:alt": "University of Economics and Law, Vietnam National Univers...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162294
+      },
+      "content_length": 162294,
+      "audited_at": "2026-07-02T11:48:52.275170+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/hanoi-university-of-culture",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.472,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/hanoi-university-of-culture",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hanoi_University_of_Culture_fbe5d260e9.jpg",
+            "name": "Hanoi University of Culture",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://huc.edu.vn/",
+              "https://www.facebook.com/HUC1959/",
+              "https://fr.linkedin.com/school/hucvn/",
+              "https://www.youtube.com/channel/UCy_W5c6E0yB_7v4V9Q_X4wA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "418 Đ. La Thành, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HANOI"
+            },
+            "hasPart": [
+              {
+                "url": "https://huc.edu.vn/",
+                "name": "Hanoi University of Culture",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HANOI"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "21.0234501",
+                "longitude": "105.8225669"
+              },
+              "@type": "Place"
+            },
+            "description": "Hanoi University of Culture is a public, non-profit higher education institution in Vietnam, specializing in cultural studies, arts, tourism, and heritage management.",
+            "foundingDate": "1959",
+            "alternateName": [
+              "HUC"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/hanoi-university-of-culture",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf1d63cb783c04d38abaca6d41262eee7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/hanoi-university-of-culture",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Hanoi University of Culture, a public institution established in 1959 in Hanoi, Vietnam. Learn more about its focus on culture."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Culture_fbe5d260e9.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Hanoi University of Culture - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "432"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "450"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hanoi University of Culture - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/hanoi-university-of-culture"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hanoi University of Culture - Established 1959",
+            "og:description": "Discover Hanoi University of Culture, a public institution established in 1959 in Hanoi, Vietnam. Learn more about its focus on culture.",
+            "og:url": "https://citiesabc.com/wiki/hanoi-university-of-culture",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hanoi_University_of_Culture_fbe5d260e9.jpg",
+            "og:image:width": "450",
+            "og:image:height": "432",
+            "og:image:alt": "Hanoi University of Culture - Established 1959",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157535
+      },
+      "content_length": 157535,
+      "audited_at": "2026-07-02T11:48:52.345043+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/quy-nhon-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.47,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/quy-nhon-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Quy_Nhon_University_20a397e237.jpg",
+            "name": "Quy Nhon University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://en.qnu.edu.vn/",
+              "https://www.facebook.com/daihocquynhon/",
+              "https://www.linkedin.com/school/quynhonuniversity/",
+              "https://www.youtube.com/@kenhtruongaihocquynhonyout1111"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "170 An Dương Vương, Nguyễn Văn Cừ, Quy Nhơn, Bình Định, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "Quy Nhon"
+            },
+            "hasPart": [
+              {
+                "url": "https://en.qnu.edu.vn/",
+                "name": "Quy Nhon University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "Quy Nhon"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.7589597",
+                "longitude": "109.2178573"
+              },
+              "@type": "Place"
+            },
+            "description": "Quy Nhon University (QNU) is a public multidisciplinary higher education institution located in Quy Nhon, Vietnam, established in 1977.",
+            "foundingDate": "1977-12-21",
+            "alternateName": [
+              "QNU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/quy-nhon-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/quy-nhon-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Quy Nhon University, established in 1977, offering 46 disciplines across 16 faculties in Vietnam."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Quy_Nhon_University_20a397e237.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Quy Nhon University - Established 1977"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Quy Nhon University - Established 1977"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/quy-nhon-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na5e8c82078d74b03b750948dada63170",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Quy Nhon University - Established 1977",
+            "og:description": "Discover Quy Nhon University, established in 1977, offering 46 disciplines across 16 faculties in Vietnam.",
+            "og:url": "https://citiesabc.com/wiki/quy-nhon-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Quy_Nhon_University_20a397e237.jpg",
+            "og:image:width": "225",
+            "og:image:height": "225",
+            "og:image:alt": "Quy Nhon University - Established 1977",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157083
+      },
+      "content_length": 157083,
+      "audited_at": "2026-07-02T11:48:52.310057+00:00"
     }
   ],
   "crawl_stats": {
