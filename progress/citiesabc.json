@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:41:02.707637+00:00",
+  "last_update": "2026-07-02T11:43:00.642322+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -788,7 +788,37 @@
     "https://citiesabc.com/city/vinh",
     "https://citiesabc.com/city/dalat",
     "https://citiesabc.com/city/da-nang",
-    "https://citiesabc.com/city/ajman"
+    "https://citiesabc.com/city/ajman",
+    "https://citiesabc.com/city/sharjah",
+    "https://citiesabc.com/city/umm-al-quwain",
+    "https://citiesabc.com/city/fujairah",
+    "https://citiesabc.com/city/ras-al-khaimah",
+    "https://citiesabc.com/city/jodhpur",
+    "https://citiesabc.com/city/agartala-2",
+    "https://citiesabc.com/city/aizawl",
+    "https://citiesabc.com/city/ajmer",
+    "https://citiesabc.com/city/amaravati",
+    "https://citiesabc.com/city/aurangaband",
+    "https://citiesabc.com/city/bhagalpur",
+    "https://citiesabc.com/city/bhopal",
+    "https://citiesabc.com/city/bihar-sharif",
+    "https://citiesabc.com/city/bijapur",
+    "https://citiesabc.com/city/bikaner",
+    "https://citiesabc.com/city/bilaspur",
+    "https://citiesabc.com/city/dahod",
+    "https://citiesabc.com/city/davanagere",
+    "https://citiesabc.com/city/dehradun",
+    "https://citiesabc.com/wiki/imperial-college-business-school",
+    "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+    "https://citiesabc.com/wiki/london-business-school",
+    "https://citiesabc.com/wiki/university-college-london",
+    "https://citiesabc.com/wiki/imperial-college-london",
+    "https://citiesabc.com/wiki/universiti-malaya-um",
+    "https://citiesabc.com/wiki/university-of-birmingham",
+    "https://citiesabc.com/wiki/the-university-of-manchester",
+    "https://citiesabc.com/wiki/king-s-college-london",
+    "https://citiesabc.com/wiki/banaras-hindu-university",
+    "https://citiesabc.com/wiki/vellore-institute-of-technology"
   ],
   "results": [
     {
@@ -42646,6 +42676,4120 @@
       },
       "content_length": 403465,
       "audited_at": "2026-07-02T11:41:00.411761+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/sharjah",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.804,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.3463° N",
+              "longitude": "55.3840° E"
+            },
+            "url": "https://citiesabc.com/city/sharjah",
+            "name": "Sharjah",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Sharjah_5_6d3bfba5fb.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.91 million(2025)",
+            "description": "Sharjah, the third-largest city in the United Arab Emirates, is a dynamic urban centre known for its cultural richness, economic vitality, and strategic infrastructure.",
+            "governmentType": "Monarchy",
+            "containedInPlace": {
+              "name": "United Arab Emirates",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/sharjah",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC+4 (UAE Standard Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/sharjah",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Sharjah, UAE's third-largest city, is a hub of cultural richness and economic vitality. With 1.91 million residents and a projected 7.5% economic growth in 2025, explore its unique charm. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Sharjah_5_6d3bfba5fb.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Sharjah: UAE's Cultural Capital, Economy & Innovation Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sharjah: UAE's Cultural Capital, Economy & Innovation Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/sharjah"
+              }
+            ]
+          },
+          {
+            "@id": "_:N98e8cda05d4e48b198331efe84fbada8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sharjah: UAE's Cultural Capital, Economy & Innovation Guide",
+            "og:description": "Sharjah, UAE's third-largest city, is a hub of cultural richness and economic vitality. With 1.91 million residents and a projected 7.5% economic growth in 2025, explore its unique charm. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/sharjah",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Sharjah_5_6d3bfba5fb.webp",
+            "og:image:width": "1200",
+            "og:image:height": "800",
+            "og:image:alt": "Sharjah: UAE's Cultural Capital, Economy & Innovation Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 407931
+      },
+      "content_length": 407931,
+      "audited_at": "2026-07-02T11:41:13.199874+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/umm-al-quwain",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.604,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.566° N",
+              "longitude": "55.555° E"
+            },
+            "url": "https://citiesabc.com/city/umm-al-quwain",
+            "name": "Umm Al-Quwain",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/MPP_glavnoe_glavnoe_izobrazhenie_2450h1400_libo_verh_libo_niz_zdaniya_f2e770b836.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "59,130 (2025)",
+            "description": "Umm Al-Quwain is the smallest and least-populated emirate in the UAE, located on the Persian Gulf coast. It prioritises fishing, tourism and light industry to drive its economy.",
+            "governmentType": "Absolute monarchy",
+            "containedInPlace": {
+              "name": "United Arab Emirates",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/umm-al-quwain",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC+4 (UAE Standard Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/umm-al-quwain",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Umm Al-Quwain, the UAE's smallest emirate on the Persian Gulf coast. Its economy focuses on tourism, fishing, and light industry. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/MPP_glavnoe_glavnoe_izobrazhenie_2450h1400_libo_verh_libo_niz_zdaniya_f2e770b836.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Umm Al-Quwain City Guide: UAE, Economy & Tourism"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1400"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2450"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Umm Al-Quwain City Guide: UAE, Economy & Tourism"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/umm-al-quwain"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5e3458264c4a4d01bbd9e0fb2f0c4e0c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Umm Al-Quwain City Guide: UAE, Economy & Tourism",
+            "og:description": "Discover Umm Al-Quwain, the UAE's smallest emirate on the Persian Gulf coast. Its economy focuses on tourism, fishing, and light industry. Explore now!",
+            "og:url": "https://citiesabc.com/city/umm-al-quwain",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/MPP_glavnoe_glavnoe_izobrazhenie_2450h1400_libo_verh_libo_niz_zdaniya_f2e770b836.jpg",
+            "og:image:width": "2450",
+            "og:image:height": "1400",
+            "og:image:alt": "Umm Al-Quwain City Guide: UAE, Economy & Tourism",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 388484
+      },
+      "content_length": 388484,
+      "audited_at": "2026-07-02T11:41:12.620393+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/fujairah",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.049,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.1245° N",
+              "longitude": "56.3355° E"
+            },
+            "url": "https://citiesabc.com/city/fujairah",
+            "name": "Fujairah",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/f61c3f64f4fc6d01d62a6ea559c97bef087bab27_4048x2302_d911be7ca4.avif"
+            ],
+            "@context": "https://schema.org",
+            "population": "118,933 (2025)",
+            "description": "Fujairah is the only emirate on the UAE's eastern coast; it covers an area of 1,166 km² and has a GDP of US$6.8 billion.",
+            "governmentType": "Islamic absolute monarchy within a federation",
+            "containedInPlace": {
+              "name": "United Arab Emirates",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/fujairah",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UAE Standard Time (UTC+4)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/fujairah",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Fujairah, the UAE's only eastern emirate. Explore its thriving economy, strategic port, stunning beaches, and advanced digital initiatives. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/f61c3f64f4fc6d01d62a6ea559c97bef087bab27_4048x2302_d911be7ca4.avif"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Fujairah: Eastern Coast Guide, Economy, Digital Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "627"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Fujairah: Eastern Coast Guide, Economy, Digital Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/fujairah"
+              }
+            ]
+          },
+          {
+            "@id": "_:N97c5326e941349649ece0c54d00b52ad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Fujairah: Eastern Coast Guide, Economy, Digital Hub",
+            "og:description": "Discover Fujairah, the UAE's only eastern emirate. Explore its thriving economy, strategic port, stunning beaches, and advanced digital initiatives. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/fujairah",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/f61c3f64f4fc6d01d62a6ea559c97bef087bab27_4048x2302_d911be7ca4.avif",
+            "og:image:width": "1200",
+            "og:image:height": "627",
+            "og:image:alt": "Fujairah: Eastern Coast Guide, Economy, Digital Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 389521
+      },
+      "content_length": 389521,
+      "audited_at": "2026-07-02T11:41:12.289380+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/ras-al-khaimah",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.481,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.8000° N",
+              "longitude": "55.9833° E"
+            },
+            "url": "https://citiesabc.com/city/ras-al-khaimah",
+            "name": "Ras Al Khaimah",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ras_Al_Khaimahcityandthesurroundingmountains_OMRO_Tc_L_Ye_ea8c4817af.avif"
+            ],
+            "@context": "https://schema.org",
+            "population": "191,753 (2025)",
+            "description": "Ras Al Khaimah is the capital of the Emirate of Ras Al Khaimah in the UAE, known for its strategic location and economic growth.",
+            "alternateName": [
+              "RAK"
+            ],
+            "governmentType": "Monarchy",
+            "containedInPlace": {
+              "name": "United Arab Emirates",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/ras-al-khaimah",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC+4 (UAE Standard Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne71fad67897d444188a348eb3f88bef2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/ras-al-khaimah",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ras Al Khaimah, the UAE capital known for its strategic location, diverse economy, and booming tourism. Welcomed 654,000 visitors in H1 2025. Explore more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ras_Al_Khaimahcityandthesurroundingmountains_OMRO_Tc_L_Ye_ea8c4817af.avif"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ras Al Khaimah: UAE Capital, Economy & Tourism Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "627"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ras Al Khaimah: UAE Capital, Economy & Tourism Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/ras-al-khaimah"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ras Al Khaimah: UAE Capital, Economy & Tourism Guide",
+            "og:description": "Discover Ras Al Khaimah, the UAE capital known for its strategic location, diverse economy, and booming tourism. Welcomed 654,000 visitors in H1 2025. Explore more!",
+            "og:url": "https://citiesabc.com/city/ras-al-khaimah",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ras_Al_Khaimahcityandthesurroundingmountains_OMRO_Tc_L_Ye_ea8c4817af.avif",
+            "og:image:width": "1200",
+            "og:image:height": "627",
+            "og:image:alt": "Ras Al Khaimah: UAE Capital, Economy & Tourism Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 393395
+      },
+      "content_length": 393395,
+      "audited_at": "2026-07-02T11:41:20.034254+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/jodhpur",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.161,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "Jodhpur",
+            "description": "Jodhpur, known as the \"Blue City\" and \"Sun City,\" is Rajasthan, India's second-largest city. Founded in 1459 by Rao Jodha, it was the capital of the princely state of Marwar. It features the majestic Mehrangarh Fort and rich cultural heritage.",
+            "url": "https://citiesabc.com/city/jodhpur",
+            "population": "1,704,000 (2026)",
+            "address": {
+              "addressLocality": "Jodhpur",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nbb0bfb339e4c42e18989bfcc5fca8edc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/jodhpur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Jodhpur, known as the \"Blue City\" and \"Sun City,\" is Rajasthan, India's second-largest city. Founded in 1459 by Rao Jodha, it was the capital of the princely state of Marwar. It features the majestic Mehrangarh Fort and rich cultural heritage."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jodhpur"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/jodhpur"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jodhpur",
+            "og:description": "Jodhpur, known as the \"Blue City\" and \"Sun City,\" is Rajasthan, India's second-largest city. Founded in 1459 by Rao Jodha, it was the capital of the princely state of Marwar. It features the majestic Mehrangarh Fort and rich cultural heritage.",
+            "og:url": "https://citiesabc.com/city/jodhpur",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 367396
+      },
+      "content_length": 367396,
+      "audited_at": "2026-07-02T11:41:19.768558+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/agartala-2",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.664,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "Agartala",
+            "description": "Agartala is the capital and largest city of the Indian state of Tripura, located in the country's northeastern region near the Bangladesh border.",
+            "url": "https://citiesabc.com/city/agartala-2",
+            "population": "500.000",
+            "address": {
+              "addressLocality": "Agartala",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N781d39b60d62406ea0e4412c6e9cc795",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/agartala-2",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "agartala"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Tripura_State_Museum_Agartala_Tripura_India_6f7e670923.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "agartala"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "675"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "agartala"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/agartala-2"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "agartala",
+            "og:description": "agartala",
+            "og:url": "https://citiesabc.com/city/agartala-2",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Tripura_State_Museum_Agartala_Tripura_India_6f7e670923.jpg",
+            "og:image:width": "1280",
+            "og:image:height": "675",
+            "og:image:alt": "agartala",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 376926
+      },
+      "content_length": 376926,
+      "audited_at": "2026-07-02T11:41:19.018818+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/aizawl",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.94,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "AIZAWL",
+            "description": "Aizawl is the capital and largest city of the Indian state of Mizoram, located in the northeastern region of India.",
+            "url": "https://citiesabc.com/city/aizawl",
+            "population": "293,416 (2011 Census)",
+            "address": {
+              "addressLocality": "aizawl",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/aizawl",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Aizawl is the capital and largest city of the Indian state of Mizoram, located in the northeastern region of India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/aizawl_bb41de62f7.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "AIZAWL"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1374"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2880"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "AIZAWL"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/aizawl"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nef3a41040dc9458c8e9c97ae7aa5696f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "AIZAWL",
+            "og:description": "Aizawl is the capital and largest city of the Indian state of Mizoram, located in the northeastern region of India.",
+            "og:url": "https://citiesabc.com/city/aizawl",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/aizawl_bb41de62f7.png",
+            "og:image:width": "2880",
+            "og:image:height": "1374",
+            "og:image:alt": "AIZAWL",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 372029
+      },
+      "content_length": 372029,
+      "audited_at": "2026-07-02T11:41:28.172248+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/ajmer",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.264,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "AJMER",
+            "description": "Ajmer is a historic city in the Indian state of Rajasthan and serves as the administrative headquarters of Ajmer District and Ajmer Division.",
+            "url": "https://citiesabc.com/city/ajmer",
+            "population": "542,321 (2011 Census)",
+            "address": {
+              "addressLocality": "Ajmer",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/ajmer",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Ajmer is a historic city in the Indian state of Rajasthan and serves as the administrative headquarters of Ajmer District and Ajmer Division."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/ajmer_56d048d8ee.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "AJMER: Guide: Top Sights, Transport & History"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3096"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4128"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "AJMER: Guide: Top Sights, Transport & History"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/ajmer"
+              }
+            ]
+          },
+          {
+            "@id": "_:N386beba3f5bd47af98b3c8cad44a8b0d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "AJMER: Guide: Top Sights, Transport & History",
+            "og:description": "Ajmer is a historic city in the Indian state of Rajasthan and serves as the administrative headquarters of Ajmer District and Ajmer Division.",
+            "og:url": "https://citiesabc.com/city/ajmer",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/ajmer_56d048d8ee.jpg",
+            "og:image:width": "4128",
+            "og:image:height": "3096",
+            "og:image:alt": "AJMER: Guide: Top Sights, Transport & History",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 374939
+      },
+      "content_length": 374939,
+      "audited_at": "2026-07-02T11:41:28.501941+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/amaravati",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.995,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "AMARAVATI",
+            "description": "Amaravati is the planned capital city of Andhra Pradesh, located on the right bank of the Krishna River in Guntur district, near Vijayawada. ",
+            "url": "https://citiesabc.com/city/amaravati",
+            "population": "100.000 (Estimation)",
+            "address": {
+              "addressLocality": "Amaravati",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3a604b3893a44837b922d466018a2662",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/amaravati",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Amaravati is the planned capital city of Andhra Pradesh, located on the right bank of the Krishna River in Guntur district, near Vijayawada. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/amaravati_d3b606e94d.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "AMARAVATI Guide: Top Sights, Transport & History"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "6000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "AMARAVATI Guide: Top Sights, Transport & History"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/amaravati"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "AMARAVATI Guide: Top Sights, Transport & History",
+            "og:description": "Amaravati is the planned capital city of Andhra Pradesh, located on the right bank of the Krishna River in Guntur district, near Vijayawada. ",
+            "og:url": "https://citiesabc.com/city/amaravati",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/amaravati_d3b606e94d.jpg",
+            "og:image:width": "6000",
+            "og:image:height": "4000",
+            "og:image:alt": "AMARAVATI Guide: Top Sights, Transport & History",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 382128
+      },
+      "content_length": 382128,
+      "audited_at": "2026-07-02T11:41:28.227660+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/aurangaband",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.546,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "AURANGABAND",
+            "description": "Aurangabad, officially renamed Chhatrapati Sambhajinagar in 2023, is one of Maharashtra's most historically significant and economically important cities.",
+            "url": "https://citiesabc.com/city/aurangaband",
+            "population": "1.45 million",
+            "address": {
+              "addressLocality": "Aurangaband/Chhatrapati Sambhajinagar",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nac26f11a24814e469412bfc5399f1ebf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/aurangaband",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Aurangabad, officially renamed Chhatrapati Sambhajinagar in 2023, is one of Maharashtra's most historically significant and economically important cities."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/aurangaband_0e9a2cbf69.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Aurangabad (Officially: Chhatrapati Sambhajinagar) – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Aurangabad (Officially: Chhatrapati Sambhajinagar) – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/aurangaband"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Aurangabad (Officially: Chhatrapati Sambhajinagar) – Comprehensive City Wiki",
+            "og:description": "Aurangabad, officially renamed Chhatrapati Sambhajinagar in 2023, is one of Maharashtra's most historically significant and economically important cities.",
+            "og:url": "https://citiesabc.com/city/aurangaband",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/aurangaband_0e9a2cbf69.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Aurangabad (Officially: Chhatrapati Sambhajinagar) – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 389127
+      },
+      "content_length": 389127,
+      "audited_at": "2026-07-02T11:41:35.154484+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bhagalpur",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.105,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BHAGALPUR",
+            "description": "Bhagalpur is one of the oldest urban centers in eastern India and the third-largest city in Bihar. ",
+            "url": "https://citiesabc.com/city/bhagalpur",
+            "population": "410,210 (2011 Census)",
+            "address": {
+              "addressLocality": "Bhagalpur",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bhagalpur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bhagalpur is one of the oldest urban centers in eastern India and the third-largest city in Bihar. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bhagalpur_d082ae5aed.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bhagalpur – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bhagalpur – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bhagalpur"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4b4cec2dc37245a3a67414f2166c2ae6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bhagalpur – Comprehensive City Wiki",
+            "og:description": "Bhagalpur is one of the oldest urban centers in eastern India and the third-largest city in Bihar. ",
+            "og:url": "https://citiesabc.com/city/bhagalpur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bhagalpur_d082ae5aed.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Bhagalpur – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 386960
+      },
+      "content_length": 386960,
+      "audited_at": "2026-07-02T11:41:34.683974+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bhopal",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.777,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BHOPAL",
+            "description": "Bhopal is the capital city of Madhya Pradesh and one of central India's most important administrative, educational, industrial, and cultural centers. ",
+            "url": "https://citiesabc.com/city/bhopal",
+            "population": "2.4 million",
+            "address": {
+              "addressLocality": "Bhopal",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bhopal",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bhopal is the capital city of Madhya Pradesh and one of central India's most important administrative, educational, industrial, and cultural centers. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bhopal_06a46176d2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bhopal – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bhopal – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bhopal"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nba205d35e395412e91c072ab5961b5fb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bhopal – Comprehensive City Wiki",
+            "og:description": "Bhopal is the capital city of Madhya Pradesh and one of central India's most important administrative, educational, industrial, and cultural centers. ",
+            "og:url": "https://citiesabc.com/city/bhopal",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bhopal_06a46176d2.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Bhopal – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 387697
+      },
+      "content_length": 387697,
+      "audited_at": "2026-07-02T11:41:35.291586+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bihar-sharif",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.375,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BIHAR SHARIF",
+            "description": "Bihar Sharif is the administrative headquarters of Nalanda district in the Indian state of Bihar and serves as one of the most historically significant urban centers in eastern India.",
+            "url": "https://citiesabc.com/city/bihar-sharif",
+            "population": "297,268 (2011 Census)",
+            "address": {
+              "addressLocality": "Bihar Sharif",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bihar-sharif",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bihar Sharif is the administrative headquarters of Nalanda district in the Indian state of Bihar and serves as one of the most historically significant urban centers in eastern India. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bihar_sharif_3eb670de6f.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bihar Sharif: Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bihar Sharif: Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bihar-sharif"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8c77dec32d354e1aa5cbf9d30e34a9cc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bihar Sharif: Comprehensive City Wiki",
+            "og:description": "Bihar Sharif is the administrative headquarters of Nalanda district in the Indian state of Bihar and serves as one of the most historically significant urban centers in eastern India. ",
+            "og:url": "https://citiesabc.com/city/bihar-sharif",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bihar_sharif_3eb670de6f.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Bihar Sharif: Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 386132
+      },
+      "content_length": 386132,
+      "audited_at": "2026-07-02T11:41:40.851137+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bijapur",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.942,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BIJAPUR",
+            "description": "Bijapur, officially known as Vijayapura since 2014, is a historic city in northern Karnataka and the administrative headquarters of Vijayapura district. ",
+            "url": "https://citiesabc.com/city/bijapur",
+            "population": "326,360 (2011 Census)",
+            "address": {
+              "addressLocality": "Bijapur",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N26b01067d5fc4dc8be34e16f5b5a5bbc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/bijapur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bijapur, officially known as Vijayapura since 2014, is a historic city in northern Karnataka and the administrative headquarters of Vijayapura district."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bijapur_fb5e7bd842.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bijapur (Officially Vijayapura) – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1023"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1537"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bijapur (Officially Vijayapura) – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bijapur"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bijapur (Officially Vijayapura) – Comprehensive City Wiki",
+            "og:description": "Bijapur, officially known as Vijayapura since 2014, is a historic city in northern Karnataka and the administrative headquarters of Vijayapura district.",
+            "og:url": "https://citiesabc.com/city/bijapur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bijapur_fb5e7bd842.png",
+            "og:image:width": "1537",
+            "og:image:height": "1023",
+            "og:image:alt": "Bijapur (Officially Vijayapura) – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 379023
+      },
+      "content_length": 379023,
+      "audited_at": "2026-07-02T11:41:41.410999+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bikaner",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.19,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BIKANER",
+            "description": "Bikaner is one of the most historically significant and geographically distinctive cities in northwestern Rajasthan, India. ",
+            "url": "https://citiesabc.com/city/bikaner",
+            "population": "2.36 million (2011 Census)",
+            "address": {
+              "addressLocality": "Bikaner",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bikaner",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bikaner is one of the most historically significant and geographically distinctive cities in northwestern Rajasthan, India. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bikaner_147414d1c1.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bikaner"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1023"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1537"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bikaner"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bikaner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N144a141fb21e4191b795dfb31537a89b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bikaner",
+            "og:description": "Bikaner is one of the most historically significant and geographically distinctive cities in northwestern Rajasthan, India. ",
+            "og:url": "https://citiesabc.com/city/bikaner",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bikaner_147414d1c1.png",
+            "og:image:width": "1537",
+            "og:image:height": "1023",
+            "og:image:alt": "Bikaner",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 379868
+      },
+      "content_length": 379868,
+      "audited_at": "2026-07-02T11:41:41.507591+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bilaspur",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.304,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "BILASPUR",
+            "description": "Bilaspur is one of the most important urban centers in the Indian state of Chhattisgarh and serves as the administrative headquarters of Bilaspur District and Bilaspur Division. ",
+            "url": "https://citiesabc.com/city/bilaspur",
+            "population": "365,000–500,000",
+            "address": {
+              "addressLocality": "Bilaspur",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bilaspur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Bilaspur is one of the most important urban centers in the Indian state of Chhattisgarh and serves as the administrative headquarters of Bilaspur District and Bilaspur Division."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/bilaspur_d67916bd9a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Bilaspur (Chhattisgarh): Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bilaspur (Chhattisgarh): Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bilaspur"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd58f2289fe6b4317b099f235498359ef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bilaspur (Chhattisgarh): Comprehensive City Wiki",
+            "og:description": "Bilaspur is one of the most important urban centers in the Indian state of Chhattisgarh and serves as the administrative headquarters of Bilaspur District and Bilaspur Division.",
+            "og:url": "https://citiesabc.com/city/bilaspur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/bilaspur_d67916bd9a.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Bilaspur (Chhattisgarh): Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 379648
+      },
+      "content_length": 379648,
+      "audited_at": "2026-07-02T11:41:48.393140+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/dahod",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.494,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "DAHOD",
+            "description": "Dahod is a strategically located city and district in eastern Gujarat, situated at the tri-junction of Gujarat, Rajasthan, and Madhya Pradesh. ",
+            "url": "https://citiesabc.com/city/dahod",
+            "population": "130,500 (2011 Census)",
+            "address": {
+              "addressLocality": "Dahod",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3d71392cb80a4f65b7b1031c64b617bb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/dahod",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Dahod is a strategically located city and district in eastern Gujarat, situated at the tri-junction of Gujarat, Rajasthan, and Madhya Pradesh."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/dahod_349b38982c.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Dahod, Gujarat, India – Comprehensive City & District Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1535"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Dahod, Gujarat, India – Comprehensive City & District Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/dahod"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Dahod, Gujarat, India – Comprehensive City & District Wiki",
+            "og:description": "Dahod is a strategically located city and district in eastern Gujarat, situated at the tri-junction of Gujarat, Rajasthan, and Madhya Pradesh.",
+            "og:url": "https://citiesabc.com/city/dahod",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/dahod_349b38982c.png",
+            "og:image:width": "1535",
+            "og:image:height": "1024",
+            "og:image:alt": "Dahod, Gujarat, India – Comprehensive City & District Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 381845
+      },
+      "content_length": 381845,
+      "audited_at": "2026-07-02T11:41:48.448881+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/davanagere",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.915,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "DAVANAGERE",
+            "description": "Davanagere is one of Karnataka's major commercial and industrial cities and serves as the administrative headquarters of Davanagere district. ",
+            "url": "https://citiesabc.com/city/davanagere",
+            "population": "500,000",
+            "address": {
+              "addressLocality": "Davanagere",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N05a237086dbc4624a5e673a1b4ebc5e6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/davanagere",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Davanagere is one of Karnataka's major commercial and industrial cities and serves as the administrative headquarters of Davanagere district."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/davanagere_4caf5b4a6d.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Davanagere – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1023"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1537"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Davanagere – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/davanagere"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Davanagere – Comprehensive City Wiki",
+            "og:description": "Davanagere is one of Karnataka's major commercial and industrial cities and serves as the administrative headquarters of Davanagere district.",
+            "og:url": "https://citiesabc.com/city/davanagere",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/davanagere_4caf5b4a6d.png",
+            "og:image:width": "1537",
+            "og:image:height": "1023",
+            "og:image:alt": "Davanagere – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 383037
+      },
+      "content_length": 383037,
+      "audited_at": "2026-07-02T11:41:47.518089+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/dehradun",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.985,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "City",
+            "name": "DEHRADUN",
+            "description": "Dehradun is the capital city and largest urban center of Uttarakhand, located in the Doon Valley between the Himalayan foothills and the Shivalik range in northern India. ",
+            "url": "https://citiesabc.com/city/dehradun",
+            "population": "1,696,694 (District; 2011 Census)",
+            "address": {
+              "addressLocality": "Dehradun",
+              "addressCountry": "\t India"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/dehradun",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Dehradun is the capital city and largest urban center of Uttarakhand, located in the Doon Valley between the Himalayan foothills and the Shivalik range in northern India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/dehradun_bfc6fafbb9.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Dehradun, Uttarakhand, India – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1536"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Dehradun, Uttarakhand, India – Comprehensive City Wiki"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/dehradun"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7e5e00c0cc7648c9a1830c4492e98b63",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Dehradun, Uttarakhand, India – Comprehensive City Wiki",
+            "og:description": "Dehradun is the capital city and largest urban center of Uttarakhand, located in the Doon Valley between the Himalayan foothills and the Shivalik range in northern India.",
+            "og:url": "https://citiesabc.com/city/dehradun",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/dehradun_bfc6fafbb9.png",
+            "og:image:width": "1536",
+            "og:image:height": "1024",
+            "og:image:alt": "Dehradun, Uttarakhand, India – Comprehensive City Wiki",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 385747
+      },
+      "content_length": 385747,
+      "audited_at": "2026-07-02T11:41:54.697774+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/imperial-college-business-school",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.449,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/imperial-college-business-school",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/imperial_london_068242252c.jpg",
+            "name": " Imperial College Business School – London, UK",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.imperial.ac.uk/business-school/",
+              "https://www.facebook.com/Imperial-College-Business-School-307988381601/",
+              "https://www.linkedin.com/school/imperial-college-business-school/",
+              "https://twitter.com/ImperialBiz",
+              "https://www.instagram.com/imperialbiz",
+              "http://www.youtube.com/user/ICBusinessSchool"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "South Kensington Campus Ayrton Rd, Kensington, London UK SW7 2AZ",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.imperial.ac.uk/business-school/",
+                "name": " Imperial College Business School – London, UK",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.499059193409906",
+                "longitude": "-0.17461040880281714"
+              },
+              "@type": "Place"
+            },
+            "description": "Imperial College Business School is a leading business school located in London, United Kingdom, and is part of Imperial College London.",
+            "foundingDate": "1955-09-08",
+            "alternateName": [
+              "ICBS"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/imperial-college-business-school",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/imperial-college-business-school",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Imperial College Business School in London, UK, established in 1955. Learn more about its programs and location."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/imperial_london_068242252c.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Imperial College Business School – London, UK"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Imperial College Business School – London, UK"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/imperial-college-business-school"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5646aadd1f5e4c8c80f7670663c8f90e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Imperial College Business School – London, UK",
+            "og:description": "Discover Imperial College Business School in London, UK, established in 1955. Learn more about its programs and location.",
+            "og:url": "https://citiesabc.com/wiki/imperial-college-business-school",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/imperial_london_068242252c.jpg",
+            "og:image:width": "1000",
+            "og:image:height": "800",
+            "og:image:alt": "Imperial College Business School – London, UK",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161300
+      },
+      "content_length": 161300,
+      "audited_at": "2026-07-02T11:41:53.983481+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.723,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/images_8_5e149f525d.png",
+            "name": "London School of Economics and Political Science",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://http://www.lse.ac.uk/home.aspx",
+              "https://www.facebook.com/lseps",
+              "http://www.linkedin.com/company/london-school-of-economics",
+              "https://twitter.com/LSEnews",
+              "https://www.instagram.com/londonschoolofeconomics/",
+              "http://www.youtube.com/user/lsewebsite"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Houghton Street, London WC2A 2AE, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "http://http://www.lse.ac.uk/home.aspx",
+                "name": "London School of Economics and Political Science",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "LSE is a leading social science university in London, specialising in economics, politics, law, and related disciplines, with a strong international student community.",
+            "foundingDate": "1895",
+            "alternateName": [
+              "LSE"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1b3e372ed86e46b28e72ece10d16704d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about the London School of Economics and Political Science, a top social science university located in London, United Kingdom."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/images_8_5e149f525d.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "London School of Economics and Political Science | London..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "London School of Economics and Political Science | London..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "London School of Economics and Political Science | London...",
+            "og:description": "Learn more about the London School of Economics and Political Science, a top social science university located in London, United Kingdom.",
+            "og:url": "https://citiesabc.com/wiki/london-school-of-economics-and-political-science-london-united-kingdom",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/images_8_5e149f525d.png",
+            "og:image:width": "225",
+            "og:image:height": "225",
+            "og:image:alt": "London School of Economics and Political Science | London...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 178933
+      },
+      "content_length": 178933,
+      "audited_at": "2026-07-02T11:41:54.319339+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/london-business-school",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 47.631,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/london-business-school",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/RS_9327_LBS_Standard_Logo_RGB_AW_hpr_57bc07b417.jpg",
+            "name": "London Business School",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              " http://www.london.edu",
+              "http://www.facebook.com/londonbusinessschool",
+              "http://www.linkedin.com/company/london-business-school",
+              "http://www.twitter.com/lbs",
+              "https://www.instagram.com/londonbschool/?hl=en",
+              "http://www.youtube.com/user/londonbusinessschool"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "The Regent's Park, London NW1 4SA, UK",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": " http://www.london.edu",
+                "name": "London Business School",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "London Business School is a postgraduate business institution offering management, finance, and leadership education, with global partnerships and strong industry integration.",
+            "foundingDate": "1964",
+            "alternateName": [
+              "LBS"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/london-business-school",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/london-business-school",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn about London Business School, a leading postgraduate institution established in 1964 with top MBA rankings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/RS_9327_LBS_Standard_Logo_RGB_AW_hpr_57bc07b417.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "London Business School - Top MBA Rankings"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2363"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2363"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "London Business School - Top MBA Rankings"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/london-business-school"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne7c3bfc4270a4400af0a0b80d44ec54b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "London Business School - Top MBA Rankings",
+            "og:description": "Learn about London Business School, a leading postgraduate institution established in 1964 with top MBA rankings.",
+            "og:url": "https://citiesabc.com/wiki/london-business-school",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/RS_9327_LBS_Standard_Logo_RGB_AW_hpr_57bc07b417.jpg",
+            "og:image:width": "2363",
+            "og:image:height": "2363",
+            "og:image:alt": "London Business School - Top MBA Rankings",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184058
+      },
+      "content_length": 184058,
+      "audited_at": "2026-07-02T11:42:43.770912+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-college-london",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 44.781,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-college-london",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/UCL_2_6c6e1713fa.png",
+            "name": "University College London (UCL)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.ucl.ac.uk/",
+              "https://www.facebook.com/uclofficial",
+              "https://uk.linkedin.com/school/university-college-london/",
+              "https://twitter.com/ucl",
+              "https://www.instagram.com/ucl/",
+              "http://www.youtube.com/ucltv"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Gower St, London WC1E 6BT, UK",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.ucl.ac.uk/",
+                "name": "University College London (UCL)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "UCL has a history of academic excellence and is consistently ranked among the world's top universities, with many of our faculties leading their fields. We're renowned for our world-class research, global influence and impact across a broad range of subjects.",
+            "foundingDate": "1826-04-19",
+            "alternateName": [
+              "University College London",
+              "UCL"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-college-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4c09c6fedf8640fe85241613352ef87a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-college-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover University College London (UCL), renowned for its top-ranked Global MBA program and high graduate job integration rate."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/UCL_2_6c6e1713fa.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University College London (UCL) - Top Global MBA Ranking"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "582"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "436"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University College London (UCL) - Top Global MBA Ranking"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-college-london"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University College London (UCL) - Top Global MBA Ranking",
+            "og:description": "Discover University College London (UCL), renowned for its top-ranked Global MBA program and high graduate job integration rate.",
+            "og:url": "https://citiesabc.com/wiki/university-college-london",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/UCL_2_6c6e1713fa.png",
+            "og:image:width": "436",
+            "og:image:height": "582",
+            "og:image:alt": "University College London (UCL) - Top Global MBA Ranking",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169006
+      },
+      "content_length": 169006,
+      "audited_at": "2026-07-02T11:42:40.683470+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/imperial-college-london",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 47.868,
+      "attempts": 3,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/imperial-college-london",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Imperial_College_London_Logo_c2c8aa2e2c.png",
+            "name": "Imperial College London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.imperial.ac.uk/",
+              "https://www.facebook.com/imperialcollegelondon",
+              "https://www.linkedin.com/edu/imperial-college-london-12598",
+              "https://twitter.com/imperialcollege",
+              "https://instagram.com/imperialcollege",
+              "https://www.youtube.com/user/imperialcollegevideo"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Exhibition Rd, South Kensington, London SW7 2BX, UK",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.imperial.ac.uk/",
+                "name": "Imperial College London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "Imperial College London is the only UK university to focus entirely on science, engineering, medicine and business. Our international reputation for excellence in teaching and research sees us consistently rated in the top 10 universities worldwide.",
+            "foundingDate": "1907-04-17",
+            "alternateName": [
+              "Imperial College"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/imperial-college-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N20e32d4dd6f5460c9b7dd96a8c051c09",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/imperial-college-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Imperial College London, the UK's only university focused on science, engineering, medicine & business. Learn more about its world-class research and..."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Imperial_College_London_Logo_c2c8aa2e2c.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Imperial College London | Science, Engineering, Medicine..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "5000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4669"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Imperial College London | Science, Engineering, Medicine..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/imperial-college-london"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Imperial College London | Science, Engineering, Medicine...",
+            "og:description": "Explore Imperial College London, the UK's only university focused on science, engineering, medicine & business. Learn more about its world-class research and...",
+            "og:url": "https://citiesabc.com/wiki/imperial-college-london",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Imperial_College_London_Logo_c2c8aa2e2c.png",
+            "og:image:width": "4669",
+            "og:image:height": "5000",
+            "og:image:alt": "Imperial College London | Science, Engineering, Medicine...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165878
+      },
+      "content_length": 165878,
+      "audited_at": "2026-07-02T11:42:43.937914+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/universiti-malaya-um",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.808,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/universiti-malaya-um",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Universiti_Malaya_UM_7186ea9d0e.png",
+            "name": "Universiti Malaya (UM)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.um.edu.my/",
+              "https://www.facebook.com/UniversityofMalaya/",
+              "https://twitter.com/unimalaya",
+              "https://www.instagram.com/unimalaya/",
+              "https://www.youtube.com/user/UniOfMalaya"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "50603 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+              "addressCountry": "Malaysia",
+              "addressLocality": "KUALA LUMPUR"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.um.edu.my/",
+                "name": "Universiti Malaya (UM)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Malaysia",
+                  "addressLocality": "KUALA LUMPUR"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "The University of Malaya (UM) is a public research university located in Kuala Lumpur, Malaysia. ",
+            "foundingDate": "1905-09-28",
+            "alternateName": [
+              "UM",
+              "University of Malaya"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/universiti-malaya-um",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/universiti-malaya-um",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn about Universiti Malaya (UM), a leading Malaysian university established in 1905. Explore its programs and history."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Universiti_Malaya_UM_7186ea9d0e.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Universiti Malaya (UM) - Established 1905"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "281"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "225"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Universiti Malaya (UM) - Established 1905"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/universiti-malaya-um"
+              }
+            ]
+          },
+          {
+            "@id": "_:N15191d715c5742568fc6ee961e77f131",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Universiti Malaya (UM) - Established 1905",
+            "og:description": "Learn about Universiti Malaya (UM), a leading Malaysian university established in 1905. Explore its programs and history.",
+            "og:url": "https://citiesabc.com/wiki/universiti-malaya-um",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Universiti_Malaya_UM_7186ea9d0e.png",
+            "og:image:width": "225",
+            "og:image:height": "281",
+            "og:image:alt": "Universiti Malaya (UM) - Established 1905",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156682
+      },
+      "content_length": 156682,
+      "audited_at": "2026-07-02T11:42:50.956859+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-birmingham",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.81,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-birmingham",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_Of_Birmingham_69a9074825.png",
+            "name": "University Of Birmingham",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://twitter.com/unibirmingham",
+              "https://www.instagram.com/unibirmingham/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Edgbaston, Birmingham, B15 2TT",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "BIRMINGHAM"
+            },
+            "hasPart": [
+              {
+                "name": "University Of Birmingham",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "BIRMINGHAM"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "The University of Birmingham is a red brick university, a term used to describe a group of universities founded in industrial cities in England in the 19th century.",
+            "foundingDate": "1825-03-30",
+            "alternateName": [
+              "UoB"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-birmingham",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7f1bbe5752e64f13850f67f81c009ccf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-birmingham",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Birmingham, a Russell Group university established in 1900. Learn more about its programs and history."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_Of_Birmingham_69a9074825.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University Of Birmingham - Russell Group"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "936"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "800"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University Of Birmingham - Russell Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-birmingham"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University Of Birmingham - Russell Group",
+            "og:description": "Discover the University of Birmingham, a Russell Group university established in 1900. Learn more about its programs and history.",
+            "og:url": "https://citiesabc.com/wiki/university-of-birmingham",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_Of_Birmingham_69a9074825.png",
+            "og:image:width": "800",
+            "og:image:height": "936",
+            "og:image:alt": "University Of Birmingham - Russell Group",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162708
+      },
+      "content_length": 162708,
+      "audited_at": "2026-07-02T11:42:50.920415+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-university-of-manchester",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.024,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-university-of-manchester",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/The_University_of_Manchester_8b77557bff.jpg",
+            "name": "The University of Manchester",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.manchester.ac.uk/",
+              "https://www.facebook.com/TheUniversityOfManchester",
+              "https://www.linkedin.com/school/university-of-manchester/",
+              "https://www.youtube.com/universitymanchester"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Oxford Road, Manchester, M13 9PL, GB",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "MANCHESTER"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.manchester.ac.uk/",
+                "name": "The University of Manchester",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "MANCHESTER"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "alternateName": [
+              "UoM",
+              "Manchester"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-university-of-manchester",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-university-of-manchester",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The University of Manchester, a prominent Russell Group institution. Learn more about its offerings and achievements."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/The_University_of_Manchester_8b77557bff.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "The University of Manchester - Russell Group"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The University of Manchester - Russell Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-university-of-manchester"
+              }
+            ]
+          },
+          {
+            "@id": "_:N66c195324e504a7eae32ab1063a2c0d8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The University of Manchester - Russell Group",
+            "og:description": "Discover The University of Manchester, a prominent Russell Group institution. Learn more about its offerings and achievements.",
+            "og:url": "https://citiesabc.com/wiki/the-university-of-manchester",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/The_University_of_Manchester_8b77557bff.jpg",
+            "og:image:width": "200",
+            "og:image:height": "200",
+            "og:image:alt": "The University of Manchester - Russell Group",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156082
+      },
+      "content_length": 156082,
+      "audited_at": "2026-07-02T11:42:50.885104+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/king-s-college-london",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.585,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/king-s-college-london",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/King_s_College_London_6f5da9b41b.png",
+            "name": "King's College London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.kcl.ac.uk/",
+              "http://www.facebook.com/kingscollegelondon",
+              "http://www.linkedin.com/company/7198",
+              "http://www.twitter.com/kingscollegelon",
+              "http://www.instagram.com/lifeatkings",
+              "http://www.youtube.com/user/kingscollegelondon"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Strand, London WC2R 2LS, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.kcl.ac.uk/",
+                "name": "King's College London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "King’s College London is a prestigious public research university in London, known for its world-leading education, impactful research, and historic legacy.",
+            "foundingDate": "1829-04-16",
+            "alternateName": [
+              "King's",
+              "KCL"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/king-s-college-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/king-s-college-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore King's College London, a prestigious university founded in 1829 with a top 80 global MBA ranking and over 90% graduate employment."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/King_s_College_London_6f5da9b41b.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "King's College London - Established 1829"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "335"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "249"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "King's College London - Established 1829"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/king-s-college-london"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0e9189e1e751464c9c08ae87c68bea61",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "King's College London - Established 1829",
+            "og:description": "Explore King's College London, a prestigious university founded in 1829 with a top 80 global MBA ranking and over 90% graduate employment.",
+            "og:url": "https://citiesabc.com/wiki/king-s-college-london",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/King_s_College_London_6f5da9b41b.png",
+            "og:image:width": "249",
+            "og:image:height": "335",
+            "og:image:alt": "King's College London - Established 1829",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173044
+      },
+      "content_length": 173044,
+      "audited_at": "2026-07-02T11:43:00.569962+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/banaras-hindu-university",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.587,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/banaras-hindu-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/banaras_hindu_university_b7bf4777de.png",
+            "name": "Banaras Hindu University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.bhu.ac.in/",
+              "https://www.facebook.com/bhusocialmedia/",
+              "https://in.linkedin.com/company/bhuofficial",
+              "https://x.com/bhupro",
+              "https://www.instagram.com/bhuofficial.kashi/?hl=en",
+              "https://www.youtube.com/channel/UCcheOpBF4lpAwuJ_aL3aw0w?view_as=subscriber"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "UP",
+              "streetAddress": "Ajagara, Varanasi, Uttar Pradesh 221005",
+              "addressCountry": "India",
+              "addressLocality": "Varanasi"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.bhu.ac.in/",
+                "name": "Banaras Hindu University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Varanasi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "25.26793372884566",
+                "longitude": "82.99125819453731"
+              },
+              "@type": "Place"
+            },
+            "description": "Banaras Hindu University (BHU) is a central university in Varanasi, India, renowned for its contributions to education, culture, and research.",
+            "foundingDate": "1916",
+            "alternateName": [
+              "BHU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/banaras-hindu-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd811f343470c42b482e51bab5efa1c08",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/banaras-hindu-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Banaras Hindu University (BHU), a central university established in 1916 in Varanasi, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/banaras_hindu_university_b7bf4777de.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Banaras Hindu University - Established 1916"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "276"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "860"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Banaras Hindu University - Established 1916"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/banaras-hindu-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Banaras Hindu University - Established 1916",
+            "og:description": "Learn more about Banaras Hindu University (BHU), a central university established in 1916 in Varanasi, India.",
+            "og:url": "https://citiesabc.com/wiki/banaras-hindu-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/banaras_hindu_university_b7bf4777de.png",
+            "og:image:width": "860",
+            "og:image:height": "276",
+            "og:image:alt": "Banaras Hindu University - Established 1916",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166340
+      },
+      "content_length": 166340,
+      "audited_at": "2026-07-02T11:43:00.641883+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/vellore-institute-of-technology",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.744,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/vellore-institute-of-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Vellore_Institute_of_Technology_63b9dad10e.png",
+            "name": "Vellore Institute of Technology ",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://vit.ac.in/",
+              "https://www.facebook.com/vituniversity/",
+              "https://www.linkedin.com/school/vellore-institute-of-technology/",
+              "https://x.com/vit_univ",
+              "https://www.instagram.com/vellore_vit/",
+              "https://www.youtube.com/c/VITUniversityVellore"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Vellore - 632014, Tamil Nadu, India\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Vellore"
+            },
+            "hasPart": [
+              {
+                "url": "https://vit.ac.in/",
+                "name": "Vellore Institute of Technology ",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Vellore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "12.970164161844899",
+                "longitude": "79.15584776931699"
+              },
+              "@type": "Place"
+            },
+            "description": "VIT is a renowned private research university located in Vellore, Tamil Nadu, India, offering various undergraduate, postgraduate, integrated, and research programs across various disciplines.",
+            "foundingDate": "1984",
+            "alternateName": [
+              "VIT"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/vellore-institute-of-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4a6867bda4a6435ea2fd51445121b848",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/vellore-institute-of-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Vellore Institute of Technology, established in 1984. Learn about its courses and academic programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Vellore_Institute_of_Technology_63b9dad10e.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vellore Institute of Technology - Established 1984"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1238"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1177"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vellore Institute of Technology - Established 1984"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/vellore-institute-of-technology"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vellore Institute of Technology - Established 1984",
+            "og:description": "Discover Vellore Institute of Technology, established in 1984. Learn about its courses and academic programs.",
+            "og:url": "https://citiesabc.com/wiki/vellore-institute-of-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Vellore_Institute_of_Technology_63b9dad10e.png",
+            "og:image:width": "1177",
+            "og:image:height": "1238",
+            "og:image:alt": "Vellore Institute of Technology - Established 1984",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163836
+      },
+      "content_length": 163836,
+      "audited_at": "2026-07-02T11:43:00.606586+00:00"
     }
   ],
   "crawl_stats": {
