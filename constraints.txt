@@ -1,0 +1,2 @@
+# Intentionally keep sentence-transformers out of requirements.
+# CI also runs `pip uninstall -y sentence-transformers || true` after install.

@@ -1,0 +1,52 @@
+name: GEO Audit Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-audit:
+    name: Test ${{ matrix.site }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        site:
+          - businessabc
+          - citiesabc
+          - intelligenthq
+          - fashionabc
+          - freedomx
+          - hedgethink
+          - tradersdna
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt -c constraints.txt
+          python -m pip uninstall -y sentence-transformers || true
+
+      - name: Run capped GEO audit
+        run: python geo_audit.py test --site "${{ matrix.site }}" --max-urls 30 --out reports/test
+
+      - name: Upload test report
+        uses: actions/upload-artifact@v4
+        with:
+          name: geo-test-${{ matrix.site }}
+          path: |
+            reports/test/${{ matrix.site }}.json
+            reports/test/${{ matrix.site }}.csv
+
