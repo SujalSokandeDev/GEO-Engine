@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:32:48.107385+00:00",
+  "last_update": "2026-07-02T11:34:07.689068+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -638,7 +638,37 @@
     "https://citiesabc.com/city/muscat",
     "https://citiesabc.com/city/beirut",
     "https://citiesabc.com/city/yangon",
-    "https://citiesabc.com/city/antalya"
+    "https://citiesabc.com/city/antalya",
+    "https://citiesabc.com/city/pattaya",
+    "https://citiesabc.com/city/denpasar",
+    "https://citiesabc.com/city/medina",
+    "https://citiesabc.com/city/agra",
+    "https://citiesabc.com/city/venice",
+    "https://citiesabc.com/city/florence",
+    "https://citiesabc.com/city/basel",
+    "https://citiesabc.com/city/baku",
+    "https://citiesabc.com/city/athens",
+    "https://citiesabc.com/city/abu-dhabi",
+    "https://citiesabc.com/city/abidjan",
+    "https://citiesabc.com/city/accra",
+    "https://citiesabc.com/city/baghdad",
+    "https://citiesabc.com/city/belo-horizonte",
+    "https://citiesabc.com/city/birmingham",
+    "https://citiesabc.com/city/bogota",
+    "https://citiesabc.com/city/bonn",
+    "https://citiesabc.com/city/brisbane",
+    "https://citiesabc.com/city/bucharest",
+    "https://citiesabc.com/city/budapest",
+    "https://citiesabc.com/city/caracas",
+    "https://citiesabc.com/city/chongqing",
+    "https://citiesabc.com/city/colombo",
+    "https://citiesabc.com/city/columbus",
+    "https://citiesabc.com/city/dakar",
+    "https://citiesabc.com/city/damascus",
+    "https://citiesabc.com/city/dar-es-sal",
+    "https://citiesabc.com/city/detroit",
+    "https://citiesabc.com/city/fortaleza",
+    "https://citiesabc.com/city/fukuoka"
   ],
   "results": [
     {
@@ -19468,6 +19498,4647 @@
       },
       "content_length": 385814,
       "audited_at": "2026-07-02T11:32:47.708943+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/pattaya",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.3,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "12.9236",
+              "longitude": "100.8825"
+            },
+            "url": "https://citiesabc.com/city/pattaya",
+            "name": "PATTAYA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Pattaya_enhanced_17f0714fb4.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "320,262 (2020)",
+            "postalCode": "20150",
+            "description": "Pattaya, located on the east coast of the Gulf of Thailand, is a vibrant city known for its stunning beaches, bustling nightlife, and diverse cuisine. With a population of over 100,000 people, it is a major tourist destination and a blend of traditional Thai culture and modern lifestyle.",
+            "governmentType": "City-municipality",
+            "containedInPlace": {
+              "name": "Thailand\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/pattaya",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ICT (Indochina Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Thai"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+66"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/pattaya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "PATTAYA is a vibrant city known for its stunning beaches, bustling nightlife, and diverse cuisine. Discover more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Pattaya_enhanced_17f0714fb4.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "PATTAYA: Beaches, Nightlife & City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "PATTAYA: Beaches, Nightlife & City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/pattaya"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf288d2244ff9484281c63888c542a9d2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "PATTAYA: Beaches, Nightlife & City Guide",
+            "og:description": "PATTAYA is a vibrant city known for its stunning beaches, bustling nightlife, and diverse cuisine. Discover more!",
+            "og:url": "https://citiesabc.com/city/pattaya",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Pattaya_enhanced_17f0714fb4.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "PATTAYA: Beaches, Nightlife & City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 358356
+      },
+      "content_length": 358356,
+      "audited_at": "2026-07-02T11:32:56.463744+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/denpasar",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.889,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-8.6704582",
+              "longitude": "115.2126293"
+            },
+            "url": "https://citiesabc.com/city/denpasar",
+            "name": "DENPASAR",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Denpasar_enhanced_1364c6ed06.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "897,300",
+            "postalCode": "80001–80239",
+            "description": "Denpasar, the capital of Bali, Indonesia, is a vibrant and culturally rich city known for its traditional markets and temples. With a population of over 800,000 people, it's a hub for tourism and a blend of ancient traditions and modern innovation.",
+            "governmentType": "City",
+            "containedInPlace": {
+              "name": "Indonesia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/denpasar",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC+8 (Central Indonesia Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Indonesian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+62"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne6edcc7cc6b943faaa0698ff3b0d7202",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/denpasar",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover DENPASAR, Bali's vibrant capital, a culturally rich tourism hub with a population over 800,000. Explore markets, temples, and landmarks. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Denpasar_enhanced_1364c6ed06.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "DENPASAR: Bali's Capital, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "DENPASAR: Bali's Capital, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/denpasar"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "DENPASAR: Bali's Capital, Top Sights & Culture",
+            "og:description": "Discover DENPASAR, Bali's vibrant capital, a culturally rich tourism hub with a population over 800,000. Explore markets, temples, and landmarks. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/denpasar",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Denpasar_enhanced_1364c6ed06.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "DENPASAR: Bali's Capital, Top Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 359347
+      },
+      "content_length": 359347,
+      "audited_at": "2026-07-02T11:32:57.724120+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/medina",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.527,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "24.4686",
+              "longitude": "39.6142"
+            },
+            "url": "https://citiesabc.com/city/medina",
+            "name": "MEDINA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Medina_enhanced_6d873bc5b9.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1300000",
+            "postalCode": "20012, 42311, 42321, 42331",
+            "description": "Medina, the radiant city, is a deeply historical and religious city known for its significance in Islamic traditions. The city, located in Western Saudi Arabia, is a melting pot of cultures with a population of over 1.1 million people and is globally recognized as a spiritual center.",
+            "alternateName": [
+              "Al-Madinah al-Munawwarah"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t Saudi Arabia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/medina",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Arabian Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+966"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4fce96f7ec75498d9f3bcc930005fe7b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/medina",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore MEDINA, a spiritual center in Saudi Arabia. This historical city, home to over 1.1 million people, is renowned for its mosques and date farming. Plan your visit today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Medina_enhanced_6d873bc5b9.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MEDINA Guide: Spiritual Center, History & Travel"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MEDINA Guide: Spiritual Center, History & Travel"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/medina"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MEDINA Guide: Spiritual Center, History & Travel",
+            "og:description": "Explore MEDINA, a spiritual center in Saudi Arabia. This historical city, home to over 1.1 million people, is renowned for its mosques and date farming. Plan your visit today!",
+            "og:url": "https://citiesabc.com/city/medina",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Medina_enhanced_6d873bc5b9.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "MEDINA Guide: Spiritual Center, History & Travel",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 356898
+      },
+      "content_length": 356898,
+      "audited_at": "2026-07-02T11:32:55.326969+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/agra",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.169,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "27.1767",
+              "longitude": "78.0081"
+            },
+            "url": "https://citiesabc.com/city/agra",
+            "name": "AGRA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Agra_enhanced_5574518fc7.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.7 million",
+            "postalCode": "282001, 282002, 282003, 282005",
+            "description": "Agra is a historic city in Uttar Pradesh, India, famous for the Taj Mahal and Mughal architecture. It has a population of 1.7 million and contributes $3.5 billion to India's GDP.",
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/agra",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Indian Standard Time (IST), UTC+5:30"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/agra",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore AGRA, a historic Indian city. Discover the Taj Mahal, Agra Fort, and Fatehpur Sikri, all UNESCO World Heritage Sites. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Agra_enhanced_5574518fc7.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "AGRA: Taj Mahal, UNESCO Sites, Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "AGRA: Taj Mahal, UNESCO Sites, Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/agra"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb8109dd5ada34e3f9125c92619727a6a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "AGRA: Taj Mahal, UNESCO Sites, Travel Guide",
+            "og:description": "Explore AGRA, a historic Indian city. Discover the Taj Mahal, Agra Fort, and Fatehpur Sikri, all UNESCO World Heritage Sites. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/agra",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Agra_enhanced_5574518fc7.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "AGRA: Taj Mahal, UNESCO Sites, Travel Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 387754
+      },
+      "content_length": 387754,
+      "audited_at": "2026-07-02T11:33:05.217469+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/venice",
+      "score": 60,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.343,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "45.4408",
+              "longitude": "12.3155"
+            },
+            "url": "https://citiesabc.com/city/venice",
+            "name": "VENICE",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Venice_enhanced_b5b39a6122.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "261,905",
+            "postalCode": "30100–30175",
+            "description": "Venice, the capital of the Veneto region, is a historic and romantic city known for iconic landmarks like Piazza San Marco and the Grand Canal. This city built on more than 100 islands in a lagoon in the Adriatic Sea is home to an estimated population of 260,000 people. It is a global tourism hub and a blend of ancient architecture and modern innovation.",
+            "alternateName": [
+              "City of Canals"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "Italy",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/venice",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Italian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+39"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/venice",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "VENICE, the historic city of canals built on islands, offers unique architecture and the Grand Canal. Explore Piazza San Marco and Europe's largest car-free area. Discover Venice now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Venice_enhanced_b5b39a6122.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "VENICE: City of Canals, Historic Sights & Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "VENICE: City of Canals, Historic Sights & Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/venice"
+              }
+            ]
+          },
+          {
+            "@id": "_:N45a4710202cf47ffb1925d16abe32fde",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "VENICE: City of Canals, Historic Sights & Travel Guide",
+            "og:description": "VENICE, the historic city of canals built on islands, offers unique architecture and the Grand Canal. Explore Piazza San Marco and Europe's largest car-free area. Discover Venice now!",
+            "og:url": "https://citiesabc.com/city/venice",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Venice_enhanced_b5b39a6122.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "VENICE: City of Canals, Historic Sights & Travel Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 364126
+      },
+      "content_length": 364126,
+      "audited_at": "2026-07-02T11:33:04.359758+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/florence",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.577,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "43.7696",
+              "longitude": "11.2558"
+            },
+            "url": "https://citiesabc.com/city/florence",
+            "name": "FLORENCE",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Florence_enhanced_c4876d9b6f.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "378,839",
+            "postalCode": "50121-50145",
+            "description": "Florence, the capital of Tuscany, is a vibrant and historic city renowned for iconic landmarks like the Cathedral of Santa Maria del Fiore and the Ponte Vecchio. With a population of over 380,000 people, it is a global hub for art, history, and Italian culture, showcasing a blend of ancient architecture and modern innovation.",
+            "alternateName": [
+              "Firenze"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "Italy",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/florence",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "CET (UTC+1)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Italian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+39"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/florence",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore FLORENCE, the capital of Tuscany. Discover its rich art, history, and iconic landmarks like the Cathedral of Santa Maria del Fiore and Ponte Vecchio. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Florence_enhanced_c4876d9b6f.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "FLORENCE City Guide: Art, History & Iconic Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FLORENCE City Guide: Art, History & Iconic Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/florence"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na309136b210946c6a148a0ce6920fed2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FLORENCE City Guide: Art, History & Iconic Sights",
+            "og:description": "Explore FLORENCE, the capital of Tuscany. Discover its rich art, history, and iconic landmarks like the Cathedral of Santa Maria del Fiore and Ponte Vecchio. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/florence",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Florence_enhanced_c4876d9b6f.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "FLORENCE City Guide: Art, History & Iconic Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 365014
+      },
+      "content_length": 365014,
+      "audited_at": "2026-07-02T11:33:06.161358+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/basel",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.654,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "47.5584",
+              "longitude": "7.5733"
+            },
+            "url": "https://citiesabc.com/city/basel",
+            "name": "BASEL",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Rhine_River_in_Basel_Switzerland_7bdf3a6e19.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "177,595 (2025)",
+            "postalCode": "4000–4059",
+            "description": "Basel, Switzerland's third-largest city, has a population of approximately 177,595 as of 2025. It serves as the capital of the Basel-Stadt canton.\n\n",
+            "alternateName": [
+              "Bâle",
+              "Basilea"
+            ],
+            "governmentType": " Republic and Canton",
+            "containedInPlace": {
+              "name": "Switzerland",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/basel",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "German, French, Italian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+41"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6cf44a5db7cf481cada147a9b6ec1aa1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/basel",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Basel, Switzerland's third-largest city, has a population of approximately 177,595 as of 2025. It serves as the capital of the Basel-Stadt canton."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Rhine_River_in_Basel_Switzerland_7bdf3a6e19.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BASEL"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1041"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1920"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BASEL"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/basel"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BASEL",
+            "og:description": "Basel, Switzerland's third-largest city, has a population of approximately 177,595 as of 2025. It serves as the capital of the Basel-Stadt canton.",
+            "og:url": "https://citiesabc.com/city/basel",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Rhine_River_in_Basel_Switzerland_7bdf3a6e19.jpg",
+            "og:image:width": "1920",
+            "og:image:height": "1041",
+            "og:image:alt": "BASEL",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 397097
+      },
+      "content_length": 397097,
+      "audited_at": "2026-07-02T11:33:12.194498+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/baku",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.304,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "40.4093",
+              "longitude": "49.8671"
+            },
+            "url": "https://citiesabc.com/city/baku",
+            "name": "BAKU",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Baku_1_2560x1280_a8fbe9dc38.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,464,000 (2024)",
+            "postalCode": "AZ1000 to AZ1158",
+            "description": "Baku is the capital and largest city of Azerbaijan, located on the Caspian Sea coast in the Caucasus region. It is the lowest-lying national capital in the world at 28 metres below sea level. The city is a major centre for oil and gas production, with petroleum extraction dating back to the 19th century.",
+            "governmentType": "semi-presidential republic",
+            "containedInPlace": {
+              "name": "\t Azerbaijan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/baku",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Azerbaijan Standard Time (GMT+4)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Azerbaijani"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+994"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/baku",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Baku is the capital and largest city of Azerbaijan, located on the Caspian Sea coast in the Caucasus region. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Baku_1_2560x1280_a8fbe9dc38.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BAKU"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2560"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BAKU"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/baku"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7f7bd16acd7d4956a4e397eb0d02d91a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BAKU",
+            "og:description": "Baku is the capital and largest city of Azerbaijan, located on the Caspian Sea coast in the Caucasus region. ",
+            "og:url": "https://citiesabc.com/city/baku",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Baku_1_2560x1280_a8fbe9dc38.jpg",
+            "og:image:width": "2560",
+            "og:image:height": "1280",
+            "og:image:alt": "BAKU",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 397425
+      },
+      "content_length": 397425,
+      "audited_at": "2026-07-02T11:33:12.814061+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/athens",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.75,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "37.9838",
+              "longitude": "23.7275"
+            },
+            "url": "https://citiesabc.com/city/athens",
+            "name": "ATHENS",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/20230424_TGR_Travel_Trade_Day_One_0218_scaled_e52c5ce259.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "3,155,320 (2025)",
+            "postalCode": "100 xx, 101 xx, 104 xx, 105 xx, 106 xx, 111 xx, 112 xx, 113 xx, 114 xx, 115 xx, 116 xx, 118 xx",
+            "description": "Athens is the capital and largest city of Greece, located in the Attica region. As of 2025, the metropolitan area has a population of approximately 3,155,000 people. ",
+            "governmentType": "Mayor–council government",
+            "containedInPlace": {
+              "name": "Greece",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/athens",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Eastern European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Greek"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+30"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/athens",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Athens is the capital and largest city of Greece, located in the Attica region. As of 2025, the metropolitan area has a population of approximately 3,155,000 people. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/20230424_TGR_Travel_Trade_Day_One_0218_scaled_e52c5ce259.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "ATHENS"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1709"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2560"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ATHENS"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/athens"
+              }
+            ]
+          },
+          {
+            "@id": "_:N38577760ee21463d9b9a59f8a944807f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ATHENS",
+            "og:description": "Athens is the capital and largest city of Greece, located in the Attica region. As of 2025, the metropolitan area has a population of approximately 3,155,000 people. ",
+            "og:url": "https://citiesabc.com/city/athens",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/20230424_TGR_Travel_Trade_Day_One_0218_scaled_e52c5ce259.webp",
+            "og:image:width": "2560",
+            "og:image:height": "1709",
+            "og:image:alt": "ATHENS",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 390430
+      },
+      "content_length": 390430,
+      "audited_at": "2026-07-02T11:33:13.135349+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/abu-dhabi",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.22,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "24.4539",
+              "longitude": "54.3773"
+            },
+            "url": "https://citiesabc.com/city/abu-dhabi",
+            "name": "ABU DHABI",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/abu_dhabi_buildings_skyline_from_the_sea_2024_12_16_07_17_32_utc_c2425529ee.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "4.14 million",
+            "postalCode": "None",
+            "description": "Abu Dhabi is the capital of the United Arab Emirates (UAE) and its second-largest city. It is located on an island in the Persian Gulf and is known for its modern skyline, cultural landmarks, and rich oil reserves. ",
+            "governmentType": "Monarchical Government",
+            "containedInPlace": {
+              "name": "\t Saudi Arabia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/abu-dhabi",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UAE Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+971"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/abu-dhabi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Abu Dhabi is the capital of the United Arab Emirates (UAE) and its second-largest city. "
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/abu_dhabi_buildings_skyline_from_the_sea_2024_12_16_07_17_32_utc_c2425529ee.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "ABU DHABI"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3003"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4500"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ABU DHABI"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/abu-dhabi"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6829b14ea29f4260aaeb77c81b749bf0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ABU DHABI",
+            "og:description": "Abu Dhabi is the capital of the United Arab Emirates (UAE) and its second-largest city. ",
+            "og:url": "https://citiesabc.com/city/abu-dhabi",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/abu_dhabi_buildings_skyline_from_the_sea_2024_12_16_07_17_32_utc_c2425529ee.jpg",
+            "og:image:width": "4500",
+            "og:image:height": "3003",
+            "og:image:alt": "ABU DHABI",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 411342
+      },
+      "content_length": 411342,
+      "audited_at": "2026-07-02T11:33:19.614108+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/abidjan",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.688,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.36",
+              "longitude": "-4.0083"
+            },
+            "url": "https://citiesabc.com/city/abidjan",
+            "name": "ABIDJAN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Abidjan_enhanced_copy_07dc3cff70.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "4.707 million (2014)",
+            "postalCode": "01 BP. V 3 ABIDJAN 01",
+            "description": "Abidjan, the economic capital of Ivory Coast, is a lively and bustling city known for its modern architecture like St. Paul's Cathedral and the stunning skyscrapers in Plateau district. With a diverse population of over 4.7 million people, it is an economic powerhouse and a blend of traditional Ivorian culture and modern lifestyle.",
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "Côte d'Ivoire",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/abidjan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "French"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+225"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/abidjan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "ABIDJAN, the economic capital of Ivory Coast, boasts a vibrant culture and is home to over 4.7 million people. Discover this bustling West African hub. Explore the city!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Abidjan_enhanced_copy_07dc3cff70.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "ABIDJAN: Ivory Coast's Economic Capital, Culture & Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ABIDJAN: Ivory Coast's Economic Capital, Culture & Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/abidjan"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndc28f06532254878b8e9cb90f3f64e1a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ABIDJAN: Ivory Coast's Economic Capital, Culture & Tech Hub",
+            "og:description": "ABIDJAN, the economic capital of Ivory Coast, boasts a vibrant culture and is home to over 4.7 million people. Discover this bustling West African hub. Explore the city!",
+            "og:url": "https://citiesabc.com/city/abidjan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Abidjan_enhanced_copy_07dc3cff70.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "ABIDJAN: Ivory Coast's Economic Capital, Culture & Tech Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 358036
+      },
+      "content_length": 358036,
+      "audited_at": "2026-07-02T11:33:19.922258+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/accra",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.088,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.6037",
+              "longitude": "-0.187"
+            },
+            "url": "https://citiesabc.com/city/accra",
+            "name": "ACCRA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Accra_enhanced_copy_34d51b118a.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2.291 million",
+            "postalCode": "00233",
+            "description": "Accra, the capital of Ghana, is a vibrant and bustling city known for its lively markets, colonial-era architecture, and local landmarks like the Kwame Nkrumah Mausoleum and Independence Square. With its diverse population of over 2 million people speaking over 40 different languages, it is the administrative, economic, and cultural hub of the country, reflecting a mix of traditional heritage and modern development.",
+            "governmentType": "Metropolitan Assembly",
+            "containedInPlace": {
+              "name": "\t Ghana",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/accra",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+233"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nabae8be972fb4f6d9d770faf4cfecf1c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/accra",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Accra, Ghana's vibrant capital, features lively markets, colonial architecture, and major landmarks. It's a bustling economic and tech hub. Learn more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Accra_enhanced_copy_34d51b118a.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "ACCRA City Guide: Capital, Markets & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ACCRA City Guide: Capital, Markets & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/accra"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ACCRA City Guide: Capital, Markets & Top Sights",
+            "og:description": "Accra, Ghana's vibrant capital, features lively markets, colonial architecture, and major landmarks. It's a bustling economic and tech hub. Learn more!",
+            "og:url": "https://citiesabc.com/city/accra",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Accra_enhanced_copy_34d51b118a.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "ACCRA City Guide: Capital, Markets & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 366942
+      },
+      "content_length": 366942,
+      "audited_at": "2026-07-02T11:33:20.535692+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/baghdad",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 9.096,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "33.3152",
+              "longitude": "44.3661"
+            },
+            "url": "https://citiesabc.com/city/baghdad",
+            "name": "BAGHDAD",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Baghdad_enhanced_77bca18b74.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "7,144,260",
+            "postalCode": "10001-10090",
+            "description": "Baghdad, the capital of Iraq, is a historic and multicultural city known for landmarks like the Al-Mutanabbi Street and the Al-Shaheed Monument. With a diverse population of over 7 million people, it is a cultural heartland and a blend of ancient architecture and modern developments.",
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "\t Iraq",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/baghdad",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "AST (Arab Standard Time)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+964"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0758ef80ed1e43b5bf2a9f91d3f1c075",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/baghdad",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Baghdad, Iraq's historic capital, boasts a multicultural vibe and landmarks like Al-Mutanabbi Street. With over 7 million people, dive into its ancient architecture. Explore today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Baghdad_enhanced_77bca18b74.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Baghdad, Iraq: Capital City Guide, Culture & History"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Baghdad, Iraq: Capital City Guide, Culture & History"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/baghdad"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Baghdad, Iraq: Capital City Guide, Culture & History",
+            "og:description": "Baghdad, Iraq's historic capital, boasts a multicultural vibe and landmarks like Al-Mutanabbi Street. With over 7 million people, dive into its ancient architecture. Explore today!",
+            "og:url": "https://citiesabc.com/city/baghdad",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Baghdad_enhanced_77bca18b74.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "Baghdad, Iraq: Capital City Guide, Culture & History",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 384949
+      },
+      "content_length": 384949,
+      "audited_at": "2026-07-02T11:33:31.622924+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/belo-horizonte",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 9.284,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-19.9166813",
+              "longitude": "-43.9344931"
+            },
+            "url": "https://citiesabc.com/city/belo-horizonte",
+            "name": "BELO HORIZONTE",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Belo_Horizonte_eb83966fca.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,501,576",
+            "postalCode": "30000-000 to 31999-999",
+            "description": "Belo Horizonte, the capital of Minas Gerais, is a vibrant city known for its bustling markets and beautiful parkland. With a diverse population of over 2.5 million people, it is a major industrial hub and a blend of traditional Brazilian culture and modern innovation.",
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "\t Brazil",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/belo-horizonte",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "BRT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Portuguese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+55"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N26f11f063500435c9228223ff8fce8cb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/belo-horizonte",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "BELO HORIZONTE, capital of Minas Gerais, is a vibrant city known for its bustling markets and tech innovation. Explore top sights!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Belo_Horizonte_eb83966fca.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BELO HORIZONTE Guide: Capital of Minas Gerais, Top Sights & Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BELO HORIZONTE Guide: Capital of Minas Gerais, Top Sights & Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/belo-horizonte"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BELO HORIZONTE Guide: Capital of Minas Gerais, Top Sights & Tech Hub",
+            "og:description": "BELO HORIZONTE, capital of Minas Gerais, is a vibrant city known for its bustling markets and tech innovation. Explore top sights!",
+            "og:url": "https://citiesabc.com/city/belo-horizonte",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Belo_Horizonte_eb83966fca.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BELO HORIZONTE Guide: Capital of Minas Gerais, Top Sights & Tech Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 364951
+      },
+      "content_length": 364951,
+      "audited_at": "2026-07-02T11:33:32.029753+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/birmingham",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.271,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "52.4862",
+              "longitude": "-1.8904"
+            },
+            "url": "https://citiesabc.com/city/birmingham",
+            "name": "BIRMINGHAM",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Birmingham_enhanced_copy_306b628f8a.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,141,400",
+            "postalCode": "B, WS, WV",
+            "description": "Birmingham, the second largest city in England, is a historic and multicultural city known for distinctive landmarks like the Bullring Shopping Centre and the Birmingham Museum and Art Gallery. With a diverse population of over 1 million people, it is a major centre for commerce and industry, hosting a blend of traditional British architecture and modern innovation.",
+            "governmentType": "Metropolitan borough",
+            "containedInPlace": {
+              "name": "United Kingdom",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/birmingham",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT (UTC+0)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+44"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd0dade35490546c69f54ef2dbe25604a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/birmingham",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover BIRMINGHAM, England's vibrant second city with over 1 million people. Explore its rich history, major attractions, and dynamic business scene. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Birmingham_enhanced_copy_306b628f8a.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BIRMINGHAM Guide: England's Second City, Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BIRMINGHAM Guide: England's Second City, Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/birmingham"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BIRMINGHAM Guide: England's Second City, Top Sights",
+            "og:description": "Discover BIRMINGHAM, England's vibrant second city with over 1 million people. Explore its rich history, major attractions, and dynamic business scene. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/birmingham",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Birmingham_enhanced_copy_306b628f8a.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BIRMINGHAM Guide: England's Second City, Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 466789
+      },
+      "content_length": 466789,
+      "audited_at": "2026-07-02T11:33:30.316587+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bogota",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.011,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "4.711",
+              "longitude": "-74.0721"
+            },
+            "url": "https://citiesabc.com/city/bogota",
+            "name": "BOGOTA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Bogota_enhanced_copy_2d19cc044d.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "7.743 million (2021)",
+            "postalCode": "110111-112041",
+            "description": "Bogota, the capital of Colombia, is a historic and multicultural city known for iconic landmarks like Monserrate and the Gold Museum. With a diverse population of over 7 million people speaking many languages, it is a regional economic hub and a blend of colonial architecture and modern innovation.",
+            "alternateName": [
+              "Santa Fe de Bogotá",
+              "Bacata"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Colombia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bogota",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT-5"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+57"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7df020f128f948189463ed60898912eb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/bogota",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "BOGOTA, Colombia's historic capital, is a major economic hub with over 7 million people and iconic sights like Monserrate. Discover the city!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Bogota_enhanced_copy_2d19cc044d.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BOGOTA Guide: Colombia's Historic Capital & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BOGOTA Guide: Colombia's Historic Capital & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bogota"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BOGOTA Guide: Colombia's Historic Capital & Economic Hub",
+            "og:description": "BOGOTA, Colombia's historic capital, is a major economic hub with over 7 million people and iconic sights like Monserrate. Discover the city!",
+            "og:url": "https://citiesabc.com/city/bogota",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Bogota_enhanced_copy_2d19cc044d.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BOGOTA Guide: Colombia's Historic Capital & Economic Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 384550
+      },
+      "content_length": 384550,
+      "audited_at": "2026-07-02T11:33:39.359111+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bonn",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.113,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "50.7333",
+              "longitude": "7.1"
+            },
+            "url": "https://citiesabc.com/city/bonn",
+            "name": "BONN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Bonn_enhanced_copy_087751f205.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "330,000",
+            "postalCode": "53111-53229",
+            "description": "Bonn, the former capital of West Germany, is a historic city known for its rich cultural heritage, including Beethoven's birthplace and the University of Bonn. With a population of over 300,000 people speaking various languages, it is a hub of international cooperation and a blend of ancient charm and modern progress.",
+            "governmentType": "Lord Mayor-Council",
+            "containedInPlace": {
+              "name": "Germany",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bonn",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "German"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+49"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bonn",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "BONN, former capital of West Germany and Beethoven's birthplace, is a hub of international cooperation. Explore this historic city on the Rhine. Discover its charm!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Bonn_enhanced_copy_087751f205.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BONN: Former Capital, Beethoven's Birthplace, UN City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BONN: Former Capital, Beethoven's Birthplace, UN City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bonn"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf9209b1429d74d5f89d740053d28dbc3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BONN: Former Capital, Beethoven's Birthplace, UN City Guide",
+            "og:description": "BONN, former capital of West Germany and Beethoven's birthplace, is a hub of international cooperation. Explore this historic city on the Rhine. Discover its charm!",
+            "og:url": "https://citiesabc.com/city/bonn",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Bonn_enhanced_copy_087751f205.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BONN: Former Capital, Beethoven's Birthplace, UN City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 401000
+      },
+      "content_length": 401000,
+      "audited_at": "2026-07-02T11:33:38.220588+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/brisbane",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.012,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-27.4698",
+              "longitude": "153.0251"
+            },
+            "url": "https://citiesabc.com/city/brisbane",
+            "name": "BRISBANE",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Brisbane_Webp_f41c67578b.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2.189 million",
+            "postalCode": "4000-4179, 4300-4301, 4500-4549",
+            "description": "Brisbane, the capital of Queensland, is a modern and vibrant city known for iconic landmarks like the Story Bridge and the Wheel of Brisbane. With a diverse population of over 2.2 million people, it is an economic powerhouse and a blend of natural beauty and modern innovation.",
+            "alternateName": [
+              "Brissy",
+              "River City",
+              "Brisvegas"
+            ],
+            "governmentType": "Local government area",
+            "containedInPlace": {
+              "name": "Australia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/brisbane",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "AEST (UTC+10)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+61"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/brisbane",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover BRISBANE, Queensland's vibrant capital, home to over 2.2 million people. Explore iconic landmarks like Story Bridge and Wheel of Brisbane. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Brisbane_Webp_f41c67578b.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BRISBANE: Explore Queensland's Vibrant Capital & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2160"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3840"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BRISBANE: Explore Queensland's Vibrant Capital & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/brisbane"
+              }
+            ]
+          },
+          {
+            "@id": "_:N501c6d6dc4044314801f6746db8cb44f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BRISBANE: Explore Queensland's Vibrant Capital & Top Sights",
+            "og:description": "Discover BRISBANE, Queensland's vibrant capital, home to over 2.2 million people. Explore iconic landmarks like Story Bridge and Wheel of Brisbane. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/brisbane",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Brisbane_Webp_f41c67578b.webp",
+            "og:image:width": "3840",
+            "og:image:height": "2160",
+            "og:image:alt": "BRISBANE: Explore Queensland's Vibrant Capital & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 422844
+      },
+      "content_length": 422844,
+      "audited_at": "2026-07-02T11:33:39.137590+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bucharest",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 21,
+      "duration_seconds": 5.376,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "44.4268",
+              "longitude": "26.1025"
+            },
+            "url": "https://citiesabc.com/city/bucharest",
+            "name": "BUCHAREST",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Bucharest_enhanced_2c41e043ad.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.83 million",
+            "postalCode": "010001-061499",
+            "description": "Bucharest, the capital of Romania, is an eclectic and energetic city known for emblematic landmarks like the Palace of Parliament and the Arch of Triumph. With a diverse population of over 2 million people, it is a significant cultural, industrial, and financial hub, showcasing a mixture of historical architecture and modern innovation.",
+            "alternateName": [
+              "București",
+              "Paris of the East",
+              "Little Paris"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Romania",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bucharest",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Eastern European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Romanian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+40"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N575337cca21341dea07e26a90d2f655a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/bucharest",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "BUCHAREST, Romania's capital, is known as 'Little Paris' with iconic landmarks like the Palace of Parliament. Explore this vibrant cultural hub. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Bucharest_enhanced_2c41e043ad.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BUCHAREST Guide: Palace of Parliament, Transport & More"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BUCHAREST Guide: Palace of Parliament, Transport & More"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bucharest"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BUCHAREST Guide: Palace of Parliament, Transport & More",
+            "og:description": "BUCHAREST, Romania's capital, is known as 'Little Paris' with iconic landmarks like the Palace of Parliament. Explore this vibrant cultural hub. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/bucharest",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Bucharest_enhanced_2c41e043ad.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BUCHAREST Guide: Palace of Parliament, Transport & More",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 416963
+      },
+      "content_length": 416963,
+      "audited_at": "2026-07-02T11:33:45.843410+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/budapest",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.838,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "47.4979",
+              "longitude": "19.0402"
+            },
+            "url": "https://citiesabc.com/city/budapest",
+            "name": "BUDAPEST",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Budapest_enhanced_9c36b96242.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,752,286",
+            "postalCode": "1011 – 1239",
+            "description": "Budapest, the capital of Hungary, is a historic and cultural city famous for landmarks like the Budapest Parliament and the Chain Bridge. With a diverse population of over 1.7 million people speaking multiple languages, it is a key financial hub and a mix of ancient architecture and modern innovation.",
+            "alternateName": [
+              "Pest-Buda",
+              "Aquincum"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "Hungary",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/budapest",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "CET (UTC+1)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hungarian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+36"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N97aaa0d4cd844e06be4c339d3d3300b1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/budapest",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore BUDAPEST, Hungary's historic capital known for the Parliament and Chain Bridge. A key financial and tech hub with excellent public transport. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Budapest_enhanced_9c36b96242.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "BUDAPEST: Historic Capital, Top Sights & Financial Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BUDAPEST: Historic Capital, Top Sights & Financial Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/budapest"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BUDAPEST: Historic Capital, Top Sights & Financial Hub",
+            "og:description": "Explore BUDAPEST, Hungary's historic capital known for the Parliament and Chain Bridge. A key financial and tech hub with excellent public transport. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/budapest",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Budapest_enhanced_9c36b96242.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "BUDAPEST: Historic Capital, Top Sights & Financial Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 381017
+      },
+      "content_length": 381017,
+      "audited_at": "2026-07-02T11:33:46.884750+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/caracas",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.836,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "10.4806",
+              "longitude": "-66.9036"
+            },
+            "url": "https://citiesabc.com/city/caracas",
+            "name": "CARACAS",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Caracas_enhanced_b8aa45d717.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,942,652",
+            "postalCode": "1010",
+            "description": "Caracas, the capital of Venezuela, is a city rich in history, culture and natural beauty. Known for landmarks such as the Avila Mountain and the Central University of Venezuela, Caracas is a diverse city with a population of over 3 million people who speak Spanish and many indigenous languages. It is an important financial hub in South America and a vibrant blend of colonial architecture and modern innovation.",
+            "alternateName": [
+              "Santiago de León de Caracas",
+              "CCS"
+            ],
+            "governmentType": "Federal municipality",
+            "containedInPlace": {
+              "name": "\t Venezuela",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/caracas",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "VET (UTC?4)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+58"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/caracas",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover CARACAS, Venezuela's capital. Explore its rich culture, colonial architecture, and modern innovation. A major financial hub home to 3.3 million people. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Caracas_enhanced_b8aa45d717.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "CARACAS Guide: Venezuela's Capital, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "CARACAS Guide: Venezuela's Capital, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/caracas"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4bdf65326b9b461b8065faac7735b538",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "CARACAS Guide: Venezuela's Capital, Culture & Top Sights",
+            "og:description": "Discover CARACAS, Venezuela's capital. Explore its rich culture, colonial architecture, and modern innovation. A major financial hub home to 3.3 million people. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/caracas",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Caracas_enhanced_b8aa45d717.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "CARACAS Guide: Venezuela's Capital, Culture & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 396908
+      },
+      "content_length": 396908,
+      "audited_at": "2026-07-02T11:33:46.365931+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/chongqing",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.155,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "29.4316",
+              "longitude": "106.9123"
+            },
+            "url": "https://citiesabc.com/city/chongqing",
+            "name": "CHONGQING",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Chongqing_enhanced_3fe5d61018.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "30970000",
+            "postalCode": "4000 00 - 4099 00",
+            "description": "Chongqing, a major city in southwest China, is known for its unique urban landscape marked by the Yangtze and Jialing rivers and iconic landmarks like Hongya Cave and the Chongqing Skyline. With a population of over 30 million people, it is a major manufacturing and transportation hub and a blend of ancient culture and modern innovation.",
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t China",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/chongqing",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "China Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Mandarin Chinese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+86"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/chongqing",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover CHONGQING, a unique urban landscape at the confluence of the Yangtze and Jialing rivers. Explore its blend of ancient culture and modern innovation. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Chongqing_enhanced_3fe5d61018.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "CHONGQING City Guide: Rivers, Skylines & Innovation"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "CHONGQING City Guide: Rivers, Skylines & Innovation"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/chongqing"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nee859f8f49cf44aaad69788880f54c02",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "CHONGQING City Guide: Rivers, Skylines & Innovation",
+            "og:description": "Discover CHONGQING, a unique urban landscape at the confluence of the Yangtze and Jialing rivers. Explore its blend of ancient culture and modern innovation. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/chongqing",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Chongqing_enhanced_3fe5d61018.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "CHONGQING City Guide: Rivers, Skylines & Innovation",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 378288
+      },
+      "content_length": 378288,
+      "audited_at": "2026-07-02T11:33:53.349219+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/colombo",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.464,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "6.9271",
+              "longitude": "79.8612"
+            },
+            "url": "https://citiesabc.com/city/colombo",
+            "name": "COLOMBO",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Colombo_enhanced_copy_ef89224ab8.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "752,993",
+            "postalCode": "00000-00999",
+            "description": "Colombo, the capital of Sri Lanka, is a vibrant city known for its mix of modern architecture, colonial buildings and ruins. It is a bustling metropolis with a population of over 5.6 million people who speak a multitude of languages. It is a key financial centre and a fusion of old and new culture.",
+            "governmentType": "Municipal Council",
+            "containedInPlace": {
+              "name": "Sri Lanka",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/colombo",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Indian/Colombo"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Sinhala, Tamil"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+94"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ncda43e1456d94a3e87308b7d6f489221",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/colombo",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "COLOMBO, Sri Lanka's vibrant commercial capital, is a bustling metropolis known for its unique blend of modern and colonial architecture. Discover top sights now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Colombo_enhanced_copy_ef89224ab8.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "COLOMBO City Guide: Sri Lanka's Vibrant Capital & Port Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1440"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2560"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "COLOMBO City Guide: Sri Lanka's Vibrant Capital & Port Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/colombo"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "COLOMBO City Guide: Sri Lanka's Vibrant Capital & Port Hub",
+            "og:description": "COLOMBO, Sri Lanka's vibrant commercial capital, is a bustling metropolis known for its unique blend of modern and colonial architecture. Discover top sights now!",
+            "og:url": "https://citiesabc.com/city/colombo",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Colombo_enhanced_copy_ef89224ab8.webp",
+            "og:image:width": "2560",
+            "og:image:height": "1440",
+            "og:image:alt": "COLOMBO City Guide: Sri Lanka's Vibrant Capital & Port Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 387359
+      },
+      "content_length": 387359,
+      "audited_at": "2026-07-02T11:33:52.726273+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/columbus",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.656,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.9612",
+              "longitude": "-82.9988"
+            },
+            "url": "https://citiesabc.com/city/columbus",
+            "name": "COLUMBUS",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Columbus_enhanced_5ce2bff11d.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "898,553",
+            "postalCode": "43002, 43004, 43016, 43017, 43026, 43035, 43054, 43065, 43081, 43085, 43110, 43119, 43123, 43125, 43137, 43201, 43202, 43203, 43204, 43205, 43206, 43207, 43210, 43211, 43212, 43213, 43214, 43215, 43217, 43219, 43220, 43221, 43222, 43223, 43224, 43227, 432",
+            "description": "Columbus, the capital of Ohio, is a vibrant and evolving city known for its rich history, diverse culture, and iconic landmarks such as the Ohio Statehouse and the Scioto Mile. Home to a diverse population of over 900,000 people, it is an important center for finance, education, technology, and health care.",
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t United States",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/columbus",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Eastern Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd7a33e14f5bc42d39be1e0e6ac9bf992",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/columbus",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "COLUMBUS, Ohio's capital, is a vibrant city of over 900,000 people. Explore its rich history, diverse culture, and iconic landmarks like the Ohio Statehouse. Start your adventure!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Columbus_enhanced_5ce2bff11d.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "COLUMBUS: Ohio's Capital, History, Culture & Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "COLUMBUS: Ohio's Capital, History, Culture & Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/columbus"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "COLUMBUS: Ohio's Capital, History, Culture & Sights",
+            "og:description": "COLUMBUS, Ohio's capital, is a vibrant city of over 900,000 people. Explore its rich history, diverse culture, and iconic landmarks like the Ohio Statehouse. Start your adventure!",
+            "og:url": "https://citiesabc.com/city/columbus",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Columbus_enhanced_5ce2bff11d.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "COLUMBUS: Ohio's Capital, History, Culture & Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 376908
+      },
+      "content_length": 376908,
+      "audited_at": "2026-07-02T11:33:53.792789+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/dakar",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.907,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "14.716677",
+              "longitude": "-17.4676861"
+            },
+            "url": "https://citiesabc.com/city/dakar",
+            "name": "DAKAR",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Dakar_enhanced_1873f03abe.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,146,053",
+            "postalCode": "18XXX-19XXX",
+            "description": "Dakar, the capital of Senegal, is a vibrant and historic city known for its iconic landmarks like the African Renaissance Monument and Goree Island. With a diverse population of over 2.5 million people speaking numerous languages, it is a major economic and cultural hub, showcasing a blend of colonial architecture and modern innovation.",
+            "alternateName": [
+              "Dakhar"
+            ],
+            "governmentType": "Decentralized",
+            "containedInPlace": {
+              "name": "Senegal",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/dakar",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "French"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+221"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N043b939dc1884479b75785a8b09a91f6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/dakar",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover DAKAR, Senegal's vibrant capital and major cultural hub. Explore iconic landmarks like the African Renaissance Monument and Goree Island. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Dakar_enhanced_1873f03abe.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "DAKAR: Vibrant Capital of Senegal, Historic Landmarks, Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "DAKAR: Vibrant Capital of Senegal, Historic Landmarks, Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/dakar"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "DAKAR: Vibrant Capital of Senegal, Historic Landmarks, Culture",
+            "og:description": "Discover DAKAR, Senegal's vibrant capital and major cultural hub. Explore iconic landmarks like the African Renaissance Monument and Goree Island. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/dakar",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Dakar_enhanced_1873f03abe.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "DAKAR: Vibrant Capital of Senegal, Historic Landmarks, Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 391436
+      },
+      "content_length": 391436,
+      "audited_at": "2026-07-02T11:34:00.771802+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/damascus",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.458,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "33.5138",
+              "longitude": "36.2765"
+            },
+            "url": "https://citiesabc.com/city/damascus",
+            "name": "DAMASCUS",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Damascus_enhanced_69551c335e.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.711 million",
+            "postalCode": "22-3586",
+            "description": "Damascus, the capital of Syria, is an ancient and historic city known for iconic landmarks like the Umayyad Mosque and the ancient city of Damascus. With a diverse population of over 2 million people, it is a significant Middle Eastern cultural hub and a blend of ancient architecture and contemporary adaptation.",
+            "alternateName": [
+              "aš-Šām"
+            ],
+            "governmentType": "Governorate",
+            "containedInPlace": {
+              "name": "\t Syria",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/damascus",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "EET (UTC +2)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+963"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nfa06e996fade4a21b5e8a5f697812027",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/damascus",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "DAMASCUS, the ancient capital of Syria, is one of the world's oldest continuously inhabited cities. Discover its rich cultural heritage and iconic Umayyad Mosque. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Damascus_enhanced_69551c335e.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "DAMASCUS Guide: Ancient City, Umayyad Mosque, Cultural Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "DAMASCUS Guide: Ancient City, Umayyad Mosque, Cultural Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/damascus"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "DAMASCUS Guide: Ancient City, Umayyad Mosque, Cultural Hub",
+            "og:description": "DAMASCUS, the ancient capital of Syria, is one of the world's oldest continuously inhabited cities. Discover its rich cultural heritage and iconic Umayyad Mosque. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/damascus",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Damascus_enhanced_69551c335e.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "DAMASCUS Guide: Ancient City, Umayyad Mosque, Cultural Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 413223
+      },
+      "content_length": 413223,
+      "audited_at": "2026-07-02T11:34:00.419485+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/dar-es-sal",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.208,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-6.7924",
+              "longitude": "39.2083"
+            },
+            "url": "https://citiesabc.com/city/dar-es-sal",
+            "name": "DAR ES SALAAM",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Daressalaam_enhanced_copy_779a853adc.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "6,701,650",
+            "postalCode": "141xx, 151xx, 161xx, 171xx, 181xx",
+            "description": "Dar es Salaam, the capital of Tanzania, is a dynamic and multicultural city known for iconic features like the Kivukoni Fish Market and the Askari Monument. With a diverse population of over 6 million people speaking various languages, it is a significant economic hub and a blend of traditional architecture and modern innovation.",
+            "governmentType": "Regional administration",
+            "containedInPlace": {
+              "name": "\t Tanzania",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/dar-es-sal",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "East Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Swahili, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+255"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/dar-es-sal",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore DAR ES SALAAM, Tanzania's vibrant economic and cultural hub. Discover its unique blend of cultures, bustling markets, and iconic features. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Daressalaam_enhanced_copy_779a853adc.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "DAR ES SALAAM: Tanzania's Economic & Cultural Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "DAR ES SALAAM: Tanzania's Economic & Cultural Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/dar-es-sal"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc880a65e4acd402db1d8c3cb8937e3e1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "DAR ES SALAAM: Tanzania's Economic & Cultural Hub",
+            "og:description": "Explore DAR ES SALAAM, Tanzania's vibrant economic and cultural hub. Discover its unique blend of cultures, bustling markets, and iconic features. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/dar-es-sal",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Daressalaam_enhanced_copy_779a853adc.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "DAR ES SALAAM: Tanzania's Economic & Cultural Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 356511
+      },
+      "content_length": 356511,
+      "audited_at": "2026-07-02T11:34:00.117835+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/detroit",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.195,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "42.3314",
+              "longitude": "-83.0458"
+            },
+            "url": "https://citiesabc.com/city/detroit",
+            "name": "DETROIT",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Detroit_enhanced_7239dc7200.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "670031",
+            "postalCode": "48021-48288",
+            "description": "Detroit, the largest city in Michigan, is a historically significant and culturally diverse city known for its iconic landmarks such as the Detroit Institute of Arts and the Detroit Science Center. With a population of over 670,000 people, it is a major center for American automobile manufacturing and a blend of rich history and modern innovation.",
+            "alternateName": [
+              "Fort Pontchartrain du Détroit"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t United States",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/detroit",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Eastern Time Zone"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N69bc440df3c04a5b885d6c9bae6d0b9a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/detroit",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "DETROIT, Michigan's largest city, is a major center for American automobile manufacturing. Discover its rich history, diverse culture, and iconic landmarks. See more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Detroit_enhanced_7239dc7200.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "DETROIT City Guide: Auto Industry, Arts & History"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "DETROIT City Guide: Auto Industry, Arts & History"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/detroit"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "DETROIT City Guide: Auto Industry, Arts & History",
+            "og:description": "DETROIT, Michigan's largest city, is a major center for American automobile manufacturing. Discover its rich history, diverse culture, and iconic landmarks. See more!",
+            "og:url": "https://citiesabc.com/city/detroit",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Detroit_enhanced_7239dc7200.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "DETROIT City Guide: Auto Industry, Arts & History",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 402461
+      },
+      "content_length": 402461,
+      "audited_at": "2026-07-02T11:34:07.348207+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/fortaleza",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.737,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-3.7319",
+              "longitude": "-38.5267"
+            },
+            "url": "https://citiesabc.com/city/fortaleza",
+            "name": "FORTALEZA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Fortaleza_enhanced_4ac363a79a.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,686,612",
+            "postalCode": "60000-000 to 61999-999",
+            "description": "Fortaleza, the capital of Ceará, is a vibrant and sun-drenched city known for iconic landmarks like the Praia de Futuro and the Dragão do Mar Center of Art and Culture. With a diverse population of over 2 million people, it is a major tourist hub and a blend of colonial architecture and modern innovation.",
+            "alternateName": [
+              "Villa do Forte da Assumpção",
+              "Fortaleza Nova de Bragança"
+            ],
+            "governmentType": "Mayoralty",
+            "containedInPlace": {
+              "name": "\t Brazil",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/fortaleza",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "BRT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Portuguese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+55"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb032d04217e149e6a126b4493dced087",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/fortaleza",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "FORTALEZA is a vibrant, sun-drenched city and major tourist hub in Brazil. Explore its iconic landmarks like Praia de Futuro and over 30 km of beaches. Start exploring!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Fortaleza_enhanced_4ac363a79a.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "FORTALEZA City Guide: Beaches, Culture & Things to Do"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FORTALEZA City Guide: Beaches, Culture & Things to Do"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/fortaleza"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FORTALEZA City Guide: Beaches, Culture & Things to Do",
+            "og:description": "FORTALEZA is a vibrant, sun-drenched city and major tourist hub in Brazil. Explore its iconic landmarks like Praia de Futuro and over 30 km of beaches. Start exploring!",
+            "og:url": "https://citiesabc.com/city/fortaleza",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Fortaleza_enhanced_4ac363a79a.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "FORTALEZA City Guide: Beaches, Culture & Things to Do",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 368300
+      },
+      "content_length": 368300,
+      "audited_at": "2026-07-02T11:34:07.634383+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/fukuoka",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.734,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "33.5903",
+              "longitude": "130.4017"
+            },
+            "url": "https://citiesabc.com/city/fukuoka",
+            "name": "FUKUOKA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Fukuoka_f325df12a4.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.6 million",
+            "postalCode": "810-0001",
+            "description": "Fukuoka, the largest city in the Kyushu region of Japan, is a vibrant and modern city known for its ancient temples, beautiful parks, and dynamic food culture. With a population of over 1.5 million people, it is an important harbor city and a blend of traditional Japanese culture and modern innovation.",
+            "alternateName": [
+              "Hakata"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Japan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/fukuoka",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Japan Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Japanese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+81"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N99186e03fb3e45d19b4f09730d14141a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/fukuoka",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover FUKUOKA, Kyushu's largest city. Explore ancient temples, vibrant food culture, and Japan's top startup scene. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Fukuoka_f325df12a4.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "FUKUOKA: Japan's Startup City, Guide to Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FUKUOKA: Japan's Startup City, Guide to Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/fukuoka"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FUKUOKA: Japan's Startup City, Guide to Sights & Culture",
+            "og:description": "Discover FUKUOKA, Kyushu's largest city. Explore ancient temples, vibrant food culture, and Japan's top startup scene. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/fukuoka",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Fukuoka_f325df12a4.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "FUKUOKA: Japan's Startup City, Guide to Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 389249
+      },
+      "content_length": 389249,
+      "audited_at": "2026-07-02T11:34:07.688654+00:00"
     }
   ],
   "crawl_stats": {
