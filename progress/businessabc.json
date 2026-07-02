@@ -2,7 +2,7 @@
   "site_name": "businessabc",
   "sitemap_url": "https://businessabc.net/sitemap.xml",
   "created_at": "2026-07-02T11:26:32.812798+00:00",
-  "last_update": "2026-07-02T13:30:56.313782+00:00",
+  "last_update": "2026-07-02T13:34:01.790858+00:00",
   "status": "in_progress",
   "urls": [
     "https://businessabc.net",
@@ -11176,7 +11176,37 @@
     "https://businessabc.net/wiki/dynatrace-software",
     "https://businessabc.net/wiki/caesars-entertainment",
     "https://businessabc.net/wiki/varun-beverages",
-    "https://businessabc.net/wiki/severstal"
+    "https://businessabc.net/wiki/severstal",
+    "https://businessabc.net/wiki/shree-cement-limited",
+    "https://businessabc.net/wiki/l-e-lundbergforetagen",
+    "https://businessabc.net/wiki/barry-callevaut-ag",
+    "https://businessabc.net/wiki/nomura",
+    "https://businessabc.net/wiki/ryan-specialty-group",
+    "https://businessabc.net/wiki/entegris",
+    "https://businessabc.net/wiki/evergreen-marine-corp-taiwan",
+    "https://businessabc.net/wiki/charles-river-laboratories-international",
+    "https://businessabc.net/wiki/randstad",
+    "https://businessabc.net/wiki/ivanhoe-mines",
+    "https://businessabc.net/wiki/service-corp-international",
+    "https://businessabc.net/wiki/marketaxess",
+    "https://businessabc.net/wiki/divi-s-laboratories",
+    "https://businessabc.net/wiki/wolfspeed",
+    "https://businessabc.net/wiki/saputo-inc",
+    "https://businessabc.net/wiki/aramark",
+    "https://businessabc.net/wiki/the-carlyle-group",
+    "https://businessabc.net/wiki/icl-group",
+    "https://businessabc.net/wiki/boliden-group",
+    "https://businessabc.net/wiki/renault",
+    "https://businessabc.net/wiki/sino-group",
+    "https://businessabc.net/wiki/juniper-networks",
+    "https://businessabc.net/wiki/rede-d-or-sao-luiz",
+    "https://businessabc.net/wiki/intercontinental-hotels-group",
+    "https://businessabc.net/wiki/newscorporation",
+    "https://businessabc.net/wiki/implats",
+    "https://businessabc.net/wiki/sarepta-therapeutics",
+    "https://businessabc.net/wiki/hana-financial",
+    "https://businessabc.net/wiki/suntory-holdings",
+    "https://businessabc.net/wiki/emera"
   ],
   "results": [
     {
@@ -120182,6 +120212,2796 @@
       },
       "content_length": 167338,
       "audited_at": "2026-07-02T13:30:56.313471+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/shree-cement-limited",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.008,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Shree Cement",
+            "description": "",
+            "url": "https://businessabc.net/wiki/shree-cement-limited"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N711101254f76495a81774d046b52dfcd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/shree-cement-limited",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Shree Cement on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Shree Cement"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/shree-cement-limited"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Shree Cement",
+            "og:description": "Learn more about Shree Cement on citiesabc",
+            "og:url": "https://businessabc.net/wiki/shree-cement-limited",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155523
+      },
+      "content_length": 155523,
+      "audited_at": "2026-07-02T13:31:22.271268+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/l-e-lundbergforetagen",
+      "score": 58,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 8.745,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Lundbergföretagen",
+            "description": "",
+            "url": "https://businessabc.net/wiki/l-e-lundbergforetagen"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf976b9050fdc49bb895a60ce01b04cc2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/l-e-lundbergforetagen",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Lundbergföretagen on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Lundbergföretagen"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/l-e-lundbergforetagen"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Lundbergföretagen",
+            "og:description": "Learn more about Lundbergföretagen on citiesabc",
+            "og:url": "https://businessabc.net/wiki/l-e-lundbergforetagen",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155551
+      },
+      "content_length": 155551,
+      "audited_at": "2026-07-02T13:31:22.123995+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/barry-callevaut-ag",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.869,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Barry Callebaut",
+            "description": "",
+            "url": "https://businessabc.net/wiki/barry-callevaut-ag"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/barry-callevaut-ag",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Barry Callebaut on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Barry Callebaut"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/barry-callevaut-ag"
+              }
+            ]
+          },
+          {
+            "@id": "_:N83991a6fd664428899ebe6159d2ec695",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Barry Callebaut",
+            "og:description": "Learn more about Barry Callebaut on citiesabc",
+            "og:url": "https://businessabc.net/wiki/barry-callevaut-ag",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172806
+      },
+      "content_length": 172806,
+      "audited_at": "2026-07-02T13:31:30.222587+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/nomura",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.971,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Nomura Holdings",
+            "description": "",
+            "url": "https://businessabc.net/wiki/nomura"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/nomura",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Nomura Holdings on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Nomura Holdings"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/nomura"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1db3f827186e4863ae0b59f55985e29c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Nomura Holdings",
+            "og:description": "Learn more about Nomura Holdings on citiesabc",
+            "og:url": "https://businessabc.net/wiki/nomura",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160152
+      },
+      "content_length": 160152,
+      "audited_at": "2026-07-02T13:31:30.356041+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/ryan-specialty-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.442,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Ryan Specialty Group",
+            "description": "",
+            "url": "https://businessabc.net/wiki/ryan-specialty-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7fa2413326434ed1b6ac1108117c0617",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/ryan-specialty-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Ryan Specialty Group on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ryan Specialty Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/ryan-specialty-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ryan Specialty Group",
+            "og:description": "Learn more about Ryan Specialty Group on citiesabc",
+            "og:url": "https://businessabc.net/wiki/ryan-specialty-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153864
+      },
+      "content_length": 153864,
+      "audited_at": "2026-07-02T13:31:38.962916+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/entegris",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.475,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Entegris",
+            "description": "",
+            "url": "https://businessabc.net/wiki/entegris"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6fb04b8274c347ce84962bd97d496e70",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/entegris",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Entegris on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Entegris"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/entegris"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Entegris",
+            "og:description": "Learn more about Entegris on citiesabc",
+            "og:url": "https://businessabc.net/wiki/entegris",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156119
+      },
+      "content_length": 156119,
+      "audited_at": "2026-07-02T13:31:39.001808+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/evergreen-marine-corp-taiwan",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.322,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Evergreen Marine",
+            "description": "",
+            "url": "https://businessabc.net/wiki/evergreen-marine-corp-taiwan"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/evergreen-marine-corp-taiwan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Evergreen Marine on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Evergreen Marine"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/evergreen-marine-corp-taiwan"
+              }
+            ]
+          },
+          {
+            "@id": "_:N13d2aeebab60475cbbe82f7863074161",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Evergreen Marine",
+            "og:description": "Learn more about Evergreen Marine on citiesabc",
+            "og:url": "https://businessabc.net/wiki/evergreen-marine-corp-taiwan",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155818
+      },
+      "content_length": 155818,
+      "audited_at": "2026-07-02T13:31:46.462863+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/charles-river-laboratories-international",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.275,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Charles River Laboratories",
+            "description": "",
+            "url": "https://businessabc.net/wiki/charles-river-laboratories-international"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/charles-river-laboratories-international",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Charles River Laboratories on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Charles River Laboratories"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/charles-river-laboratories-international"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0039aade770c42d5b4b59b2ac0f6c8c7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Charles River Laboratories",
+            "og:description": "Learn more about Charles River Laboratories on citiesabc",
+            "og:url": "https://businessabc.net/wiki/charles-river-laboratories-international",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162982
+      },
+      "content_length": 162982,
+      "audited_at": "2026-07-02T13:31:47.370795+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/randstad",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.374,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Randstad",
+            "description": "",
+            "url": "https://businessabc.net/wiki/randstad"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne1ab9de738eb4ccb88525e95cb737792",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/randstad",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Randstad on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Randstad"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/randstad"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Randstad",
+            "og:description": "Learn more about Randstad on citiesabc",
+            "og:url": "https://businessabc.net/wiki/randstad",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 176769
+      },
+      "content_length": 176769,
+      "audited_at": "2026-07-02T13:31:55.895467+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/ivanhoe-mines",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.933,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Ivanhoe Mines",
+            "description": "",
+            "url": "https://businessabc.net/wiki/ivanhoe-mines"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/ivanhoe-mines",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Ivanhoe Mines on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ivanhoe Mines"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/ivanhoe-mines"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0f82219b11ac41ae8a4bf390defc36ec",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ivanhoe Mines",
+            "og:description": "Learn more about Ivanhoe Mines on citiesabc",
+            "og:url": "https://businessabc.net/wiki/ivanhoe-mines",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154645
+      },
+      "content_length": 154645,
+      "audited_at": "2026-07-02T13:31:55.379818+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/service-corp-international",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.006,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Service Corporation International",
+            "description": "",
+            "url": "https://businessabc.net/wiki/service-corp-international"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N245e6e14f90347c4a993048109e7b1b9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/service-corp-international",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Service Corporation International on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Service Corporation International"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/service-corp-international"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Service Corporation International",
+            "og:description": "Learn more about Service Corporation International on citiesabc",
+            "og:url": "https://businessabc.net/wiki/service-corp-international",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158551
+      },
+      "content_length": 158551,
+      "audited_at": "2026-07-02T13:32:04.030788+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/marketaxess",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.066,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "MarketAxess",
+            "description": "",
+            "url": "https://businessabc.net/wiki/marketaxess"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/marketaxess",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about MarketAxess on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MarketAxess"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/marketaxess"
+              }
+            ]
+          },
+          {
+            "@id": "_:N91fa4c825533499fa09ac97e71b5fd07",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MarketAxess",
+            "og:description": "Learn more about MarketAxess on citiesabc",
+            "og:url": "https://businessabc.net/wiki/marketaxess",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155371
+      },
+      "content_length": 155371,
+      "audited_at": "2026-07-02T13:32:04.069416+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/divi-s-laboratories",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.295,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Divis Laboratories",
+            "description": "",
+            "url": "https://businessabc.net/wiki/divi-s-laboratories"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N81a6ec31963542319c57796ff712308c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/divi-s-laboratories",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Divis Laboratories on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Divis Laboratories"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/divi-s-laboratories"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Divis Laboratories",
+            "og:description": "Learn more about Divis Laboratories on citiesabc",
+            "og:url": "https://businessabc.net/wiki/divi-s-laboratories",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154402
+      },
+      "content_length": 154402,
+      "audited_at": "2026-07-02T13:32:12.468000+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/wolfspeed",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.146,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Wolfspeed",
+            "description": "",
+            "url": "https://businessabc.net/wiki/wolfspeed"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/wolfspeed",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Wolfspeed on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Wolfspeed"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/wolfspeed"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ned37a9dba73a43339ca4c958b43726ce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Wolfspeed",
+            "og:description": "Learn more about Wolfspeed on citiesabc",
+            "og:url": "https://businessabc.net/wiki/wolfspeed",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154908
+      },
+      "content_length": 154908,
+      "audited_at": "2026-07-02T13:32:12.373146+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/saputo-inc",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.534,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Saputo",
+            "description": "",
+            "url": "https://businessabc.net/wiki/saputo-inc"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd917591dc7da4e09a27463f8110117b1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/saputo-inc",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Saputo on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Saputo"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/saputo-inc"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Saputo",
+            "og:description": "Learn more about Saputo on citiesabc",
+            "og:url": "https://businessabc.net/wiki/saputo-inc",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160472
+      },
+      "content_length": 160472,
+      "audited_at": "2026-07-02T13:32:22.296849+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/aramark",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.469,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Aramark",
+            "description": "",
+            "url": "https://businessabc.net/wiki/aramark"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/aramark",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Aramark on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Aramark"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/aramark"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na7461a6d2dd44b349ccf84b9135f7bc8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Aramark",
+            "og:description": "Learn more about Aramark on citiesabc",
+            "og:url": "https://businessabc.net/wiki/aramark",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161948
+      },
+      "content_length": 161948,
+      "audited_at": "2026-07-02T13:32:22.136806+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/the-carlyle-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 23.147,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Carlyle Group",
+            "description": "",
+            "url": "https://businessabc.net/wiki/the-carlyle-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ndb15bfc1d3a54ab8a6959910149a9446",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/the-carlyle-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Carlyle Group on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Carlyle Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/the-carlyle-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Carlyle Group",
+            "og:description": "Learn more about Carlyle Group on citiesabc",
+            "og:url": "https://businessabc.net/wiki/the-carlyle-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 186630
+      },
+      "content_length": 186630,
+      "audited_at": "2026-07-02T13:32:46.618037+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/icl-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 23.239,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Israel Chemicals",
+            "description": "",
+            "url": "https://businessabc.net/wiki/icl-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1ff21194766f474790c3073a8d3b28c4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/icl-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Israel Chemicals on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Israel Chemicals"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/icl-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Israel Chemicals",
+            "og:description": "Learn more about Israel Chemicals on citiesabc",
+            "og:url": "https://businessabc.net/wiki/icl-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157872
+      },
+      "content_length": 157872,
+      "audited_at": "2026-07-02T13:32:46.658799+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/boliden-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.954,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Boliden",
+            "description": "",
+            "url": "https://businessabc.net/wiki/boliden-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5d4eb361505947d49bcafffa477924b5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/boliden-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Boliden on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Boliden"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/boliden-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Boliden",
+            "og:description": "Learn more about Boliden on citiesabc",
+            "og:url": "https://businessabc.net/wiki/boliden-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 183069
+      },
+      "content_length": 183069,
+      "audited_at": "2026-07-02T13:32:55.680085+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/renault",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.95,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Renault",
+            "description": "Renault is a French multinational automobile manufacturer established in 1899.",
+            "url": "https://businessabc.net/wiki/renault"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/renault",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Renault is a French multinational automobile manufacturer established in 1899."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Renault"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/renault"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncdb2197950b24170be53d51c6b452116",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Renault",
+            "og:description": "Renault is a French multinational automobile manufacturer established in 1899.",
+            "og:url": "https://businessabc.net/wiki/renault",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 183884
+      },
+      "content_length": 183884,
+      "audited_at": "2026-07-02T13:32:54.825817+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sino-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.986,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sino Land",
+            "description": "",
+            "url": "https://businessabc.net/wiki/sino-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/sino-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Sino Land on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sino Land"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sino-group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf44ddbd78cd943de91ecf0a4653e0fda",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sino Land",
+            "og:description": "Learn more about Sino Land on citiesabc",
+            "og:url": "https://businessabc.net/wiki/sino-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153302
+      },
+      "content_length": 153302,
+      "audited_at": "2026-07-02T13:33:05.651086+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/juniper-networks",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.984,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Juniper Networks",
+            "description": "",
+            "url": "https://businessabc.net/wiki/juniper-networks"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/juniper-networks",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Juniper Networks on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Juniper Networks"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/juniper-networks"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbc7f66a8cbd34ebabc4a8579efb74dec",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Juniper Networks",
+            "og:description": "Learn more about Juniper Networks on citiesabc",
+            "og:url": "https://businessabc.net/wiki/juniper-networks",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 174131
+      },
+      "content_length": 174131,
+      "audited_at": "2026-07-02T13:33:05.540407+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/rede-d-or-sao-luiz",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.895,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Rede D'Or Sao Luiz",
+            "description": "",
+            "url": "https://businessabc.net/wiki/rede-d-or-sao-luiz"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/rede-d-or-sao-luiz",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Rede D'Or Sao Luiz on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Rede D'Or Sao Luiz"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/rede-d-or-sao-luiz"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8624aabdf30b4382846312149499ba97",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Rede D'Or Sao Luiz",
+            "og:description": "Learn more about Rede D'Or Sao Luiz on citiesabc",
+            "og:url": "https://businessabc.net/wiki/rede-d-or-sao-luiz",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154388
+      },
+      "content_length": 154388,
+      "audited_at": "2026-07-02T13:33:16.561051+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/intercontinental-hotels-group",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.485,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "InterContinental Hotels Group",
+            "description": "",
+            "url": "https://businessabc.net/wiki/intercontinental-hotels-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3fb5fcee82e74ab2924def85e5c0aa24",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/intercontinental-hotels-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about InterContinental Hotels Group on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "InterContinental Hotels Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/intercontinental-hotels-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "InterContinental Hotels Group",
+            "og:description": "Learn more about InterContinental Hotels Group on citiesabc",
+            "og:url": "https://businessabc.net/wiki/intercontinental-hotels-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 159742
+      },
+      "content_length": 159742,
+      "audited_at": "2026-07-02T13:33:16.265931+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/newscorporation",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 23.577,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "News Corp",
+            "description": "",
+            "url": "https://businessabc.net/wiki/newscorporation"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N01b808e0cde54669933872494a6e1cc0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/newscorporation",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about News Corp on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "News Corp"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/newscorporation"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "News Corp",
+            "og:description": "Learn more about News Corp on citiesabc",
+            "og:url": "https://businessabc.net/wiki/newscorporation",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177307
+      },
+      "content_length": 177307,
+      "audited_at": "2026-07-02T13:33:40.906913+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/implats",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 23.179,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Impala Platinum",
+            "description": "",
+            "url": "https://businessabc.net/wiki/implats"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/implats",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Impala Platinum on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Impala Platinum"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/implats"
+              }
+            ]
+          },
+          {
+            "@id": "_:N89c7459b0c7f495ea93460855c7007f5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Impala Platinum",
+            "og:description": "Learn more about Impala Platinum on citiesabc",
+            "og:url": "https://businessabc.net/wiki/implats",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 159100
+      },
+      "content_length": 159100,
+      "audited_at": "2026-07-02T13:33:40.946497+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sarepta-therapeutics",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.677,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sarepta Therapeutics",
+            "description": "",
+            "url": "https://businessabc.net/wiki/sarepta-therapeutics"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7c620838c5a64f039dae17dd6c04b6b9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/sarepta-therapeutics",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Sarepta Therapeutics on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sarepta Therapeutics"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sarepta-therapeutics"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sarepta Therapeutics",
+            "og:description": "Learn more about Sarepta Therapeutics on citiesabc",
+            "og:url": "https://businessabc.net/wiki/sarepta-therapeutics",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158701
+      },
+      "content_length": 158701,
+      "audited_at": "2026-07-02T13:33:52.244082+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/hana-financial",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.676,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Hana Financial Group",
+            "description": "",
+            "url": "https://businessabc.net/wiki/hana-financial"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/hana-financial",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Hana Financial Group on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Hana Financial Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/hana-financial"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7f58fe98c9bd4ac8a600419535268938",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Hana Financial Group",
+            "og:description": "Learn more about Hana Financial Group on citiesabc",
+            "og:url": "https://businessabc.net/wiki/hana-financial",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157965
+      },
+      "content_length": 157965,
+      "audited_at": "2026-07-02T13:33:52.588624+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/suntory-holdings",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.946,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Suntory",
+            "description": "",
+            "url": "https://businessabc.net/wiki/suntory-holdings"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N29758b070f8a48cc866b8490876dd1bd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/suntory-holdings",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Suntory on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Suntory"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/suntory-holdings"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Suntory",
+            "og:description": "Learn more about Suntory on citiesabc",
+            "og:url": "https://businessabc.net/wiki/suntory-holdings",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157993
+      },
+      "content_length": 157993,
+      "audited_at": "2026-07-02T13:34:01.790573+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/emera",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.943,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Emera",
+            "description": "",
+            "url": "https://businessabc.net/wiki/emera"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N77e7e23a9c3b43ca8030ab4b03311bbd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/emera",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Emera on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Emera"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/emera"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Emera",
+            "og:description": "Learn more about Emera on citiesabc",
+            "og:url": "https://businessabc.net/wiki/emera",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160161
+      },
+      "content_length": 160161,
+      "audited_at": "2026-07-02T13:34:01.691019+00:00"
     }
   ],
   "crawl_stats": {
