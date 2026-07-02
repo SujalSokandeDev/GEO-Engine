@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:43:00.642322+00:00",
+  "last_update": "2026-07-02T11:44:19.675456+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -818,7 +818,37 @@
     "https://citiesabc.com/wiki/the-university-of-manchester",
     "https://citiesabc.com/wiki/king-s-college-london",
     "https://citiesabc.com/wiki/banaras-hindu-university",
-    "https://citiesabc.com/wiki/vellore-institute-of-technology"
+    "https://citiesabc.com/wiki/vellore-institute-of-technology",
+    "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+    "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+    "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+    "https://citiesabc.com/wiki/jadavpur-university-ju",
+    "https://citiesabc.com/wiki/university-of-delhi",
+    "https://citiesabc.com/wiki/university-of-hyderabad",
+    "https://citiesabc.com/wiki/university-of-calcutta",
+    "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+    "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+    "https://citiesabc.com/wiki/anna-university",
+    "https://citiesabc.com/wiki/jamia-millia-islamia",
+    "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+    "https://citiesabc.com/wiki/university-of-madras",
+    "https://citiesabc.com/wiki/kerala-university",
+    "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+    "https://citiesabc.com/wiki/panjab-university",
+    "https://citiesabc.com/wiki/aligarh-muslim-university",
+    "https://citiesabc.com/wiki/osmania-university",
+    "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+    "https://citiesabc.com/wiki/gauhati-university",
+    "https://citiesabc.com/wiki/guru-nanak-dev-university",
+    "https://citiesabc.com/wiki/university-of-jammu",
+    "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+    "https://citiesabc.com/wiki/mumbai-university",
+    "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+    "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+    "https://citiesabc.com/wiki/christ-university",
+    "https://citiesabc.com/wiki/university-of-westminster",
+    "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+    "https://citiesabc.com/wiki/the-royal-veterinary-college"
   ],
   "results": [
     {
@@ -46790,6 +46820,4781 @@
       },
       "content_length": 163836,
       "audited_at": "2026-07-02T11:43:00.606586+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 17.781,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Science_II_Sc_40e748b0f0.png",
+            "name": "Indian Institute of Science (IISc)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://iisc.ac.in/",
+              "https://www.facebook.com/iiscbangalore/",
+              "https://in.linkedin.com/school/indian-institute-of-science/",
+              "https://twitter.com/iiscbangalore?lang=en",
+              "https://www.instagram.com/indian_institute_of_science/?hl=en",
+              "https://www.youtube.com/@indianinstituteofscienceii3263"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Karnataka",
+              "streetAddress": "CV Raman Rd, Bengaluru, Karnataka 560012, India",
+              "addressCountry": "India",
+              "addressLocality": "Bangalore"
+            },
+            "hasPart": [
+              {
+                "url": "https://iisc.ac.in/",
+                "name": "Indian Institute of Science (IISc)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Bangalore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.015289177869622",
+                "longitude": " 77.5658822"
+              },
+              "@type": "Place"
+            },
+            "description": "Indian Institute of Science (IISc) is the premier public research university in Bangalore, India, excelling in science, engineering, design, and management education.\n\n",
+            "foundingDate": "1909",
+            "alternateName": [
+              "IISc"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Indian Institute of Science (IISc), a premier research university established in 1909 in Bangalore, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Science_II_Sc_40e748b0f0.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Science (IISc) - Bangalore"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2440"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2440"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Science (IISc) - Bangalore"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc"
+              }
+            ]
+          },
+          {
+            "@id": "_:N728120166a8e4d6382a5fd20579a4bd2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Science (IISc) - Bangalore",
+            "og:description": "Discover the Indian Institute of Science (IISc), a premier research university established in 1909 in Bangalore, India.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-science-ii-sc",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Science_II_Sc_40e748b0f0.png",
+            "og:image:width": "2440",
+            "og:image:height": "2440",
+            "og:image:alt": "Indian Institute of Science (IISc) - Bangalore",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169768
+      },
+      "content_length": 169768,
+      "audited_at": "2026-07-02T11:43:22.605205+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 16.52,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Jawaharlal_Nehru_University_4542cda0d3.png",
+            "name": "Jawaharlal Nehru University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.jnu.ac.in/main/",
+              "https://www.facebook.com/officialjnu/",
+              "https://in.linkedin.com/school/jawaharlal-nehru-university-delhi/",
+              "https://twitter.com/jnu_official_50?lang=en",
+              "https://www.instagram.com/updatesjnu/?hl=en",
+              "https://www.youtube.com/channel/UCgYXOCR7ZI0c8X-V0qLZzCA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "postalCode": "110067",
+              "addressRegion": "Delhi",
+              "streetAddress": "Jawaharlal Nehru University, New Mehrauli Road, New Delhi - 110067, India.",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.jnu.ac.in/main/",
+                "name": "Jawaharlal Nehru University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.54080255860196",
+                "longitude": "77.1665334460245"
+              },
+              "@type": "Place"
+            },
+            "description": "A premier public research university in Delhi, India, renowned for its emphasis on social sciences, applied sciences, and international studies.",
+            "foundingDate": "1969",
+            "alternateName": [
+              "JNU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3ca69277b2c04d51b621436efd94136a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Jawaharlal Nehru University, established in 1969 in New Delhi, India, known for social sciences and applied sciences."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Jawaharlal_Nehru_University_4542cda0d3.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Jawaharlal Nehru University | Delhi, India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jawaharlal Nehru University | Delhi, India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/jawaharlal-nehru-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jawaharlal Nehru University | Delhi, India",
+            "og:description": "Discover Jawaharlal Nehru University, established in 1969 in New Delhi, India, known for social sciences and applied sciences.",
+            "og:url": "https://citiesabc.com/wiki/jawaharlal-nehru-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Jawaharlal_Nehru_University_4542cda0d3.png",
+            "og:image:width": "1080",
+            "og:image:height": "1080",
+            "og:image:alt": "Jawaharlal Nehru University | Delhi, India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164585
+      },
+      "content_length": 164585,
+      "audited_at": "2026-07-02T11:43:21.683864+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 17.779,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Amrita_Vishwa_Vidyapeetham_c306a68e1f.png",
+            "name": "Amrita Vishwa Vidyapeetham",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.amrita.edu/",
+              "https://www.facebook.com/AmritaUniversity/",
+              "https://ph.linkedin.com/school/amrita-vishwa-vidyapeetham-official/",
+              "https://twitter.com/amritaedu?lang=en",
+              "https://www.instagram.com/amrita_university/?hl=en",
+              "https://www.youtube.com/channel/UCVEeVDos5a4S9sMPK4jPUzA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Amrita University, Amritanagar, Ettimadai, Tamil Nadu 641112\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Coimbatore"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.amrita.edu/",
+                "name": "Amrita Vishwa Vidyapeetham",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Coimbatore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.904612239753673",
+                "longitude": "76.8983087846585"
+              },
+              "@type": "Place"
+            },
+            "description": "A premier research-intensive university offering diverse programs in engineering, medicine, business, sciences, arts, and more, fostering holistic education and societal impact.\n\n",
+            "foundingDate": "1994",
+            "alternateName": [
+              "Amrita University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nfb7c89662e0e4ce8a10a09a4896a8990",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn about Amrita Vishwa Vidyapeetham, established in 1994. Discover its diverse programs and high job integration rate."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Amrita_Vishwa_Vidyapeetham_c306a68e1f.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Amrita Vishwa Vidyapeetham - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Amrita Vishwa Vidyapeetham - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Amrita Vishwa Vidyapeetham - Established 1994",
+            "og:description": "Learn about Amrita Vishwa Vidyapeetham, established in 1994. Discover its diverse programs and high job integration rate.",
+            "og:url": "https://citiesabc.com/wiki/amrita-vishwa-vidyapeetham",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Amrita_Vishwa_Vidyapeetham_c306a68e1f.png",
+            "og:image:width": "1240",
+            "og:image:height": "1240",
+            "og:image:alt": "Amrita Vishwa Vidyapeetham - Established 1994",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165592
+      },
+      "content_length": 165592,
+      "audited_at": "2026-07-02T11:43:22.568076+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/jadavpur-university-ju",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.686,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/jadavpur-university-ju",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Jadavpur_University_JU_eb31839c4c.png",
+            "name": "Jadavpur University (JU)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://jadavpuruniversity.in/",
+              "https://www.facebook.com/JUinfo/",
+              "https://in.linkedin.com/school/jadavpur-university/",
+              "https://twitter.com/jufet?lang=en",
+              "https://www.instagram.com/jadavpur.university/",
+              "https://www.youtube.com/channel/UCzMtf1f4MYJl-UkVHsLV7OA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "West Bengal",
+              "streetAddress": "188, Raja Subodh Chandra Mallick Rd, Jadavpur, Kolkata, West Bengal 700032\n\n",
+              "addressCountry": "India",
+              "addressLocality": "KOLKATA"
+            },
+            "hasPart": [
+              {
+                "url": "https://jadavpuruniversity.in/",
+                "name": "Jadavpur University (JU)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "KOLKATA"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.499734649321006",
+                "longitude": "88.3714123"
+              },
+              "@type": "Place"
+            },
+            "description": "Jadavpur University, a pioneering research and technology institution since 1955, fosters innovation and societal impact across diverse disciplines.\n\n",
+            "foundingDate": "18 July 1906",
+            "alternateName": [
+              "JU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/jadavpur-university-ju",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne4ac0a8cd07f49b6865fd1b80e9be9e1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/jadavpur-university-ju",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Jadavpur University (JU), a leading research institution in Kolkata, India, known for its diverse programs and strong industry integration."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Jadavpur_University_JU_eb31839c4c.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Jadavpur University (JU) - Kolkata, India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1704"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1704"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jadavpur University (JU) - Kolkata, India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/jadavpur-university-ju"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jadavpur University (JU) - Kolkata, India",
+            "og:description": "Explore Jadavpur University (JU), a leading research institution in Kolkata, India, known for its diverse programs and strong industry integration.",
+            "og:url": "https://citiesabc.com/wiki/jadavpur-university-ju",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Jadavpur_University_JU_eb31839c4c.png",
+            "og:image:width": "1704",
+            "og:image:height": "1704",
+            "og:image:alt": "Jadavpur University (JU) - Kolkata, India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167726
+      },
+      "content_length": 167726,
+      "audited_at": "2026-07-02T11:43:28.400905+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-delhi",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.689,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-delhi",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Delhi_7d775478bf.png",
+            "name": "University of Delhi",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.du.ac.in/",
+              "https://www.facebook.com/UniversityofDelhi/",
+              "https://in.linkedin.com/school/delhi-university/",
+              "https://twitter.com/UnivofDelhi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "https://www.instagram.com/theduofficial/?hl=en",
+              "https://www.youtube.com/@UnivofDelhi/featured"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Delhi",
+              "streetAddress": "Benito Juarez Marg, South Campus, South Moti Bagh, New Delhi, Delhi 110021\n\n",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.du.ac.in/",
+                "name": "University of Delhi",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.58494187799408",
+                "longitude": "77.16385189999998"
+              },
+              "@type": "Place"
+            },
+            "description": "Delhi University is a prestigious central university in India, recognised for academic excellence and extensive research.\n\n",
+            "foundingDate": "1 May 1922",
+            "alternateName": [
+              "Delhi University",
+              "DU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-delhi",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-delhi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Delhi, established in 1922. Learn more about its global rankings and locations in New Delhi, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Delhi_7d775478bf.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Delhi - Established 1922"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "350"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "357"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Delhi - Established 1922"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-delhi"
+              }
+            ]
+          },
+          {
+            "@id": "_:N449fdca8ffbb464ea5b0add0705c97d8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Delhi - Established 1922",
+            "og:description": "Discover the University of Delhi, established in 1922. Learn more about its global rankings and locations in New Delhi, India.",
+            "og:url": "https://citiesabc.com/wiki/university-of-delhi",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Delhi_7d775478bf.png",
+            "og:image:width": "357",
+            "og:image:height": "350",
+            "og:image:alt": "University of Delhi - Established 1922",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167672
+      },
+      "content_length": 167672,
+      "audited_at": "2026-07-02T11:43:28.316405+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-hyderabad",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.688,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-hyderabad",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Hyderabad_32203034f9.png",
+            "name": "University of Hyderabad",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://uohyd.ac.in/",
+              "https://www.facebook.com/uohyd/",
+              "https://www.linkedin.com/school/university-of-hyderabad/?originalSubdomain=in",
+              "https://x.com/HydUniv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "https://www.instagram.com/uohyd/",
+              "https://www.youtube.com/channel/UCX2tQ5XhcMyzktbNdzpxHjQ"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Telangana",
+              "streetAddress": "Prof. C.R. Rao Road, P.O. Central University, Gachibowli, Hyderabad - 500046, Telangana, India\n\n",
+              "addressCountry": "India",
+              "addressLocality": "hyderabad"
+            },
+            "hasPart": [
+              {
+                "url": "https://uohyd.ac.in/",
+                "name": "University of Hyderabad",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "hyderabad"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "17.4623011599377",
+                "longitude": "78.3346205"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Hyderabad is a prestigious Indian institution known for its strong emphasis on research and academic excellence.",
+            "foundingDate": "1974",
+            "alternateName": [
+              "UoH"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-hyderabad",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-hyderabad",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the University of Hyderabad, established in 1974. Find out more about its research and academic excellence."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Hyderabad_32203034f9.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Hyderabad - Established 1974"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "342"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "340"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Hyderabad - Established 1974"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-hyderabad"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7c102ad7a3c644658c77fee76eabd8da",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Hyderabad - Established 1974",
+            "og:description": "Explore the University of Hyderabad, established in 1974. Find out more about its research and academic excellence.",
+            "og:url": "https://citiesabc.com/wiki/university-of-hyderabad",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Hyderabad_32203034f9.png",
+            "og:image:width": "340",
+            "og:image:height": "342",
+            "og:image:alt": "University of Hyderabad - Established 1974",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163327
+      },
+      "content_length": 163327,
+      "audited_at": "2026-07-02T11:43:28.365381+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-calcutta",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.369,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-calcutta",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Calcutta_7de242383d.png",
+            "name": "University of Calcutta",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.caluniv.ac.in/",
+              "https://www.facebook.com/UniversityCalcutta/",
+              "https://www.linkedin.com/school/university-of-calcutta/?originalSubdomain=in",
+              "https://x.com/uniofcalcutta?lang=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "West Bengal",
+              "streetAddress": "Senate House, 87/1, College Street, Kolkata - 700073, West Bengal, India\n\n",
+              "addressCountry": "India",
+              "addressLocality": "KOLKATA"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.caluniv.ac.in/",
+                "name": "University of Calcutta",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "KOLKATA"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.57617593959417",
+                "longitude": " 88.3627900539755"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Calcutta, known as Calcutta University (CU), is a prestigious public state university in Kolkata, India, with 151 affiliated colleges.\n\n",
+            "foundingDate": "24th January 1857",
+            "alternateName": [
+              "Calcutta University",
+              "CU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-calcutta",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-calcutta",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Calcutta, established in 1857. Learn more about its programs and academic offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Calcutta_7de242383d.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Calcutta - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Calcutta - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-calcutta"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6b8dd43786bb4538b0cb6a11b7c48b3c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Calcutta - Established 1857",
+            "og:description": "Discover the University of Calcutta, established in 1857. Learn more about its programs and academic offerings.",
+            "og:url": "https://citiesabc.com/wiki/university-of-calcutta",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Calcutta_7de242383d.png",
+            "og:image:width": "1080",
+            "og:image:height": "1080",
+            "og:image:alt": "University of Calcutta - Established 1857",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163312
+      },
+      "content_length": 163312,
+      "audited_at": "2026-07-02T11:43:33.995546+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.467,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Manipal_Academy_of_Higher_Education_fee56c1df9.png",
+            "name": "Manipal Academy of Higher Education",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.manipal.edu/mu.html",
+              "https://www.facebook.com/mahemanipal/",
+              "https://www.linkedin.com/school/manipalacademyofhighereducation/",
+              "https://x.com/mahe_manipal",
+              "https://www.instagram.com/mahe_manipal/",
+              "https://www.youtube.com/c/ManipalAcademyofHigherEducation"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Karnataka",
+              "streetAddress": "Tiger Circle Road, Madhav Nagar, Manipal, Karnataka 576104\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Manipal"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.manipal.edu/mu.html",
+                "name": "Manipal Academy of Higher Education",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Manipal"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.354324542756995",
+                "longitude": "74.7848955"
+              },
+              "@type": "Place"
+            },
+            "description": "Manipal Academy of Higher Education (MAHE) is a premier self-financing institution recognised as an Institution of Eminence, offering world-class education across various disciplines.",
+            "foundingDate": "1953",
+            "alternateName": [
+              "MAHE"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N58518560c8ae48cd915af1a597efe4bf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Manipal Academy of Higher Education, a premier institution established in 1953 in Karnataka, India. Explore its world-class education."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Manipal_Academy_of_Higher_Education_fee56c1df9.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Manipal Academy of Higher Education - Institution of Emin..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "390"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1222"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Manipal Academy of Higher Education - Institution of Emin..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/manipal-academy-of-higher-education"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Manipal Academy of Higher Education - Institution of Emin...",
+            "og:description": "Discover Manipal Academy of Higher Education, a premier institution established in 1953 in Karnataka, India. Explore its world-class education.",
+            "og:url": "https://citiesabc.com/wiki/manipal-academy-of-higher-education",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Manipal_Academy_of_Higher_Education_fee56c1df9.png",
+            "og:image:width": "1222",
+            "og:image:height": "390",
+            "og:image:alt": "Manipal Academy of Higher Education - Institution of Emin...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169967
+      },
+      "content_length": 169967,
+      "audited_at": "2026-07-02T11:43:34.034119+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.424,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Savitribai_Phule_Pune_University_810d9e5f44.png",
+            "name": "Savitribai Phule Pune University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "http://www.unipune.ac.in/",
+              "https://www.facebook.com/sppusavitribaiphuleunipune/",
+              "https://www.linkedin.com/school/university-of-pune/about/",
+              "https://x.com/UnivOfPune",
+              "https://www.instagram.com/sppu.puneuniversity/?hl=en",
+              "https://www.youtube.com/c/SavitribaiPhulePuneUniversityOfficial"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Maharashtra",
+              "streetAddress": "Ganeshkhind Rd, Ganeshkhind, Pune, Maharashtra 411007\n\n",
+              "addressCountry": "India",
+              "addressLocality": "PUNE"
+            },
+            "hasPart": [
+              {
+                "url": "http://www.unipune.ac.in/",
+                "name": "Savitribai Phule Pune University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "PUNE"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "18.553802441060416",
+                "longitude": "73.82628500795374"
+              },
+              "@type": "Place"
+            },
+            "description": "Savitribai Phule Pune University, a leading public research university in Pune, India, offers diverse programs and houses 46 academic departments.\n\n",
+            "foundingDate": "10 February 1949",
+            "alternateName": [
+              "SPPU",
+              "University of Pune"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Savitribai Phule Pune University, a leading public research university in Pune, India. Learn more about its programs and offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Savitribai_Phule_Pune_University_810d9e5f44.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Savitribai Phule Pune University | Pune, India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "356"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "356"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Savitribai Phule Pune University | Pune, India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/savitribai-phule-pune-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6afe2b416964455aa9e218e35658f99c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Savitribai Phule Pune University | Pune, India",
+            "og:description": "Discover Savitribai Phule Pune University, a leading public research university in Pune, India. Learn more about its programs and offerings.",
+            "og:url": "https://citiesabc.com/wiki/savitribai-phule-pune-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Savitribai_Phule_Pune_University_810d9e5f44.png",
+            "og:image:width": "356",
+            "og:image:height": "356",
+            "og:image:alt": "Savitribai Phule Pune University | Pune, India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167529
+      },
+      "content_length": 167529,
+      "audited_at": "2026-07-02T11:43:34.067965+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/anna-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.472,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/anna-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Anna_University_e50b2578b7.png",
+            "name": "Anna University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.annauniv.edu/",
+              "https://www.facebook.com/AnnaUniversity.Web/",
+              "https://in.linkedin.com/school/annauniversity-chennai/",
+              "https://twitter.com/auvcochennai?lang=en",
+              "https://www.instagram.com/annauniversity_updates/?hl=en",
+              "https://www.youtube.com/channel/UCvR0vYmjwNCmVFyTdSAKvMA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "TN",
+              "streetAddress": "12, Sardar Patel Rd, Anna University, Guindy, Chennai, Tamil Nadu 600025",
+              "addressCountry": "India",
+              "addressLocality": "Chennai"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.annauniv.edu/",
+                "name": "Anna University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chennai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.011310588128765",
+                "longitude": "80.23551063626714"
+              },
+              "@type": "Place"
+            },
+            "description": "Anna University, a premier institution in Chennai, offers diverse programs, fostering innovation, and academic excellence in engineering, technology, and beyond.\n\n",
+            "foundingDate": "1978",
+            "alternateName": [
+              "AU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/anna-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N08a62f2fd9cd424d84025de5c6555622",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/anna-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Anna University, established in 1978 in Chennai, Tamil Nadu, India. Explore its diverse programs and academic excellence."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Anna_University_e50b2578b7.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Anna University - Chennai, Tamil Nadu, India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1232"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Anna University - Chennai, Tamil Nadu, India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/anna-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Anna University - Chennai, Tamil Nadu, India",
+            "og:description": "Discover Anna University, established in 1978 in Chennai, Tamil Nadu, India. Explore its diverse programs and academic excellence.",
+            "og:url": "https://citiesabc.com/wiki/anna-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Anna_University_e50b2578b7.png",
+            "og:image:width": "1240",
+            "og:image:height": "1232",
+            "og:image:alt": "Anna University - Chennai, Tamil Nadu, India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166908
+      },
+      "content_length": 166908,
+      "audited_at": "2026-07-02T11:43:39.803005+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/jamia-millia-islamia",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.438,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/jamia-millia-islamia",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Jamia_Millia_Islamia_57694c9a2d.png",
+            "name": "Jamia Millia Islamia",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://jmi.ac.in/",
+              "https://www.facebook.com/jmiofficial",
+              "https://www.linkedin.com/in/jmiofficial/",
+              "https://x.com/jmiu_official",
+              "https://www.instagram.com/jamiamilliaislamia_official/",
+              "https://www.youtube.com/channel/UCZOGZZ8jpsnBUffIL-47UZw"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Delhi",
+              "streetAddress": "Jamia Millia Islamia, Jamia Nagar, New Delhi-110025, India \n\n",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://jmi.ac.in/",
+                "name": "Jamia Millia Islamia",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.562533252449754",
+                "longitude": "77.28031466015041"
+              },
+              "@type": "Place"
+            },
+            "description": "Jamia Millia Islamia, a renowned central university founded in 1920, in New Delhi, India, boasts top national and international rankings for its academic excellence.\n\n",
+            "foundingDate": "October 29, 1920",
+            "alternateName": [
+              "JMI"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/jamia-millia-islamia",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/jamia-millia-islamia",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Jamia Millia Islamia, a central university established in 1920 in New Delhi, India, known for its academic achievements."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Jamia_Millia_Islamia_57694c9a2d.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Jamia Millia Islamia - Founded 1920"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1080"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jamia Millia Islamia - Founded 1920"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/jamia-millia-islamia"
+              }
+            ]
+          },
+          {
+            "@id": "_:N30a8d43a87ea459aa3b488281dbe1eac",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jamia Millia Islamia - Founded 1920",
+            "og:description": "Discover Jamia Millia Islamia, a central university established in 1920 in New Delhi, India, known for its academic achievements.",
+            "og:url": "https://citiesabc.com/wiki/jamia-millia-islamia",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Jamia_Millia_Islamia_57694c9a2d.png",
+            "og:image:width": "1080",
+            "og:image:height": "1080",
+            "og:image:alt": "Jamia Millia Islamia - Founded 1920",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168342
+      },
+      "content_length": 168342,
+      "audited_at": "2026-07-02T11:43:39.768246+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.469,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Birla_Institute_of_Technology_and_Science_8c6a70c34a.png",
+            "name": "Birla Institute of Technology & Science",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.bits-pilani.ac.in/",
+              "https://www.facebook.com/universitybitspilani/",
+              "https://www.linkedin.com/school/birla-institute-of-technology-and-science-pilani/?originalSubdomain=in",
+              "https://x.com/bitspilaniindia",
+              "https://www.instagram.com/bitspilaniofficial/",
+              "https://www.youtube.com/user/BITSpilaniTechMedia/videos"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Rajasthan",
+              "streetAddress": "Birla Institute Of Technology And Science–Pilani, Vidya Vihar, Pilani, Rajasthan 333031\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Pilani"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.bits-pilani.ac.in/",
+                "name": "Birla Institute of Technology & Science",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Pilani"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.361269817267516",
+                "longitude": "75.5930356448676"
+              },
+              "@type": "Place"
+            },
+            "description": "A premier institute of higher education and a deemed university in India, renowned for its excellence in science, engineering, and research.\n\n",
+            "foundingDate": "1964",
+            "alternateName": [
+              "BITS",
+              "BITS Pilani"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Birla Institute of Technology & Science, a leading institute established in 1964 with excellent job integration rates."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Birla_Institute_of_Technology_and_Science_8c6a70c34a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Birla Institute of Technology & Science | Established 1964"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Birla Institute of Technology & Science | Established 1964"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5be0a6d4cad7487683697601a86b26ce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Birla Institute of Technology & Science | Established 1964",
+            "og:description": "Discover Birla Institute of Technology & Science, a leading institute established in 1964 with excellent job integration rates.",
+            "og:url": "https://citiesabc.com/wiki/birla-institute-of-technology-and-science",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Birla_Institute_of_Technology_and_Science_8c6a70c34a.png",
+            "og:image:width": "1240",
+            "og:image:height": "1240",
+            "og:image:alt": "Birla Institute of Technology & Science | Established 1964",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172453
+      },
+      "content_length": 172453,
+      "audited_at": "2026-07-02T11:43:39.729270+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-madras",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.663,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-madras",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Madras_9b6d7135e4.png",
+            "name": "University of Madras",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.unom.ac.in/",
+              "https://www.facebook.com/p/University-of-Madras-100057577353853/",
+              "https://www.linkedin.com/school/university-of-madras/?originalSubdomain=in"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Navalar Nagar, Chepauk, Triplicane, Chennai, Tamil Nadu 600005\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Chennai"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.unom.ac.in/",
+                "name": "University of Madras",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chennai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.066261988426792",
+                "longitude": "80.28314449681291"
+              },
+              "@type": "Place"
+            },
+            "description": "University of Madras is a prestigious public university located in Chennai that offers diverse academic programs and fosters a culture of excellence in research and education.\n\n",
+            "foundingDate": "5 September 1857",
+            "alternateName": [
+              "Madras University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-madras",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-madras",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the University of Madras, an esteemed institution founded in 1857. Learn more about its rich history and academic offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Madras_9b6d7135e4.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Madras - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "949"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Madras - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-madras"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd17c97bb446844d9b80c0f37927dab79",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Madras - Established 1857",
+            "og:description": "Explore the University of Madras, an esteemed institution founded in 1857. Learn more about its rich history and academic offerings.",
+            "og:url": "https://citiesabc.com/wiki/university-of-madras",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Madras_9b6d7135e4.png",
+            "og:image:width": "949",
+            "og:image:height": "1240",
+            "og:image:alt": "University of Madras - Established 1857",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164487
+      },
+      "content_length": 164487,
+      "audited_at": "2026-07-02T11:43:45.603431+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/kerala-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.665,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/kerala-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kerala_University_4188030ca7.png",
+            "name": "Kerala University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.keralauniversity.ac.in/home",
+              "https://www.facebook.com/universityofkerala/",
+              "https://www.linkedin.com/school/university-of-kerala/?originalSubdomain=in",
+              "https://www.instagram.com/universityofkerala/?hl=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Kerala",
+              "streetAddress": "University of Kerala Senate House Campus, Palayam, Thiruvananthapuram, Kerala 695034\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Thiruvananthapuram"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.keralauniversity.ac.in/home",
+                "name": "Kerala University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Thiruvananthapuram"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "8.504090649043347",
+                "longitude": "76.94729187266081"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Kerala, founded in 1937, offers diverse undergraduate, postgraduate, and doctoral programmes across various disciplines, promoting academic excellence and research innovation.\n\n",
+            "foundingDate": "1937",
+            "alternateName": [
+              "University of Travancore",
+              "KU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/kerala-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4e185509de9b4cd9b84391de9e783051",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/kerala-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Kerala University, established in 1937 and located in Thiruvananthapuram, Kerala. Learn more about its programs and affiliations."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kerala_University_4188030ca7.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kerala University | Established 1937"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "540"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "540"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kerala University | Established 1937"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/kerala-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kerala University | Established 1937",
+            "og:description": "Discover Kerala University, established in 1937 and located in Thiruvananthapuram, Kerala. Learn more about its programs and affiliations.",
+            "og:url": "https://citiesabc.com/wiki/kerala-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kerala_University_4188030ca7.png",
+            "og:image:width": "540",
+            "og:image:height": "540",
+            "og:image:alt": "Kerala University | Established 1937",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162989
+      },
+      "content_length": 162989,
+      "audited_at": "2026-07-02T11:43:45.567437+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.267,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kalinga_Institute_of_Industrial_Technology_666b0329c7.png",
+            "name": "Kalinga Institute of Industrial Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://kiit.ac.in/",
+              "https://www.facebook.com/KIITUniversity",
+              "https://www.linkedin.com/school/kiituniversity/",
+              "https://x.com/KIITUniversity",
+              "https://www.instagram.com/KIITUniversity/",
+              "https://www.youtube.com/channel/UC2x7DxsTyZj7XBa3hlLVPCQ"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "postalCode": "751024",
+              "addressRegion": "Odisha",
+              "streetAddress": "KIIT Rd, Patia, Bhubaneswar, Odisha 751024",
+              "addressCountry": "India",
+              "addressLocality": "BHUBANESWAR"
+            },
+            "hasPart": [
+              {
+                "url": "https://kiit.ac.in/",
+                "name": "Kalinga Institute of Industrial Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "BHUBANESWAR"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "20.35481630767652",
+                "longitude": "85.81530299030028"
+              },
+              "@type": "Place"
+            },
+            "description": "Kalinga Institute of Industrial Technology (KIIT), previously known as KIIT University, is a prestigious deemed university situated in Bhubaneswar, Odisha, India.\n\n",
+            "foundingDate": "1992",
+            "alternateName": [
+              "KIIT",
+              "KIIT University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na5e8d6cde01e47899ed399440350d6cd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Kalinga Institute of Industrial Technology (KIIT), established in 1992 in Bhubaneswar, Odisha, India. Learn more about its programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kalinga_Institute_of_Industrial_Technology_666b0329c7.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kalinga Institute of Industrial Technology - Bhubaneswar"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "952"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kalinga Institute of Industrial Technology - Bhubaneswar"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kalinga Institute of Industrial Technology - Bhubaneswar",
+            "og:description": "Discover Kalinga Institute of Industrial Technology (KIIT), established in 1992 in Bhubaneswar, Odisha, India. Learn more about its programs.",
+            "og:url": "https://citiesabc.com/wiki/kalinga-institute-of-industrial-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kalinga_Institute_of_Industrial_Technology_666b0329c7.png",
+            "og:image:width": "1240",
+            "og:image:height": "952",
+            "og:image:alt": "Kalinga Institute of Industrial Technology - Bhubaneswar",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167702
+      },
+      "content_length": 167702,
+      "audited_at": "2026-07-02T11:43:45.190876+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/panjab-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.727,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/panjab-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Panjab_University_0b421706b8.png",
+            "name": "Panjab University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://puchd.ac.in/",
+              "https://www.facebook.com/official.pu.india/",
+              "https://www.linkedin.com/school/panjab-university/about/",
+              "https://x.com/OfficialPU?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "https://www.instagram.com/officialpu.india/?hl=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Chandigarh",
+              "streetAddress": "Sector 14, Chandigarh, 160014\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Chandigarh"
+            },
+            "hasPart": [
+              {
+                "url": "https://puchd.ac.in/",
+                "name": "Panjab University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chandigarh"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.758169713114615",
+                "longitude": "76.76850323918461"
+              },
+              "@type": "Place"
+            },
+            "description": "Panjab University, located in Chandigarh, India, is considered a state university known for its academic excellence, diverse programs, and rich heritage.\n\n",
+            "foundingDate": "14 October 1882",
+            "alternateName": [
+              "PU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/panjab-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1dd993f6f6204e389b1fa049555c1348",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/panjab-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Panjab University, established in 1882 in Lahore and now located in Chandigarh, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Panjab_University_0b421706b8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Panjab University - Established 1882"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2058"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3040"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Panjab University - Established 1882"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/panjab-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Panjab University - Established 1882",
+            "og:description": "Discover Panjab University, established in 1882 in Lahore and now located in Chandigarh, India.",
+            "og:url": "https://citiesabc.com/wiki/panjab-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Panjab_University_0b421706b8.png",
+            "og:image:width": "3040",
+            "og:image:height": "2058",
+            "og:image:alt": "Panjab University - Established 1882",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162770
+      },
+      "content_length": 162770,
+      "audited_at": "2026-07-02T11:43:51.401150+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/aligarh-muslim-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.726,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/aligarh-muslim-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Aligarh_Muslim_University_101f004325.png",
+            "name": "Aligarh Muslim University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.amu.ac.in/",
+              "https://www.facebook.com/Aligarh.Muslim.University/",
+              "https://www.linkedin.com/school/aligarh-muslim-university/",
+              "https://x.com/theamupage?lang=en",
+              "https://www.instagram.com/theamupage/?hl=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "UP",
+              "streetAddress": "Aligarh Muslim University, Aligarh, Uttar Pradesh,\nIndia\n",
+              "addressCountry": "India",
+              "addressLocality": "Aligarh"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.amu.ac.in/",
+                "name": "Aligarh Muslim University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Aligarh"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "27.913552495647608",
+                "longitude": "78.07818981930383"
+              },
+              "@type": "Place"
+            },
+            "description": "Aligarh Muslim University is a premier public central university in Aligarh, Uttar Pradesh, offering over 300 courses and is recognised for its significant contributions to education and society.\n\n",
+            "foundingDate": "1875 ",
+            "alternateName": [
+              "AMU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/aligarh-muslim-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3f428b51a3ba416fa5494eed3a9cff21",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/aligarh-muslim-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Aligarh Muslim University, established in 1875. Learn more about its history and diverse course offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Aligarh_Muslim_University_101f004325.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Aligarh Muslim University | Established 1875"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "772"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "775"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Aligarh Muslim University | Established 1875"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/aligarh-muslim-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Aligarh Muslim University | Established 1875",
+            "og:description": "Discover Aligarh Muslim University, established in 1875. Learn more about its history and diverse course offerings.",
+            "og:url": "https://citiesabc.com/wiki/aligarh-muslim-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Aligarh_Muslim_University_101f004325.png",
+            "og:image:width": "775",
+            "og:image:height": "772",
+            "og:image:alt": "Aligarh Muslim University | Established 1875",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 168803
+      },
+      "content_length": 168803,
+      "audited_at": "2026-07-02T11:43:51.530847+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/osmania-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.724,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/osmania-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Osmania_University_8f2d8d868a.png",
+            "name": "Osmania University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.osmania.ac.in/",
+              "https://www.facebook.com/osmaniauniv",
+              "https://www.linkedin.com/school/osmania-university/?originalSubdomain=in",
+              "https://x.com/osmania1917",
+              "https://www.instagram.com/osmania_univ/",
+              "https://www.youtube.com/@OSMANIA-TV"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Telangana",
+              "streetAddress": "Osmania University Campus, Hyderabad-500007. Telangana State, India. \n\n",
+              "addressCountry": "India",
+              "addressLocality": "hyderabad"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.osmania.ac.in/",
+                "name": "Osmania University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "hyderabad"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "17.418208620953926",
+                "longitude": "78.52741139637362"
+              },
+              "@type": "Place"
+            },
+            "description": "Osmania University, a public institution in Hyderabad, Telangana, India, offers diverse undergraduate, postgraduate, and doctoral programmes across various disciplines.\n\n",
+            "foundingDate": "1918 ",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/osmania-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/osmania-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Osmania University, a public institution in Hyderabad, Telangana, India, established in 1918. Learn more about its diverse programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Osmania_University_8f2d8d868a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Osmania University - Established 1918"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1040"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1040"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Osmania University - Established 1918"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/osmania-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1a9f87abef6b45ee97e2ec0b3440c1f9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Osmania University - Established 1918",
+            "og:description": "Discover Osmania University, a public institution in Hyderabad, Telangana, India, established in 1918. Learn more about its diverse programs.",
+            "og:url": "https://citiesabc.com/wiki/osmania-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Osmania_University_8f2d8d868a.png",
+            "og:image:width": "1040",
+            "og:image:height": "1040",
+            "og:image:alt": "Osmania University - Established 1918",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169932
+      },
+      "content_length": 169932,
+      "audited_at": "2026-07-02T11:43:51.496288+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.21,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Thapar_Institute_of_Engineering_and_Technology_cbbe71b629.png",
+            "name": "Thapar Institute of Engineering & Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.thapar.edu/",
+              "https://www.facebook.com/officialTIET",
+              "https://www.linkedin.com/school/tietofficial/",
+              "https://x.com/?lang=en",
+              "https://www.instagram.com/tietofficial/",
+              "https://www.youtube.com/c/TIETOfficial"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Punjab",
+              "streetAddress": "Bhadson Rd, Adarsh Nagar, Prem Nagar, Patiala, Punjab 147004\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Patiala"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.thapar.edu/",
+                "name": "Thapar Institute of Engineering & Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Patiala"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.35665562185289",
+                "longitude": "76.36465827963609"
+              },
+              "@type": "Place"
+            },
+            "description": "Thapar Institute of Engineering & Technology is a premier engineering institution in India, renowned for academic excellence, research contributions, and innovative education since 1956.\n\n",
+            "foundingDate": "1956",
+            "alternateName": [
+              "TIET"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Thapar Institute of Engineering & Technology, established in 1956. Learn more about this premier institution in Patiala, Punjab, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Thapar_Institute_of_Engineering_and_Technology_cbbe71b629.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thapar Institute of Engineering & Technology | Establishe..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "546"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "660"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thapar Institute of Engineering & Technology | Establishe..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology"
+              }
+            ]
+          },
+          {
+            "@id": "_:N81261f7a219f479b8647929da6dfeb23",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thapar Institute of Engineering & Technology | Establishe...",
+            "og:description": "Discover Thapar Institute of Engineering & Technology, established in 1956. Learn more about this premier institution in Patiala, Punjab, India.",
+            "og:url": "https://citiesabc.com/wiki/thapar-institute-of-engineering-and-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Thapar_Institute_of_Engineering_and_Technology_cbbe71b629.png",
+            "og:image:width": "660",
+            "og:image:height": "546",
+            "og:image:alt": "Thapar Institute of Engineering & Technology | Establishe...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173294
+      },
+      "content_length": 173294,
+      "audited_at": "2026-07-02T11:43:58.790729+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/gauhati-university",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.416,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/gauhati-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Gauhati_University_c9a9b433f5.png",
+            "name": "Gauhati University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://gauhati.ac.in/",
+              "https://www.facebook.com/GauhatiUniversity/",
+              "https://www.linkedin.com/school/gauhati-university-guwahati/?originalSubdomain=in",
+              "https://x.com/gauhatiuni?lang=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Assam",
+              "streetAddress": "Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781014\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Guwahati"
+            },
+            "hasPart": [
+              {
+                "url": "https://gauhati.ac.in/",
+                "name": "Gauhati University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Guwahati"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "26.154168886549968",
+                "longitude": "91.66296679590357"
+              },
+              "@type": "Place"
+            },
+            "description": "Gauhati University, established in 1948, is a renowned public university in Assam, India, known for its academic excellence and diverse programs.\n\n",
+            "foundingDate": "26 January 1948",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/gauhati-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/gauhati-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Gauhati University, established in 1948 and a leading institution in Northeast India. Learn more about its academic offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Gauhati_University_c9a9b433f5.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Gauhati University | Established 1948"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2088"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1846"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Gauhati University | Established 1948"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/gauhati-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6210e313f430483faf5368ecae3432e4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Gauhati University | Established 1948",
+            "og:description": "Discover Gauhati University, established in 1948 and a leading institution in Northeast India. Learn more about its academic offerings.",
+            "og:url": "https://citiesabc.com/wiki/gauhati-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Gauhati_University_c9a9b433f5.png",
+            "og:image:width": "1846",
+            "og:image:height": "2088",
+            "og:image:alt": "Gauhati University | Established 1948",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169903
+      },
+      "content_length": 169903,
+      "audited_at": "2026-07-02T11:43:57.847147+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/guru-nanak-dev-university",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.972,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/guru-nanak-dev-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Guru_Nanak_Dev_University_1b01357dbc.png",
+            "name": "Guru Nanak Dev University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://gndu.ac.in/",
+              "https://www.facebook.com/gndu.ac.in",
+              "https://www.linkedin.com/school/guru-nanak-dev-university-amritsar/?originalSubdomain=in",
+              "https://x.com/gndu_amritsar",
+              "https://www.instagram.com/gndu_amritsar_india/",
+              "https://www.youtube.com/channel/UCZRm500zKs4WWq7n2AQxsuA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Punjab",
+              "streetAddress": "JRMG+J92, Chheharta Rd, Makka Singh Colony, Amritsar, Punjab 143005\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Amritsar"
+            },
+            "hasPart": [
+              {
+                "url": "https://gndu.ac.in/",
+                "name": "Guru Nanak Dev University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Amritsar"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "31.635730593827958",
+                "longitude": "74.8268971027193"
+              },
+              "@type": "Place"
+            },
+            "description": "Guru Nanak Dev University, established in 1969, is a leading public institution in Amritsar, India, renowned for academic excellence across diverse disciplines and a commitment to research and societal development.\n\n",
+            "foundingDate": "1969",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/guru-nanak-dev-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/guru-nanak-dev-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Guru Nanak Dev University, established in 1969, offering diverse courses in Amritsar, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Guru_Nanak_Dev_University_1b01357dbc.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Guru Nanak Dev University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "356"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "356"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Guru Nanak Dev University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/guru-nanak-dev-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne25528915d8f4643a2df027063181089",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Guru Nanak Dev University | Established 1969",
+            "og:description": "Discover Guru Nanak Dev University, established in 1969, offering diverse courses in Amritsar, India.",
+            "og:url": "https://citiesabc.com/wiki/guru-nanak-dev-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Guru_Nanak_Dev_University_1b01357dbc.png",
+            "og:image:width": "356",
+            "og:image:height": "356",
+            "og:image:alt": "Guru Nanak Dev University | Established 1969",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 170894
+      },
+      "content_length": 170894,
+      "audited_at": "2026-07-02T11:43:58.678423+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-jammu",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.858,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-jammu",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Jammu_9cd97fa94c.png",
+            "name": "University of Jammu",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.jammuuniversity.ac.in/#",
+              "https://www.facebook.com/JammuUniversity1",
+              "https://www.linkedin.com/school/nil1/?originalSubdomain=in",
+              "https://twitter.com/UniversityJammu",
+              "https://www.instagram.com/jammu_university_official",
+              "https://www.youtube.com/channel/UCsLO_VRfuLgpR4YAY6kNrFw"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Jammu and Kashmir",
+              "streetAddress": "Baba Saheb Ambedkar Road, Tawi, Jammu, Jammu and Kashmir 180006\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Jammu"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.jammuuniversity.ac.in/#",
+                "name": "University of Jammu",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Jammu"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "32.718928745005535",
+                "longitude": "74.8680028815937"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Jammu, established in 1969, is a prestigious public university in Jammu, India, offering a wide range of undergraduate, postgraduate, and doctoral programmes.\n\n",
+            "foundingDate": "1969",
+            "alternateName": [
+              "Jammu University",
+              "JU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-jammu",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-jammu",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Jammu, established in 1969. Learn about its A+ NAAC grade and ISO-9001 certification."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Jammu_9cd97fa94c.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Jammu | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1158"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1120"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Jammu | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-jammu"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nea826940e8f64189bc6942690bf2851d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Jammu | Established 1969",
+            "og:description": "Discover the University of Jammu, established in 1969. Learn about its A+ NAAC grade and ISO-9001 certification.",
+            "og:url": "https://citiesabc.com/wiki/university-of-jammu",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Jammu_9cd97fa94c.png",
+            "og:image:width": "1120",
+            "og:image:height": "1158",
+            "og:image:alt": "University of Jammu | Established 1969",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167967
+      },
+      "content_length": 167967,
+      "audited_at": "2026-07-02T11:44:05.832921+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.436,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Cochin_University_of_Science_and_Technology_2de054ef4a.png",
+            "name": "Cochin University of Science and Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://cusat.ac.in/",
+              "https://www.facebook.com/officialcusat",
+              "https://in.linkedin.com/school/cochin-university-of-science-and-technology/",
+              "https://x.com/cusat?lang=en",
+              "https://www.instagram.com/officialcusat/",
+              "https://www.youtube.com/channel/UCdfo9bvqrz_kvv3SK9wWEDw"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Kerala",
+              "streetAddress": "University Road, South Kalamassery, Kochi, Kerala, India\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Kochi"
+            },
+            "hasPart": [
+              {
+                "url": "https://cusat.ac.in/",
+                "name": "Cochin University of Science and Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Kochi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.043295472054847",
+                "longitude": "76.32435496740071"
+              },
+              "@type": "Place"
+            },
+            "description": "CUSAT, a leading federal university in India, offers diverse undergraduate, postgraduate, and doctoral programs across engineering, technology, sciences, humanities, law, and environmental studies, providing academic excellence and research innovation.\n\n",
+            "foundingDate": "1971",
+            "alternateName": [
+              "CUSAT",
+              "University of Cochin"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N85e40ce076a34627a0d0bccf840fad4e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Cochin University of Science and Technology, established in 1971, offering diverse programs and research opportunities."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Cochin_University_of_Science_and_Technology_2de054ef4a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Cochin University of Science and Technology | Established..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1608"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1316"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Cochin University of Science and Technology | Established..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Cochin University of Science and Technology | Established...",
+            "og:description": "Discover Cochin University of Science and Technology, established in 1971, offering diverse programs and research opportunities.",
+            "og:url": "https://citiesabc.com/wiki/cochin-university-of-science-and-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Cochin_University_of_Science_and_Technology_2de054ef4a.png",
+            "og:image:width": "1316",
+            "og:image:height": "1608",
+            "og:image:alt": "Cochin University of Science and Technology | Established...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 174839
+      },
+      "content_length": 174839,
+      "audited_at": "2026-07-02T11:44:06.348592+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/mumbai-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.972,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/mumbai-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Mumbai_University_629f04fba2.png",
+            "name": "Mumbai University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://mu.ac.in/",
+              "https://www.facebook.com/Official-University-of-Mumbai-1592096307699282/",
+              "https://www.linkedin.com/in/university-of-mumbai-ba0b7017b/",
+              "https://x.com/Uni_Mumbai",
+              "https://www.youtube.com/channel/UCNQQByo2cn85ijVt2bf07pw"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Maharashtra",
+              "streetAddress": "Mahatma Gandhi Road, Mantralaya, Fort, Mumbai, Maharashtra 400032\n\n",
+              "addressCountry": "India",
+              "addressLocality": "Mumbai"
+            },
+            "hasPart": [
+              {
+                "url": "https://mu.ac.in/",
+                "name": "Mumbai University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Mumbai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "18.92965760008727",
+                "longitude": "72.83101078107124"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Mumbai, situated in Mumbai, India, is a renowned public institution recognised for its comprehensive academic offerings and excellent reputation in higher education.\n\n",
+            "foundingDate": "18 July 1857",
+            "alternateName": [
+              "University of Bombay"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/mumbai-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/mumbai-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Mumbai University, a public institution in Mumbai, India, established in 1857. Explore its wide academic offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Mumbai_University_629f04fba2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Mumbai University - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2010"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2120"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Mumbai University - Established 1857"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/mumbai-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3055f77b11de42b499308951bc86e680",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Mumbai University - Established 1857",
+            "og:description": "Discover Mumbai University, a public institution in Mumbai, India, established in 1857. Explore its wide academic offerings.",
+            "og:url": "https://citiesabc.com/wiki/mumbai-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Mumbai_University_629f04fba2.png",
+            "og:image:width": "2120",
+            "og:image:height": "2010",
+            "og:image:alt": "Mumbai University - Established 1857",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164690
+      },
+      "content_length": 164690,
+      "audited_at": "2026-07-02T11:44:05.958595+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.293,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Lovely_Professional_University_LPU_586d8b8ead.png",
+            "name": "Lovely Professional University (LPU)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.lpu.in/",
+              "https://www.facebook.com/LPUUniversity",
+              "https://www.linkedin.com/company/lovely-professional-university",
+              "https://twitter.com/lpuuniversity",
+              "https://www.instagram.com/lpuuniversity/?hl=en",
+              "https://www.youtube.com/user/LPUuniversity"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Punjab",
+              "streetAddress": "Jalandhar-Delhi G.T. Road, Phagwara, Punjab - 144411, India",
+              "addressCountry": "India",
+              "addressLocality": "Phagwara"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.lpu.in/",
+                "name": "Lovely Professional University (LPU)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Phagwara"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "31.253539671482102",
+                "longitude": "75.705298584098"
+              },
+              "@type": "Place"
+            },
+            "description": "LPU is a leading private university in India, offering diverse programmes with a focus on academic excellence, research, innovation, and global exposure.\n\n",
+            "foundingDate": "2005",
+            "alternateName": [
+              "LPU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7a5549348de1422ba7db00eb73301b66",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Lovely Professional University (LPU), established in 2005 in Phagwara, Punjab, India. Explore its diverse programmes and global opportunities."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Lovely_Professional_University_LPU_586d8b8ead.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Lovely Professional University (LPU) - Established 2005"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1040"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1041"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Lovely Professional University (LPU) - Established 2005"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/lovely-professional-university-lpu"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Lovely Professional University (LPU) - Established 2005",
+            "og:description": "Discover Lovely Professional University (LPU), established in 2005 in Phagwara, Punjab, India. Explore its diverse programmes and global opportunities.",
+            "og:url": "https://citiesabc.com/wiki/lovely-professional-university-lpu",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Lovely_Professional_University_LPU_586d8b8ead.png",
+            "og:image:width": "1041",
+            "og:image:height": "1040",
+            "og:image:alt": "Lovely Professional University (LPU) - Established 2005",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177974
+      },
+      "content_length": 177974,
+      "audited_at": "2026-07-02T11:44:11.730480+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.294,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Goldsmiths_University_of_London_logo_b073cd9246.jpg",
+            "name": "Goldsmiths, University of London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.gold.ac.uk/about/",
+              "https://www.facebook.com/GoldsmithsUoL/",
+              "https://www.linkedin.com/school/143861/",
+              "https://x.com/goldsmithsuol",
+              "https://www.instagram.com/goldsmithsuol/",
+              "https://www.youtube.com/user/GoldsmithsLondon"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "8 Lewisham Way, London SE14 6NW, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.gold.ac.uk/about/",
+                "name": "Goldsmiths, University of London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.47435499830939",
+                "longitude": "-0.03577032599609669"
+              },
+              "@type": "Place"
+            },
+            "description": "Goldsmiths, University of London is a research-focused institution offering courses in arts, humanities, social sciences, computing, and business, known for its creative approach.",
+            "foundingDate": "1891, (Joined University of London in 1904)",
+            "alternateName": [
+              "Goldsmiths"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Goldsmiths, University of London, a research-focused institution established in 1891 offering courses in arts and humanities."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Goldsmiths_University_of_London_logo_b073cd9246.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Goldsmiths, University of London - Arts & Humanities"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "635"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2500"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Goldsmiths, University of London - Arts & Humanities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/goldsmiths-university-of-london"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5bead2b036ea41cfb88e955ffafb1ddb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Goldsmiths, University of London - Arts & Humanities",
+            "og:description": "Discover Goldsmiths, University of London, a research-focused institution established in 1891 offering courses in arts and humanities.",
+            "og:url": "https://citiesabc.com/wiki/goldsmiths-university-of-london",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Goldsmiths_University_of_London_logo_b073cd9246.jpg",
+            "og:image:width": "2500",
+            "og:image:height": "635",
+            "og:image:alt": "Goldsmiths, University of London - Arts & Humanities",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184929
+      },
+      "content_length": 184929,
+      "audited_at": "2026-07-02T11:44:11.770313+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/christ-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.532,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/christ-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Christ_University_41729eef31.png",
+            "name": "Christ University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://christuniversity.in/",
+              "https://www.facebook.com/www.christuniversity.in/?modal=admin_todo_tour",
+              "https://in.linkedin.com/school/christ-university-bangalore",
+              "https://twitter.com/christbangalore",
+              "https://www.instagram.com/christ_university_bangalore/",
+              "https://www.youtube.com/thechristuniversity"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Karnataka",
+              "streetAddress": "Hosur Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka, 560029, India",
+              "addressCountry": "India",
+              "addressLocality": "Bangalore"
+            },
+            "hasPart": [
+              {
+                "url": "https://christuniversity.in/",
+                "name": "Christ University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Bangalore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "Christ University, a deemed-to-be university, offers a wide range of undergraduate, postgraduate, and doctoral programmes, fostering academic excellence and holistic development.",
+            "foundingDate": "1969",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/christ-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4b33afedda1e4bd380417f54508d5308",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/christ-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Christ University, established in 1969. Discover its wide range of programmes across India. Learn more about its academic offerings."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Christ_University_41729eef31.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Christ University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "670"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "673"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Christ University | Established 1969"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/christ-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Christ University | Established 1969",
+            "og:description": "Explore Christ University, established in 1969. Discover its wide range of programmes across India. Learn more about its academic offerings.",
+            "og:url": "https://citiesabc.com/wiki/christ-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Christ_University_41729eef31.png",
+            "og:image:width": "673",
+            "og:image:height": "670",
+            "og:image:alt": "Christ University | Established 1969",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172048
+      },
+      "content_length": 172048,
+      "audited_at": "2026-07-02T11:44:11.805743+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-westminster",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.618,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-westminster",
+            "name": "University of Westminster",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.westminster.ac.uk/",
+              "https://www.facebook.com/UniOfWestminster/",
+              "https://www.linkedin.com/school/university-of-westminster/",
+              "https://www.instagram.com/uniwestminster/",
+              "https://www.youtube.com/user/UniOfWestminster"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "309 Regent Street, London, W1B 2HW",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.westminster.ac.uk/",
+                "name": "University of Westminster",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.517099837982094",
+                "longitude": "-0.14325474654332637"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Westminster, established in 1838 as the Royal Polytechnic Institution, is a public university in London. With four campuses—Regent Street, Marylebone, Cavendish, and Harrow—it offers undergraduate and postgraduate programs and is home to over 21,000 students from more than 169 countries.",
+            "foundingDate": "1838",
+            "alternateName": [
+              "Westminster"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-westminster",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-westminster",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Westminster, a London institution established in 1838, offering a wide range of courses."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Westminster - Established 1838"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-westminster"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6ae4fcfd98114991b56dcf2e95e599d1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Westminster - Established 1838",
+            "og:description": "Discover the University of Westminster, a London institution established in 1838, offering a wide range of courses.",
+            "og:url": "https://citiesabc.com/wiki/university-of-westminster",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177374
+      },
+      "content_length": 177374,
+      "audited_at": "2026-07-02T11:44:19.530613+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.615,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Tamil_Nadu_Agricultural_University_4ce30a1904.png",
+            "name": "Tamil Nadu Agricultural University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://tnau.ac.in/",
+              "https://www.facebook.com/p/Tamil-Nadu-Agricultural-University-TNAU-Kudumiyanmalai-100067868327063/",
+              "https://www.linkedin.com/school/tamil-nadu-agricultural-university/mycompany/?viewAsMember=true",
+              "https://twitter.com/tnau_coimbatore",
+              "https://www.instagram.com/tnau_coimbatore/?hl=en",
+              "https://www.youtube.com/@tnautv2557"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "TNAU - RI Block, Tamil Nadu Agricultural University, Lawley Rd, P N Pudur, Coimbatore, Tamil Nadu 641003",
+              "addressCountry": "India",
+              "addressLocality": "Coimbatore"
+            },
+            "hasPart": [
+              {
+                "url": "https://tnau.ac.in/",
+                "name": "Tamil Nadu Agricultural University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Coimbatore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "description": "TNAU is a premier agricultural university in Coimbatore, Tamil Nadu, offering education, research, and extension services in agriculture and allied sciences.",
+            "foundingDate": "1971",
+            "alternateName": [
+              "TNAU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Tamil Nadu Agricultural University, established in 1971 and located in Coimbatore. Learn about its UGC and ICAR affiliations."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Tamil_Nadu_Agricultural_University_4ce30a1904.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Tamil Nadu Agricultural University - Coimbatore, Tamil Nadu"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "382"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "440"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Tamil Nadu Agricultural University - Coimbatore, Tamil Nadu"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0f63a949e3d14b74bdd6a29d15b3b5f5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Tamil Nadu Agricultural University - Coimbatore, Tamil Nadu",
+            "og:description": "Discover Tamil Nadu Agricultural University, established in 1971 and located in Coimbatore. Learn about its UGC and ICAR affiliations.",
+            "og:url": "https://citiesabc.com/wiki/tamil-nadu-agricultural-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Tamil_Nadu_Agricultural_University_4ce30a1904.png",
+            "og:image:width": "440",
+            "og:image:height": "382",
+            "og:image:alt": "Tamil Nadu Agricultural University - Coimbatore, Tamil Nadu",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 175289
+      },
+      "content_length": 175289,
+      "audited_at": "2026-07-02T11:44:19.566296+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-royal-veterinary-college",
+      "score": 63,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.619,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-royal-veterinary-college",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/royal_veterinary_college_logo_5500f285db.jpeg",
+            "name": "The Royal Veterinary College",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.rvc.ac.uk/",
+              "https://www.facebook.com/theRVC?fref=ts",
+              "https://www.linkedin.com/school/royal-veterinary-college/",
+              "https://x.com/RoyalVetCollege",
+              "https://www.instagram.com/royalvetcollege",
+              "https://www.youtube.com/user/RoyalVetsLondon"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "4 Royal College St, London NW1 0TU, UK\n",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.rvc.ac.uk/",
+                "name": "The Royal Veterinary College",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.536726865727125",
+                "longitude": "-0.13381050335144784"
+              },
+              "@type": "Place"
+            },
+            "description": "Royal Veterinary College (RVC), University of London, is the UK’s oldest and largest veterinary school, offering veterinary, nursing, and biological science programmes with a focus on research and clinical excellence.",
+            "foundingDate": "1791",
+            "alternateName": [
+              "Royal Veterinary College",
+              "RVC"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-royal-veterinary-college",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-royal-veterinary-college",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The Royal Veterinary College, est. 1791, offering veterinary, nursing, and biological science programmes. Learn more about its research and clinical..."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/royal_veterinary_college_logo_5500f285db.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "The Royal Veterinary College - UK's Oldest"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The Royal Veterinary College - UK's Oldest"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-royal-veterinary-college"
+              }
+            ]
+          },
+          {
+            "@id": "_:N14c4d40ca9dd419881b1964bbaf6f362",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The Royal Veterinary College - UK's Oldest",
+            "og:description": "Discover The Royal Veterinary College, est. 1791, offering veterinary, nursing, and biological science programmes. Learn more about its research and clinical...",
+            "og:url": "https://citiesabc.com/wiki/the-royal-veterinary-college",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/royal_veterinary_college_logo_5500f285db.jpeg",
+            "og:image:width": "200",
+            "og:image:height": "200",
+            "og:image:alt": "The Royal Veterinary College - UK's Oldest",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184164
+      },
+      "content_length": 184164,
+      "audited_at": "2026-07-02T11:44:19.674939+00:00"
     }
   ],
   "crawl_stats": {
