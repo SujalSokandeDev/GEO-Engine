@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:49:52.131676+00:00",
+  "last_update": "2026-07-02T11:51:12.928547+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -998,7 +998,37 @@
     "https://citiesabc.com/wiki/university-of-roehampton",
     "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
     "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
-    "https://citiesabc.com/wiki/royal-northern-college-of-music"
+    "https://citiesabc.com/wiki/royal-northern-college-of-music",
+    "https://citiesabc.com/wiki/university-academy-92",
+    "https://citiesabc.com/wiki/university-of-liverpool",
+    "https://citiesabc.com/wiki/liverpool-hope-university",
+    "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+    "https://citiesabc.com/wiki/birmingham-city-university",
+    "https://citiesabc.com/wiki/birmingham-newman-university",
+    "https://citiesabc.com/page/citiesabc-homepage",
+    "https://citiesabc.com/page/cities",
+    "https://citiesabc.com/page/business-profiles",
+    "https://citiesabc.com/page/citiesabc-resources",
+    "https://citiesabc.com/page/citiesabc-largest-cities-index",
+    "https://citiesabc.com/page/citiesabc-lists",
+    "https://citiesabc.com/page/citiesabc-top-100-african-cities",
+    "https://citiesabc.com/page/citiesabc-wonders-of-the-world",
+    "https://citiesabc.com/page/universities",
+    "https://citiesabc.com/page/citiesabc_homepage",
+    "https://citiesabc.com/page/cities-homepage-bottom",
+    "https://citiesabc.com/page/citiesabc-zion-avatar",
+    "https://citiesabc.com/page/ayesha-kapoor-avatar",
+    "https://citiesabc.com/page/citiesabc-interviews",
+    "https://citiesabc.com/page/top-most-visited-cities-in-the-world",
+    "https://citiesabc.com/page/citiesabc-top-30-best-quality-of-life-cities-in-the-world",
+    "https://citiesabc.com/page/citiesabc-top-50-smart-cities",
+    "https://citiesabc.com/page/citiesabc-top-50-world-events",
+    "https://citiesabc.com/page/top-universities-in-vietnam",
+    "https://citiesabc.com/page/top-universities-in-malaysia",
+    "https://citiesabc.com/page/top-universities-in-india",
+    "https://citiesabc.com/experiences",
+    "https://citiesabc.com/privacy-policy",
+    "https://citiesabc.com/terms-of-service"
   ],
   "results": [
     {
@@ -75346,6 +75376,3648 @@
       },
       "content_length": 151750,
       "audited_at": "2026-07-02T11:49:51.976932+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-academy-92",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.433,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-academy-92",
+            "name": "University Academy 92",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.ua92.ac.uk/",
+              "https://www.facebook.com/UA92MCR/",
+              "https://uk.linkedin.com/school/ua92mcr",
+              "https://x.com/UA92MCR",
+              "https://www.instagram.com/ua92mcr/",
+              "https://www.youtube.com/channel/UCsWX6bOinSqRSyChJzj-wTQ"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Greater Manchester",
+              "streetAddress": "Brian Statham Way, Old Trafford, Manchester, M16 0PU, England",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "MANCHESTER"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.ua92.ac.uk/",
+                "name": "University Academy 92",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "MANCHESTER"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+              },
+              "@type": "Place"
+            },
+            "description": "University Academy 92 (UA92) is a higher education institution in Greater Manchester, England, co-founded by Lancaster University and members of Manchester United's Class of '92, offering industry-focused degrees.",
+            "foundingDate": "2017",
+            "alternateName": [
+              "UA92"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-academy-92",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/university-academy-92",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover University Academy 92, established in 2017 in Manchester, England. Explore its industry-focused degree programs."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University Academy 92 - Manchester, England"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-academy-92"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne5bdd5dedab64e53baa6a8923ffc2cc2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University Academy 92 - Manchester, England",
+            "og:description": "Discover University Academy 92, established in 2017 in Manchester, England. Explore its industry-focused degree programs.",
+            "og:url": "https://citiesabc.com/wiki/university-academy-92",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156090
+      },
+      "content_length": 156090,
+      "audited_at": "2026-07-02T11:50:00.140095+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-liverpool",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.432,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-liverpool",
+            "name": "University of Liverpool",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.liverpool.ac.uk/",
+              "https://www.facebook.com/UniversityofLiverpool/",
+              "https://uk.linkedin.com/school/university-of-liverpool/",
+              "https://x.com/LivUni",
+              "https://www.instagram.com/livuni/?hl=en",
+              "https://www.youtube.com/UofLTube"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Foundation Building, Brownlow Hill, Liverpool, L69 7ZX",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "LIVERPOOL"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.liverpool.ac.uk/",
+                "name": "University of Liverpool",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "LIVERPOOL"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Liverpool is a public research university in Liverpool, England, renowned for its academic excellence and research contributions.",
+            "foundingDate": "1881",
+            "alternateName": [
+              "UoL",
+              "LivUni"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-liverpool",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nffb9e2a6355b4c4e89a5b3a2e4278927",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-liverpool",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Liverpool, a Russell Group university established in 1881. Learn more about its extensive course offerings."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Liverpool - Established 1881"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-liverpool"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Liverpool - Established 1881",
+            "og:description": "Discover the University of Liverpool, a Russell Group university established in 1881. Learn more about its extensive course offerings.",
+            "og:url": "https://citiesabc.com/wiki/university-of-liverpool",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156967
+      },
+      "content_length": 156967,
+      "audited_at": "2026-07-02T11:50:00.176949+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/liverpool-hope-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.641,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/liverpool-hope-university",
+            "name": "Liverpool Hope University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.hope.ac.uk/",
+              "https://www.facebook.com/LiverpoolHopeUniversity/",
+              "https://uk.linkedin.com/school/liverpool-hope-university/",
+              "https://x.com/LiverpoolHopeUK",
+              "https://www.instagram.com/liverpoolhopeuk/",
+              "https://www.youtube.com/liverpoolhopeuni1"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Hope Park, Liverpool L16 9JD, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "LIVERPOOL"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.hope.ac.uk/",
+                "name": "Liverpool Hope University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "LIVERPOOL"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "53.391527",
+                "longitude": "-2.891907"
+              },
+              "@type": "Place"
+            },
+            "description": "Liverpool Hope University is a public university in Liverpool, England, with an ecumenical Christian foundation and a strong tradition of scholarship and research.",
+            "foundingDate": "1844",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/liverpool-hope-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8eb4061f8e2a40b68e862d7ba25971c8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/liverpool-hope-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Liverpool Hope University, a public university in Liverpool, England, established in 1844."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Liverpool Hope University - Established 1844"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/liverpool-hope-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Liverpool Hope University - Established 1844",
+            "og:description": "Discover Liverpool Hope University, a public university in Liverpool, England, established in 1844.",
+            "og:url": "https://citiesabc.com/wiki/liverpool-hope-university",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 152873
+      },
+      "content_length": 152873,
+      "audited_at": "2026-07-02T11:50:00.209981+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.622,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+            "name": "Liverpool School of Tropical Medicine",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.lstmed.ac.uk",
+              "https://www.facebook.com/LSTMED/",
+              "https://uk.linkedin.com/school/liverpool-school-of-tropical-medicine/",
+              "https://x.com/LSTMNews",
+              "https://www.instagram.com/lstmnews/?hl=en",
+              "https://www.youtube.com/channel/UC5K3DWvHQSmRaS_5n2uFlpg"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Pembroke Place, Liverpool L3 5QA, UK",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "LIVERPOOL"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.lstmed.ac.uk",
+                "name": "Liverpool School of Tropical Medicine",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "LIVERPOOL"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "53.4086503",
+                "longitude": "-2.9692698"
+              },
+              "@type": "Place"
+            },
+            "description": "The Liverpool School of Tropical Medicine is a world-leading postgraduate institution dedicated to research, education, and capacity strengthening in tropical medicine and global health.",
+            "foundingDate": "1898-11-14",
+            "alternateName": [
+              "LSTM"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the Liverpool School of Tropical Medicine, established in 1898. Learn about its postgraduate programs in tropical medicine and global health."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Liverpool School of Tropical Medicine | Established 1898"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd7b2d5c578d64762995805ce1518d0b7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Liverpool School of Tropical Medicine | Established 1898",
+            "og:description": "Explore the Liverpool School of Tropical Medicine, established in 1898. Learn about its postgraduate programs in tropical medicine and global health.",
+            "og:url": "https://citiesabc.com/wiki/liverpool-school-of-tropical-medicine",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158119
+      },
+      "content_length": 158119,
+      "audited_at": "2026-07-02T11:50:05.913656+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/birmingham-city-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.301,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/birmingham-city-university",
+            "name": "Birmingham City University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.bcu.ac.uk/",
+              "https://www.facebook.com/birminghamcityuniversity/",
+              "https://uk.linkedin.com/school/birmingham-city-university/",
+              "https://x.com/MyBCU",
+              "https://www.instagram.com/mybcu/",
+              "https://www.youtube.com/birminghamcityuni/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "University House, 15 Bartholomew Row, Birmingham, B5 5JU",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "BIRMINGHAM"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.bcu.ac.uk/",
+                "name": "Birmingham City University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "BIRMINGHAM"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "52.4833468",
+                "longitude": "-1.8847802"
+              },
+              "@type": "Place"
+            },
+            "description": "Birmingham City University is a diverse public university in Birmingham, England, focusing on practice-based learning and industry-relevant education.",
+            "foundingDate": "1843",
+            "alternateName": [
+              "BCU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/birmingham-city-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0295992c81cd4f0ea8f62f749bf11999",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/birmingham-city-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Birmingham City University, a public university in Birmingham, England, established in 1843. Learn about its career-focused approach."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Birmingham City University | Established 1843"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/birmingham-city-university"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Birmingham City University | Established 1843",
+            "og:description": "Explore Birmingham City University, a public university in Birmingham, England, established in 1843. Learn about its career-focused approach.",
+            "og:url": "https://citiesabc.com/wiki/birmingham-city-university",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158469
+      },
+      "content_length": 158469,
+      "audited_at": "2026-07-02T11:50:05.724941+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/birmingham-newman-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.302,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/birmingham-newman-university",
+            "name": "Birmingham Newman University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://newman.ac.uk/",
+              "https://www.facebook.com/newmanuniversity/",
+              "https://uk.linkedin.com/school/birmingham-newman-university/",
+              "https://x.com/Newman_Uni",
+              "https://www.instagram.com/birminghamnewmanuni/?hl=en",
+              "https://www.youtube.com/c/newmanuni/videos"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Birmingham Newman University, Genners Lane, Bartley Green, Birmingham B32 3NT",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "BIRMINGHAM"
+            },
+            "hasPart": [
+              {
+                "url": "https://newman.ac.uk/",
+                "name": "Birmingham Newman University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "BIRMINGHAM"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "52.4336",
+                "longitude": "-1.9938"
+              },
+              "@type": "Place"
+            },
+            "description": "Birmingham Newman University is a public university located in Bartley Green, Birmingham, offering a diverse range of undergraduate and postgraduate programs with a strong focus on social inclusion.",
+            "foundingDate": "1968",
+            "alternateName": [
+              "Newman University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/birmingham-newman-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/birmingham-newman-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Birmingham Newman University, established in 1968 in Birmingham, offering diverse programs."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Birmingham Newman University - Established 1968"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/birmingham-newman-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbbcc91059a44457e8ad3d8bc7ba93e0a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Birmingham Newman University - Established 1968",
+            "og:description": "Discover Birmingham Newman University, established in 1968 in Birmingham, offering diverse programs.",
+            "og:url": "https://citiesabc.com/wiki/birmingham-newman-university",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153815
+      },
+      "content_length": 153815,
+      "audited_at": "2026-07-02T11:50:05.638293+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-homepage",
+      "score": 49,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 21,
+      "duration_seconds": 6.231,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage#radix-_R_bld9bsnpfiaqivb_",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7e0ba869455d4cd996e5d2b5a711abbe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage#radix-_R_9ld9bsnpfiaqivb_",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6b6fc84f2b90467ea88eb85f13b4f5f9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage#radix-_R_ald9bsnpfiaqivb_",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage#radix-_R_dld9bsnpfiaqivb_",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": " Citiesabc | Homepage"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-homepage"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-homepage#radix-_R_cld9bsnpfiaqivb_",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd731629be608411a8aeb60951552917b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": " Citiesabc | Homepage",
+            "og:url": "https://citiesabc.com/page/citiesabc-homepage",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 9,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 256466
+      },
+      "content_length": 256466,
+      "audited_at": "2026-07-02T11:50:13.580914+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/cities",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 5.681,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/cities",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | cities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/cities"
+              }
+            ]
+          },
+          {
+            "@id": "_:N915aad2676d949f492482de8adaade55",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N20d291ef81484c86a9f185b07b0febf8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | cities",
+            "og:url": "https://citiesabc.com/page/cities",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 3,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 118775
+      },
+      "content_length": 118775,
+      "audited_at": "2026-07-02T11:50:12.837014+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/business-profiles",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 6.001,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne0b8820bb3ff4a3991fd87b983e3eb7b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2bb5dd2199ba4bacb022d2a400b71cb8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/business-profiles",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Business_Profiles_9cf3eccb6c.mp4"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Business Profiles"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Business Profiles"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/business-profiles"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2d70bd7c77464430b7db4df08d5dc33c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na90c40bc476e469cb0e60dc1884b54c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Business Profiles",
+            "og:url": "https://citiesabc.com/page/business-profiles",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Business_Profiles_9cf3eccb6c.mp4",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Business Profiles",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 5,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 126672
+      },
+      "content_length": 126672,
+      "audited_at": "2026-07-02T11:50:13.317732+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-resources",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 5.32,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N9358e6a240e04a498f3dff8cb26e6702",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-resources",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Resources"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-resources"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nda9a2750217b4db4842afc3cb2066bf7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Resources",
+            "og:url": "https://citiesabc.com/page/citiesabc-resources",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 3,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 148767
+      },
+      "content_length": 148767,
+      "audited_at": "2026-07-02T11:50:20.668284+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-largest-cities-index",
+      "score": 51,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 14,
+        "content": 6,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.194,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6b68e837aa1f4a9ab887183243ae3f34",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N76525df456e344aba0bad2b843b09424",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N092449c08cdc4646addc30b2ff75717b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-largest-cities-index",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the Top 100 Largest Cities in the world, ranked by population and area. Discover iconic landmarks, urban growth trends, and fascinating insights."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/top_largest_cities_banner_c4bed0a4d2.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Top 100 Largest Cities in the World "
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1792"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Top 100 Largest Cities in the World "
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-largest-cities-index"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Top 100 Largest Cities in the World ",
+            "og:description": "Explore the Top 100 Largest Cities in the world, ranked by population and area. Discover iconic landmarks, urban growth trends, and fascinating insights.",
+            "og:url": "https://citiesabc.com/page/citiesabc-largest-cities-index",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/top_largest_cities_banner_c4bed0a4d2.webp",
+            "og:image:width": "1792",
+            "og:image:height": "1024",
+            "og:image:alt": "Top 100 Largest Cities in the World ",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 136595
+      },
+      "content_length": 136595,
+      "audited_at": "2026-07-02T11:50:18.935327+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-lists",
+      "score": 49,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 14,
+        "content": 4,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 21,
+      "duration_seconds": 4.345,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5abe2b76b2f04aec9b85eb043e2ceb3e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-lists",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore comprehensive global city indexes with rankings on smart cities, quality of life, sustainability, and urban growth. Discover data, insights, and trends"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/top_largest_cities_banner_c4bed0a4d2.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Global City Indexes | Smart Cities, Quality of Life Rankings"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1024"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1792"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Global City Indexes | Smart Cities, Quality of Life Rankings"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-lists"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Global City Indexes | Smart Cities, Quality of Life Rankings",
+            "og:description": "Explore comprehensive global city indexes with rankings on smart cities, quality of life, sustainability, and urban growth. Discover data, insights, and trends",
+            "og:url": "https://citiesabc.com/page/citiesabc-lists",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/top_largest_cities_banner_c4bed0a4d2.webp",
+            "og:image:width": "1792",
+            "og:image:height": "1024",
+            "og:image:alt": "Global City Indexes | Smart Cities, Quality of Life Rankings",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 139425
+      },
+      "content_length": 139425,
+      "audited_at": "2026-07-02T11:50:18.964038+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-top-100-african-cities",
+      "score": 45,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 6,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.001,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N21025a4a50554f23ab8d6d5fa1b0018f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-top-100-african-cities",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/top_african_cities_1369b2efb8.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | top 100 african cities"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | top 100 african cities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-top-100-african-cities"
+              }
+            ]
+          },
+          {
+            "@id": "_:N52df9f7f062343f7879783ca3d2e6a88",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf1325b237f64472390ad5f428b15e81c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | top 100 african cities",
+            "og:url": "https://citiesabc.com/page/citiesabc-top-100-african-cities",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/top_african_cities_1369b2efb8.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | top 100 african cities",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 137759
+      },
+      "content_length": 137759,
+      "audited_at": "2026-07-02T11:50:25.769949+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-wonders-of-the-world",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 21,
+      "duration_seconds": 4.22,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7ebab96e9de1400ea7280f3428b0e4e1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncd9a5f47017a4068bf8bc267e4aa46ed",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N61e2bd766c134168aca2068e9f00a5d7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfa5e9be9d5584cd4a03a58daa0de8fff",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-wonders-of-the-world",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Wonders_hero_6aaec7a97f.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Wonders of the world"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Wonders of the world"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-wonders-of-the-world"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Wonders of the world",
+            "og:url": "https://citiesabc.com/page/citiesabc-wonders-of-the-world",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Wonders_hero_6aaec7a97f.webp",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Wonders of the world",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 5,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 114500
+      },
+      "content_length": 114500,
+      "audited_at": "2026-07-02T11:50:25.862651+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/universities",
+      "score": 40,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 1,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 24,
+      "duration_seconds": 4.221,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/universities",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Universities & Schools"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/universities"
+              }
+            ]
+          },
+          {
+            "@id": "_:N69c72dfa2ed547008a35c79a21d876d3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Universities & Schools",
+            "og:url": "https://citiesabc.com/page/universities",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 106606
+      },
+      "content_length": 106606,
+      "audited_at": "2026-07-02T11:50:25.996654+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc_homepage",
+      "score": 53,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 18.891,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "site": "citiesabc.com",
+            "h1_seo_map": [
+              {
+                "h1": "Explore the World’s Cities, Universities, Rankings & Smart City Innovation",
+                "url": "https://citiesabc.com/"
+              },
+              {
+                "h1": "Discover Global Cities: Data, Culture, Innovation & Rankings",
+                "url": "https://citiesabc.com/page/cities"
+              },
+              {
+                "h1": "Top Universities & Schools Shaping the Cities of the Future",
+                "url": "https://citiesabc.com/page/universities"
+              },
+              {
+                "h1": "Smart City News, Research & Urban Innovation Resources",
+                "url": "https://citiesabc.com/page/citiesabc-resources"
+              },
+              {
+                "h1": "Interviews with City Leaders, Innovators & Urban Experts",
+                "url": "https://citiesabc.com/page/citiesabc-interviews"
+              },
+              {
+                "h1": "City Rankings, Benchmarks & Global Urban Performance Lists",
+                "url": "https://citiesabc.com/page/citiesabc-lists"
+              },
+              {
+                "h1": "City Experiences: Travel, Culture, Heritage & Lifestyle",
+                "url": "https://citiesabc.com/experiences"
+              },
+              {
+                "h1": "Cities of the World Marketplace Collection",
+                "url": "https://citiesabc.com/marketplace/collections/cities-of-the-world"
+              },
+              {
+                "h1": "Blueprint for Smart Cities: A New Social Contract for Urban Futures",
+                "url": "https://citiesabc.com/blueprint-smart-cities"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7da804e80f854f76a1bfeab6ace08836",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/citiesabc_homepage",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover global cities, universities, rankings, resources, and smart-city insights on CitiesABC. Explore curated data, stories, and experiences shaping urban futures."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Frame_1618873033_1_5e10af8d82.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Homepage"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "CitiesABC — Global Cities, Universities, Rankings, Experiences & Smart City Insights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1e432b1345094604a97ec9235a079249",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N51278fd3b3dd4b75bbfc483a475f77de",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfe716b0c290446fcb8314efc4e57b4c3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf7970b93b63b4ba494481e00f43530e5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9ba00937c0104d75923759b22889f66e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf704bc58c3474cd8bde87bd76aae24ad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2bafec44796b430fb9e5bb122389d944",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf2b43bb5b48c4c36bf603e60dd51aacc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N44dcc0f69b3a464db064ac5d299bd542",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N484803a87d324d27b7be7e2670f039ba",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N06fbb7ec1e79449bad8238746fc387ad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N796df4fc565c43498f131cb0b35c30e9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7edab6295ac34219b1768177bdb230b7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na899786a5a6949009c2cd455442cbcea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5c2368617d814b228c25c6b73a0e7537",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N90dbb0443fad4517a7ff3f2f956ab6dc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8d2912a43b2a4049b588725810b68c3d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3230ae8e9021464cb1564d7a7656b065",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7e375dc374154a8dbd4f980145e2aebf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N39194826a3f943d393e70b9d0da3e322",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N95b54fc72d684604ad3ef54134b9eee1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N31adc38760d6452ca07cc5e5a3c4075f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd10a92327c674398a2499d7a83ac790c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbace40f3ada74b3194bf2b5bb9dc0277",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nba5a1f6ad2b641aaa3fd677830205914",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N67b50b76fa4d4be69ecd4ce9adff8a3f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nedbd35ba121b4bf0a45573c974c34245",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N417bc0b8520f46a1b9acf0a3b8d8f652",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N53f7e42102a14059821530eee7ed5fa7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neca550f3dc7e4f5b917d4310dd05aeae",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2182ca444ed745d9920d637fe7fd02a7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N69b9ba90191f43ea8256f575fcc04367",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N12867a08fc4642c096c54d9302c35d0a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndd7a41e78d4e4e86a14c3686f45f8bc1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N059c06f8124c4a2195d8e205d038d55a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "CitiesABC — Global Cities, Universities, Rankings, Experiences & Smart City Insights",
+            "og:description": "Discover global cities, universities, rankings, resources, and smart-city insights on CitiesABC. Explore curated data, stories, and experiences shaping urban futures.",
+            "og:url": "https://citiesabc.com",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Frame_1618873033_1_5e10af8d82.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Homepage",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 37,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 499517
+      },
+      "content_length": 499517,
+      "audited_at": "2026-07-02T11:50:49.561756+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/cities-homepage-bottom",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 24,
+      "duration_seconds": 5.814,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1e464ddd69c64959a39f3fefe25684c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/cities-homepage-bottom",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Homepage Bottom"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/cities-homepage-bottom"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Homepage Bottom",
+            "og:url": "https://citiesabc.com/page/cities-homepage-bottom",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 137248
+      },
+      "content_length": 137248,
+      "audited_at": "2026-07-02T11:50:32.933970+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-zion-avatar",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 24,
+      "duration_seconds": 4.597,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-zion-avatar",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "citiesabc | Zion avatar"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-zion-avatar"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nedb650217cd8475f9cb0940622af8d9b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "citiesabc | Zion avatar",
+            "og:url": "https://citiesabc.com/page/citiesabc-zion-avatar",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 109007
+      },
+      "content_length": 109007,
+      "audited_at": "2026-07-02T11:50:32.088253+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/ayesha-kapoor-avatar",
+      "score": 40,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 1,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 24,
+      "duration_seconds": 4.272,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8ec7c8ee3b7e4e3eb4bc9ec3441a2a40",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/ayesha-kapoor-avatar",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ayesha Kapoor"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/ayesha-kapoor-avatar"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ayesha Kapoor",
+            "og:url": "https://citiesabc.com/page/ayesha-kapoor-avatar",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 106482
+      },
+      "content_length": 106482,
+      "audited_at": "2026-07-02T11:50:55.375148+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-interviews",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 5.562,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-interviews",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Interviews"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-interviews"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne1c3acf0a1c54c199ddce708ce749261",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Interviews",
+            "og:url": "https://citiesabc.com/page/citiesabc-interviews",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 147413
+      },
+      "content_length": 147413,
+      "audited_at": "2026-07-02T11:50:56.968651+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/top-most-visited-cities-in-the-world",
+      "score": 45,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 6,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.273,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc6d8cd0a46784f85aea0f7c6449763e7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nabb3801115e447e3a38d463a2b73ed02",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N10b01bff745c4018b2c308b42e978ba2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/top-most-visited-cities-in-the-world",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/73fb021d1c9bb4d786903301f7451ebb_f0a6b1f4cc.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Top Most Visited Cities in the World"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Top Most Visited Cities in the World"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/top-most-visited-cities-in-the-world"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Top Most Visited Cities in the World",
+            "og:url": "https://citiesabc.com/page/top-most-visited-cities-in-the-world",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/73fb021d1c9bb4d786903301f7451ebb_f0a6b1f4cc.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Top Most Visited Cities in the World",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 138884
+      },
+      "content_length": 138884,
+      "audited_at": "2026-07-02T11:50:55.162886+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-top-30-best-quality-of-life-cities-in-the-world",
+      "score": 45,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 6,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.13,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-top-30-best-quality-of-life-cities-in-the-world",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/2f3a6f823a874e7fb561525ec5f34f7c_f76ebec660.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Top 30 best quality of life cities in the world"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Top 30 best quality of life cities in the world"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-top-30-best-quality-of-life-cities-in-the-world"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf6d8f3a67ebc4f77b88092eac0675dd8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N93d9275cb7114cddb41152bc065fe589",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N687bf9fad9fb45b886414d7dabaa2f4b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Top 30 best quality of life cities in the world",
+            "og:url": "https://citiesabc.com/page/citiesabc-top-30-best-quality-of-life-cities-in-the-world",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/2f3a6f823a874e7fb561525ec5f34f7c_f76ebec660.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Top 30 best quality of life cities in the world",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 139273
+      },
+      "content_length": 139273,
+      "audited_at": "2026-07-02T11:51:02.152812+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-top-50-smart-cities",
+      "score": 45,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 6,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.289,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-top-50-smart-cities",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/top_50_smart_cities_dd34e5218f.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Top 50 smart cities"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Top 50 smart cities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-top-50-smart-cities"
+              }
+            ]
+          },
+          {
+            "@id": "_:N79f7c39b8f0a42eb9f23d28d06bebdd2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6adf691e526d43d0a835754abfe1bc11",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne3b1ab2763d84dd68b54cc3cce52b6d5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Top 50 smart cities",
+            "og:url": "https://citiesabc.com/page/citiesabc-top-50-smart-cities",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/top_50_smart_cities_dd34e5218f.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Top 50 smart cities",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 138369
+      },
+      "content_length": 138369,
+      "audited_at": "2026-07-02T11:51:02.184561+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/citiesabc-top-50-world-events",
+      "score": 47,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.131,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/citiesabc-top-50-world-events",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/top_50_worldwide_events_d807c58ed8.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Citiesabc | Top 50 world events"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Citiesabc | Top 50 world events"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/citiesabc-top-50-world-events"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf1ce75f2a3504af79664fe8d3fbc210c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6693f0c42a51412c872ef94488213957",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N48b5f8f64e8a44b6bae70cf1c96271eb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Citiesabc | Top 50 world events",
+            "og:url": "https://citiesabc.com/page/citiesabc-top-50-world-events",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/top_50_worldwide_events_d807c58ed8.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Citiesabc | Top 50 world events",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 144101
+      },
+      "content_length": 144101,
+      "audited_at": "2026-07-02T11:51:02.216873+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/top-universities-in-vietnam",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 4.005,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7b7c25c97fa94f598b6ed1726b546fa6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/top-universities-in-vietnam",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/vietnam_universities_856f7d4ebe.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Top Universities in Vietnam"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Top Universities in Vietnam"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/top-universities-in-vietnam"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nff56ac495f2347b18cfead73f09d7caa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N125734349995415d9f500e8eb7566944",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Top Universities in Vietnam",
+            "og:url": "https://citiesabc.com/page/top-universities-in-vietnam",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/vietnam_universities_856f7d4ebe.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Top Universities in Vietnam",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 115247
+      },
+      "content_length": 115247,
+      "audited_at": "2026-07-02T11:51:07.361500+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/top-universities-in-malaysia",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 4.003,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/page/top-universities-in-malaysia",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/feature_wiki_universities_8160ebe770_039a0f74fa.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Top Universities"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Top Universities"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/top-universities-in-malaysia"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1f4e1206e87c42c0a6bbca1b6b82bf26",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N67f9373a6d6e474ab58632774f69c88c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "_:N879c455914e744f29e0b151d538eeb9d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Top Universities",
+            "og:url": "https://citiesabc.com/page/top-universities-in-malaysia",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/feature_wiki_universities_8160ebe770_039a0f74fa.webp",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Top Universities",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 115520
+      },
+      "content_length": 115520,
+      "audited_at": "2026-07-02T11:51:07.333589+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/page/top-universities-in-india",
+      "score": 42,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 3,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 23,
+      "duration_seconds": 4.135,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N56dd5005f4234a9798a79c01215978d7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/page/top-universities-in-india",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/india_universities_12424fac2c.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Top Universities in India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Top Universities in India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/page/top-universities-in-india"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne5d68b2cfd0e4049afa0c894bfa1ab5e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na7d54ed444f849539bae2b488c3973f2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Top Universities in India",
+            "og:url": "https://citiesabc.com/page/top-universities-in-india",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/india_universities_12424fac2c.jpg",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "Top Universities in India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 116366
+      },
+      "content_length": 116366,
+      "audited_at": "2026-07-02T11:51:07.440409+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/experiences",
+      "score": 37,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 5,
+        "content": 1,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 24,
+      "duration_seconds": 4.299,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/experiences",
+            "http://ogp.me/ns#locale": [
+              {
+                "@value": "en_US"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndd7b5d25b20143f4ad298a2b45dfe502",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd124713c05b242329bbd21dab7b48701",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7f2c8521c0244146893eeae14382afda",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#combobox"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "citiesabc",
+            "og:site_name": "citiesabc.com",
+            "og:locale": "en_US",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 4,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 123614
+      },
+      "content_length": 123614,
+      "audited_at": "2026-07-02T11:51:12.800536+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/privacy-policy",
+      "score": 43,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 5,
+        "content": 7,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 22,
+      "duration_seconds": 4.535,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/privacy-policy",
+            "http://ogp.me/ns#locale": [
+              {
+                "@value": "en_US"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8e95cf0ff8374689aaf067195a1cbb53",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "citiesabc",
+            "og:site_name": "citiesabc.com",
+            "og:locale": "en_US",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 127661
+      },
+      "content_length": 127661,
+      "audited_at": "2026-07-02T11:51:12.899970+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/terms-of-service",
+      "score": 48,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 5,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.323,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N997165416f9d474cae5505681e41136d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/terms-of-service",
+            "http://ogp.me/ns#locale": [
+              {
+                "@value": "en_US"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "citiesabc",
+            "og:site_name": "citiesabc.com",
+            "og:locale": "en_US",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 131086
+      },
+      "content_length": 131086,
+      "audited_at": "2026-07-02T11:51:12.928178+00:00"
     }
   ],
   "crawl_stats": {
