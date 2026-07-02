@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:36:50.938484+00:00",
+  "last_update": "2026-07-02T11:38:26.046001+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -728,7 +728,37 @@
     "https://citiesabc.com/city/kharagpur",
     "https://citiesabc.com/city/manipal",
     "https://citiesabc.com/city/coimbatore",
-    "https://citiesabc.com/city/lucknow"
+    "https://citiesabc.com/city/lucknow",
+    "https://citiesabc.com/city/patiala",
+    "https://citiesabc.com/city/chandigarh",
+    "https://citiesabc.com/city/vellore",
+    "https://citiesabc.com/city/kochi",
+    "https://citiesabc.com/city/amritsar",
+    "https://citiesabc.com/city/roorkee",
+    "https://citiesabc.com/city/prayagraj",
+    "https://citiesabc.com/city/tiruchirappalli",
+    "https://citiesabc.com/city/chidambaram",
+    "https://citiesabc.com/city/guwahati",
+    "https://citiesabc.com/city/vadodara",
+    "https://citiesabc.com/city/aligarh",
+    "https://citiesabc.com/city/pilani",
+    "https://citiesabc.com/city/phagwara",
+    "https://citiesabc.com/city/jammu",
+    "https://citiesabc.com/city/rourkela",
+    "https://citiesabc.com/city/kanpur",
+    "https://citiesabc.com/city/thiruvananthapuram",
+    "https://citiesabc.com/city/surathkal",
+    "https://citiesabc.com/city/serdang",
+    "https://citiesabc.com/city/johor-bahru",
+    "https://citiesabc.com/city/penang",
+    "https://citiesabc.com/city/bangi",
+    "https://citiesabc.com/city/shah-alam",
+    "https://citiesabc.com/city/gombak",
+    "https://citiesabc.com/city/kuantan",
+    "https://citiesabc.com/city/kangar",
+    "https://citiesabc.com/city/sintok",
+    "https://citiesabc.com/city/subang-jaya",
+    "https://citiesabc.com/city/petaling-jaya"
   ],
   "results": [
     {
@@ -33455,6 +33485,4534 @@
       },
       "content_length": 438789,
       "audited_at": "2026-07-02T11:36:48.880369+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/patiala",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.062,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "30.3397809",
+              "longitude": "76.3868797"
+            },
+            "url": "https://citiesabc.com/city/patiala",
+            "name": "Patiala",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/18_Patiala_2f0c29259c.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "763280 (2021)",
+            "postalCode": "147001-147008, 147021-147023",
+            "description": "Patiala is a historic city in southeastern Punjab, northwestern India, and the administrative capital of Patiala district. Founded in 1763 by chieftain Ala Singh, it is renowned for its royal heritage and distinctive cultural traditions, including the Patiala shahi turban and salwar. Often called the 'Royal City,' it blends Rajput, Mughal, and Punjabi architectural and cultural influences.",
+            "alternateName": [
+              "Royal City",
+              "Beautiful City",
+              "Pati Ala"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/patiala",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4c56e80edec74e0681cb7f7a92607cc2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/patiala",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Patiala, India's historic 'Royal City,' known for its distinctive cultural traditions. With a 2021 population of 763,280, delve into its rich heritage. Discover more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/18_Patiala_2f0c29259c.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Patiala, India: Your Guide to the Royal City & Heritage"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2304"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3456"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Patiala, India: Your Guide to the Royal City & Heritage"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/patiala"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Patiala, India: Your Guide to the Royal City & Heritage",
+            "og:description": "Explore Patiala, India's historic 'Royal City,' known for its distinctive cultural traditions. With a 2021 population of 763,280, delve into its rich heritage. Discover more!",
+            "og:url": "https://citiesabc.com/city/patiala",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/18_Patiala_2f0c29259c.jpg",
+            "og:image:width": "3456",
+            "og:image:height": "2304",
+            "og:image:alt": "Patiala, India: Your Guide to the Royal City & Heritage",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 434677
+      },
+      "content_length": 434677,
+      "audited_at": "2026-07-02T11:37:02.416562+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/chandigarh",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.155,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "30.741482",
+              "longitude": "76.768066"
+            },
+            "url": "https://citiesabc.com/city/chandigarh",
+            "name": "Chandigarh",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/17_Chandigarh_4d3f8ed444.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,055,450 (2011)",
+            "postalCode": "160001, 160002, 160003, 160004, 160009, 160011, 160012, 160014, 160015, 160017, 160018, 160019, 160020, 160021, 160022, 160023, 160025, 160030, 160035, 160036, 160043, 160047, 160055, 160101, 160102, 140119, 140125, 140301",
+            "description": "Chandigarh is a meticulously planned city in northern India, serving as the joint capital of Punjab and Haryana states and a Union Territory. Designed by Le Corbusier, it is internationally recognized for its architecture and urban design, green spaces, and high quality of life. The city's name is derived from the ancient Chandi Mandir temple.",
+            "governmentType": "Union Territory, administered by Central Government",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/chandigarh",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N54fcc8d29d30446ba7601784d8f925db",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/chandigarh",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Chandigarh, Le Corbusier's meticulously planned city, known for its architecture, urban design, and high quality of life. Explore this joint capital of Punjab & Haryana. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/17_Chandigarh_4d3f8ed444.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Chandigarh: Le Corbusier's Planned City, Guide to Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2338"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2922"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Chandigarh: Le Corbusier's Planned City, Guide to Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/chandigarh"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Chandigarh: Le Corbusier's Planned City, Guide to Life",
+            "og:description": "Discover Chandigarh, Le Corbusier's meticulously planned city, known for its architecture, urban design, and high quality of life. Explore this joint capital of Punjab & Haryana. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/chandigarh",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/17_Chandigarh_4d3f8ed444.jpg",
+            "og:image:width": "2922",
+            "og:image:height": "2338",
+            "og:image:alt": "Chandigarh: Le Corbusier's Planned City, Guide to Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 424516
+      },
+      "content_length": 424516,
+      "audited_at": "2026-07-02T11:37:02.591237+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/vellore",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.647,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "12.9235541",
+              "longitude": "79.1330768"
+            },
+            "url": "https://citiesabc.com/city/vellore",
+            "name": "Vellore",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/16_Vellore_10ac58e721.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "504079 (2011)",
+            "postalCode": "632001",
+            "description": "Vellore is a prominent city and administrative headquarters in Tamil Nadu, India. Renowned as a hub for medical tourism and a major exporter of finished leather goods, it blends rich history with modern development. The city sits on the Palar River, boasting significant educational institutions and historical landmarks like Vellore Fort.",
+            "alternateName": [
+              "Velur"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/vellore",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ndb85ab37158f4a608835b3c21119509d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/vellore",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Vellore, a prominent city in Tamil Nadu, is a hub for medical tourism and a major exporter of leather goods. Discover its rich history and modern development. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/16_Vellore_10ac58e721.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vellore: Medical Tourism, Leather Hub, Historic Fort"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2432"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4320"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vellore: Medical Tourism, Leather Hub, Historic Fort"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/vellore"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vellore: Medical Tourism, Leather Hub, Historic Fort",
+            "og:description": "Vellore, a prominent city in Tamil Nadu, is a hub for medical tourism and a major exporter of leather goods. Discover its rich history and modern development. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/vellore",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/16_Vellore_10ac58e721.jpg",
+            "og:image:width": "4320",
+            "og:image:height": "2432",
+            "og:image:alt": "Vellore: Medical Tourism, Leather Hub, Historic Fort",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428651
+      },
+      "content_length": 428651,
+      "audited_at": "2026-07-02T11:37:02.746286+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kochi",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.738,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "9.9312328",
+              "longitude": "76.26730409999999"
+            },
+            "url": "https://citiesabc.com/city/kochi",
+            "name": "Kochi",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/15_Kochi_6a2f831ab2.png"
+            ],
+            "@context": "https://schema.org",
+            "population": "677,381 (2011)",
+            "postalCode": "682xxx, 683xxx",
+            "description": "Kochi, also known as Cochin, is a major port city on India's Malabar Coast in Kerala. It is a significant financial, commercial, and industrial hub with a rich history as a spice trading center. Nicknamed the \"Queen of the Arabian Sea,\" it is a popular tourist destination known for its diverse cultural heritage and modern infrastructure.",
+            "alternateName": [
+              "Cochin"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kochi",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English, Malayalam"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kochi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Kochi, the \"Queen of the Arabian Sea,\" is India's top emerging megacity, home to the world's first solar airport. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/15_Kochi_6a2f831ab2.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kochi: India's Top Emerging Megacity, Guide & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "749"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1332"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kochi: India's Top Emerging Megacity, Guide & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kochi"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb38e53eb592b4a0b861b898dd4ef12c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kochi: India's Top Emerging Megacity, Guide & Student Life",
+            "og:description": "Kochi, the \"Queen of the Arabian Sea,\" is India's top emerging megacity, home to the world's first solar airport. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/kochi",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/15_Kochi_6a2f831ab2.png",
+            "og:image:width": "1332",
+            "og:image:height": "749",
+            "og:image:alt": "Kochi: India's Top Emerging Megacity, Guide & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 442070
+      },
+      "content_length": 442070,
+      "audited_at": "2026-07-02T11:37:12.149318+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/amritsar",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.098,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "31.6339793",
+              "longitude": "74.8722642"
+            },
+            "url": "https://citiesabc.com/city/amritsar",
+            "name": "Amritsar",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/14_Amritsar_28c07afd02.jpeg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,159,227 (2011)",
+            "postalCode": "143-001",
+            "description": "Amritsar, also known as Ambarsar, is the second-largest city in Punjab, India. A major cultural and economic hub, it's the spiritual center of Sikhism and home to the Golden Temple.",
+            "alternateName": [
+              "Ambarsar"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/amritsar",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English, Punjabi"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/amritsar",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Amritsar, the spiritual heart of Sikhism, is home to the Golden Temple where 100,000 free meals are served daily. Students find affordable living. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/14_Amritsar_28c07afd02.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Amritsar: Golden Temple, Spiritual Heart, City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "6000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Amritsar: Golden Temple, Spiritual Heart, City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/amritsar"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd9b3d11b8b3d4d4f9f5abe08da31c81b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Amritsar: Golden Temple, Spiritual Heart, City Guide",
+            "og:description": "Amritsar, the spiritual heart of Sikhism, is home to the Golden Temple where 100,000 free meals are served daily. Students find affordable living. Explore now!",
+            "og:url": "https://citiesabc.com/city/amritsar",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/14_Amritsar_28c07afd02.jpeg",
+            "og:image:width": "6000",
+            "og:image:height": "4000",
+            "og:image:alt": "Amritsar: Golden Temple, Spiritual Heart, City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426973
+      },
+      "content_length": 426973,
+      "audited_at": "2026-07-02T11:37:12.429634+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/roorkee",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.682,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "29.8542626",
+              "longitude": "77.8880002"
+            },
+            "url": "https://citiesabc.com/city/roorkee",
+            "name": "Roorkee",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/13_Roorkee_650b00567b.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "415859 (2025)",
+            "postalCode": "247667",
+            "description": "Roorkee is a historic city and municipal corporation in the Haridwar district of Uttarakhand, India. Known for its academic and military prominence, it hosts Asia's first engineering college, IIT Roorkee, and the Roorkee Cantonment. The city's development is closely linked to the Ganges Canal, a significant engineering marvel.",
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/roorkee",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/roorkee",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Roorkee, a historic Indian city home to Asia's first engineering college, IIT Roorkee, and a prominent military cantonment. Explore its unique blend of academic excellence and engineering marvels. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/13_Roorkee_650b00567b.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Roorkee City Guide: IIT, Ganges Canal, Historic Landmarks"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3480"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4640"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Roorkee City Guide: IIT, Ganges Canal, Historic Landmarks"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/roorkee"
+              }
+            ]
+          },
+          {
+            "@id": "_:N28cbf1d83a6141e78a1b4d49253deab5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Roorkee City Guide: IIT, Ganges Canal, Historic Landmarks",
+            "og:description": "Discover Roorkee, a historic Indian city home to Asia's first engineering college, IIT Roorkee, and a prominent military cantonment. Explore its unique blend of academic excellence and engineering marvels. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/roorkee",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/13_Roorkee_650b00567b.jpg",
+            "og:image:width": "4640",
+            "og:image:height": "3480",
+            "og:image:alt": "Roorkee City Guide: IIT, Ganges Canal, Historic Landmarks",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 421822
+      },
+      "content_length": 421822,
+      "audited_at": "2026-07-02T11:37:13.169486+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/prayagraj",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.624,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.468338",
+              "longitude": "81.85460189999999"
+            },
+            "url": "https://citiesabc.com/city/prayagraj",
+            "name": "Prayagraj",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/12_Prayagraj_70c1027e48.jpeg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,536,218 (2020)",
+            "postalCode": "211001-211018",
+            "description": "Prayagraj, formerly known as Allahabad, is a prominent metropolis in Uttar Pradesh, India. It is the administrative headquarters of Prayagraj district. The city holds immense religious significance as the sacred Triveni Sangam.",
+            "alternateName": [
+              "Allahabad",
+              "Prayāga"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/prayagraj",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/prayagraj",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Prayagraj, a prominent metropolis in Uttar Pradesh. Discover the sacred Triveni Sangam & its role as India's 'Prime Minister Capital.' Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/12_Prayagraj_70c1027e48.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Prayagraj City Guide | Sacred Sites & Triveni Sangam"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "4480"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "6720"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Prayagraj City Guide | Sacred Sites & Triveni Sangam"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/prayagraj"
+              }
+            ]
+          },
+          {
+            "@id": "_:N40464443134a451c9e35aff74ba0227e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Prayagraj City Guide | Sacred Sites & Triveni Sangam",
+            "og:description": "Explore Prayagraj, a prominent metropolis in Uttar Pradesh. Discover the sacred Triveni Sangam & its role as India's 'Prime Minister Capital.' Plan your visit.",
+            "og:url": "https://citiesabc.com/city/prayagraj",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/12_Prayagraj_70c1027e48.jpeg",
+            "og:image:width": "6720",
+            "og:image:height": "4480",
+            "og:image:alt": "Prayagraj City Guide | Sacred Sites & Triveni Sangam",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 450641
+      },
+      "content_length": 450641,
+      "audited_at": "2026-07-02T11:37:24.363804+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/tiruchirappalli",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.891,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "10.7904833",
+              "longitude": "78.7046725"
+            },
+            "url": "https://citiesabc.com/city/tiruchirappalli",
+            "name": "Tiruchirappalli",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/11_Tiruchirappalli_856ee2768b.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "916,857 (2011)",
+            "postalCode": "620001, 620002, 620003, 620004, 620005, 620006, 620007, 620008, 620009, 620010, 620011, 620012, 620013, 620014, 620015, 620016, 620017, 620018, 620019, 620020, 620021, 620022, 620023, 620024, 620025, 620026",
+            "description": "Tiruchirappalli, also known as Trichy, is a major Tier II city in the Indian state of Tamil Nadu. It is renowned for its rich history, ancient temples, and educational institutions, serving as an industrial hub with high livability and cleanliness.",
+            "alternateName": [
+              "Trichy"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/tiruchirappalli",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Tamil, Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/tiruchirappalli",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Tiruchirappalli, a Tier II city renowned for its rich history, ancient temples, and high livability. Explore this vibrant urban center."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/11_Tiruchirappalli_856ee2768b.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Tiruchirappalli: Explore History, Temples & High Livability"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3232"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4879"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Tiruchirappalli: Explore History, Temples & High Livability"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/tiruchirappalli"
+              }
+            ]
+          },
+          {
+            "@id": "_:N50ea9ab30ab147328616b1baf7a33a88",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Tiruchirappalli: Explore History, Temples & High Livability",
+            "og:description": "Discover Tiruchirappalli, a Tier II city renowned for its rich history, ancient temples, and high livability. Explore this vibrant urban center.",
+            "og:url": "https://citiesabc.com/city/tiruchirappalli",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/11_Tiruchirappalli_856ee2768b.jpg",
+            "og:image:width": "4879",
+            "og:image:height": "3232",
+            "og:image:alt": "Tiruchirappalli: Explore History, Temples & High Livability",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 439020
+      },
+      "content_length": 439020,
+      "audited_at": "2026-07-02T11:37:23.084757+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/chidambaram",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 8.523,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "11.407",
+              "longitude": "79.6912"
+            },
+            "url": "https://citiesabc.com/city/chidambaram",
+            "name": "Chidambaram",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/10_Chidambaram_29962e5541.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "62153 (2011)",
+            "postalCode": "608001",
+            "description": "Chidambaram is a major town and municipality in the Cuddalore district of Tamil Nadu, India, located on the banks of the Vellar River. It is renowned for the ancient Thillai Nataraja Temple.",
+            "governmentType": "Selective Grade Municipality",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/chidambaram",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Tamil, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N358015f9032042cf976e26d0b704c8f6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/chidambaram",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Chidambaram, a historic town famous for the ancient Thillai Nataraja Temple and Annamalai University. Immerse in its spiritual and cultural heritage. Learn more!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/10_Chidambaram_29962e5541.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Chidambaram Guide: Thillai Nataraja Temple & University Town"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3456"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4608"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Chidambaram Guide: Thillai Nataraja Temple & University Town"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/chidambaram"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Chidambaram Guide: Thillai Nataraja Temple & University Town",
+            "og:description": "Explore Chidambaram, a historic town famous for the ancient Thillai Nataraja Temple and Annamalai University. Immerse in its spiritual and cultural heritage. Learn more!",
+            "og:url": "https://citiesabc.com/city/chidambaram",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/10_Chidambaram_29962e5541.jpg",
+            "og:image:width": "4608",
+            "og:image:height": "3456",
+            "og:image:alt": "Chidambaram Guide: Thillai Nataraja Temple & University Town",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 432971
+      },
+      "content_length": 432971,
+      "audited_at": "2026-07-02T11:37:23.166300+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/guwahati",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.579,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "26.1157917",
+              "longitude": "91.7085933"
+            },
+            "url": "https://citiesabc.com/city/guwahati",
+            "name": "Guwahati",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/09_Guwahati_ba16438418.png"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,135,000 (2021)",
+            "postalCode": "7810xx",
+            "description": "Guwahati is the largest city in the Indian state of Assam and the largest metropolis in northeastern India. Situated on the south bank of the Brahmaputra River, it is known as the \"gateway to North East India\" and also as \"The City of Temples\" due to its numerous ancient Hindu temples. It is a major riverine port and a rapidly growing commercial center.",
+            "alternateName": [
+              "Gateway to North East India",
+              "The City of Temples",
+              "Pragjyotishpura",
+              "Durjaya"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/guwahati",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7063caf555c54359a705581ae3cb00ea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/guwahati",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Guwahati, \"The City of Temples\" & gateway to Northeast India, is a major riverine port and rapidly growing commercial center. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/09_Guwahati_ba16438418.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Guwahati: Gateway to North East India, City of Temples Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "749"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1335"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Guwahati: Gateway to North East India, City of Temples Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/guwahati"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Guwahati: Gateway to North East India, City of Temples Guide",
+            "og:description": "Guwahati, \"The City of Temples\" & gateway to Northeast India, is a major riverine port and rapidly growing commercial center. Explore now!",
+            "og:url": "https://citiesabc.com/city/guwahati",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/09_Guwahati_ba16438418.png",
+            "og:image:width": "1335",
+            "og:image:height": "749",
+            "og:image:alt": "Guwahati: Gateway to North East India, City of Temples Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428073
+      },
+      "content_length": 428073,
+      "audited_at": "2026-07-02T11:37:31.742170+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/vadodara",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.965,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "22.300",
+              "longitude": "73.200"
+            },
+            "url": "https://citiesabc.com/city/vadodara",
+            "name": "Vadodara",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/08_Vadodara_2b8efe5e36.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,424,920 (2025)",
+            "postalCode": "390 0XX",
+            "description": "Vadodara, also known as Baroda, is a city in Gujarat, India, on the Vishwamitri River. Known as the \"Cultural City\" and \"City of Art\", it features landmarks like Laxmi Vilas Palace and Maharaja Sayajirao University of Baroda.",
+            "alternateName": [
+              "Baroda",
+              "Varavati",
+              "Vatpatraka"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/vadodara",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English, Gujarati"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0308c2a8c73245cc913d8d3c2241164d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/vadodara",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Vadodara, India's 'Cultural City' and 'City of Art'. Discover landmarks like Laxmi Vilas Palace and a vibrant student life. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/08_Vadodara_2b8efe5e36.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Vadodara Guide: Cultural City, Top Sights & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2248"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vadodara Guide: Cultural City, Top Sights & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/vadodara"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vadodara Guide: Cultural City, Top Sights & Student Life",
+            "og:description": "Explore Vadodara, India's 'Cultural City' and 'City of Art'. Discover landmarks like Laxmi Vilas Palace and a vibrant student life. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/vadodara",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/08_Vadodara_2b8efe5e36.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2248",
+            "og:image:alt": "Vadodara Guide: Cultural City, Top Sights & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 410793
+      },
+      "content_length": 410793,
+      "audited_at": "2026-07-02T11:37:32.067585+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/aligarh",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.444,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "27.8973944",
+              "longitude": "78.0880129"
+            },
+            "url": "https://citiesabc.com/city/aligarh",
+            "name": "Aligarh",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/07_Aligarh_a9374f9c2d.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "874,408 (2011)",
+            "postalCode": "202001, 202002",
+            "description": "Aligarh is a historic city in Uttar Pradesh, India, renowned for its lock industry and as the home of Aligarh Muslim University. It serves as an agricultural trade center and district headquarters, blending a rich past with modern educational and industrial development.",
+            "alternateName": [
+              "Kol"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/aligarh",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/aligarh",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Aligarh, a historic city in Uttar Pradesh, is home to Aligarh Muslim University and renowned for its lock industry. Discover its unique blend of past and progress."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/07_Aligarh_a9374f9c2d.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Aligarh Guide: University, Lock Industry & History"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3000"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3798"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Aligarh Guide: University, Lock Industry & History"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/aligarh"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5228414d7cd64b168dbe00e8abac2b76",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Aligarh Guide: University, Lock Industry & History",
+            "og:description": "Aligarh, a historic city in Uttar Pradesh, is home to Aligarh Muslim University and renowned for its lock industry. Discover its unique blend of past and progress.",
+            "og:url": "https://citiesabc.com/city/aligarh",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/07_Aligarh_a9374f9c2d.jpg",
+            "og:image:width": "3798",
+            "og:image:height": "3000",
+            "og:image:alt": "Aligarh Guide: University, Lock Industry & History",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423795
+      },
+      "content_length": 423795,
+      "audited_at": "2026-07-02T11:37:32.287229+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/pilani",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.719,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "28.37",
+              "longitude": "75.6"
+            },
+            "url": "https://citiesabc.com/city/pilani",
+            "name": "Pilani",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/06_Pilani_b6234e6e3e.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "29,741 (2011)",
+            "postalCode": "333031",
+            "description": "Pilani is a town in Rajasthan, India, known for the Birla Institute of Technology and Science (BITS Pilani). It has a semi-arid climate with hot summers and a monsoon season. The town's economy is influenced by its educational institutions.",
+            "governmentType": "Nagar Palika (Municipal Council)",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/pilani",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc2093c58a4ce4b51b08ecb8d2ddbe4c2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/pilani",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Pilani, the Rajasthan town famous for BITS Pilani and other academic institutions. Discover its vibrant student life and affordable living. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/06_Pilani_b6234e6e3e.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Pilani: BITS Pilani, Education Hub & City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1480"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2400"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Pilani: BITS Pilani, Education Hub & City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/pilani"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Pilani: BITS Pilani, Education Hub & City Guide",
+            "og:description": "Explore Pilani, the Rajasthan town famous for BITS Pilani and other academic institutions. Discover its vibrant student life and affordable living. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/pilani",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/06_Pilani_b6234e6e3e.jpg",
+            "og:image:width": "2400",
+            "og:image:height": "1480",
+            "og:image:alt": "Pilani: BITS Pilani, Education Hub & City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428301
+      },
+      "content_length": 428301,
+      "audited_at": "2026-07-02T11:37:39.391292+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/phagwara",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.968,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "31.2231589",
+              "longitude": "75.7670466"
+            },
+            "url": "https://citiesabc.com/city/phagwara",
+            "name": "Phagwara",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/05_Phagwara_4c5b419293.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "97,864 (2011)",
+            "postalCode": "144401, 144402",
+            "description": "Phagwara is a city and municipal corporation located in the Kapurthala district of Punjab, India. Situated in the Doaba region, it is known for its industrial output, including sugar, glucose, starch, fine fabric textiles, and auto parts. The city also has a significant Non-Resident Indian (NRI) population.",
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/phagwara",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English, Punjabi"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf6e5f9976bbf4f57aee47841c93b1e43",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/phagwara",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Phagwara, an industrial city in Punjab known for textiles, auto parts, and a significant NRI population. Discover transport, student life, and more. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/05_Phagwara_4c5b419293.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Phagwara City Guide: Industries, NRIs, Transport & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "824"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1280"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Phagwara City Guide: Industries, NRIs, Transport & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/phagwara"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Phagwara City Guide: Industries, NRIs, Transport & Student Life",
+            "og:description": "Explore Phagwara, an industrial city in Punjab known for textiles, auto parts, and a significant NRI population. Discover transport, student life, and more. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/phagwara",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/05_Phagwara_4c5b419293.jpg",
+            "og:image:width": "1280",
+            "og:image:height": "824",
+            "og:image:alt": "Phagwara City Guide: Industries, NRIs, Transport & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426281
+      },
+      "content_length": 426281,
+      "audited_at": "2026-07-02T11:37:38.954011+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/jammu",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.131,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "32.7266016",
+              "longitude": "74.8570259"
+            },
+            "url": "https://citiesabc.com/city/jammu",
+            "name": "Jammu",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/04_Jammu_132afef125.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "502,197 (2011)",
+            "postalCode": "180001",
+            "description": "Jammu, the winter capital of the Indian-administered union territory of Jammu and Kashmir, lies along the Tawi River and is known as the \"City of Temples.\" Historically the capital of the Dogra dynasty, it serves as a significant administrative, cultural, and economic hub in the region.",
+            "alternateName": [
+              "City of Temples"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/jammu",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English, Urdu, Dogri"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/jammu",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Jammu, the 'City of Temples' and winter capital, offers an incredibly low cost of living and budget-friendly public transport. Discover the city!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/04_Jammu_132afef125.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Jammu: Winter Capital, City of Temples, Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3078"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "5472"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Jammu: Winter Capital, City of Temples, Travel Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/jammu"
+              }
+            ]
+          },
+          {
+            "@id": "_:N62b0363a7e204889a9af706e592ce817",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Jammu: Winter Capital, City of Temples, Travel Guide",
+            "og:description": "Jammu, the 'City of Temples' and winter capital, offers an incredibly low cost of living and budget-friendly public transport. Discover the city!",
+            "og:url": "https://citiesabc.com/city/jammu",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/04_Jammu_132afef125.jpg",
+            "og:image:width": "5472",
+            "og:image:height": "3078",
+            "og:image:alt": "Jammu: Winter Capital, City of Temples, Travel Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 430795
+      },
+      "content_length": 430795,
+      "audited_at": "2026-07-02T11:37:40.010028+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/rourkela",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.217,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "22.260423",
+              "longitude": "84.8535844"
+            },
+            "url": "https://citiesabc.com/city/rourkela",
+            "name": "Rourkela",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/03_Rourkela_279f301e0d.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "676909 (2025)",
+            "postalCode": "769001-769017",
+            "description": "Rourkela is a planned city in the northern Sundargarh district of Odisha, India. Known as \"Steel City\" and \"Ispat Nagar,\" it houses one of India's largest integrated steel plants and a premier national technical institute. It is the third-largest urban agglomeration in Odisha, surrounded by hills and the confluence of the Koel, Sankha, and Brahmani rivers.",
+            "alternateName": [
+              "Steel City",
+              "Ispat Nagar",
+              "Mini India"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/rourkela",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N9c0e330fcd374cfea5e6ca7f1d28bab1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/rourkela",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Rourkela, India's 'Steel City' and third-largest urban hub in Odisha, boasts a premier technical institute and an affordable student lifestyle. Explore this planned city!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/03_Rourkela_279f301e0d.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Rourkela Guide: India's Steel City & Education Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "390"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "720"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Rourkela Guide: India's Steel City & Education Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/rourkela"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Rourkela Guide: India's Steel City & Education Hub",
+            "og:description": "Rourkela, India's 'Steel City' and third-largest urban hub in Odisha, boasts a premier technical institute and an affordable student lifestyle. Explore this planned city!",
+            "og:url": "https://citiesabc.com/city/rourkela",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/03_Rourkela_279f301e0d.jpg",
+            "og:image:width": "720",
+            "og:image:height": "390",
+            "og:image:alt": "Rourkela Guide: India's Steel City & Education Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 433960
+      },
+      "content_length": 433960,
+      "audited_at": "2026-07-02T11:37:47.601854+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kanpur",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.116,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "26.449923",
+              "longitude": "80.3318736"
+            },
+            "url": "https://citiesabc.com/city/kanpur",
+            "name": "Kanpur",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/02_Kanpur_54e75379cb.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,765,348 (2011)",
+            "postalCode": "208001, 208002-208027, 209201-209402",
+            "description": "Kanpur, historically known as Cawnpore, is a major industrial and financial center in northern India. Renowned for leather, textile, and plastic products, it features colonial architecture, gardens, and a rich history, notably its role in the 1857 Indian Rebellion.",
+            "alternateName": [
+              "Cawnpore",
+              "Kanhapur"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kanpur",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kanpur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Kanpur, a major industrial hub renowned for leather and textiles. Discover its rich history, colonial architecture, and student-friendly environment. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/02_Kanpur_54e75379cb.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kanpur: India's Industrial Hub, History & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2656"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3984"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kanpur: India's Industrial Hub, History & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kanpur"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd95cf4a854cb4b5eaea6d46e7e364c0f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kanpur: India's Industrial Hub, History & Student Life",
+            "og:description": "Explore Kanpur, a major industrial hub renowned for leather and textiles. Discover its rich history, colonial architecture, and student-friendly environment. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/kanpur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/02_Kanpur_54e75379cb.jpg",
+            "og:image:width": "3984",
+            "og:image:height": "2656",
+            "og:image:alt": "Kanpur: India's Industrial Hub, History & Student Life",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 443939
+      },
+      "content_length": 443939,
+      "audited_at": "2026-07-02T11:37:47.809131+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/thiruvananthapuram",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.695,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "8.5241391",
+              "longitude": "76.9366376"
+            },
+            "url": "https://citiesabc.com/city/thiruvananthapuram",
+            "name": "Thiruvananthapuram",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/01_Thiruvananthapuram_0ea0f7b404.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "957730 (2011)",
+            "postalCode": "695XXX, 695001, 695005, 695010, 695017",
+            "description": "Thiruvananthapuram, also known as Trivandrum, is the capital of Kerala, India. It's an evergreen city characterized by low coastal hills, rich cultural heritage, and a dynamic blend of historical sites with modern technological advancements, particularly in IT and space research. It serves as a significant academic and tourist hub.",
+            "alternateName": [
+              "Trivandrum"
+            ],
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/thiruvananthapuram",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/thiruvananthapuram",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Thiruvananthapuram, Kerala's capital, is a dynamic evergreen city blending rich cultural heritage with modern IT and space research. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/01_Thiruvananthapuram_0ea0f7b404.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Thiruvananthapuram: Kerala's Capital, Tech & Heritage Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3888"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "5184"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Thiruvananthapuram: Kerala's Capital, Tech & Heritage Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/thiruvananthapuram"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd24c1064eafc4af5b359e1a0aec1eb25",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Thiruvananthapuram: Kerala's Capital, Tech & Heritage Guide",
+            "og:description": "Thiruvananthapuram, Kerala's capital, is a dynamic evergreen city blending rich cultural heritage with modern IT and space research. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/thiruvananthapuram",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/01_Thiruvananthapuram_0ea0f7b404.jpg",
+            "og:image:width": "5184",
+            "og:image:height": "3888",
+            "og:image:alt": "Thiruvananthapuram: Kerala's Capital, Tech & Heritage Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 436398
+      },
+      "content_length": 436398,
+      "audited_at": "2026-07-02T11:37:48.872283+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/surathkal",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.795,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "12.9951009",
+              "longitude": "74.80944579999999"
+            },
+            "url": "https://citiesabc.com/city/surathkal",
+            "name": "Surathkal",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "23602 (2020)",
+            "postalCode": "575014",
+            "description": "Surathkal is a prominent suburb within the Mangaluru City Corporation in Karnataka, India. It's an educational and industrial hub on the Arabian Sea coast, known for beaches and local legends.",
+            "governmentType": "Zonal office under Mangaluru City Corporation",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/surathkal",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "IST (UTC+05:30)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/surathkal",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Surathkal, a prominent educational and industrial hub on the Arabian Sea coast. Discover its scenic beaches and vital transport links. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Surathkal: Education, Industry & Beaches Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/surathkal"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na0b3610826814f91a64ebd672df6b065",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Surathkal: Education, Industry & Beaches Guide",
+            "og:description": "Explore Surathkal, a prominent educational and industrial hub on the Arabian Sea coast. Discover its scenic beaches and vital transport links. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/surathkal",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 419256
+      },
+      "content_length": 419256,
+      "audited_at": "2026-07-02T11:37:56.243125+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/serdang",
+      "score": 65,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.624,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.021998",
+              "longitude": "101.7055411"
+            },
+            "url": "https://citiesabc.com/city/serdang",
+            "name": "Serdang",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "105,445 (2010)",
+            "postalCode": "43400, 43401, 43402, 43403, 43404, 43405, 43406, 43407, 43408, 43409",
+            "description": "Serdang is a bustling township in Selangor, Malaysia, near Kuala Lumpur. Known for blending education, agriculture, and urban life, it hosts Universiti Putra Malaysia and various commercial activities.",
+            "alternateName": [
+              "Serdang New Village"
+            ],
+            "governmentType": "Local authority under state government (Selangor)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/serdang",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N753b975fdb144912b03a1ac3b97773f3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/serdang",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Serdang is a bustling township in Selangor, Malaysia, home to Universiti Putra Malaysia (UPM). Experience its blend of education, agriculture, and urban life. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Serdang, Selangor Guide: UPM & Student Life"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/serdang"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Serdang, Selangor Guide: UPM & Student Life",
+            "og:description": "Serdang is a bustling township in Selangor, Malaysia, home to Universiti Putra Malaysia (UPM). Experience its blend of education, agriculture, and urban life. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/serdang",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 429189
+      },
+      "content_length": 429189,
+      "audited_at": "2026-07-02T11:37:57.649898+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/johor-bahru",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.624,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "1.4798575",
+              "longitude": "103.7642576"
+            },
+            "url": "https://citiesabc.com/city/johor-bahru",
+            "name": "Johor Bahru",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/29_Johor_Bahru_ac710be9b8.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,758,500 (2023)",
+            "postalCode": "80xxx to 81xxx",
+            "description": "Johor Bahru, colloquially known as JB, is the capital city of the Malaysian state of Johor. Located at the southern tip of Peninsular Malaysia, adjacent to Singapore, it serves as a major financial and business hub. The city is a bustling metropolis with significant economic growth and is a key border gateway, home to the world's busiest international border crossing.",
+            "alternateName": [
+              "JB",
+              "Tanjung Puteri"
+            ],
+            "governmentType": "City council (under a parliamentary constitutional monarchy)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/johor-bahru",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/johor-bahru",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Johor Bahru, Malaysia's largest state capital with 1.7M+ residents, is a major business hub and gateway to Singapore. Discover JB!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/29_Johor_Bahru_ac710be9b8.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Johor Bahru: Malaysia's Vibrant Capital & Business Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2686"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Johor Bahru: Malaysia's Vibrant Capital & Business Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/johor-bahru"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndc6fecb0ba674176808031d89e3b5ad4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Johor Bahru: Malaysia's Vibrant Capital & Business Hub",
+            "og:description": "Johor Bahru, Malaysia's largest state capital with 1.7M+ residents, is a major business hub and gateway to Singapore. Discover JB!",
+            "og:url": "https://citiesabc.com/city/johor-bahru",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/29_Johor_Bahru_ac710be9b8.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2686",
+            "og:image:alt": "Johor Bahru: Malaysia's Vibrant Capital & Business Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 443414
+      },
+      "content_length": 443414,
+      "audited_at": "2026-07-02T11:37:57.394587+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/penang",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.473,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "5.4140975",
+              "longitude": "100.3285271"
+            },
+            "url": "https://citiesabc.com/city/penang",
+            "name": "Penang",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/28_Penang_2fbb5ea343.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,740,405 (2020)",
+            "postalCode": "10000-14400",
+            "description": "Penang, officially known as Pulau Pinang, is a Malaysian state located on the northwest coast of Peninsular Malaysia. It comprises Penang Island and Seberang Perai on the mainland, connected by two bridges. Known as the \"Pearl of the Orient,\" it is a significant economic powerhouse with a diverse cultural landscape, famous for its food and heritage.",
+            "alternateName": [
+              "Pulau Pinang",
+              "Pearl of the Orient"
+            ],
+            "governmentType": "Parliamentary (State Government)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/penang",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/penang",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Penang, the 'Pearl of the Orient', is Malaysia's food capital with a UNESCO World Heritage Site. Discover its vibrant culture, street art, and delicious cuisine today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/28_Penang_2fbb5ea343.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Penang: Malaysia's Food Capital, Heritage & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2250"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Penang: Malaysia's Food Capital, Heritage & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/penang"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nff396153d7344b3ba579fa73ab0390a4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Penang: Malaysia's Food Capital, Heritage & Top Sights",
+            "og:description": "Penang, the 'Pearl of the Orient', is Malaysia's food capital with a UNESCO World Heritage Site. Discover its vibrant culture, street art, and delicious cuisine today!",
+            "og:url": "https://citiesabc.com/city/penang",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/28_Penang_2fbb5ea343.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2250",
+            "og:image:alt": "Penang: Malaysia's Food Capital, Heritage & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 436374
+      },
+      "content_length": 436374,
+      "audited_at": "2026-07-02T11:38:07.100087+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/bangi",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.903,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "2.9198401",
+              "longitude": "101.780868"
+            },
+            "url": "https://citiesabc.com/city/bangi",
+            "name": "Bangi",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "708300 (2023)",
+            "postalCode": "43600, 43650",
+            "description": "Bangi, also known as Bangi Lama, is a small town located in the Hulu Langat District of Selangor, Malaysia. It serves as a quiet residential and commercial area, historically surrounded by palm oil estates. Distinct from the larger Bandar Baru Bangi, it offers a blend of traditional village life and modern amenities.",
+            "alternateName": [
+              "Bangi Lama"
+            ],
+            "governmentType": "Municipal Council (appointed)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/bangi",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/bangi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Bangi, a charming Malaysian town blending traditional village life with modern amenities. Served by KTM Komuter, it offers a peaceful environment. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Bangi: Explore Selangor's Peaceful Town & KTM Komuter"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/bangi"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6c0e213f8ed34bd6942858a1bbd57aa4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Bangi: Explore Selangor's Peaceful Town & KTM Komuter",
+            "og:description": "Discover Bangi, a charming Malaysian town blending traditional village life with modern amenities. Served by KTM Komuter, it offers a peaceful environment. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/bangi",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 425846
+      },
+      "content_length": 425846,
+      "audited_at": "2026-07-02T11:38:04.258912+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/shah-alam",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.471,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.0733639",
+              "longitude": "101.5217217"
+            },
+            "url": "https://citiesabc.com/city/shah-alam",
+            "name": "Shah Alam",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/26_Shah_Alam_308d189d60.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "438,745 (2023)",
+            "postalCode": "40xxx, 47xxx",
+            "description": "Shah Alam is the state capital of Selangor, Malaysia, known for its planned layout and green spaces. It serves as a key administrative and industrial hub within the Klang Valley.",
+            "alternateName": [
+              "Sungai Renggam"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/shah-alam",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7806765d47294762a7b403e35cc8942a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/shah-alam",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Shah Alam, Selangor's meticulously planned state capital with green spaces and a vibrant industrial hub. Explore top attractions like the Blue Mosque. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/26_Shah_Alam_308d189d60.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Shah Alam Guide: Selangor's Planned City, Top Sights & Transport"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2250"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4000"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Shah Alam Guide: Selangor's Planned City, Top Sights & Transport"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/shah-alam"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Shah Alam Guide: Selangor's Planned City, Top Sights & Transport",
+            "og:description": "Discover Shah Alam, Selangor's meticulously planned state capital with green spaces and a vibrant industrial hub. Explore top attractions like the Blue Mosque. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/shah-alam",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/26_Shah_Alam_308d189d60.jpg",
+            "og:image:width": "4000",
+            "og:image:height": "2250",
+            "og:image:alt": "Shah Alam Guide: Selangor's Planned City, Top Sights & Transport",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 423020
+      },
+      "content_length": 423020,
+      "audited_at": "2026-07-02T11:38:08.208321+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/gombak",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.633,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.2556281",
+              "longitude": "101.6538447"
+            },
+            "url": "https://citiesabc.com/city/gombak",
+            "name": "Gombak",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/25_Gombak_fc2a3edb6a.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "942,336 (2020)",
+            "postalCode": "48xxx, 52xxx-54xxx, 68xxx",
+            "description": "Gombak is an administrative district in Selangor, Malaysia, bordering Kuala Lumpur. Established in 1974, its capital is Bandar Baru Selayang. Part of the Klang Valley, it blends natural attractions with urban development.",
+            "governmentType": "Federal Constitutional Monarchy (Malaysia)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/gombak",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MST (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/gombak",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Gombak, an administrative district in Selangor bordering Kuala Lumpur, blending natural beauty with urban development. Home to IIUM and major attractions. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/25_Gombak_fc2a3edb6a.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Gombak, Malaysia: District Guide, Top Sights & Transport"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2496"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3328"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Gombak, Malaysia: District Guide, Top Sights & Transport"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/gombak"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb2d09006dfb042ffb578fe028707fe94",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Gombak, Malaysia: District Guide, Top Sights & Transport",
+            "og:description": "Discover Gombak, an administrative district in Selangor bordering Kuala Lumpur, blending natural beauty with urban development. Home to IIUM and major attractions. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/gombak",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/25_Gombak_fc2a3edb6a.jpg",
+            "og:image:width": "3328",
+            "og:image:height": "2496",
+            "og:image:alt": "Gombak, Malaysia: District Guide, Top Sights & Transport",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 431294
+      },
+      "content_length": 431294,
+      "audited_at": "2026-07-02T11:38:17.189900+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kuantan",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.442,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.8200843",
+              "longitude": "103.3322247"
+            },
+            "url": "https://citiesabc.com/city/kuantan",
+            "name": "Kuantan",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/24_Kuantan_a2c05e7fe6.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "548,014 (2020)",
+            "postalCode": "25000, 25050, 25100, 25150, 25200, 25250, 25300, 25350, 25500",
+            "description": "Kuantan is the state capital of Pahang, Malaysia, located on the eastern coast of Peninsular Malaysia. It is the largest city in the East Coast region and serves as a major administrative and commercial center. The city is known for its beaches, waterfalls, cultural attractions, and a growing industrial sector.",
+            "alternateName": [
+              "Kampung Teruntum"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kuantan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3cc3e3c45c42460e8d9cf245b5c4c420",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kuantan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Kuantan, Pahang's capital and East Coast's largest city. Explore beautiful beaches, waterfalls, & cultural attractions. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/24_Kuantan_a2c05e7fe6.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kuantan City Guide: Explore Beaches, Waterfalls & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "3955"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "5932"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kuantan City Guide: Explore Beaches, Waterfalls & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kuantan"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kuantan City Guide: Explore Beaches, Waterfalls & Culture",
+            "og:description": "Discover Kuantan, Pahang's capital and East Coast's largest city. Explore beautiful beaches, waterfalls, & cultural attractions. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/kuantan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/24_Kuantan_a2c05e7fe6.jpg",
+            "og:image:width": "5932",
+            "og:image:height": "3955",
+            "og:image:alt": "Kuantan City Guide: Explore Beaches, Waterfalls & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 426290
+      },
+      "content_length": 426290,
+      "audited_at": "2026-07-02T11:38:16.615530+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kangar",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.696,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "6.4422947",
+              "longitude": "100.1912954"
+            },
+            "url": "https://citiesabc.com/city/kangar",
+            "name": "Kangar",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "63869 (2025)",
+            "postalCode": "01000, 01500, 01502, 01503, 01504, 01505, 01506, 01508, 01594, 01610, 01680, 02400, 02450, 02500",
+            "description": "Kangar, the smallest state capital and largest town in Perlis, Malaysia, is a vibrant hub situated near the Thailand border by the Perlis River. Historically a crucial land port, it thrives as a center for paddy rice production and industries like cement, rubber, and seafood processing, managed by its unified municipal government.",
+            "governmentType": "Municipal council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kangar",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kangar",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Kangar, Malaysia's smallest state capital and a vibrant economic hub in Perlis with 63,869 people. Find your adventure!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kangar, Perlis: Guide to Malaysia's Smallest State Capital"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kangar"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncca9ab38c04744aba6e228e378cf06e2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kangar, Perlis: Guide to Malaysia's Smallest State Capital",
+            "og:description": "Explore Kangar, Malaysia's smallest state capital and a vibrant economic hub in Perlis with 63,869 people. Find your adventure!",
+            "og:url": "https://citiesabc.com/city/kangar",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 427074
+      },
+      "content_length": 427074,
+      "audited_at": "2026-07-02T11:38:17.427264+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/sintok",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.066,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "6.450228",
+              "longitude": "100.4958839"
+            },
+            "url": "https://citiesabc.com/city/sintok",
+            "name": "Sintok",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "12,942 (2020)",
+            "postalCode": "06100, 06010",
+            "description": "Sintok is a small town located in the Kubang Pasu District, Kedah, Malaysia. It is primarily known as the home of Universiti Utara Malaysia (UUM), a prominent public university.",
+            "governmentType": "Local authority under state government (Malaysia is a federal parliamentary constitutional elective monarchy)",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/sintok",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/sintok",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Sintok, home to Universiti Utara Malaysia, a small town in Kedah, Malaysia. Explore campus life and local amenities. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sintok: Universiti Utara Malaysia Campus & Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/sintok"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8b8febd11b344f2e806a5935467df122",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sintok: Universiti Utara Malaysia Campus & Guide",
+            "og:description": "Discover Sintok, home to Universiti Utara Malaysia, a small town in Kedah, Malaysia. Explore campus life and local amenities. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/sintok",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 428849
+      },
+      "content_length": 428849,
+      "audited_at": "2026-07-02T11:38:26.045596+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/subang-jaya",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.144,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.0567333",
+              "longitude": "101.5851192"
+            },
+            "url": "https://citiesabc.com/city/subang-jaya",
+            "name": "Subang Jaya",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/21_Subang_Jaya_c74c0f104d.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "968,930 (2020)",
+            "postalCode": "47500, 47507, 47600, 47610, 47620, 47630, 47640",
+            "description": "Subang Jaya is a vibrant city in the Petaling District of Selangor, Malaysia. Originally a rubber plantation, it has transformed into a bustling urban center known for its diverse community, numerous shopping malls, and educational institutions, playing a significant role within the greater Klang Valley metropolitan area.",
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/subang-jaya",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N926f43405da0431c9f989ab0baa365a6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/subang-jaya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Subang Jaya, a vibrant city with a 2020 population of 968,930. Discover its diverse community, numerous shopping malls, and top educational institutions. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/21_Subang_Jaya_c74c0f104d.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Subang Jaya Guide: Malls, Education, & Diverse Community"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2533"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "4203"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Subang Jaya Guide: Malls, Education, & Diverse Community"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/subang-jaya"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Subang Jaya Guide: Malls, Education, & Diverse Community",
+            "og:description": "Explore Subang Jaya, a vibrant city with a 2020 population of 968,930. Discover its diverse community, numerous shopping malls, and top educational institutions. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/subang-jaya",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/21_Subang_Jaya_c74c0f104d.jpg",
+            "og:image:width": "4203",
+            "og:image:height": "2533",
+            "og:image:alt": "Subang Jaya Guide: Malls, Education, & Diverse Community",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 431269
+      },
+      "content_length": 431269,
+      "audited_at": "2026-07-02T11:38:25.292811+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/petaling-jaya",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 6.148,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "3.1291518",
+              "longitude": "101.6165247"
+            },
+            "url": "https://citiesabc.com/city/petaling-jaya",
+            "name": "Petaling Jaya",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/20_Petaling_Jaya_8d7fefee03.jpg"
+            ],
+            "@context": "https://schema.org",
+            "population": "807,879 (2024)",
+            "postalCode": "46xxx, 473xx, 474xx, 478xx, 52xxx",
+            "description": "Petaling Jaya, colloquially known as \"PJ,\" is a vibrant city in the state of Selangor, Malaysia. Originally developed as a satellite town for Kuala Lumpur, it has grown into a major commercial and residential hub within the Greater Kuala Lumpur area. Known for its extensive shopping malls and diverse neighborhoods, PJ is considered one of Malaysia's most prosperous cities.",
+            "alternateName": [
+              "PJ"
+            ],
+            "governmentType": "City council",
+            "containedInPlace": {
+              "name": "Malaysia\t",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/petaling-jaya",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MYT (UTC+08:00)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Malay, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+60"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/petaling-jaya",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Petaling Jaya (PJ) is a vibrant commercial hub for 807,879 residents. Discover its extensive shopping malls, diverse neighborhoods, and excellent public transport. Plan your trip."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/20_Petaling_Jaya_8d7fefee03.jpg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Petaling Jaya Guide: Commercial Hub, Shopping & Transport"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "2568"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "3424"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Petaling Jaya Guide: Commercial Hub, Shopping & Transport"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/petaling-jaya"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0f56e029a80a41fdb6bc0d4c5b69b98f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Petaling Jaya Guide: Commercial Hub, Shopping & Transport",
+            "og:description": "Petaling Jaya (PJ) is a vibrant commercial hub for 807,879 residents. Discover its extensive shopping malls, diverse neighborhoods, and excellent public transport. Plan your trip.",
+            "og:url": "https://citiesabc.com/city/petaling-jaya",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/20_Petaling_Jaya_8d7fefee03.jpg",
+            "og:image:width": "3424",
+            "og:image:height": "2568",
+            "og:image:alt": "Petaling Jaya Guide: Commercial Hub, Shopping & Transport",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 425183
+      },
+      "content_length": 425183,
+      "audited_at": "2026-07-02T11:38:25.570260+00:00"
     }
   ],
   "crawl_stats": {
