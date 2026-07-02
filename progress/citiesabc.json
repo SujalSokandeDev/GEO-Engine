@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:34:07.689068+00:00",
+  "last_update": "2026-07-02T11:35:26.309697+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -668,7 +668,37 @@
     "https://citiesabc.com/city/dar-es-sal",
     "https://citiesabc.com/city/detroit",
     "https://citiesabc.com/city/fortaleza",
-    "https://citiesabc.com/city/fukuoka"
+    "https://citiesabc.com/city/fukuoka",
+    "https://citiesabc.com/city/guadalajara",
+    "https://citiesabc.com/city/guatemala-city",
+    "https://citiesabc.com/city/hamburg",
+    "https://citiesabc.com/city/harare",
+    "https://citiesabc.com/city/harbin",
+    "https://citiesabc.com/city/houston",
+    "https://citiesabc.com/city/islamabad",
+    "https://citiesabc.com/city/jeddah",
+    "https://citiesabc.com/city/kabul",
+    "https://citiesabc.com/city/kansas-city",
+    "https://citiesabc.com/city/kazan",
+    "https://citiesabc.com/city/khartoum",
+    "https://citiesabc.com/city/kinshasa",
+    "https://citiesabc.com/city/kolkata",
+    "https://citiesabc.com/city/las-vegas",
+    "https://citiesabc.com/city/lima",
+    "https://citiesabc.com/city/liverpool",
+    "https://citiesabc.com/city/ljubljana",
+    "https://citiesabc.com/city/luanda",
+    "https://citiesabc.com/city/lusaka",
+    "https://citiesabc.com/city/makkah",
+    "https://citiesabc.com/city/maputo",
+    "https://citiesabc.com/city/medillin",
+    "https://citiesabc.com/city/montevideo",
+    "https://citiesabc.com/city/montreal",
+    "https://citiesabc.com/city/nanjing",
+    "https://citiesabc.com/city/naples",
+    "https://citiesabc.com/city/niamey",
+    "https://citiesabc.com/city/nouakchott",
+    "https://citiesabc.com/city/nur-sultan"
   ],
   "results": [
     {
@@ -24139,6 +24169,4635 @@
       },
       "content_length": 389249,
       "audited_at": "2026-07-02T11:34:07.688654+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/guadalajara",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.68,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "20.6597",
+              "longitude": "-103.3496"
+            },
+            "url": "https://citiesabc.com/city/guadalajara",
+            "name": "GUADALAJARA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Guadalajara_enhanced_44d578d3b6.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.46 million",
+            "postalCode": "44100–44890",
+            "description": "Guadalajara, the capital of Jalisco, is a vibrant and growing city known for its rich culture, tequila, and mariachi music. With a population of over 1.5 million people, it is a hub of technology and commerce and a blend of colonial architecture and modern innovation.",
+            "governmentType": "Municipal council",
+            "containedInPlace": {
+              "name": "\t Mexico",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/guadalajara",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+52"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/guadalajara",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "GUADALAJARA is Mexico's vibrant cultural capital, home to mariachi, tequila, and a thriving tech industry. Discover its unique heritage and innovation. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Guadalajara_enhanced_44d578d3b6.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "GUADALAJARA: Mexico's Silicon Valley, Culture & Mariachi"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "GUADALAJARA: Mexico's Silicon Valley, Culture & Mariachi"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/guadalajara"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3211d4ac39cd491f94518a42f22a915f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "GUADALAJARA: Mexico's Silicon Valley, Culture & Mariachi",
+            "og:description": "GUADALAJARA is Mexico's vibrant cultural capital, home to mariachi, tequila, and a thriving tech industry. Discover its unique heritage and innovation. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/guadalajara",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Guadalajara_enhanced_44d578d3b6.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "GUADALAJARA: Mexico's Silicon Valley, Culture & Mariachi",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 397264
+      },
+      "content_length": 397264,
+      "audited_at": "2026-07-02T11:34:15.608431+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/guatemala-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.163,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "14.6349",
+              "longitude": "-90.5069"
+            },
+            "url": "https://citiesabc.com/city/quatemala-city",
+            "name": "GUATEMALA CITY",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Guatemala_enhanced_8e7ecbaee5.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2.93 million",
+            "postalCode": "01001–01022",
+            "description": "Guatemala City, the capital of Guatemala, is a vibrant and bustling city known for its mix of Mayan history, Spanish colonial influence, and modern innovation. With a diverse population of over 2.9 million people, it is a significant economic hub and a blend of ancient culture and contemporary development.",
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "Guatemala",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/quatemala-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+502"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd078b7b803c543839585fdf0dd4ead06",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/guatemala-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover GUATEMALA CITY, the vibrant capital with over 2.9 million people. Explore its rich Mayan history, Spanish colonial architecture, and modern innovation. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Guatemala_enhanced_8e7ecbaee5.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "GUATEMALA CITY Guide: Mayan History, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "GUATEMALA CITY Guide: Mayan History, Culture & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/quatemala-city"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "GUATEMALA CITY Guide: Mayan History, Culture & Top Sights",
+            "og:description": "Discover GUATEMALA CITY, the vibrant capital with over 2.9 million people. Explore its rich Mayan history, Spanish colonial architecture, and modern innovation. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/quatemala-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Guatemala_enhanced_8e7ecbaee5.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "GUATEMALA CITY Guide: Mayan History, Culture & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 357470
+      },
+      "content_length": 357470,
+      "audited_at": "2026-07-02T11:34:16.378944+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/hamburg",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.447,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "53.5511",
+              "longitude": "9.9937"
+            },
+            "url": "https://citiesabc.com/city/hamburg",
+            "name": "HAMBURG",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Hamburg_enhanced_copy_6d5c35f115.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.84 million (2019)",
+            "postalCode": "20095–21149, 22041–22769",
+            "description": "Hamburg, the second largest city in Germany, is a bustling metropolis known for its magnificent port and vibrant nightlife. With a population of over 1.8 million people speaking a variety of languages, it is a significant global trading center and a blend of historic charm and contemporary innovation.",
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "Germany",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/hamburg",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "CET (UTC+1)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "German"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+49"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1336d95575e642539787ce75b8d49a4f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/hamburg",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "HAMBURG, Germany's second largest city, is a global trading hub known for its magnificent port, vibrant nightlife, and UNESCO sites. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Hamburg_enhanced_copy_6d5c35f115.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "HAMBURG: Germany's Port City, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "HAMBURG: Germany's Port City, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/hamburg"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "HAMBURG: Germany's Port City, Top Sights & Culture",
+            "og:description": "HAMBURG, Germany's second largest city, is a global trading hub known for its magnificent port, vibrant nightlife, and UNESCO sites. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/hamburg",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Hamburg_enhanced_copy_6d5c35f115.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "HAMBURG: Germany's Port City, Top Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 379323
+      },
+      "content_length": 379323,
+      "audited_at": "2026-07-02T11:34:16.324524+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/harare",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 5.953,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-17.8252",
+              "longitude": "31.0335"
+            },
+            "url": "https://citiesabc.com/city/harare",
+            "name": "HARARE",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Harare_enhanced_425a3e3f6b.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2.123 million",
+            "postalCode": "00263",
+            "description": "Harare, the capital of Zimbabwe, is a diverse and vibrant city known for its iconic landmarks like the National Heroes Acre and the Balancing Rocks. With a population of over 1.6 million people, it is a key economic and cultural hub, blending traditional influences with modern development.",
+            "alternateName": [
+              "Salisbury",
+              "Fort Salisbury"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "Zimbabwe",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/harare",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English, Shona, Ndebele"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+263"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc4b4478633ca4d3e8053c3d5645d7cca",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/harare",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "HARARE, Zimbabwe's capital, is a diverse and vibrant city with a population of 2.123 million. Discover iconic landmarks and its role as a key economic and cultural hub. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Harare_enhanced_425a3e3f6b.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "HARARE: Capital of Zimbabwe, Iconic Landmarks & Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "HARARE: Capital of Zimbabwe, Iconic Landmarks & Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/harare"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "HARARE: Capital of Zimbabwe, Iconic Landmarks & Guide",
+            "og:description": "HARARE, Zimbabwe's capital, is a diverse and vibrant city with a population of 2.123 million. Discover iconic landmarks and its role as a key economic and cultural hub. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/harare",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Harare_enhanced_425a3e3f6b.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "HARARE: Capital of Zimbabwe, Iconic Landmarks & Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 390933
+      },
+      "content_length": 390933,
+      "audited_at": "2026-07-02T11:34:23.466930+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/harbin",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.153,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "45.8038",
+              "longitude": "126.535"
+            },
+            "url": "https://citiesabc.com/city/harbin",
+            "name": "HARBIN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Harbin_enhanced_c03d444b9b.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "10.635 million",
+            "postalCode": "150000",
+            "description": "Harbin, the capital of Heilongjiang province in northeastern China, is known for its striking blend of Chinese and European architectural styles. This historic city is also famous for hosting the annual Harbin International Ice and Snow Sculpture Festival. With a population of over 5 million, Harbin is a major hub for Northeast Asia and a significant player in Sino-Russian trade.",
+            "alternateName": [
+              "Ice City"
+            ],
+            "governmentType": "Sub-provincial city",
+            "containedInPlace": {
+              "name": "\t China",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/harbin",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "China Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Mandarin Chinese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+86"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/harbin",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover HARBIN, the Ice City. Famed for its #1 ranked International Ice and Snow Sculpture Festival and blend of Chinese and European architecture. Population 10.6 million. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Harbin_enhanced_c03d444b9b.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "HARBIN City Guide: Ice Festival, Architecture, Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "HARBIN City Guide: Ice Festival, Architecture, Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/harbin"
+              }
+            ]
+          },
+          {
+            "@id": "_:N177a89e521a149538c9742e49322ca3b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "HARBIN City Guide: Ice Festival, Architecture, Sights",
+            "og:description": "Discover HARBIN, the Ice City. Famed for its #1 ranked International Ice and Snow Sculpture Festival and blend of Chinese and European architecture. Population 10.6 million. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/harbin",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Harbin_enhanced_c03d444b9b.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "HARBIN City Guide: Ice Festival, Architecture, Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 395107
+      },
+      "content_length": 395107,
+      "audited_at": "2026-07-02T11:34:22.752871+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/houston",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.955,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "29.7604",
+              "longitude": "-95.3698"
+            },
+            "url": "https://citiesabc.com/city/houston",
+            "name": "HOUSTON",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Houston_enhanced_91ab5f54ab.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,320,268",
+            "postalCode": "77001–77299, 77449, 77530–77532, 77536, 77547, 77562",
+            "description": "Houston, the largest city in Texas, is an energetic and diverse metropolis known for iconic landmarks like the Space Center Houston and The Museum of Fine Arts. With a diverse population of over 2.3 million people speaking various languages, it is a global energy hub with a blend of classic Southern charm and modern innovation.",
+            "alternateName": [
+              "Bayou City",
+              "Space City",
+              "H-Town",
+              "the 713"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t United States",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/houston",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Time Zone"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5bbe51923eb846c894000c39103ffe59",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/houston",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover HOUSTON, Texas's largest city and a diverse metropolis. Home to Space Center Houston & a global energy hub. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Houston_enhanced_91ab5f54ab.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "HOUSTON City Guide: Space City & Energy Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "HOUSTON City Guide: Space City & Energy Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/houston"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "HOUSTON City Guide: Space City & Energy Hub",
+            "og:description": "Discover HOUSTON, Texas's largest city and a diverse metropolis. Home to Space Center Houston & a global energy hub. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/houston",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Houston_enhanced_91ab5f54ab.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "HOUSTON City Guide: Space City & Energy Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 397704
+      },
+      "content_length": 397704,
+      "audited_at": "2026-07-02T11:34:23.522554+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/islamabad",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.416,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "33.6844",
+              "longitude": "73.0479"
+            },
+            "url": "https://citiesabc.com/city/islamabad",
+            "name": "ISLAMABAD",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Islamabad_enhanced_copy_cd6e07d6fc.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,014,825",
+            "postalCode": "44000",
+            "description": "Islamabad, the capital of Pakistan, is a well-planned and lush green city known for its modern infrastructure, high standard of living, and iconic landmarks like Faisal Mosque and the Pakistan Monument. With a population of over 1 million people, it is a hub for politics, economy, and a blend of contemporary design and rich history.",
+            "governmentType": "Federal Government",
+            "containedInPlace": {
+              "name": "\t Pakistan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/islamabad",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Pakistan Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Urdu, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+92"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/islamabad",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover ISLAMABAD, Pakistan's planned capital city. Known for lush greenery, high living standards, and iconic sights like Faisal Mosque. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Islamabad_enhanced_copy_cd6e07d6fc.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "ISLAMABAD: Pakistan's Capital, Green City & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ISLAMABAD: Pakistan's Capital, Green City & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/islamabad"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc393b9538dd84bb5be13b8a25605469b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ISLAMABAD: Pakistan's Capital, Green City & Top Sights",
+            "og:description": "Discover ISLAMABAD, Pakistan's planned capital city. Known for lush greenery, high living standards, and iconic sights like Faisal Mosque. Explore now!",
+            "og:url": "https://citiesabc.com/city/islamabad",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Islamabad_enhanced_copy_cd6e07d6fc.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "ISLAMABAD: Pakistan's Capital, Green City & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 401950
+      },
+      "content_length": 401950,
+      "audited_at": "2026-07-02T11:34:30.031797+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/jeddah",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.533,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "21.5822",
+              "longitude": "39.1657"
+            },
+            "url": "https://citiesabc.com/city/jeddah",
+            "name": "JEDDAH",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Jeddah_enhanced_6bea3d8cd5.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "4.1 million",
+            "postalCode": "21411, 21422, 21432, 21442",
+            "description": "Jeddah, the largest city in Makkah Province, is a historic and commercial hub known for iconic landmarks like King Fahd Fountain and Jeddah Corniche. With a diverse population of over 3 million people speaking numerous languages, it is a global trade center and a blend of ancient architecture and modern innovation.",
+            "alternateName": [
+              "Jiddah"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t Saudi Arabia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/jeddah",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Arabian Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+966"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N05aea38c2fd2441fbe3d4d68e523b564",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/jeddah",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "JEDDAH, a historic and commercial hub, is Saudi Arabia's largest city in Makkah Province with 4.1 million people. Discover iconic landmarks like King Fahd Fountain and Al Balad. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Jeddah_enhanced_6bea3d8cd5.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "JEDDAH: Historic Hub, Top Sights & Modern Innovation Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "JEDDAH: Historic Hub, Top Sights & Modern Innovation Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/jeddah"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "JEDDAH: Historic Hub, Top Sights & Modern Innovation Guide",
+            "og:description": "JEDDAH, a historic and commercial hub, is Saudi Arabia's largest city in Makkah Province with 4.1 million people. Discover iconic landmarks like King Fahd Fountain and Al Balad. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/jeddah",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Jeddah_enhanced_6bea3d8cd5.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "JEDDAH: Historic Hub, Top Sights & Modern Innovation Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 371585
+      },
+      "content_length": 371585,
+      "audited_at": "2026-07-02T11:34:29.148721+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kabul",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 4.957,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "34.5553",
+              "longitude": "69.2075"
+            },
+            "url": "https://citiesabc.com/city/kabul",
+            "name": "KABUL",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kabul_enhanced_e2c620ee6e.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "4.6 million",
+            "postalCode": "1001",
+            "description": "Kabul, the capital of Afghanistan, is a historic city known for its unique landmarks like the Gardens of Babur and the Great Mosque of Herat. With a population of over 4 million people, it is a critical regional hub and a blend of ancient architecture and modern innovation.",
+            "governmentType": "Municipal Corporation",
+            "containedInPlace": {
+              "name": "Afghanistan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kabul",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Afghanistan Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Dari, Pashto"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+93"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N21bb4b7f465743e29f55c1e008dd152c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kabul",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore KABUL, the historic capital of Afghanistan, a critical regional hub with over 4 million people. Discover unique landmarks like the Gardens of Babur. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kabul_enhanced_e2c620ee6e.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "KABUL, Afghanistan: Historic City Guide & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "KABUL, Afghanistan: Historic City Guide & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kabul"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "KABUL, Afghanistan: Historic City Guide & Top Sights",
+            "og:description": "Explore KABUL, the historic capital of Afghanistan, a critical regional hub with over 4 million people. Discover unique landmarks like the Gardens of Babur. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/kabul",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kabul_enhanced_e2c620ee6e.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "KABUL, Afghanistan: Historic City Guide & Top Sights",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 377111
+      },
+      "content_length": 377111,
+      "audited_at": "2026-07-02T11:34:29.828644+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kansas-city",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.919,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "url": "https://citiesabc.com/city/kansas-city",
+            "name": "KANSAS CITY",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/kansas_20city_enhanced_copy_955c9b8ef8.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "495,327",
+            "postalCode": "64030, 64101-64102, 64105-64106, 64108-64114, 64116-64134, 64136-64139, 64141, 64144-64149, 64151-64158, 64161, 64163-64168, 64170-64172, 64179-64180, 64183-64184, 64187-64188, 64190-64191, 64195-64199, 64999",
+            "description": "Kansas City, the largest city in Missouri, is a vibrant and dynamic city known for its unique barbecue style and jazz heritage. With a diverse population of over 495,000 people, it is a major hub for telecommunications and transportation, boasting a blend of classic midwestern charm and urban innovation.",
+            "governmentType": "Council-Manager",
+            "containedInPlace": {
+              "name": "United States",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kansas-city",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "CST (UTC-6)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kansas-city",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover KANSAS CITY, Missouri's largest city, known for its unique barbecue and jazz heritage. A major transportation and tech hub. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/kansas_20city_enhanced_copy_955c9b8ef8.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "KANSAS CITY: Jazz, BBQ, & City of Fountains Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "KANSAS CITY: Jazz, BBQ, & City of Fountains Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kansas-city"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6c8a9e1e241d42719727fd4f463ae3c4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "KANSAS CITY: Jazz, BBQ, & City of Fountains Guide",
+            "og:description": "Discover KANSAS CITY, Missouri's largest city, known for its unique barbecue and jazz heritage. A major transportation and tech hub. Explore now!",
+            "og:url": "https://citiesabc.com/city/kansas-city",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/kansas_20city_enhanced_copy_955c9b8ef8.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "KANSAS CITY: Jazz, BBQ, & City of Fountains Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 363870
+      },
+      "content_length": 363870,
+      "audited_at": "2026-07-02T11:34:36.324490+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kazan",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.431,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "55.7961",
+              "longitude": "49.1082"
+            },
+            "url": "https://citiesabc.com/city/kazan",
+            "name": "KAZAN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kazan_enhanced_6823f0d540.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.257 million",
+            "postalCode": "420000-420999",
+            "description": "Kazan, the capital of the Republic of Tatarstan, Russia, is an ancient city known for its rich history and cultural diversity. Famous for landmarks such as the Kazan Kremlin and the Kul Sharif Mosque, it is home to over 1.2 million people who speak numerous languages including Tatar and Russian. Being a significant economic, cultural, and educational hub, Kazan gracefully fuses its historical heritage with modern innovation.",
+            "alternateName": [
+              "Qazan",
+              "Third Capital of Russia",
+              "Sports Capital of Russia"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Russia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kazan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "MSK+1"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Russian, Tatar"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+7"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N5cedfc434dac410681550451e29061db",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/kazan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Kazan, capital of Tatarstan, blends rich history with modern innovation. Explore the UNESCO Kazan Kremlin and Kul Sharif Mosque. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kazan_enhanced_6823f0d540.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "KAZAN City Guide: Kremlin, Mosques & Tatar Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "KAZAN City Guide: Kremlin, Mosques & Tatar Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kazan"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "KAZAN City Guide: Kremlin, Mosques & Tatar Culture",
+            "og:description": "Kazan, capital of Tatarstan, blends rich history with modern innovation. Explore the UNESCO Kazan Kremlin and Kul Sharif Mosque. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/kazan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kazan_enhanced_6823f0d540.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "KAZAN City Guide: Kremlin, Mosques & Tatar Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 384254
+      },
+      "content_length": 384254,
+      "audited_at": "2026-07-02T11:34:36.493012+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/khartoum",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.432,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "15.5007",
+              "longitude": "32.5599"
+            },
+            "url": "https://citiesabc.com/city/khartoum",
+            "name": "KHARTOUM",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Khartoum_enhanced_7ad4828e06.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "5,274,321",
+            "postalCode": "11111",
+            "description": "Khartoum, the capital of Sudan, is a historic and multicultural city known for significant landmarks like the Corinthia Hotel and the Nile River. With an approximated population of over 5 million people speaking multiple languages, it serves as a key economic center and a blend of ancient architecture and modern innovation.",
+            "alternateName": [
+              "Khartum"
+            ],
+            "governmentType": "Local Government",
+            "containedInPlace": {
+              "name": "\t Sudan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/khartoum",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "East Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+249"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4af1386a9217499fadd6f97dccbfaa1c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/khartoum",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "KHARTOUM, Sudan's historic and multicultural capital, sits at the Nile's confluence with over 5 million people. Explore its key landmarks. Visit KHARTOUM today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Khartoum_enhanced_7ad4828e06.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "KHARTOUM: Capital of Sudan, Top Sights & Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "KHARTOUM: Capital of Sudan, Top Sights & Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/khartoum"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "KHARTOUM: Capital of Sudan, Top Sights & Guide",
+            "og:description": "KHARTOUM, Sudan's historic and multicultural capital, sits at the Nile's confluence with over 5 million people. Explore its key landmarks. Visit KHARTOUM today!",
+            "og:url": "https://citiesabc.com/city/khartoum",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Khartoum_enhanced_7ad4828e06.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "KHARTOUM: Capital of Sudan, Top Sights & Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 404094
+      },
+      "content_length": 404094,
+      "audited_at": "2026-07-02T11:34:36.573733+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kinshasa",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.699,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-4.4419",
+              "longitude": "15.2662"
+            },
+            "url": "https://citiesabc.com/city/kinshasa",
+            "name": "KINSHASA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kinshasa_enhanced_da255c8750.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "14,950,000",
+            "postalCode": "00243",
+            "description": "Kinshasa, the capital of the Democratic Republic of Congo, is a vibrant and bustling city known for landmarks like the Kinshasa Fine Arts Academy and the Lola ya Bonobo sanctuary. With a diverse population of over 14 million people speaking hundreds of languages, it is a major economic hub and a blend of traditional Congolese culture and modern innovation.",
+            "alternateName": [
+              "Léopoldville"
+            ],
+            "governmentType": "Provincial government",
+            "containedInPlace": {
+              "name": "\t Democratic Republic of the Congo",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kinshasa",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "West Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "French"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+243"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kinshasa",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Kinshasa, the vibrant capital of the DRC and a major economic hub. Discover landmarks like the Fine Arts Academy and Lola ya Bonobo sanctuary. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kinshasa_enhanced_da255c8750.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Kinshasa: DRC Capital, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kinshasa: DRC Capital, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kinshasa"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0d98172c7bd64cf68b77e267398b6d09",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kinshasa: DRC Capital, Top Sights & Economic Hub",
+            "og:description": "Explore Kinshasa, the vibrant capital of the DRC and a major economic hub. Discover landmarks like the Fine Arts Academy and Lola ya Bonobo sanctuary. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/kinshasa",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kinshasa_enhanced_da255c8750.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "Kinshasa: DRC Capital, Top Sights & Economic Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 378631
+      },
+      "content_length": 378631,
+      "audited_at": "2026-07-02T11:34:44.679235+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/kolkata",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 9.268,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "22.5726",
+              "longitude": "88.3639"
+            },
+            "url": "https://citiesabc.com/city/kolkata",
+            "name": "KOLKATA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Kolkata_enhanced_aa75634529.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "4.5 million",
+            "postalCode": "700 001 to 700 150",
+            "description": "Kolkata, the capital of West Bengal, is a historic and vibrant city known for iconic landmarks like Victoria Memorial and Howrah Bridge. With a diverse population of over 4.5 million people speaking multiple languages, it is a significant financial hub and a blend of ancient architecture and modern innovation.",
+            "alternateName": [
+              "Calcutta"
+            ],
+            "governmentType": "Mayor–Council",
+            "containedInPlace": {
+              "name": "\t India",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/kolkata",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Indian Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Hindi, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+91"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/kolkata",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "KOLKATA, a historic and vibrant capital of West Bengal, offers iconic landmarks like Victoria Memorial and Howrah Bridge. Discover its rich culture and affordable lifestyle. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Kolkata_enhanced_aa75634529.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "KOLKATA: Historic City Guide, Top Sights & What to Know"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "KOLKATA: Historic City Guide, Top Sights & What to Know"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/kolkata"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na7e84ebc58f24bac91cac6c6d377ded2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "KOLKATA: Historic City Guide, Top Sights & What to Know",
+            "og:description": "KOLKATA, a historic and vibrant capital of West Bengal, offers iconic landmarks like Victoria Memorial and Howrah Bridge. Discover its rich culture and affordable lifestyle. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/kolkata",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Kolkata_enhanced_aa75634529.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "KOLKATA: Historic City Guide, Top Sights & What to Know",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 425530
+      },
+      "content_length": 425530,
+      "audited_at": "2026-07-02T11:34:47.745256+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/las-vegas",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 5.696,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "36.1699412",
+              "longitude": "-115.1398296"
+            },
+            "url": "https://citiesabc.com/city/las-vegas",
+            "name": "LAS VEGAS",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Las_Vegas_cfd3111de8.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "651,319",
+            "postalCode": "89004, 89011, 89012, 89014, 89015, 89030, 89031, 89032, 89052, 89074, 89084, 89086, 89101, 89102, 89103, 89104, 89106, 89107, 89108, 89109, 89110, 89113, 89115, 89118, 89119, 89120, 89121, 89122, 89123, 89128, 89129, 89130, 89131, 89134, 89135, 89138, 891",
+            "description": "Las Vegas, famously known as Sin City, is located in the state of Nevada. Known for its vibrant nightlife, casinos, entertainment shows, and fine dining, Las Vegas attracts millions of tourists each year. The city is a hub for entertainment and gaming industries, with a population of over 600,000 residents.",
+            "alternateName": [
+              "Sin City",
+              "Vegas",
+              "The Entertainment Capital of the World"
+            ],
+            "governmentType": "Council-Manager",
+            "containedInPlace": {
+              "name": "\t United States",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/las-vegas",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Pacific Time Zone"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/las-vegas",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover LAS VEGAS, the Entertainment Capital of the World. With 651,319 residents, explore vibrant nightlife, casinos, and fine dining. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Las_Vegas_cfd3111de8.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "LAS VEGAS: Entertainment, Casinos & Nightlife"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LAS VEGAS: Entertainment, Casinos & Nightlife"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/las-vegas"
+              }
+            ]
+          },
+          {
+            "@id": "_:N288444db22454969948cb9852ac4e912",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LAS VEGAS: Entertainment, Casinos & Nightlife",
+            "og:description": "Discover LAS VEGAS, the Entertainment Capital of the World. With 651,319 residents, explore vibrant nightlife, casinos, and fine dining. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/las-vegas",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Las_Vegas_cfd3111de8.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "LAS VEGAS: Entertainment, Casinos & Nightlife",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 404477
+      },
+      "content_length": 404477,
+      "audited_at": "2026-07-02T11:34:44.132590+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/lima",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.84,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-12.0464",
+              "longitude": "-77.0428"
+            },
+            "url": "https://citiesabc.com/city/lima",
+            "name": "LIMA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Lima_enhanced_copy_494aab4f57.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "9,751,717",
+            "postalCode": "15001-15046",
+            "description": "Lima, the capital of Peru, is a historic and vibrant city known for iconic landmarks like Plaza de Armas and San Francisco Church. With a diverse population of over 9 million people, it is a major financial hub and a mix of ancient architecture and modern innovation.",
+            "alternateName": [
+              "La Ciudad de los Reyes",
+              "The City of Kings"
+            ],
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Peru",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/lima",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "PET (UTC?5)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+51"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0d50f2824abd418d97b858e2f4345a2c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/lima",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore LIMA, Peru's vibrant capital and major financial hub with over 9 million people. Discover its historic center and iconic landmarks. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Lima_enhanced_copy_494aab4f57.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "LIMA: Peru's Capital City, Historic Landmarks & Financial Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LIMA: Peru's Capital City, Historic Landmarks & Financial Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/lima"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LIMA: Peru's Capital City, Historic Landmarks & Financial Hub",
+            "og:description": "Explore LIMA, Peru's vibrant capital and major financial hub with over 9 million people. Discover its historic center and iconic landmarks. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/lima",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Lima_enhanced_copy_494aab4f57.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "LIMA: Peru's Capital City, Historic Landmarks & Financial Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 375147
+      },
+      "content_length": 375147,
+      "audited_at": "2026-07-02T11:34:53.871907+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/liverpool",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.951,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "53.4084",
+              "longitude": "-2.9916"
+            },
+            "url": "https://citiesabc.com/city/liverpool",
+            "name": "LIVERPOOL",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Liverpool_enhanced_530621b827.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "498,042",
+            "postalCode": "L1, L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L67, L68, L69, L70, L71, L72, L73, L74, L75, L80",
+            "description": "Liverpool, a major city in England, is a city rich in history and culture, famous for its iconic landmarks such as The Beatles Statue and the Royal Albert Dock. With a population of over 490,000 people, it stands as an important city in the UK with a blend of historical architecture and modern advancements.",
+            "governmentType": "Mayor and Cabinet",
+            "containedInPlace": {
+              "name": "United Kingdom",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/liverpool",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Greenwich Mean Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+44"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nbf572777b7db4537aabf8f13feee8ea6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/liverpool",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "LIVERPOOL is a UK city rich in history and culture. Explore iconic landmarks like The Beatles Statue and Royal Albert Dock, and its Capital of Pop status. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Liverpool_enhanced_530621b827.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "LIVERPOOL: Iconic Landmarks, Music History & What to See"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LIVERPOOL: Iconic Landmarks, Music History & What to See"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/liverpool"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LIVERPOOL: Iconic Landmarks, Music History & What to See",
+            "og:description": "LIVERPOOL is a UK city rich in history and culture. Explore iconic landmarks like The Beatles Statue and Royal Albert Dock, and its Capital of Pop status. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/liverpool",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Liverpool_enhanced_530621b827.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "LIVERPOOL: Iconic Landmarks, Music History & What to See",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 477305
+      },
+      "content_length": 477305,
+      "audited_at": "2026-07-02T11:34:55.865519+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/ljubljana",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 5.255,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "46.0569",
+              "longitude": "14.5058"
+            },
+            "url": "https://citiesabc.com/city/ljubljana",
+            "name": "LJUBLJANA",
+            "@type": "City",
+            "@context": "https://schema.org",
+            "population": "292,988",
+            "postalCode": "1000",
+            "description": "Ljubljana, the capital of Slovenia, is a charming city known for its breathtaking views and landmarks like the Ljubljana Castle and Dragon Bridge. With a population of over 280,000 people speaking Slovene as the official language, it is an upcoming European hub and a unique juxtaposition of historic architecture and modern innovation.",
+            "governmentType": "Mayor–council",
+            "containedInPlace": {
+              "name": "Slovenia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/ljubljana",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "CET (UTC+1)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Slovene"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+386"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/ljubljana",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "LJUBLJANA, Slovenia's charming capital, offers breathtaking views and iconic landmarks like its Castle and Dragon Bridge. Discover its unique blend of history and innovation. Explore now!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LJUBLJANA City Guide: Explore Slovenia's Capital & Top Sights"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/ljubljana"
+              }
+            ]
+          },
+          {
+            "@id": "_:N754be7f2fd87430e8e0e7430ae9be14d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LJUBLJANA City Guide: Explore Slovenia's Capital & Top Sights",
+            "og:description": "LJUBLJANA, Slovenia's charming capital, offers breathtaking views and iconic landmarks like its Castle and Dragon Bridge. Discover its unique blend of history and innovation. Explore now!",
+            "og:url": "https://citiesabc.com/city/ljubljana",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 371555
+      },
+      "content_length": 371555,
+      "audited_at": "2026-07-02T11:34:54.359389+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/luanda",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.648,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-8.839988",
+              "longitude": "13.289437"
+            },
+            "url": "https://citiesabc.com/city/luanda",
+            "name": "LUANDA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Luanda_enhanced_6ca46a9122.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "8,329,798",
+            "postalCode": "1000-001",
+            "description": "Luanda, the capital of Angola, is a vibrant and bustling city known for iconic landmarks like the Mausoleum of Agostinho Neto and Fortaleza de São Miguel. With a diverse population of over 2.5 million people, it is a key economic hub and a blend of colonial architecture and modern innovation.",
+            "alternateName": [
+              "São Paulo da Assunção de Loanda"
+            ],
+            "governmentType": "Municipal government",
+            "containedInPlace": {
+              "name": " Angola",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/luanda",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "West Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Portuguese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+244"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N46302e90457d43f294a0d83f7ed22c60",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/luanda",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore LUANDA, Angola's vibrant capital and key economic hub. Discover iconic landmarks, rich history, and its blend of colonial architecture. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Luanda_enhanced_6ca46a9122.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "LUANDA: Angola's Vibrant Capital, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LUANDA: Angola's Vibrant Capital, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/luanda"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LUANDA: Angola's Vibrant Capital, Top Sights & Economic Hub",
+            "og:description": "Explore LUANDA, Angola's vibrant capital and key economic hub. Discover iconic landmarks, rich history, and its blend of colonial architecture. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/luanda",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Luanda_enhanced_6ca46a9122.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "LUANDA: Angola's Vibrant Capital, Top Sights & Economic Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 380095
+      },
+      "content_length": 380095,
+      "audited_at": "2026-07-02T11:35:01.850691+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/lusaka",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.546,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-15.3875",
+              "longitude": "28.3228"
+            },
+            "url": "https://citiesabc.com/city/lusaka",
+            "name": "LUSAKA",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Lusaka_enhanced_copy_ecab7e337d.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,198,996",
+            "postalCode": "10101",
+            "description": "Lusaka, the capital of Zambia, is a vibrant city known for its modern architecture such as the Freedom Statue and the National Museum. With a population of over 2.5 million people, it is a key economic and political hub and a blend of traditional culture and modern innovation.",
+            "governmentType": "Mayor-Council",
+            "containedInPlace": {
+              "name": "\t Zambia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/lusaka",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+260"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/lusaka",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore LUSAKA, Zambia's vibrant capital and a key economic and political hub, boasting modern architecture. Discover more today!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Lusaka_enhanced_copy_ecab7e337d.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "LUSAKA Guide: Capital of Zambia, Top Sights, What to Know"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LUSAKA Guide: Capital of Zambia, Top Sights, What to Know"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/lusaka"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd6e263fd6e224c0dbcd31ffb8c985f28",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LUSAKA Guide: Capital of Zambia, Top Sights, What to Know",
+            "og:description": "Explore LUSAKA, Zambia's vibrant capital and a key economic and political hub, boasting modern architecture. Discover more today!",
+            "og:url": "https://citiesabc.com/city/lusaka",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Lusaka_enhanced_copy_ecab7e337d.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "LUSAKA Guide: Capital of Zambia, Top Sights, What to Know",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 392270
+      },
+      "content_length": 392270,
+      "audited_at": "2026-07-02T11:35:02.723606+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/makkah",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 5.329,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "21.3891",
+              "longitude": "39.8579"
+            },
+            "url": "https://citiesabc.com/city/makkah",
+            "name": "MAKKAH",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Makkah_enhanced_copy_598261c0f9.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,675,000",
+            "postalCode": "21955",
+            "description": "Makkah, known as the holiest city in Islam, is located in western Saudi Arabia. This city is the birthplace of Prophet Muhammad, houses the Kaaba, and is the destination of the annual Hajj pilgrimage. With a population of over 2 million people, it is a spiritual hub that combines ancient traditions with modern facilities.",
+            "alternateName": [
+              "Makkah al-Mukarramah",
+              "Mecca",
+              "Bakkah"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "\t Saudi Arabia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/makkah",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Arabian Standard Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+966"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/makkah",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "MAKKAH, the holiest city in Islam, serves as a vital spiritual hub and destination for the annual Hajj pilgrimage. Plan your sacred journey."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Makkah_enhanced_copy_598261c0f9.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MAKKAH: Holiest City of Islam, Hajj & Kaaba Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MAKKAH: Holiest City of Islam, Hajj & Kaaba Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/makkah"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2cfdc2b7515d4cbab4300dd1991f38f2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MAKKAH: Holiest City of Islam, Hajj & Kaaba Guide",
+            "og:description": "MAKKAH, the holiest city in Islam, serves as a vital spiritual hub and destination for the annual Hajj pilgrimage. Plan your sacred journey.",
+            "og:url": "https://citiesabc.com/city/makkah",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Makkah_enhanced_copy_598261c0f9.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "MAKKAH: Holiest City of Islam, Hajj & Kaaba Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 376553
+      },
+      "content_length": 376553,
+      "audited_at": "2026-07-02T11:35:02.503700+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/maputo",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 5.743,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-25.9692",
+              "longitude": "32.5732"
+            },
+            "url": "https://citiesabc.com/city/maputo",
+            "name": "MAPUTO",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Maputo_920c0d4984.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.08 million",
+            "postalCode": "1100",
+            "description": "Maputo, the capital of Mozambique, is a vibrant and picturesque city known for significant landmarks like the Maputo Railway Station and the Fort of Nossa Senhora da Conceicao. With a multi-ethnic population of over 1 million people speaking various languages, it is an important harbour city and a blend of colonial architecture and modern-day innovation.",
+            "alternateName": [
+              "Lourenço Marques"
+            ],
+            "governmentType": "Municipality",
+            "containedInPlace": {
+              "name": "Mozambique",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/maputo",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Portuguese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+258"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0a45c8f9c29a4919bb9a1d655c92cdce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/maputo",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore MAPUTO, the vibrant capital of Mozambique. Discover its 1.08 million people, significant landmarks, and unique blend of architecture. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Maputo_920c0d4984.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MAPUTO, Mozambique: Vibrant Capital, Harbor City Guide"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1168"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MAPUTO, Mozambique: Vibrant Capital, Harbor City Guide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/maputo"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MAPUTO, Mozambique: Vibrant Capital, Harbor City Guide",
+            "og:description": "Explore MAPUTO, the vibrant capital of Mozambique. Discover its 1.08 million people, significant landmarks, and unique blend of architecture. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/maputo",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Maputo_920c0d4984.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1168",
+            "og:image:alt": "MAPUTO, Mozambique: Vibrant Capital, Harbor City Guide",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 399635
+      },
+      "content_length": 399635,
+      "audited_at": "2026-07-02T11:35:09.880942+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/medillin",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 5.847,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "6.2442",
+              "longitude": "-75.5812"
+            },
+            "url": "https://citiesabc.com/city/medillin",
+            "name": "MEDELLÍN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Medell_C3_A_Dn_enhanced_fc1119c548.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "2,508,452",
+            "postalCode": "0500xx",
+            "description": "Medellín, the capital of the Antioquia department in Colombia, is a vibrant and lively city known for its beautiful architecture like the Metropolitan Cathedral and the iconic Metrocable. With a diverse population of over 2.5 million people speaking mainly Spanish, it is a significant economic hub and a blend of historic charm and modern innovation.",
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "\t Colombia",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/medillin",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC-5"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+57"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1b68d75a0cde4da48ca07945e85157c3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/medillin",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover MEDELLÍN, Colombia's vibrant capital, known for its beautiful architecture, modern infrastructure, and efficient Metrocable. Explore this economic hub!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Medell_C3_A_Dn_enhanced_fc1119c548.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MEDELLÍN City Guide: Top Sights, Culture & Modern Innovation"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MEDELLÍN City Guide: Top Sights, Culture & Modern Innovation"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/medillin"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MEDELLÍN City Guide: Top Sights, Culture & Modern Innovation",
+            "og:description": "Discover MEDELLÍN, Colombia's vibrant capital, known for its beautiful architecture, modern infrastructure, and efficient Metrocable. Explore this economic hub!",
+            "og:url": "https://citiesabc.com/city/medillin",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Medell_C3_A_Dn_enhanced_fc1119c548.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "MEDELLÍN City Guide: Top Sights, Culture & Modern Innovation",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 370174
+      },
+      "content_length": 370174,
+      "audited_at": "2026-07-02T11:35:09.677575+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/montevideo",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.314,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-34.9011",
+              "longitude": "-56.1645"
+            },
+            "url": "https://citiesabc.com/city/montevideo",
+            "name": "MONTEVIDEO",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Montevideo_d63a18229f.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1.38 million",
+            "postalCode": "11,000 to 12,500",
+            "description": "Montevideo, the capital of Uruguay, is a vibrant and historic city, famous for landmarks such as Plaza Independencia and the Solis Theatre. With a diverse population of over 1.3 million people, it is a significant economic hub that seamlessly blends traditional architecture with modern innovation.",
+            "governmentType": "Departmental Intendant",
+            "containedInPlace": {
+              "name": "Uruguay",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/montevideo",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "UTC-3"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Spanish"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+598"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nad89b56382bc485da1bf9b442c4d06c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/montevideo",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover MONTEVIDEO, Uruguay's vibrant capital. Explore historic landmarks, experience high quality of life, and its thriving economy. Plan your trip!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Montevideo_d63a18229f.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MONTEVIDEO Guide: Capital City, Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MONTEVIDEO Guide: Capital City, Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/montevideo"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MONTEVIDEO Guide: Capital City, Sights & Culture",
+            "og:description": "Discover MONTEVIDEO, Uruguay's vibrant capital. Explore historic landmarks, experience high quality of life, and its thriving economy. Plan your trip!",
+            "og:url": "https://citiesabc.com/city/montevideo",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Montevideo_d63a18229f.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "MONTEVIDEO Guide: Capital City, Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 399812
+      },
+      "content_length": 399812,
+      "audited_at": "2026-07-02T11:35:10.255288+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/montreal",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.553,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "45.5017",
+              "longitude": "-73.5673"
+            },
+            "url": "https://citiesabc.com/city/montreal",
+            "name": "MONTREAL",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Montreal_enhanced_copy_7f443efcc6.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,704,694",
+            "postalCode": "H",
+            "description": "Montreal, the largest city in Quebec, Canada, is a historic and ethnically diverse city known for iconic landmarks like the Notre-Dame Basilica and the Olympic Stadium. With a population of over 1.7 million people speaking a variety of languages, it is a global hub for commerce, aerospace, technology, design, culture, tourism, gaming, film, and world affairs.",
+            "alternateName": [
+              "Montréal"
+            ],
+            "governmentType": "Mayor-Council government",
+            "containedInPlace": {
+              "name": "\t Canada",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/montreal",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Eastern Time Zone"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "French, English"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+1"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N016ad42799854b1cb0001b57e756d305",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/montreal",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover MONTREAL, Canada's second largest city and a UNESCO City of Design. Explore iconic landmarks like Notre-Dame Basilica and its vibrant culture. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Montreal_enhanced_copy_7f443efcc6.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "MONTREAL Guide: Landmarks, Culture, Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "MONTREAL Guide: Landmarks, Culture, Tech Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/montreal"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "MONTREAL Guide: Landmarks, Culture, Tech Hub",
+            "og:description": "Discover MONTREAL, Canada's second largest city and a UNESCO City of Design. Explore iconic landmarks like Notre-Dame Basilica and its vibrant culture. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/montreal",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Montreal_enhanced_copy_7f443efcc6.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "MONTREAL Guide: Landmarks, Culture, Tech Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 380647
+      },
+      "content_length": 380647,
+      "audited_at": "2026-07-02T11:35:19.511506+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/nanjing",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 6.4,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "32.0603",
+              "longitude": "118.7969"
+            },
+            "url": "https://citiesabc.com/city/nanjing",
+            "name": "NANJING",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Nanjing_enhanced_97c03d03e4.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "8.45 million",
+            "postalCode": "210000-211900",
+            "description": "Nanjing, the capital of Jiangsu Province, is a historic city known for its iconic landmarks like the Ming Dynasty City Wall and the Sun Yat-sen Mausoleum. With a diverse population of over 8 million people, it is a key educational, research, transportation, and economic center in China, showcasing an intermix of ancient architecture and modern development.",
+            "alternateName": [
+              "Nanking"
+            ],
+            "governmentType": "Sub-provincial city",
+            "containedInPlace": {
+              "name": "\t China",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/nanjing",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "China Standard Time (UTC+8)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Mandarin Chinese"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+86"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/nanjing",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover NANJING, a historic city and key economic, educational, and transportation center in China. Explore its ancient landmarks and modern development. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Nanjing_enhanced_97c03d03e4.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "NANJING: Historic City, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "NANJING: Historic City, Top Sights & Economic Hub"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/nanjing"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne8f117c6d29147a4a583139a8a7134c6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "NANJING: Historic City, Top Sights & Economic Hub",
+            "og:description": "Discover NANJING, a historic city and key economic, educational, and transportation center in China. Explore its ancient landmarks and modern development. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/nanjing",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Nanjing_enhanced_97c03d03e4.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "NANJING: Historic City, Top Sights & Economic Hub",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 357591
+      },
+      "content_length": 357591,
+      "audited_at": "2026-07-02T11:35:19.453400+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/naples",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 21,
+      "duration_seconds": 6.393,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "40.8522",
+              "longitude": "14.2681"
+            },
+            "url": "https://citiesabc.com/city/naples",
+            "name": "NAPLES",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Naples_enhanced_copy_b26f9cad4f.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "959,188",
+            "postalCode": "80100-80147",
+            "description": "Naples, the regional capital of Campania, is a historic city known for vibrant street life and delicious cuisines. With a population of over 3 million people, it is a center of arts and architecture, offering a blend of ancient structures and modern innovation.",
+            "alternateName": [
+              "Parthenope",
+              "Neapolis"
+            ],
+            "governmentType": "Mayor-council",
+            "containedInPlace": {
+              "name": "Italy",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/naples",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "Central European Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Italian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+39"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/naples",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "NAPLES, a historic city with vibrant street life and delicious cuisines, boasts Europe's largest UNESCO World Heritage city center. Discover Naples!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Naples_enhanced_copy_b26f9cad4f.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "NAPLES: Historic City, World Heritage, Michelin Stars"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "NAPLES: Historic City, World Heritage, Michelin Stars"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/naples"
+              }
+            ]
+          },
+          {
+            "@id": "_:N992efd42f24d488dbd0a27e36473a4eb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "NAPLES: Historic City, World Heritage, Michelin Stars",
+            "og:description": "NAPLES, a historic city with vibrant street life and delicious cuisines, boasts Europe's largest UNESCO World Heritage city center. Discover Naples!",
+            "og:url": "https://citiesabc.com/city/naples",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Naples_enhanced_copy_b26f9cad4f.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "NAPLES: Historic City, World Heritage, Michelin Stars",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 373802
+      },
+      "content_length": 373802,
+      "audited_at": "2026-07-02T11:35:18.369223+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/niamey",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 5.678,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "13.512778",
+              "longitude": "2.112778"
+            },
+            "url": "https://citiesabc.com/city/niamey",
+            "name": "NIAMEY",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Niamey_enhanced_a09d9ecbb3.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,026,848",
+            "postalCode": "8000",
+            "description": "Niamey, the capital of Niger, is a vibrant and cultural city known for landmarks like the Grand Mosque and the National Museum. With a population of over a million people speaking many languages, it is a regional economic hub and a blend of traditional architecture and modern innovation.",
+            "governmentType": "Mayoralty",
+            "containedInPlace": {
+              "name": "Niger",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/niamey",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "West Africa Time"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "French"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+227"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/niamey",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore NIAMEY, the vibrant capital of Niger, home to over a million people. Discover cultural landmarks like the Grand Mosque & National Museum. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Niamey_enhanced_a09d9ecbb3.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "NIAMEY City Guide: Capital of Niger, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "NIAMEY City Guide: Capital of Niger, Top Sights & Culture"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/niamey"
+              }
+            ]
+          },
+          {
+            "@id": "_:N81ee9c09a1f64a60a4f48d3454aa1e7b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "NIAMEY City Guide: Capital of Niger, Top Sights & Culture",
+            "og:description": "Explore NIAMEY, the vibrant capital of Niger, home to over a million people. Discover cultural landmarks like the Grand Mosque & National Museum. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/niamey",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Niamey_enhanced_a09d9ecbb3.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "NIAMEY City Guide: Capital of Niger, Top Sights & Culture",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 396151
+      },
+      "content_length": 396151,
+      "audited_at": "2026-07-02T11:35:26.309245+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/nouakchott",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 20,
+      "duration_seconds": 4.982,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "18.0858",
+              "longitude": "-15.9785"
+            },
+            "url": "https://citiesabc.com/city/nouakchott",
+            "name": "NOUAKCHOTT",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Nouakchott_enhanced_2c9a7b79bf.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "958399",
+            "postalCode": "None",
+            "description": "Nouakchott, the capital of Mauritania, is a unique city that beautifully blends tradition and modernity. Known for its picturesque views and bustling markets, it is a melting pot of diverse cultures with a population of over 958,000 people speaking multiple languages. It is a key hub for regional trade and commerce, with an economy that combines traditional livestock rearing with modern industries like oil production.",
+            "governmentType": "Mayoral government",
+            "containedInPlace": {
+              "name": "\t Mauritania",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/nouakchott",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "GMT"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Arabic"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+222"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N58bb1f599ec84b75865ebfdd51717efe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/city/nouakchott",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore NOUAKCHOTT, Mauritania's capital city blending tradition and modernity. Discover its bustling markets and role as a key regional trade hub. Plan your visit!"
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Nouakchott_enhanced_2c9a7b79bf.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "NOUAKCHOTT: Explore Mauritania's Vibrant Capital City"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "NOUAKCHOTT: Explore Mauritania's Vibrant Capital City"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/nouakchott"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "NOUAKCHOTT: Explore Mauritania's Vibrant Capital City",
+            "og:description": "Explore NOUAKCHOTT, Mauritania's capital city blending tradition and modernity. Discover its bustling markets and role as a key regional trade hub. Plan your visit!",
+            "og:url": "https://citiesabc.com/city/nouakchott",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Nouakchott_enhanced_2c9a7b79bf.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "NOUAKCHOTT: Explore Mauritania's Vibrant Capital City",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 372785
+      },
+      "content_length": 372785,
+      "audited_at": "2026-07-02T11:35:25.569473+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/city/nur-sultan",
+      "score": 64,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 12,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 4.565,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "51.1694",
+              "longitude": "71.4491"
+            },
+            "url": "https://citiesabc.com/city/nur-sultan",
+            "name": "NUR-SULTAN",
+            "@type": "City",
+            "image": [
+              "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Nur_Sultan_8eee63a6e1.webp"
+            ],
+            "@context": "https://schema.org",
+            "population": "1,136,000",
+            "postalCode": "010000-010015",
+            "description": "Nur-Sultan, the capital of Kazakhstan, is a modern and rapidly developing city known for futuristic architecture like the Baiterek Tower and Palace of Peace and Reconciliation. With a population of over 1 million people, it is a central hub for finance and administration, and a blend of traditional Kazakh culture and modern innovation.",
+            "alternateName": [
+              "Astana",
+              "Akmolinsk",
+              "Tselinograd",
+              "Akmola"
+            ],
+            "governmentType": "Mayoralty",
+            "containedInPlace": {
+              "name": "Kazakhstan",
+              "@type": "Country"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/city/nur-sultan",
+              "@type": "WebPage"
+            },
+            "additionalProperty": [
+              {
+                "name": "timeZone",
+                "@type": "PropertyValue",
+                "value": "ALMT (UTC+6)"
+              },
+              {
+                "name": "officialLanguages",
+                "@type": "PropertyValue",
+                "value": "Kazakh, Russian"
+              },
+              {
+                "name": "dialingCode",
+                "@type": "PropertyValue",
+                "value": "+7"
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/city/nur-sultan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "NUR-SULTAN, Kazakhstan's modern capital with over 1 million people, is a central hub for finance. Discover its futuristic architecture like Baiterek Tower and Palace of Peace. Plan your visit."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Nur_Sultan_8eee63a6e1.webp"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "NUR-SULTAN Guide: Futuristic Capital of Kazakhstan"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1152"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2048"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "NUR-SULTAN Guide: Futuristic Capital of Kazakhstan"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/city/nur-sultan"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6ee5917c62f7474f82c418d99817eefa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "NUR-SULTAN Guide: Futuristic Capital of Kazakhstan",
+            "og:description": "NUR-SULTAN, Kazakhstan's modern capital with over 1 million people, is a central hub for finance. Discover its futuristic architecture like Baiterek Tower and Palace of Peace. Plan your visit.",
+            "og:url": "https://citiesabc.com/city/nur-sultan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Nur_Sultan_8eee63a6e1.webp",
+            "og:image:width": "2048",
+            "og:image:height": "1152",
+            "og:image:alt": "NUR-SULTAN Guide: Futuristic Capital of Kazakhstan",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 383309
+      },
+      "content_length": 383309,
+      "audited_at": "2026-07-02T11:35:25.273827+00:00"
     }
   ],
   "crawl_stats": {
