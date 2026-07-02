@@ -2,7 +2,7 @@
   "site_name": "businessabc",
   "sitemap_url": "https://businessabc.net/sitemap.xml",
   "created_at": "2026-07-02T11:26:32.812798+00:00",
-  "last_update": "2026-07-02T12:01:21.096146+00:00",
+  "last_update": "2026-07-02T12:04:15.552871+00:00",
   "status": "in_progress",
   "urls": [
     "https://businessabc.net",
@@ -10336,7 +10336,37 @@
     "https://businessabc.net/wiki/exelon-corporation",
     "https://businessabc.net/wiki/regeneron-pharmaceuticals",
     "https://businessabc.net/wiki/intuitive-surgical",
-    "https://businessabc.net/wiki/altria-group"
+    "https://businessabc.net/wiki/altria-group",
+    "https://businessabc.net/wiki/northrop-grumman",
+    "https://businessabc.net/wiki/zoetis",
+    "https://businessabc.net/wiki/airbus",
+    "https://businessabc.net/wiki/progressive",
+    "https://businessabc.net/wiki/tjx-companies",
+    "https://businessabc.net/wiki/eog-resources",
+    "https://businessabc.net/wiki/becton-dickinson",
+    "https://businessabc.net/wiki/vertex-pharmaceuticals",
+    "https://businessabc.net/wiki/canadian_pacific_railway",
+    "https://businessabc.net/wiki/crown-castle",
+    "https://businessabc.net/wiki/waste-management",
+    "https://businessabc.net/wiki/blackstone-group",
+    "https://businessabc.net/wiki/cme-group",
+    "https://businessabc.net/wiki/fiserv",
+    "https://businessabc.net/wiki/us-bancorp",
+    "https://businessabc.net/wiki/csx-corporation",
+    "https://businessabc.net/wiki/pnc-financial-services",
+    "https://businessabc.net/wiki/uber_technologies",
+    "https://businessabc.net/wiki/atlassian",
+    "https://businessabc.net/wiki/air-liquide",
+    "https://businessabc.net/wiki/kering",
+    "https://businessabc.net/wiki/national-australia-bank",
+    "https://businessabc.net/wiki/colgate-palmolive",
+    "https://businessabc.net/wiki/snowflake",
+    "https://businessabc.net/wiki/general-dynamics",
+    "https://businessabc.net/wiki/truist-financial",
+    "https://businessabc.net/wiki/occidental-petroleum",
+    "https://businessabc.net/wiki/amphenol",
+    "https://businessabc.net/wiki/oreilly-automotive",
+    "https://businessabc.net/wiki/paychex"
   ],
   "results": [
     {
@@ -41232,6 +41262,2796 @@
       },
       "content_length": 185274,
       "audited_at": "2026-07-02T12:01:21.013280+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/northrop-grumman",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.203,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Northrop Grumman",
+            "description": "An American multinational aerospace and defense technology company.",
+            "url": "https://businessabc.net/wiki/northrop-grumman"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/northrop-grumman",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational aerospace and defense technology company."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Northrop Grumman"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/northrop-grumman"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8b807049ec6e4ffe9866c3169b419de3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Northrop Grumman",
+            "og:description": "An American multinational aerospace and defense technology company.",
+            "og:url": "https://businessabc.net/wiki/northrop-grumman",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163073
+      },
+      "content_length": 163073,
+      "audited_at": "2026-07-02T12:01:35.576482+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/zoetis",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.202,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Zoetis",
+            "description": "The world's largest producer of medicine and vaccinations for pets and livestock.",
+            "url": "https://businessabc.net/wiki/zoetis"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf721a85de4964ab5b4383b98da43c813",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/zoetis",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "The world's largest producer of medicine and vaccinations for pets and livestock."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Zoetis"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/zoetis"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Zoetis",
+            "og:description": "The world's largest producer of medicine and vaccinations for pets and livestock.",
+            "og:url": "https://businessabc.net/wiki/zoetis",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164733
+      },
+      "content_length": 164733,
+      "audited_at": "2026-07-02T12:01:35.635910+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/airbus",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 28.926,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Airbus",
+            "description": "A European multinational aerospace corporation.",
+            "url": "https://businessabc.net/wiki/airbus"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N32a80fcbd15e411688276b63ec17f498",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/airbus",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A European multinational aerospace corporation."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Airbus"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/airbus"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Airbus",
+            "og:description": "A European multinational aerospace corporation.",
+            "og:url": "https://businessabc.net/wiki/airbus",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 180507
+      },
+      "content_length": 180507,
+      "audited_at": "2026-07-02T12:02:06.579587+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/progressive",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 26.826,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Progressive",
+            "description": "American insurance company, the third largest insurance carrier and the No. 1 commercial auto insurer in the United States.",
+            "url": "https://businessabc.net/wiki/progressive"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/progressive",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "American insurance company, the third largest insurance carrier and the No. 1 commercial auto insurer in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Progressive"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/progressive"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6f684e2c77ba44ab88bfda1170e639cf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Progressive",
+            "og:description": "American insurance company, the third largest insurance carrier and the No. 1 commercial auto insurer in the United States.",
+            "og:url": "https://businessabc.net/wiki/progressive",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177061
+      },
+      "content_length": 177061,
+      "audited_at": "2026-07-02T12:02:03.831370+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/tjx-companies",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.224,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "TJX Companies",
+            "description": "American multinational off-price department store corporation.",
+            "url": "https://businessabc.net/wiki/tjx-companies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3652306cf7204448a910a298bcb3201f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/tjx-companies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "American multinational off-price department store corporation."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "TJX Companies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/tjx-companies"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "TJX Companies",
+            "og:description": "American multinational off-price department store corporation.",
+            "og:url": "https://businessabc.net/wiki/tjx-companies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166244
+      },
+      "content_length": 166244,
+      "audited_at": "2026-07-02T12:02:15.035360+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/eog-resources",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.363,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "EOG Resources",
+            "description": "An American energy company engaged in hydrocarbon exploration.",
+            "url": "https://businessabc.net/wiki/eog-resources"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/eog-resources",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American energy company engaged in hydrocarbon exploration."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "EOG Resources"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/eog-resources"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd3b6052e104d4d15857912702b7dcbec",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "EOG Resources",
+            "og:description": "An American energy company engaged in hydrocarbon exploration.",
+            "og:url": "https://businessabc.net/wiki/eog-resources",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165588
+      },
+      "content_length": 165588,
+      "audited_at": "2026-07-02T12:02:14.798764+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/becton-dickinson",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.511,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Becton Dickinson",
+            "description": "An American multinational medical technology company that manufactures and sells medical devices, instrument systems, and reagents.",
+            "url": "https://businessabc.net/wiki/becton-dickinson"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/becton-dickinson",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational medical technology company that manufactures and sells medical devices, instrument systems, and reagents."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Becton Dickinson"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/becton-dickinson"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9241654fbbfd4826a39bab92937d6a7d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Becton Dickinson",
+            "og:description": "An American multinational medical technology company that manufactures and sells medical devices, instrument systems, and reagents.",
+            "og:url": "https://businessabc.net/wiki/becton-dickinson",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164580
+      },
+      "content_length": 164580,
+      "audited_at": "2026-07-02T12:02:23.622510+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/vertex-pharmaceuticals",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.882,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Vertex Pharmaceuticals",
+            "description": "American biopharmaceutical company based in Boston, Massachusetts.",
+            "url": "https://businessabc.net/wiki/vertex-pharmaceuticals"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf61197b3a7dd4a09a72fc97963955491",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/vertex-pharmaceuticals",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "American biopharmaceutical company based in Boston, Massachusetts."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Vertex Pharmaceuticals"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/vertex-pharmaceuticals"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Vertex Pharmaceuticals",
+            "og:description": "American biopharmaceutical company based in Boston, Massachusetts.",
+            "og:url": "https://businessabc.net/wiki/vertex-pharmaceuticals",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177659
+      },
+      "content_length": 177659,
+      "audited_at": "2026-07-02T12:02:23.011329+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/canadian_pacific_railway",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.231,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Canadian Pacific Railway",
+            "description": "A Canadian Class I railway incorporated in 1881.",
+            "url": "https://businessabc.net/wiki/canadian_pacific_railway"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/canadian_pacific_railway",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A Canadian Class I railway incorporated in 1881."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Canadian Pacific Railway"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/canadian_pacific_railway"
+              }
+            ]
+          },
+          {
+            "@id": "_:N57d9cd95d834486383469555dd97edbf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Canadian Pacific Railway",
+            "og:description": "A Canadian Class I railway incorporated in 1881.",
+            "og:url": "https://businessabc.net/wiki/canadian_pacific_railway",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 201864
+      },
+      "content_length": 201864,
+      "audited_at": "2026-07-02T12:02:31.984629+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/crown-castle",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.671,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Crown Castle",
+            "description": "A real estate investment trust and provider of shared communications infrastructure in the United States.",
+            "url": "https://businessabc.net/wiki/crown-castle"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne9dfedd583324a3a924b7723d66e9a04",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/crown-castle",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A real estate investment trust and provider of shared communications infrastructure in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Crown Castle"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/crown-castle"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Crown Castle",
+            "og:description": "A real estate investment trust and provider of shared communications infrastructure in the United States.",
+            "og:url": "https://businessabc.net/wiki/crown-castle",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160348
+      },
+      "content_length": 160348,
+      "audited_at": "2026-07-02T12:02:31.441906+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/waste-management",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.314,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Waste Management",
+            "description": "A waste management, comprehensive waste, and environmental services company operating in North America.",
+            "url": "https://businessabc.net/wiki/waste-management"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/waste-management",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A waste management, comprehensive waste, and environmental services company operating in North America."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Waste Management"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/waste-management"
+              }
+            ]
+          },
+          {
+            "@id": "_:N780e3d9a159240558c801ef58fc6e819",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Waste Management",
+            "og:description": "A waste management, comprehensive waste, and environmental services company operating in North America.",
+            "og:url": "https://businessabc.net/wiki/waste-management",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165162
+      },
+      "content_length": 165162,
+      "audited_at": "2026-07-02T12:02:40.530728+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/blackstone-group",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.311,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Blackstone Group",
+            "description": "An American alternative investment management company based in New York City.",
+            "url": "https://businessabc.net/wiki/blackstone-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb343080547834a6c93e34efc85486870",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/blackstone-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American alternative investment management company based in New York City."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Blackstone Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/blackstone-group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Blackstone Group",
+            "og:description": "An American alternative investment management company based in New York City.",
+            "og:url": "https://businessabc.net/wiki/blackstone-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161329
+      },
+      "content_length": 161329,
+      "audited_at": "2026-07-02T12:02:40.589040+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/cme-group",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.314,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "CME Group",
+            "description": "An American global markets company.",
+            "url": "https://businessabc.net/wiki/cme-group"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/cme-group",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American global markets company."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "CME Group"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/cme-group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N159f732f9436413ab6aa2b2d292c5e49",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "CME Group",
+            "og:description": "An American global markets company.",
+            "og:url": "https://businessabc.net/wiki/cme-group",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158775
+      },
+      "content_length": 158775,
+      "audited_at": "2026-07-02T12:02:49.029830+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/fiserv",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.316,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Fiserv",
+            "description": "An American multinational company that provides financial technology services.",
+            "url": "https://businessabc.net/wiki/fiserv"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1553df4a4c0c4400b25cae2f43f1eefc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/fiserv",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational company that provides financial technology services."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Fiserv"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/fiserv"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Fiserv",
+            "og:description": "An American multinational company that provides financial technology services.",
+            "og:url": "https://businessabc.net/wiki/fiserv",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164331
+      },
+      "content_length": 164331,
+      "audited_at": "2026-07-02T12:02:49.067211+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/us-bancorp",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.403,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "U.S. Bancorp",
+            "description": "An American bank holding company based in Minneapolis, Minnesota.",
+            "url": "https://businessabc.net/wiki/us-bancorp"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb9c2250cd2e549109bdadaaf08a1d7b6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/us-bancorp",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American bank holding company based in Minneapolis, Minnesota."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "U.S. Bancorp"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/us-bancorp"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "U.S. Bancorp",
+            "og:description": "An American bank holding company based in Minneapolis, Minnesota.",
+            "og:url": "https://businessabc.net/wiki/us-bancorp",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 190594
+      },
+      "content_length": 190594,
+      "audited_at": "2026-07-02T12:02:57.730545+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/csx-corporation",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.545,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "CSX Corporation",
+            "description": "An American holding company focused on rail transportation and real estate in North America, among other industries.",
+            "url": "https://businessabc.net/wiki/csx-corporation"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne037ea38c0224451b336d82ec522f01b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/csx-corporation",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American holding company focused on rail transportation and real estate in North America, among other industries."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "CSX Corporation"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/csx-corporation"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "CSX Corporation",
+            "og:description": "An American holding company focused on rail transportation and real estate in North America, among other industries.",
+            "og:url": "https://businessabc.net/wiki/csx-corporation",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162166
+      },
+      "content_length": 162166,
+      "audited_at": "2026-07-02T12:02:57.687611+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/pnc-financial-services",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.261,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "PNC Financial Services",
+            "description": "An American bank holding company and financial services corporation.",
+            "url": "https://businessabc.net/wiki/pnc-financial-services"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8f21c48c36ae4b7b953d53bd37c2a40e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/pnc-financial-services",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American bank holding company and financial services corporation."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "PNC Financial Services"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/pnc-financial-services"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "PNC Financial Services",
+            "og:description": "An American bank holding company and financial services corporation.",
+            "og:url": "https://businessabc.net/wiki/pnc-financial-services",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163453
+      },
+      "content_length": 163453,
+      "audited_at": "2026-07-02T12:03:06.106114+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/uber_technologies",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.296,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Uber Technologies",
+            "description": "A company provides mobility as a service, ride-hailing, food delivery, package delivery, couriers, and freight transportation.",
+            "url": "https://businessabc.net/wiki/uber_technologies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N2f926a3243b043fd8399b6461289d867",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/uber_technologies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A company provides mobility as a service, ride-hailing, food delivery, package delivery, couriers, and freight transportation."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Uber Technologies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/uber_technologies"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Uber Technologies",
+            "og:description": "A company provides mobility as a service, ride-hailing, food delivery, package delivery, couriers, and freight transportation.",
+            "og:url": "https://businessabc.net/wiki/uber_technologies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169762
+      },
+      "content_length": 169762,
+      "audited_at": "2026-07-02T12:03:06.147646+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/atlassian",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.191,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Atlassian",
+            "description": "An Australian software company that develops products for software developers, project managers and other software development teams. ",
+            "url": "https://businessabc.net/wiki/atlassian"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N571f034313a049b49d85dc12ac1c831b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/atlassian",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An Australian software company that develops products for software developers, project managers and other software development teams. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Atlassian"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/atlassian"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Atlassian",
+            "og:description": "An Australian software company that develops products for software developers, project managers and other software development teams. ",
+            "og:url": "https://businessabc.net/wiki/atlassian",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166061
+      },
+      "content_length": 166061,
+      "audited_at": "2026-07-02T12:03:17.580507+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/air-liquide",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.545,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Air Liquide",
+            "description": "French multinational company which supplies industrial gases and services to various industries including medical, chemical and electronic manufacturers.",
+            "url": "https://businessabc.net/wiki/air-liquide"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N94dfa5d4b0c14008b4f7a314b3edca2f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/air-liquide",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "French multinational company which supplies industrial gases and services to various industries including medical, chemical and electronic manufacturers."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Air Liquide"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/air-liquide"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Air Liquide",
+            "og:description": "French multinational company which supplies industrial gases and services to various industries including medical, chemical and electronic manufacturers.",
+            "og:url": "https://businessabc.net/wiki/air-liquide",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171439
+      },
+      "content_length": 171439,
+      "audited_at": "2026-07-02T12:03:15.194773+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/kering",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 19.356,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Kering",
+            "description": "A French-based multinational corporation specializing in luxury goods.",
+            "url": "https://businessabc.net/wiki/kering"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/kering",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A French-based multinational corporation specializing in luxury goods."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Kering"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/kering"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne22c3f1da46b4cd68c1047ca9437f351",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Kering",
+            "og:description": "A French-based multinational corporation specializing in luxury goods.",
+            "og:url": "https://businessabc.net/wiki/kering",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 170183
+      },
+      "content_length": 170183,
+      "audited_at": "2026-07-02T12:03:38.427429+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/national-australia-bank",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 18.754,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "National Australia Bank",
+            "description": "One of the four largest financial institutions in Australia in terms of market capitalisation, earnings and customers.",
+            "url": "https://businessabc.net/wiki/national-australia-bank"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nef10a27c3ffc4de392b17dbe0e4fb8ab",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/national-australia-bank",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "One of the four largest financial institutions in Australia in terms of market capitalisation, earnings and customers."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "National Australia Bank"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/national-australia-bank"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "National Australia Bank",
+            "og:description": "One of the four largest financial institutions in Australia in terms of market capitalisation, earnings and customers.",
+            "og:url": "https://businessabc.net/wiki/national-australia-bank",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162132
+      },
+      "content_length": 162132,
+      "audited_at": "2026-07-02T12:03:37.454520+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/colgate-palmolive",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.865,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Colgate-Palmolive",
+            "description": "An American multinational consumer products company headquartered on Park Avenue in Midtown Manhattan, New York City.",
+            "url": "https://businessabc.net/wiki/colgate-palmolive"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N70d17c934cc94e76a7b3384134636451",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/colgate-palmolive",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American multinational consumer products company headquartered on Park Avenue in Midtown Manhattan, New York City."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Colgate-Palmolive"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/colgate-palmolive"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Colgate-Palmolive",
+            "og:description": "An American multinational consumer products company headquartered on Park Avenue in Midtown Manhattan, New York City.",
+            "og:url": "https://businessabc.net/wiki/colgate-palmolive",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161947
+      },
+      "content_length": 161947,
+      "audited_at": "2026-07-02T12:03:47.161649+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/snowflake",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.254,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Snowflake",
+            "description": "A cloud computing–based data cloud company based in Bozeman, Montana.",
+            "url": "https://businessabc.net/wiki/snowflake"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/snowflake",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A cloud computing–based data cloud company based in Bozeman, Montana."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Snowflake"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/snowflake"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd51d035afef9433a9a4bba1b8eeded83",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Snowflake",
+            "og:description": "A cloud computing–based data cloud company based in Bozeman, Montana.",
+            "og:url": "https://businessabc.net/wiki/snowflake",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171231
+      },
+      "content_length": 171231,
+      "audited_at": "2026-07-02T12:03:47.853768+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/general-dynamics",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.337,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "General Dynamics",
+            "description": "An American publicly traded, aerospace and defense corporation headquartered in Reston, Virginia.",
+            "url": "https://businessabc.net/wiki/general-dynamics"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8f9c1adc5c65407891d3b18ebbfc40f3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/general-dynamics",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American publicly traded, aerospace and defense corporation headquartered in Reston, Virginia."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "General Dynamics"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/general-dynamics"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "General Dynamics",
+            "og:description": "An American publicly traded, aerospace and defense corporation headquartered in Reston, Virginia.",
+            "og:url": "https://businessabc.net/wiki/general-dynamics",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163543
+      },
+      "content_length": 163543,
+      "audited_at": "2026-07-02T12:03:57.361723+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/truist-financial",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.339,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Truist Financial",
+            "description": "An American bank holding company headquartered in Charlotte, North Carolina. ",
+            "url": "https://businessabc.net/wiki/truist-financial"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N728fde76b7f544c482f0f51bff6fd102",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/truist-financial",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American bank holding company headquartered in Charlotte, North Carolina. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Truist Financial"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/truist-financial"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Truist Financial",
+            "og:description": "An American bank holding company headquartered in Charlotte, North Carolina. ",
+            "og:url": "https://businessabc.net/wiki/truist-financial",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166371
+      },
+      "content_length": 166371,
+      "audited_at": "2026-07-02T12:03:56.973446+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/occidental-petroleum",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.399,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Occidental Petroleum",
+            "description": "An American company engaged in hydrocarbon exploration in the United States.",
+            "url": "https://businessabc.net/wiki/occidental-petroleum"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/occidental-petroleum",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American company engaged in hydrocarbon exploration in the United States."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Occidental Petroleum"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/occidental-petroleum"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7589c3d85eec4219930ca5b47a0f0eef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Occidental Petroleum",
+            "og:description": "An American company engaged in hydrocarbon exploration in the United States.",
+            "og:url": "https://businessabc.net/wiki/occidental-petroleum",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160219
+      },
+      "content_length": 160219,
+      "audited_at": "2026-07-02T12:04:07.042132+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/amphenol",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.388,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Amphenol",
+            "description": "A major producer of electronic and fiber optic connectors, cable and interconnect systems such as coaxial cables.",
+            "url": "https://businessabc.net/wiki/amphenol"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N736f68ab6aea4fb1bcd0729db7812c00",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/amphenol",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "A major producer of electronic and fiber optic connectors, cable and interconnect systems such as coaxial cables."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Amphenol"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/amphenol"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Amphenol",
+            "og:description": "A major producer of electronic and fiber optic connectors, cable and interconnect systems such as coaxial cables.",
+            "og:url": "https://businessabc.net/wiki/amphenol",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167311
+      },
+      "content_length": 167311,
+      "audited_at": "2026-07-02T12:04:06.011852+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/oreilly-automotive",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.321,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "O'Reilly Automotive",
+            "description": "An American auto parts retailer that provides automotive aftermarket parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers.\n",
+            "url": "https://businessabc.net/wiki/oreilly-automotive"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/oreilly-automotive",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American auto parts retailer that provides automotive aftermarket parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers.\n"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "O'Reilly Automotive"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/oreilly-automotive"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne6585802d5a8495491b3ed313699eceb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "O'Reilly Automotive",
+            "og:description": "An American auto parts retailer that provides automotive aftermarket parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers.\n",
+            "og:url": "https://businessabc.net/wiki/oreilly-automotive",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172666
+      },
+      "content_length": 172666,
+      "audited_at": "2026-07-02T12:04:15.481085+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/paychex",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.409,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Paychex",
+            "description": "An American provider of human resource, payroll, and benefits outsourcing services for small- to medium-sized businesses.",
+            "url": "https://businessabc.net/wiki/paychex"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N422ce26241a646fe9434a0647e1bf8f4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/paychex",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "An American provider of human resource, payroll, and benefits outsourcing services for small- to medium-sized businesses."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Paychex"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/paychex"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Paychex",
+            "og:description": "An American provider of human resource, payroll, and benefits outsourcing services for small- to medium-sized businesses.",
+            "og:url": "https://businessabc.net/wiki/paychex",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166058
+      },
+      "content_length": 166058,
+      "audited_at": "2026-07-02T12:04:15.552541+00:00"
     }
   ],
   "crawl_stats": {
