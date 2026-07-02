@@ -89,6 +89,7 @@ def test_low_time_budget_stops_cleanly_in_progress(tmp_path: Path, monkeypatch: 
         time_budget_minutes=0.001,
         checkpoint_file=checkpoint,
         checkpoint_batch_size=1,
+        commit_checkpoints=False,
         use_cache=False,
     )
 
@@ -116,6 +117,7 @@ def test_completed_checkpoint_writes_final_outputs(tmp_path: Path, monkeypatch: 
         time_budget_minutes=1,
         checkpoint_file=checkpoint,
         checkpoint_batch_size=20,
+        commit_checkpoints=False,
         use_cache=False,
     )
 

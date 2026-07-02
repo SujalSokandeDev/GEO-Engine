@@ -17,6 +17,22 @@ on:
           - freedomx
           - hedgethink
           - tradersdna
+      time_budget_minutes:
+        description: "Soft time budget per run"
+        required: false
+        default: "330"
+      max_urls:
+        description: "Optional URL cap for controlled runs; 0 means all"
+        required: false
+        default: "0"
+      concurrency:
+        description: "Pages to audit concurrently; 0 uses per-site defaults"
+        required: false
+        default: "0"
+      checkpoint_batch_size:
+        description: "Checkpoint commit frequency in completed pages"
+        required: false
+        default: "30"
   schedule:
     - cron: "17 2 * * 1"
 
@@ -35,19 +51,19 @@ jobs:
         run: |
           requested="${{ github.event.inputs.site || 'all' }}"
           if [ "$requested" = "all" ]; then
-            echo 'sites=[{"name":"businessabc","sitemap":"https://businessabc.net/sitemap.xml"},{"name":"citiesabc","sitemap":"https://citiesabc.com/sitemap.xml"},{"name":"intelligenthq","sitemap":"https://www.intelligenthq.com/sitemap_index.xml"},{"name":"fashionabc","sitemap":"https://www.fashionabc.org/sitemap_index.xml"},{"name":"freedomx","sitemap":"https://freedomx.com/sitemap_index.xml"},{"name":"hedgethink","sitemap":"http://www.hedgethink.com/sitemap_index.xml"},{"name":"tradersdna","sitemap":"http://www.tradersdna.com/sitemap_index.xml"}]' >> "$GITHUB_OUTPUT"
+            echo 'sites=[{"name":"businessabc","sitemap":"https://businessabc.net/sitemap.xml","concurrency":2},{"name":"citiesabc","sitemap":"https://citiesabc.com/sitemap.xml","concurrency":3},{"name":"intelligenthq","sitemap":"https://www.intelligenthq.com/sitemap_index.xml","concurrency":1},{"name":"fashionabc","sitemap":"https://www.fashionabc.org/sitemap_index.xml","concurrency":3},{"name":"freedomx","sitemap":"https://freedomx.com/sitemap_index.xml","concurrency":3},{"name":"hedgethink","sitemap":"http://www.hedgethink.com/sitemap_index.xml","concurrency":3},{"name":"tradersdna","sitemap":"http://www.tradersdna.com/sitemap_index.xml","concurrency":3}]' >> "$GITHUB_OUTPUT"
           else
             case "$requested" in
-              businessabc) sitemap="https://businessabc.net/sitemap.xml" ;;
-              citiesabc) sitemap="https://citiesabc.com/sitemap.xml" ;;
-              intelligenthq) sitemap="https://www.intelligenthq.com/sitemap_index.xml" ;;
-              fashionabc) sitemap="https://www.fashionabc.org/sitemap_index.xml" ;;
-              freedomx) sitemap="https://freedomx.com/sitemap_index.xml" ;;
-              hedgethink) sitemap="http://www.hedgethink.com/sitemap_index.xml" ;;
-              tradersdna) sitemap="http://www.tradersdna.com/sitemap_index.xml" ;;
+              businessabc) sitemap="https://businessabc.net/sitemap.xml"; concurrency=2 ;;
+              citiesabc) sitemap="https://citiesabc.com/sitemap.xml"; concurrency=3 ;;
+              intelligenthq) sitemap="https://www.intelligenthq.com/sitemap_index.xml"; concurrency=1 ;;
+              fashionabc) sitemap="https://www.fashionabc.org/sitemap_index.xml"; concurrency=3 ;;
+              freedomx) sitemap="https://freedomx.com/sitemap_index.xml"; concurrency=3 ;;
+              hedgethink) sitemap="http://www.hedgethink.com/sitemap_index.xml"; concurrency=3 ;;
+              tradersdna) sitemap="http://www.tradersdna.com/sitemap_index.xml"; concurrency=3 ;;
               *) echo "Unknown site: $requested" >&2; exit 1 ;;
             esac
-            echo "sites=[{\"name\":\"$requested\",\"sitemap\":\"$sitemap\"}]" >> "$GITHUB_OUTPUT"
+            echo "sites=[{\"name\":\"$requested\",\"sitemap\":\"$sitemap\",\"concurrency\":$concurrency}]" >> "$GITHUB_OUTPUT"
           fi
 
   full-audit:
@@ -81,21 +97,35 @@ jobs:
           python -m pip install -r requirements.txt
           python -m pip uninstall -y sentence-transformers || true
 
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Run checkpointed GEO audit
         run: |
+          max_urls="${{ github.event.inputs.max_urls || '0' }}"
+          max_arg=()
+          if [ "$max_urls" != "0" ]; then
+            max_arg=(--max-urls "$max_urls")
+          fi
+          concurrency="${{ github.event.inputs.concurrency || '0' }}"
+          if [ "$concurrency" = "0" ]; then
+            concurrency="${{ matrix.site.concurrency }}"
+          fi
           python scripts/geo_audit.py "${{ matrix.site.sitemap }}" \
             --site-name "${{ matrix.site.name }}" \
-            --concurrency 3 \
-            --time-budget-minutes 330 \
+            --concurrency "$concurrency" \
+            --time-budget-minutes "${{ github.event.inputs.time_budget_minutes || '330' }}" \
             --checkpoint-file "progress/${{ matrix.site.name }}.json" \
-            --checkpoint-batch-size 20 \
-            --out "reports/${{ matrix.site.name }}"
+            --checkpoint-batch-size "${{ github.event.inputs.checkpoint_batch_size || '30' }}" \
+            --commit-checkpoints \
+            --out "reports/${{ matrix.site.name }}" \
+            "${max_arg[@]}"
 
       - name: Commit checkpoint and results
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add progress reports results
           if git diff --cached --quiet; then
             echo "No checkpoint or result changes to commit."
@@ -125,7 +155,11 @@ jobs:
         run: |
           gh api repos/${{ github.repository }}/actions/workflows/geo-audit-full.yml/dispatches \
             -f ref="${{ github.ref_name }}" \
-            -f inputs[site]="${{ matrix.site.name }}"
+            -f inputs[site]="${{ matrix.site.name }}" \
+            -f inputs[time_budget_minutes]="${{ github.event.inputs.time_budget_minutes || '330' }}" \
+            -f inputs[max_urls]="${{ github.event.inputs.max_urls || '0' }}" \
+            -f inputs[concurrency]="${{ github.event.inputs.concurrency || '0' }}" \
+            -f inputs[checkpoint_batch_size]="${{ github.event.inputs.checkpoint_batch_size || '30' }}"
 
       - name: Upload latest run artifacts
         uses: actions/upload-artifact@v4

@@ -11,6 +11,7 @@ import gzip
 import json
 import math
 import statistics
+import subprocess
 import sys
 import time
 import traceback
@@ -42,7 +43,7 @@ SITES: dict[str, str] = {
 DEFAULT_CONCURRENCY = 3
 DEFAULT_RETRY_ATTEMPTS = 3
 DEFAULT_TIME_BUDGET_MINUTES = 330.0
-DEFAULT_CHECKPOINT_BATCH_SIZE = 20
+DEFAULT_CHECKPOINT_BATCH_SIZE = 30
 REQUEST_TIMEOUT_SECONDS = 15
 SITEMAP_TIMEOUT_SECONDS = 60
 USER_AGENT = "GEO-Audit-Bot/1.0 (+https://github.com/SujalSokandeDev/GEO-Engine)"
@@ -366,6 +367,25 @@ def save_checkpoint(checkpoint_file: Path, checkpoint: dict[str, Any]) -> None:
     atomic_write_json(checkpoint_file, checkpoint)
 
 
+def commit_checkpoint(checkpoint_file: Path, site_name: str) -> None:
+    try:
+        subprocess.run(["git", "add", str(checkpoint_file)], check=True)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+            return
+        subprocess.run(
+            ["git", "commit", "-m", f"Update GEO checkpoint for {site_name} [skip ci]"],
+            check=True,
+        )
+        for attempt in range(1, 6):
+            if subprocess.run(["git", "pull", "--rebase"]).returncode == 0 and subprocess.run(["git", "push"]).returncode == 0:
+                print(f"Checkpoint commit pushed for {site_name}.")
+                return
+            time.sleep(attempt * 5)
+        raise RuntimeError(f"Unable to push checkpoint commit for {site_name}")
+    except Exception:
+        log_exception(f"Checkpoint commit failed for {site_name}")
+
+
 def audit_urls_concurrent(urls: list[str], *, concurrency: int, use_cache: bool) -> list[dict[str, Any]]:
     if concurrency <= 1:
         return [audit_one_url(url, use_cache=use_cache) for url in urls]
@@ -393,6 +413,7 @@ def run_audit(
     time_budget_minutes: float,
     checkpoint_file: Path,
     checkpoint_batch_size: int,
+    commit_checkpoints: bool,
     use_cache: bool,
 ) -> dict[str, Any]:
     checkpoint = load_or_create_checkpoint(
@@ -428,11 +449,15 @@ def run_audit(
             if len(pending_batch) >= checkpoint_batch_size:
                 checkpoint["status"] = "in_progress"
                 save_checkpoint(checkpoint_file, checkpoint)
+                if commit_checkpoints:
+                    commit_checkpoint(checkpoint_file, site_name)
                 pending_batch = []
         cursor += len(chunk)
 
     checkpoint["status"] = "complete" if len(completed) >= len(urls) else "in_progress"
     save_checkpoint(checkpoint_file, checkpoint)
+    if commit_checkpoints and checkpoint["status"] == "in_progress":
+        commit_checkpoint(checkpoint_file, site_name)
 
     report = build_report(checkpoint)
     write_outputs(report, out_dir=out_dir, site_name=site_name)
@@ -543,6 +568,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--time-budget-minutes", type=float, default=DEFAULT_TIME_BUDGET_MINUTES)
     parser.add_argument("--checkpoint-file", default=None)
     parser.add_argument("--checkpoint-batch-size", type=int, default=DEFAULT_CHECKPOINT_BATCH_SIZE)
+    parser.add_argument("--commit-checkpoints", action="store_true")
     parser.add_argument("--no-cache", action="store_true")
     return parser.parse_args(argv)
 
@@ -561,6 +587,7 @@ def main(argv: list[str] | None = None) -> None:
             time_budget_minutes=args.time_budget_minutes,
             checkpoint_file=checkpoint_file,
             checkpoint_batch_size=args.checkpoint_batch_size,
+            commit_checkpoints=args.commit_checkpoints,
             use_cache=not args.no_cache,
         )
     except Exception as exc:
