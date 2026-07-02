@@ -2,7 +2,7 @@
   "site_name": "businessabc",
   "sitemap_url": "https://businessabc.net/sitemap.xml",
   "created_at": "2026-07-02T11:26:32.812798+00:00",
-  "last_update": "2026-07-02T11:52:08.515891+00:00",
+  "last_update": "2026-07-02T11:55:07.018004+00:00",
   "status": "in_progress",
   "urls": [
     "https://businessabc.net",
@@ -10246,7 +10246,37 @@
     "https://businessabc.net/wiki/paypal",
     "https://businessabc.net/wiki/commonwealth-bank",
     "https://businessabc.net/wiki/starbucks",
-    "https://businessabc.net/wiki/sap"
+    "https://businessabc.net/wiki/sap",
+    "https://businessabc.net/wiki/sanofi",
+    "https://businessabc.net/wiki/china-life-insurance",
+    "https://businessabc.net/wiki/diageo",
+    "https://businessabc.net/wiki/bp",
+    "https://businessabc.net/wiki/netflix",
+    "https://businessabc.net/wiki/automatic-data-processing",
+    "https://businessabc.net/wiki/deutsche_telekom",
+    "https://businessabc.net/wiki/gazprom",
+    "https://businessabc.net/wiki/servicenow",
+    "https://businessabc.net/wiki/rio_tinto",
+    "https://businessabc.net/wiki/british-american-tobacco",
+    "https://businessabc.net/wiki/sony",
+    "https://businessabc.net/wiki/prologis",
+    "https://businessabc.net/wiki/estee-lauder",
+    "https://businessabc.net/wiki/keyence",
+    "https://businessabc.net/wiki/cigna",
+    "https://businessabc.net/wiki/enbridge",
+    "https://businessabc.net/wiki/lg-energy-solution",
+    "https://businessabc.net/wiki/stryker-corporation",
+    "https://businessabc.net/wiki/southern-company",
+    "https://businessabc.net/wiki/duke-energy",
+    "https://businessabc.net/wiki/mondelez",
+    "https://businessabc.net/wiki/siemens",
+    "https://businessabc.net/wiki/gilead-sciences",
+    "https://businessabc.net/wiki/infosys",
+    "https://businessabc.net/wiki/airbnb",
+    "https://businessabc.net/wiki/chubb",
+    "https://businessabc.net/wiki/marsh_and_mclennan_companies",
+    "https://businessabc.net/wiki/applied-materials",
+    "https://businessabc.net/wiki/glencore"
   ],
   "results": [
     {
@@ -32772,6 +32802,2796 @@
       },
       "content_length": 187489,
       "audited_at": "2026-07-02T11:52:08.515619+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sanofi",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.064,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sanofi",
+            "description": "French Pharmaceutical speciality care business unit focuses on rare diseases, rare blood disorders, neurology, immunology, and oncology",
+            "url": "https://businessabc.net/wiki/sanofi"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4cf7d100d8624fc9ab41c9c88aee2c3e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/sanofi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "French Pharmaceutical speciality care business unit focuses on rare diseases, rare blood disorders, neurology, immunology, and oncology"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sanofi"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sanofi"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sanofi",
+            "og:description": "French Pharmaceutical speciality care business unit focuses on rare diseases, rare blood disorders, neurology, immunology, and oncology",
+            "og:url": "https://businessabc.net/wiki/sanofi",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 174711
+      },
+      "content_length": 174711,
+      "audited_at": "2026-07-02T11:52:21.866979+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/china-life-insurance",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.283,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "China Life Insurance",
+            "description": "Engages in the provision of life, annuity, accident, and health insurance. ",
+            "url": "https://businessabc.net/wiki/china-life-insurance"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7513582ed30b4e5bbc5cda9c484279b0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/china-life-insurance",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Engages in the provision of life, annuity, accident, and health insurance. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "China Life Insurance"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/china-life-insurance"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "China Life Insurance",
+            "og:description": "Engages in the provision of life, annuity, accident, and health insurance. ",
+            "og:url": "https://businessabc.net/wiki/china-life-insurance",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 177655
+      },
+      "content_length": 177655,
+      "audited_at": "2026-07-02T11:52:21.841568+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/diageo",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.923,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Diageo",
+            "description": "Diageo is a global leader in beverage alcohol with a portfolio of award-winning brands across spirits, beer, wine, and non-alcoholic drinks. The company, headquartered in London, UK, operates in over 180 countries worldwide and is the largest producer of spirits and a major producer of beer and wine.",
+            "url": "https://businessabc.net/wiki/diageo"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/diageo",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Diageo is a global leader in beverage alcohol with a portfolio of award-winning brands across spirits, beer, wine, and non-alcoholic drinks. The company, headquartered in London, UK, operates in over 180 countries worldwide and is the largest producer of spirits and a major producer of beer and wine."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Diageo"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/diageo"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7c6c9326d2434af8ad53f81b1a530afa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Diageo",
+            "og:description": "Diageo is a global leader in beverage alcohol with a portfolio of award-winning brands across spirits, beer, wine, and non-alcoholic drinks. The company, headquartered in London, UK, operates in over 180 countries worldwide and is the largest producer of spirits and a major producer of beer and wine.",
+            "og:url": "https://businessabc.net/wiki/diageo",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171466
+      },
+      "content_length": 171466,
+      "audited_at": "2026-07-02T11:52:29.910520+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/bp",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.216,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "BP",
+            "description": "commonly known as British Petroleum, is one of the world's largest integrated oil and gas companies",
+            "url": "https://businessabc.net/wiki/bp"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N84afa08ff8c64303b1ddcec1537372a0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/bp",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "commonly known as British Petroleum, is one of the world's largest integrated oil and gas companies"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BP"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/bp"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BP",
+            "og:description": "commonly known as British Petroleum, is one of the world's largest integrated oil and gas companies",
+            "og:url": "https://businessabc.net/wiki/bp",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 210115
+      },
+      "content_length": 210115,
+      "audited_at": "2026-07-02T11:52:29.872480+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/netflix",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.221,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Netflix",
+            "description": "Netflix is an American media services provider and a global leader in entertainment streaming service worldwide. ",
+            "url": "https://businessabc.net/wiki/netflix"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8e87d325389c44c2ab5942cfa361a854",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/netflix",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Netflix is an American media services provider and a global leader in entertainment streaming service worldwide. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Netflix"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/netflix"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Netflix",
+            "og:description": "Netflix is an American media services provider and a global leader in entertainment streaming service worldwide. ",
+            "og:url": "https://businessabc.net/wiki/netflix",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 196621
+      },
+      "content_length": 196621,
+      "audited_at": "2026-07-02T11:52:38.213048+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/automatic-data-processing",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.556,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Automatic Data Processing",
+            "description": "ADP, Inc. is an American multinational corporation that provides human resources management software and services. The company offers a range of solutions such as payroll, time and attendance management, benefits administration, and talent management.",
+            "url": "https://businessabc.net/wiki/automatic-data-processing"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/automatic-data-processing",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "ADP, Inc. is an American multinational corporation that provides human resources management software and services. The company offers a range of solutions such as payroll, time and attendance management, benefits administration, and talent management."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Automatic Data Processing"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/automatic-data-processing"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb9b54f6e6a834119838f93f6537d4279",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Automatic Data Processing",
+            "og:description": "ADP, Inc. is an American multinational corporation that provides human resources management software and services. The company offers a range of solutions such as payroll, time and attendance management, benefits administration, and talent management.",
+            "og:url": "https://businessabc.net/wiki/automatic-data-processing",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 171387
+      },
+      "content_length": 171387,
+      "audited_at": "2026-07-02T11:52:38.548577+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/deutsche_telekom",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.309,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Deutsche Telekom",
+            "description": "One of the world's leading integrated telecommunications companies",
+            "url": "https://businessabc.net/wiki/deutsche_telekom"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/deutsche_telekom",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "One of the world's leading integrated telecommunications companies"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Deutsche Telekom"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/deutsche_telekom"
+              }
+            ]
+          },
+          {
+            "@id": "_:N176bdd8e3d214dafbe4177d9a8d9a092",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Deutsche Telekom",
+            "og:description": "One of the world's leading integrated telecommunications companies",
+            "og:url": "https://businessabc.net/wiki/deutsche_telekom",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169821
+      },
+      "content_length": 169821,
+      "audited_at": "2026-07-02T11:52:46.982642+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/gazprom",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.216,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Gazprom",
+            "description": "",
+            "url": "https://businessabc.net/wiki/gazprom"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/gazprom",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Gazprom on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Gazprom"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/gazprom"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2777702fc4ed460989adef84702913aa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Gazprom",
+            "og:description": "Learn more about Gazprom on citiesabc",
+            "og:url": "https://businessabc.net/wiki/gazprom",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161963
+      },
+      "content_length": 161963,
+      "audited_at": "2026-07-02T11:52:46.926277+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/servicenow",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.347,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "ServiceNow",
+            "description": "",
+            "url": "https://businessabc.net/wiki/servicenow"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N08341dc5523e47c7a32914b9c53d0ac1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/servicenow",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about ServiceNow on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "ServiceNow"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/servicenow"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "ServiceNow",
+            "og:description": "Learn more about ServiceNow on citiesabc",
+            "og:url": "https://businessabc.net/wiki/servicenow",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161106
+      },
+      "content_length": 161106,
+      "audited_at": "2026-07-02T11:52:55.413638+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/rio_tinto",
+      "score": 58,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 7.536,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Rio Tinto",
+            "description": "",
+            "url": "https://businessabc.net/wiki/rio_tinto"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/rio_tinto",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Rio Tinto on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Rio Tinto"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/rio_tinto"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7a17106d22cc4b5c9553d5259a7795bc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Rio Tinto",
+            "og:description": "Learn more about Rio Tinto on citiesabc",
+            "og:url": "https://businessabc.net/wiki/rio_tinto",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161956
+      },
+      "content_length": 161956,
+      "audited_at": "2026-07-02T11:52:55.635875+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/british-american-tobacco",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.745,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "British American Tobacco",
+            "description": "",
+            "url": "https://businessabc.net/wiki/british-american-tobacco"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/british-american-tobacco",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about British American Tobacco on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "British American Tobacco"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/british-american-tobacco"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6230ae2f55dc44fb996b78125844b26e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "British American Tobacco",
+            "og:description": "Learn more about British American Tobacco on citiesabc",
+            "og:url": "https://businessabc.net/wiki/british-american-tobacco",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 179051
+      },
+      "content_length": 179051,
+      "audited_at": "2026-07-02T11:53:03.387799+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/sony",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.622,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Sony",
+            "description": "Global leader in consumer electronics. Well known for manufacturing various products, including televisions, digital cameras, smartphones, and wearables. The company is most associated with the widely popular line of home video game consoles known as the PlayStation",
+            "url": "https://businessabc.net/wiki/sony"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/sony",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Global leader in consumer electronics. Well known for manufacturing various products, including televisions, digital cameras, smartphones, and wearables. The company is most associated with the widely popular line of home video game consoles known as the PlayStation"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Sony"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/sony"
+              }
+            ]
+          },
+          {
+            "@id": "_:N55bd8384386c4bf499f84b40f3f89e35",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Sony",
+            "og:description": "Global leader in consumer electronics. Well known for manufacturing various products, including televisions, digital cameras, smartphones, and wearables. The company is most associated with the widely popular line of home video game consoles known as the PlayStation",
+            "og:url": "https://businessabc.net/wiki/sony",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 178895
+      },
+      "content_length": 178895,
+      "audited_at": "2026-07-02T11:53:03.428331+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/prologis",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.609,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Prologis",
+            "description": "Real estate investment trust that invests in logistics facilities.",
+            "url": "https://businessabc.net/wiki/prologis"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N050898e0093145c49a84a6529366f75e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/prologis",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Real estate investment trust that invests in logistics facilities."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Prologis"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/prologis"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Prologis",
+            "og:description": "Real estate investment trust that invests in logistics facilities.",
+            "og:url": "https://businessabc.net/wiki/prologis",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 173382
+      },
+      "content_length": 173382,
+      "audited_at": "2026-07-02T11:53:13.161764+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/estee-lauder",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.61,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Estee Lauder",
+            "description": "Estée Lauder began as a homemade skincare business that evolved into one of the world’s leading brands of skincare, makeup, fragrance and haircare worldwide.",
+            "url": "https://businessabc.net/wiki/estee-lauder"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/estee-lauder",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Estée Lauder began as a homemade skincare business that evolved into one of the world’s leading brands of skincare, makeup, fragrance and haircare worldwide."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Estee Lauder"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/estee-lauder"
+              }
+            ]
+          },
+          {
+            "@id": "_:N07ac9b6251284a7ba65a447edc252c33",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Estee Lauder",
+            "og:description": "Estée Lauder began as a homemade skincare business that evolved into one of the world’s leading brands of skincare, makeup, fragrance and haircare worldwide.",
+            "og:url": "https://businessabc.net/wiki/estee-lauder",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 184701
+      },
+      "content_length": 184701,
+      "audited_at": "2026-07-02T11:53:13.118599+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/keyence",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.22,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Keyence",
+            "description": "Leading supplier of sensors, measuring systems, laser markers, microscopes, and machine vision systems worldwide.",
+            "url": "https://businessabc.net/wiki/keyence"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N13d3feb64c94412189f598523fad0ccb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/keyence",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Leading supplier of sensors, measuring systems, laser markers, microscopes, and machine vision systems worldwide."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Keyence"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/keyence"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Keyence",
+            "og:description": "Leading supplier of sensors, measuring systems, laser markers, microscopes, and machine vision systems worldwide.",
+            "og:url": "https://businessabc.net/wiki/keyence",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 170936
+      },
+      "content_length": 170936,
+      "audited_at": "2026-07-02T11:53:21.261129+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/cigna",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.063,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Cigna",
+            "description": "",
+            "url": "https://businessabc.net/wiki/cigna"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/cigna",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Cigna on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Cigna"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/cigna"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0f6910cd4fd9416a9edf176ce668f696",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Cigna",
+            "og:description": "Learn more about Cigna on citiesabc",
+            "og:url": "https://businessabc.net/wiki/cigna",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169204
+      },
+      "content_length": 169204,
+      "audited_at": "2026-07-02T11:53:21.310288+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/enbridge",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.404,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Enbridge",
+            "description": "",
+            "url": "https://businessabc.net/wiki/enbridge"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N2b78734b2509485690e5c404446b0db2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/enbridge",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Enbridge on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Enbridge"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/enbridge"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Enbridge",
+            "og:description": "Learn more about Enbridge on citiesabc",
+            "og:url": "https://businessabc.net/wiki/enbridge",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 175334
+      },
+      "content_length": 175334,
+      "audited_at": "2026-07-02T11:53:29.520711+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/lg-energy-solution",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 7.406,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "LG Energy Solution",
+            "description": "",
+            "url": "https://businessabc.net/wiki/lg-energy-solution"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc16c817a33b04578a23775f2cdb3671c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/lg-energy-solution",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about LG Energy Solution on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "LG Energy Solution"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/lg-energy-solution"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "LG Energy Solution",
+            "og:description": "Learn more about LG Energy Solution on citiesabc",
+            "og:url": "https://businessabc.net/wiki/lg-energy-solution",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 159554
+      },
+      "content_length": 159554,
+      "audited_at": "2026-07-02T11:53:29.765846+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/stryker-corporation",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 18.488,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Stryker Corporation",
+            "description": "Stryker Corporation is a Fortune 500 medical technologies company based in Kalamazoo, Michigan.",
+            "url": "https://businessabc.net/wiki/stryker-corporation"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc6c85a430ac3405886112a6d04ef3454",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/stryker-corporation",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Stryker Corporation is a Fortune 500 medical technologies company based in Kalamazoo, Michigan."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Stryker Corporation"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/stryker-corporation"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Stryker Corporation",
+            "og:description": "Stryker Corporation is a Fortune 500 medical technologies company based in Kalamazoo, Michigan.",
+            "og:url": "https://businessabc.net/wiki/stryker-corporation",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167197
+      },
+      "content_length": 167197,
+      "audited_at": "2026-07-02T11:53:50.055359+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/southern-company",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.189,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Southern Company",
+            "description": "Southern Company is an American gas and electric utility holding company based in the southern United States. ",
+            "url": "https://businessabc.net/wiki/southern-company"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne906507e96804e0e937d30c78b4b4666",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/southern-company",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Southern Company is an American gas and electric utility holding company based in the southern United States. "
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Southern Company"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/southern-company"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Southern Company",
+            "og:description": "Southern Company is an American gas and electric utility holding company based in the southern United States. ",
+            "og:url": "https://businessabc.net/wiki/southern-company",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 167622
+      },
+      "content_length": 167622,
+      "audited_at": "2026-07-02T11:53:39.080335+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/duke-energy",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.786,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Duke Energy",
+            "description": "",
+            "url": "https://businessabc.net/wiki/duke-energy"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/duke-energy",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Duke Energy on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Duke Energy"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/duke-energy"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf1a142507a5d43c8bebc8fa647bda074",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Duke Energy",
+            "og:description": "Learn more about Duke Energy on citiesabc",
+            "og:url": "https://businessabc.net/wiki/duke-energy",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 176121
+      },
+      "content_length": 176121,
+      "audited_at": "2026-07-02T11:54:00.917205+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/mondelez",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 9.98,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Mondelez",
+            "description": "Mondelez International is a food and beverage company that specializes in snack foods such as biscuits, chocolate, gum, and candies.",
+            "url": "https://businessabc.net/wiki/mondelez"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0113137db14046c4a7b8be1843f125df",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/mondelez",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Mondelez International is a food and beverage company that specializes in snack foods such as biscuits, chocolate, gum, and candies."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Mondelez"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/mondelez"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Mondelez",
+            "og:description": "Mondelez International is a food and beverage company that specializes in snack foods such as biscuits, chocolate, gum, and candies.",
+            "og:url": "https://businessabc.net/wiki/mondelez",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 165946
+      },
+      "content_length": 165946,
+      "audited_at": "2026-07-02T11:54:01.127885+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/siemens",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.777,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Siemens",
+            "description": "Siemens AG is a German multinational technology conglomerate that is the largest industrial manufacturing company in Europe and is the global market leader in industrial automation and industrial software.",
+            "url": "https://businessabc.net/wiki/siemens"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N26cb70d32a854d448d73f6f1f1d34385",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/siemens",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Siemens AG is a German multinational technology conglomerate that is the largest industrial manufacturing company in Europe and is the global market leader in industrial automation and industrial software."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Siemens"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/siemens"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Siemens",
+            "og:description": "Siemens AG is a German multinational technology conglomerate that is the largest industrial manufacturing company in Europe and is the global market leader in industrial automation and industrial software.",
+            "og:url": "https://businessabc.net/wiki/siemens",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 217920
+      },
+      "content_length": 217920,
+      "audited_at": "2026-07-02T11:54:10.895593+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/gilead-sciences",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.451,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Gilead Sciences",
+            "description": "Research-based biopharmaceutical company that discovers, develops and commercialises innovative medicines in areas of unmet medical need.",
+            "url": "https://businessabc.net/wiki/gilead-sciences"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6c1cc07cf3ec48fb858badcc080b4ec8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/gilead-sciences",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Research-based biopharmaceutical company that discovers, develops and commercialises innovative medicines in areas of unmet medical need."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Gilead Sciences"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/gilead-sciences"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Gilead Sciences",
+            "og:description": "Research-based biopharmaceutical company that discovers, develops and commercialises innovative medicines in areas of unmet medical need.",
+            "og:url": "https://businessabc.net/wiki/gilead-sciences",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 176725
+      },
+      "content_length": 176725,
+      "audited_at": "2026-07-02T11:54:10.795634+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/infosys",
+      "score": 58,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 20.533,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Infosys",
+            "description": "",
+            "url": "https://businessabc.net/wiki/infosys"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/infosys",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Infosys on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Infosys"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/infosys"
+              }
+            ]
+          },
+          {
+            "@id": "_:N30196e0384a842789f65562141890a92",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Infosys",
+            "og:description": "Learn more about Infosys on citiesabc",
+            "og:url": "https://businessabc.net/wiki/infosys",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 163504
+      },
+      "content_length": 163504,
+      "audited_at": "2026-07-02T11:54:33.136221+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/airbnb",
+      "score": 59,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 20.534,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Airbnb",
+            "description": "Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences, founded in 2008.",
+            "url": "https://businessabc.net/wiki/airbnb"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N46720b4602ff470294260991a9b2a66d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/airbnb",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences, founded in 2008."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Airbnb"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/airbnb"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Airbnb",
+            "og:description": "Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences, founded in 2008.",
+            "og:url": "https://businessabc.net/wiki/airbnb",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 182454
+      },
+      "content_length": 182454,
+      "audited_at": "2026-07-02T11:54:33.097017+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/chubb",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 19,
+      "duration_seconds": 8.197,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Chubb",
+            "description": "",
+            "url": "https://businessabc.net/wiki/chubb"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4725b265132c4ef8bcf144722036e605",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/chubb",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Chubb on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Chubb"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/chubb"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Chubb",
+            "og:description": "Learn more about Chubb on citiesabc",
+            "og:url": "https://businessabc.net/wiki/chubb",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172434
+      },
+      "content_length": 172434,
+      "audited_at": "2026-07-02T11:54:43.245345+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/marsh_and_mclennan_companies",
+      "score": 56,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 8.091,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Marsh and McLennan Companies",
+            "description": "",
+            "url": "https://businessabc.net/wiki/marsh_and_mclennan_companies"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb0624a56ea5a4e82bb9c9cd21c4b4849",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/marsh_and_mclennan_companies",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Learn more about Marsh and McLennan Companies on citiesabc"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Marsh and McLennan Companies"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/marsh_and_mclennan_companies"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Marsh and McLennan Companies",
+            "og:description": "Learn more about Marsh and McLennan Companies on citiesabc",
+            "og:url": "https://businessabc.net/wiki/marsh_and_mclennan_companies",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 169295
+      },
+      "content_length": 169295,
+      "audited_at": "2026-07-02T11:54:43.286827+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/applied-materials",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 20.729,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Applied Materials",
+            "description": "Applied Materials, Inc. is an American multinational corporation that provides equipment, services, and software for the manufacture of semiconductor chips, flat panel displays, and solar photovoltaic products. The company was founded in 1967 and is headquartered in Santa Clara, California. Applied Materials has a long and rich history as a leading provider of innovative manufacturing solutions for the electronics industry.",
+            "url": "https://businessabc.net/wiki/applied-materials"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://businessabc.net/wiki/applied-materials",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Applied Materials, Inc. is an American multinational corporation that provides equipment, services, and software for the manufacture of semiconductor chips, flat panel displays, and solar photovoltaic products. The company was founded in 1967 and is headquartered in Santa Clara, California. Applied Materials has a long and rich history as a leading provider of innovative manufacturing solutions for the electronics industry."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Applied Materials"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/applied-materials"
+              }
+            ]
+          },
+          {
+            "@id": "_:N68727fc893774cad813ed6de1a246df9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Applied Materials",
+            "og:description": "Applied Materials, Inc. is an American multinational corporation that provides equipment, services, and software for the manufacture of semiconductor chips, flat panel displays, and solar photovoltaic products. The company was founded in 1967 and is headquartered in Santa Clara, California. Applied Materials has a long and rich history as a leading provider of innovative manufacturing solutions for the electronics industry.",
+            "og:url": "https://businessabc.net/wiki/applied-materials",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 172032
+      },
+      "content_length": 172032,
+      "audited_at": "2026-07-02T11:55:05.126471+00:00"
+    },
+    {
+      "url": "https://businessabc.net/wiki/glencore",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 3,
+        "meta": 14,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 22.645,
+      "attempts": 2,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Company",
+            "name": "Glencore",
+            "description": "Produces and markets a wide range of metals and minerals such as copper, cobalt, zinc, nickel and ferroalloys",
+            "url": "https://businessabc.net/wiki/glencore"
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N4c1b5f7fc90547c9b0318da9da78e394",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://businessabc.net/wiki/glencore",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Produces and markets a wide range of metals and minerals such as copper, cobalt, zinc, nickel and ferroalloys"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "businessabc.net"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Glencore"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://businessabc.net/wiki/glencore"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Glencore",
+            "og:description": "Produces and markets a wide range of metals and minerals such as copper, cobalt, zinc, nickel and ferroalloys",
+            "og:url": "https://businessabc.net/wiki/glencore",
+            "og:site_name": "businessabc.net",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 166262
+      },
+      "content_length": 166262,
+      "audited_at": "2026-07-02T11:55:07.017664+00:00"
     }
   ],
   "crawl_stats": {
