@@ -2,7 +2,7 @@
   "site_name": "citiesabc",
   "sitemap_url": "https://citiesabc.com/sitemap.xml",
   "created_at": "2026-07-02T11:26:21.566767+00:00",
-  "last_update": "2026-07-02T11:48:52.345431+00:00",
+  "last_update": "2026-07-02T11:49:52.131676+00:00",
   "status": "in_progress",
   "urls": [
     "https://citiesabc.com",
@@ -968,7 +968,37 @@
     "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-architecture",
     "https://citiesabc.com/wiki/university-of-economics-and-law-vietnam-national-university-ho-chi-minh-city",
     "https://citiesabc.com/wiki/hanoi-university-of-culture",
-    "https://citiesabc.com/wiki/quy-nhon-university"
+    "https://citiesabc.com/wiki/quy-nhon-university",
+    "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+    "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+    "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+    "https://citiesabc.com/wiki/university-of-rajasthan",
+    "https://citiesabc.com/wiki/indian-statistical-institute",
+    "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+    "https://citiesabc.com/wiki/university-of-allahabad",
+    "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+    "https://citiesabc.com/wiki/annamalai-university",
+    "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+    "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+    "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+    "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+    "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+    "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+    "https://citiesabc.com/wiki/bimm-university",
+    "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+    "https://citiesabc.com/wiki/northeastern-university-london",
+    "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+    "https://citiesabc.com/wiki/the-university-of-law",
+    "https://citiesabc.com/wiki/university-of-roehampton",
+    "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+    "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+    "https://citiesabc.com/wiki/royal-northern-college-of-music"
   ],
   "results": [
     {
@@ -70720,6 +70750,4602 @@
       },
       "content_length": 157083,
       "audited_at": "2026-07-02T11:48:52.310057+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.54,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Ho_Chi_Minh_City_University_of_Foreign_Languages_and_Information_Technology_ea9540b5d4.png",
+            "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://huflit.edu.vn/en/",
+              "https://www.facebook.com/huflit.edu.vn/",
+              "https://www.linkedin.com/company/ho-chi-minh-city-university-of-foreign-languages-and-information-technology-huflit",
+              "https://www.instagram.com/huflit.uni/?hl=en",
+              "https://www.unirank.org/vn/uni/ho-chi-minh-city-university-of-foreign-languages-and-information-technology/youtube/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "828 Sư Vạn Hạnh, Phường Hòa Hưng, Quận 10, Hồ Chí Minh, Vietnam",
+              "addressCountry": "Vietnam",
+              "addressLocality": "HO CHI MINH CITY"
+            },
+            "hasPart": [
+              {
+                "url": "https://huflit.edu.vn/en/",
+                "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "Vietnam",
+                  "addressLocality": "HO CHI MINH CITY"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7760147",
+                "longitude": "106.6673648"
+              },
+              "@type": "Place"
+            },
+            "description": "Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT) is a private university in Ho Chi Minh City, Vietnam, established in 1994, focusing on foreign languages and information technology.",
+            "foundingDate": "1994",
+            "alternateName": [
+              "HUFLIT"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N942285bbac2f4baaa6caadfacda663e2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT), established in 1994 and located in Ho Chi Minh City."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Foreign_Languages_and_Information_Technology_ea9540b5d4.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Ho Chi Minh City University of Foreign Languages and Info..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "402"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "597"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Ho Chi Minh City University of Foreign Languages and Info..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Ho Chi Minh City University of Foreign Languages and Info...",
+            "og:description": "Discover Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT), established in 1994 and located in Ho Chi Minh City.",
+            "og:url": "https://citiesabc.com/wiki/ho-chi-minh-city-university-of-foreign-languages-and-information-technology",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Ho_Chi_Minh_City_University_of_Foreign_Languages_and_Information_Technology_ea9540b5d4.png",
+            "og:image:width": "597",
+            "og:image:height": "402",
+            "og:image:alt": "Ho Chi Minh City University of Foreign Languages and Info...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 164192
+      },
+      "content_length": 164192,
+      "audited_at": "2026-07-02T11:48:59.895901+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.234,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Kharagpur_56da43e729.png",
+            "name": "Indian Institute of Technology Kharagpur",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitkgp.ac.in/",
+              "https://www.facebook.com/IITKgp/",
+              "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur",
+              "https://x.com/iitkgp",
+              "https://www.instagram.com/iit.kgp/",
+              "https://www.youtube.com/@IITKharagpurOnline"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "WB",
+              "streetAddress": "Kharagpur, West Bengal 721302, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Kharagpur"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitkgp.ac.in/",
+                "name": "Indian Institute of Technology Kharagpur",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Kharagpur"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.3149274",
+                "longitude": "87.31053109999999"
+              },
+              "@type": "Place"
+            },
+            "description": "Indian Institute of Technology Kharagpur is a public research university and autonomous institute established by the Government of India, recognized as an Institute of National Importance, and known for its diverse academic offerings in engineering, science, humanities, and management.",
+            "foundingDate": "1951-08-18",
+            "alternateName": [
+              "IIT Kharagpur"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb1a6db9041444450b6d1cc825b167fc2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Indian Institute of Technology Kharagpur, established in 1951. Learn more about its extensive academic programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Kharagpur_56da43e729.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Kharagpur (Established 1951)"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1385"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Kharagpur (Established 1951)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Kharagpur (Established 1951)",
+            "og:description": "Discover Indian Institute of Technology Kharagpur, established in 1951. Learn more about its extensive academic programs.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-kharagpur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Kharagpur_56da43e729.png",
+            "og:image:width": "1240",
+            "og:image:height": "1385",
+            "og:image:alt": "Indian Institute of Technology Kharagpur (Established 1951)",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160291
+      },
+      "content_length": 160291,
+      "audited_at": "2026-07-02T11:48:59.863529+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.235,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Bombay_67d0ac4130.png",
+            "name": "Indian Institute of Technology Bombay",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitb.ac.in/",
+              "https://www.facebook.com/iitbombay/",
+              "https://www.linkedin.com/school/indian-institute-of-technology-bombay/",
+              "https://twitter.com/iitbombay",
+              "https://www.instagram.com/iitbombay/",
+              "https://www.youtube.com/c/IITBombayOfficialChannel"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Maharashtra",
+              "streetAddress": "Main Gate Rd, IIT Area, Powai, Mumbai, Maharashtra 400076, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Mumbai"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitb.ac.in/",
+                "name": "Indian Institute of Technology Bombay",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Mumbai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "19.1330605",
+                "longitude": "72.9151061"
+              },
+              "@type": "Place"
+            },
+            "description": "Indian Institute of Technology Bombay is a public research university and technical institute in Mumbai, India, renowned for its highly competitive Bachelor of Technology program.",
+            "foundingDate": "1958",
+            "alternateName": [
+              "IIT Bombay"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3bb9cef362f14619b368e117f24437a2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Indian Institute of Technology Bombay, established in 1958. Explore its renowned Bachelor of Technology program and research."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Bombay_67d0ac4130.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Bombay (Established 1958)"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1210"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Bombay (Established 1958)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Bombay (Established 1958)",
+            "og:description": "Discover Indian Institute of Technology Bombay, established in 1958. Explore its renowned Bachelor of Technology program and research.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-bombay",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Bombay_67d0ac4130.png",
+            "og:image:width": "1240",
+            "og:image:height": "1210",
+            "og:image:alt": "Indian Institute of Technology Bombay (Established 1958)",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155721
+      },
+      "content_length": 155721,
+      "audited_at": "2026-07-02T11:48:59.823314+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.302,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Delhi_b3c85a4b77.png",
+            "name": "Indian Institute of Technology Delhi",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://home.iitd.ac.in",
+              "https://www.facebook.com/IITDelhi/",
+              "https://in.linkedin.com/school/iitdelhi/",
+              "https://x.com/iitdelhi",
+              "https://www.instagram.com/iitdelhi/",
+              "https://www.youtube.com/@IITDelhiOfficial"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Delhi",
+              "streetAddress": "IIT Campus, Hauz Khas, Neu-Delhi, Delhi 110016, Indien",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://home.iitd.ac.in",
+                "name": "Indian Institute of Technology Delhi",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.545718",
+                "longitude": "77.19276789999999"
+              },
+              "@type": "Place"
+            },
+            "description": "The Indian Institute of Technology Delhi is a premier public institute of technology in New Delhi, India, recognized as a Centre of Excellence for training, research, and development in science, engineering, and technology [1].",
+            "foundingDate": "1961",
+            "alternateName": [
+              "IIT Delhi"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3253df02a291494197e52337e11704ae",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Indian Institute of Technology Delhi, a leading technology institute established in 1961. Explore its programs and history."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Delhi_b3c85a4b77.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Delhi (Established 1961)"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Delhi (Established 1961)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Delhi (Established 1961)",
+            "og:description": "Discover the Indian Institute of Technology Delhi, a leading technology institute established in 1961. Explore its programs and history.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-delhi",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Delhi_b3c85a4b77.png",
+            "og:image:width": "1240",
+            "og:image:height": "1240",
+            "og:image:alt": "Indian Institute of Technology Delhi (Established 1961)",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156816
+      },
+      "content_length": 156816,
+      "audited_at": "2026-07-02T11:49:05.300125+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.303,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Madras_525b99be07.png",
+            "name": "Indian Institute of Technology Madras",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitm.ac.in/",
+              "https://www.facebook.com/ReachIITM/",
+              "https://in.linkedin.com/school/sathyasai-b.ed.-college/",
+              "https://x.com/iitmadras?lang=en",
+              "https://www.instagram.com/iitmadrasofficial/?hl=en",
+              "https://www.youtube.com/@IITMadrasOfficial/videos"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Indian Institute Of Technology, Chennai, Tamil Nadu, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Chennai"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitm.ac.in/",
+                "name": "Indian Institute of Technology Madras",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chennai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "12.9915639",
+                "longitude": "80.2336857"
+              },
+              "@type": "Place"
+            },
+            "description": "Indian Institute of Technology Madras is a public technical university located in Chennai, India, recognized for its excellence in technical education and research.",
+            "foundingDate": "1959",
+            "alternateName": [
+              "IIT Madras",
+              "IIT-M"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the Indian Institute of Technology Madras, a premier technical university established in 1959. Learn about its programs and research."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Madras_525b99be07.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Madras - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Madras - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-madras"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9d2b7c45d20042f2b60c692d4e01e835",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Madras - Established 1959",
+            "og:description": "Explore the Indian Institute of Technology Madras, a premier technical university established in 1959. Learn about its programs and research.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-madras",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Madras_525b99be07.png",
+            "og:image:width": "1240",
+            "og:image:height": "1240",
+            "og:image:alt": "Indian Institute of Technology Madras - Established 1959",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160697
+      },
+      "content_length": 160697,
+      "audited_at": "2026-07-02T11:49:05.238943+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.511,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Kanpur_4991085b44.png",
+            "name": "Indian Institute of Technology Kanpur",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitk.ac.in/",
+              "https://www.facebook.com/iitkanpur/",
+              "https://in.linkedin.com/school/indian-institute-of-technology-kanpur/",
+              "https://x.com/iitkanpur?lang=en",
+              "https://www.instagram.com/iit.kanpur/?hl=en",
+              "https://www.youtube.com/iitkanpur"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "UP",
+              "streetAddress": "G66M+W8P, Kalyanpur, Kanpur, Uttar Pradesh 208016, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Kanpur"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitk.ac.in/",
+                "name": "Indian Institute of Technology Kanpur",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Kanpur"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "26.5123251",
+                "longitude": "80.2333343"
+              },
+              "@type": "Place"
+            },
+            "description": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a public institute of technology located in Kanpur, Uttar Pradesh, India, established in 1959, offering undergraduate, postgraduate, and doctoral programs across engineering, sciences, humanities, and management disciplines.",
+            "foundingDate": "1959",
+            "alternateName": [
+              "IIT Kanpur",
+              "IITK"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Indian Institute of Technology Kanpur, established in 1959, offering programs in engineering, sciences, and management."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Kanpur_4991085b44.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Kanpur - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1065"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1064"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Kanpur - Established 1959"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5a43bae561e6403495f91f49df420dce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Kanpur - Established 1959",
+            "og:description": "Discover Indian Institute of Technology Kanpur, established in 1959, offering programs in engineering, sciences, and management.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-kanpur",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Kanpur_4991085b44.png",
+            "og:image:width": "1064",
+            "og:image:height": "1065",
+            "og:image:alt": "Indian Institute of Technology Kanpur - Established 1959",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158439
+      },
+      "content_length": 158439,
+      "audited_at": "2026-07-02T11:49:05.333505+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.434,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/All_India_Institute_of_Medical_Sciences_New_Delhi_53464e605d.png",
+            "name": "All India Institute of Medical Sciences, New Delhi",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.aiims.edu/",
+              "https://www.facebook.com/AIIMS-Delhi/",
+              "https://in.linkedin.com/company/aiimsdelhi",
+              "https://x.com/aiims_newdelhi?lang=en",
+              "https://www.instagram.com/aiims_newdelhi/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Delhi",
+              "streetAddress": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029, Indien",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.aiims.edu/",
+                "name": "All India Institute of Medical Sciences, New Delhi",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.5671937",
+                "longitude": "77.2102608"
+              },
+              "@type": "Place"
+            },
+            "description": "All India Institute of Medical Sciences, New Delhi (AIIMS New Delhi) is a public medical research university and hospital in New Delhi, India, established in 1956.",
+            "foundingDate": "1956",
+            "alternateName": [
+              "AIIMS New Delhi",
+              "AIIMS"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7e8d774321bf435ea20f3fd9bacf13c1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover All India Institute of Medical Sciences, New Delhi, established in 1956. Learn about its top-ranked medical programs and research."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/All_India_Institute_of_Medical_Sciences_New_Delhi_53464e605d.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "All India Institute of Medical Sciences, New Delhi - Esta..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1380"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "All India Institute of Medical Sciences, New Delhi - Esta..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "All India Institute of Medical Sciences, New Delhi - Esta...",
+            "og:description": "Discover All India Institute of Medical Sciences, New Delhi, established in 1956. Learn about its top-ranked medical programs and research.",
+            "og:url": "https://citiesabc.com/wiki/all-india-institute-of-medical-sciences-new-delhi",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/All_India_Institute_of_Medical_Sciences_New_Delhi_53464e605d.png",
+            "og:image:width": "1240",
+            "og:image:height": "1380",
+            "og:image:alt": "All India Institute of Medical Sciences, New Delhi - Esta...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154709
+      },
+      "content_length": 154709,
+      "audited_at": "2026-07-02T11:49:10.847840+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.432,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Tata_Institute_of_Fundamental_Research_49236f8730.png",
+            "name": "Tata Institute of Fundamental Research",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.tifr.res.in/",
+              "https://www.facebook.com/tifr.mumbai/",
+              "https://in.linkedin.com/school/tata-institute-of-fundamental-research/",
+              "https://x.com/tifrscience",
+              "https://www.instagram.com/tifrscience/",
+              "https://www.youtube.com/@tifrscience"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "MH",
+              "streetAddress": "Dr Homi Bhabha Rd, TIFR, Navy Nagar, Colaba, Mumbai, Maharashtra 400005, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Mumbai"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.tifr.res.in/",
+                "name": "Tata Institute of Fundamental Research",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Mumbai"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "18.9065257",
+                "longitude": "72.8051318"
+              },
+              "@type": "Place"
+            },
+            "description": "The Tata Institute of Fundamental Research (TIFR) is a premier Indian research institute and deemed university under the Department of Atomic Energy, Government of India, specializing in fundamental research across various scientific disciplines.",
+            "foundingDate": "1945-06-01",
+            "alternateName": [
+              "TIFR"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N644f78b5addb428e9612bb8d24ee15ae",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the Tata Institute of Fundamental Research, founded in 1945, a premier Indian research institute in Mumbai."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Tata_Institute_of_Fundamental_Research_49236f8730.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Tata Institute of Fundamental Research - Established 1945"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1120"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "2110"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Tata Institute of Fundamental Research - Established 1945"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Tata Institute of Fundamental Research - Established 1945",
+            "og:description": "Explore the Tata Institute of Fundamental Research, founded in 1945, a premier Indian research institute in Mumbai.",
+            "og:url": "https://citiesabc.com/wiki/tata-institute-of-fundamental-research",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Tata_Institute_of_Fundamental_Research_49236f8730.png",
+            "og:image:width": "2110",
+            "og:image:height": "1120",
+            "og:image:alt": "Tata Institute of Fundamental Research - Established 1945",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157437
+      },
+      "content_length": 157437,
+      "audited_at": "2026-07-02T11:49:10.916220+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.43,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Roorkee_b8b80abc94.png",
+            "name": "Indian Institute of Technology Roorkee",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitr.ac.in/",
+              "https://www.facebook.com/110723692284452",
+              "https://in.linkedin.com/school/indian-institute-of-technology-roorkee/",
+              "https://x.com/iitroorkee",
+              "https://www.instagram.com/iitroorkee/?hl=en",
+              "https://www.youtube.com/@IITRoorkeeOfficialChannel"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Uttarakhand",
+              "streetAddress": "Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Roorkee"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitr.ac.in/",
+                "name": "Indian Institute of Technology Roorkee",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Roorkee"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "29.8640762",
+                "longitude": "77.8953614"
+              },
+              "@type": "Place"
+            },
+            "description": "The Indian Institute of Technology Roorkee is a premier public technical and research university located in Roorkee, Uttarakhand, India, renowned for its contributions to engineering, technology, and applied sciences.",
+            "foundingDate": "1847",
+            "alternateName": [
+              "IIT Roorkee"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N6af7925b033b4bdaaf1145cb9c89c214",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Indian Institute of Technology Roorkee, established in 1847. Explore its comprehensive academic offerings and research opportunities."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Roorkee_b8b80abc94.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Roorkee - Established 1847"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1064"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1064"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Roorkee - Established 1847"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Roorkee - Established 1847",
+            "og:description": "Discover the Indian Institute of Technology Roorkee, established in 1847. Explore its comprehensive academic offerings and research opportunities.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-roorkee",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Roorkee_b8b80abc94.png",
+            "og:image:width": "1064",
+            "og:image:height": "1064",
+            "og:image:alt": "Indian Institute of Technology Roorkee - Established 1847",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154706
+      },
+      "content_length": 154706,
+      "audited_at": "2026-07-02T11:49:10.881566+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-rajasthan",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.509,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-rajasthan",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Rajasthan_dba8f64a9b.png",
+            "name": "University of Rajasthan",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.uniraj.ac.in",
+              "https://www.facebook.com/UNIVERSITYOFRAJASTHAN/",
+              "https://in.linkedin.com/school/university-of-rajasthan/",
+              "https://x.com/unirajofficial?lang=en",
+              "https://www.instagram.com/rajasthan_university_official/",
+              "https://www.youtube.com/channel/UCWbqMrprvm-_v8q57GwPK-Q"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Rajasthan",
+              "streetAddress": "Jawahar Lal Nehru Marg, Rajasthan University Campus, Talvandi, Jaipur, Rajasthan 302004, India",
+              "addressCountry": "India",
+              "addressLocality": "JAIPUR"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.uniraj.ac.in",
+                "name": "University of Rajasthan",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "JAIPUR"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "26.8885216",
+                "longitude": "75.8140296"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Rajasthan is a public state university located in Jaipur, India, established in 1947, and is one of the largest university systems in the state.",
+            "foundingDate": "1947",
+            "alternateName": [
+              "Rajasthan University",
+              "RU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-rajasthan",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N75e3b3a893a34c448ca91fa165c7fa1b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-rajasthan",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the University of Rajasthan, established in 1947. Learn more about this public state university in Jaipur, India."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Rajasthan_dba8f64a9b.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Rajasthan - Jaipur, India"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "325"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "325"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Rajasthan - Jaipur, India"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-rajasthan"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Rajasthan - Jaipur, India",
+            "og:description": "Explore the University of Rajasthan, established in 1947. Learn more about this public state university in Jaipur, India.",
+            "og:url": "https://citiesabc.com/wiki/university-of-rajasthan",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Rajasthan_dba8f64a9b.png",
+            "og:image:width": "325",
+            "og:image:height": "325",
+            "og:image:alt": "University of Rajasthan - Jaipur, India",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154995
+      },
+      "content_length": 154995,
+      "audited_at": "2026-07-02T11:49:16.396658+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-statistical-institute",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.387,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-statistical-institute",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Statistical_Institute_3471424e89.png",
+            "name": "Indian Statistical Institute",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.isical.ac.in/",
+              "https://www.facebook.com/IndianStatisticalInstitute/",
+              "https://in.linkedin.com/company/isical",
+              "https://x.com/isikolkata",
+              "https://www.instagram.com/indian_statistical_institute/",
+              "https://www.youtube.com/channel/UCMO_z6Vj6BhfECOUoQzCViA"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "WB",
+              "streetAddress": "Plot No, 203, Barrackpore Trunk Rd, Dunlop, Bonhooghly Government Colony, Baranagar, West Bengal 700108, Indien",
+              "addressCountry": "India",
+              "addressLocality": "KOLKATA"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.isical.ac.in/",
+                "name": "Indian Statistical Institute",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "KOLKATA"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.6486824",
+                "longitude": "88.37689139999999"
+              },
+              "@type": "Place"
+            },
+            "description": "The Indian Statistical Institute (ISI) is a public research university and an Institute of National Importance headquartered in Kolkata, India, excelling in research and education across statistics, mathematics, computer science, and quantitative economics.",
+            "foundingDate": "1931-12-17",
+            "alternateName": [
+              "ISI"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-statistical-institute",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/indian-statistical-institute",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Indian Statistical Institute (ISI), founded in 1931 in Kolkata, India, excelling in statistics and related fields."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Statistical_Institute_3471424e89.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Statistical Institute - Established 1931"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1402"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Statistical Institute - Established 1931"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-statistical-institute"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nabfb00e624a64a39858081dc4cc4fd35",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Statistical Institute - Established 1931",
+            "og:description": "Discover the Indian Statistical Institute (ISI), founded in 1931 in Kolkata, India, excelling in statistics and related fields.",
+            "og:url": "https://citiesabc.com/wiki/indian-statistical-institute",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Statistical_Institute_3471424e89.png",
+            "og:image:width": "1240",
+            "og:image:height": "1402",
+            "og:image:alt": "Indian Statistical Institute - Established 1931",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 161708
+      },
+      "content_length": 161708,
+      "audited_at": "2026-07-02T11:49:16.431740+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.434,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Postgraduate_Institute_of_Medical_Education_and_Research_7cab4a7228.jpeg",
+            "name": "Postgraduate Institute of Medical Education and Research",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.pgimer.edu.in/",
+              "https://www.facebook.com/Postgraduate-Institute-of-Medical-Education-and-Research/105383662828623",
+              "https://in.linkedin.com/school/postgraduate-institute-of-medical-education-and-research/",
+              "https://x.com/mspgimer?lang=en",
+              "https://www.instagram.com/pgimer_chandigarh/",
+              "https://www.youtube.com/@pgimerchandigarh"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Chandigarh",
+              "streetAddress": "Madhya Marg, Sector 12, Chandigarh, 160012, India",
+              "addressCountry": "India",
+              "addressLocality": "Chandigarh"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.pgimer.edu.in/",
+                "name": "Postgraduate Institute of Medical Education and Research",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chandigarh"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.7649984",
+                "longitude": "76.7755589"
+              },
+              "@type": "Place"
+            },
+            "description": "Postgraduate Institute of Medical Education and Research (PGIMER) is a premier public medical university and research institution in Chandigarh, India, known for its advanced training and patient care facilities.",
+            "foundingDate": "1962",
+            "alternateName": [
+              "PGIMER"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Postgraduate Institute of Medical Education and Research, a premier medical university in Chandigarh, India, established in 1962."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Postgraduate_Institute_of_Medical_Education_and_Research_7cab4a7228.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Postgraduate Institute of Medical Education and Research..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "900"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "900"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Postgraduate Institute of Medical Education and Research..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research"
+              }
+            ]
+          },
+          {
+            "@id": "_:N88233daa593144c49b21cdf19afd64d8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Postgraduate Institute of Medical Education and Research...",
+            "og:description": "Discover Postgraduate Institute of Medical Education and Research, a premier medical university in Chandigarh, India, established in 1962.",
+            "og:url": "https://citiesabc.com/wiki/postgraduate-institute-of-medical-education-and-research",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Postgraduate_Institute_of_Medical_Education_and_Research_7cab4a7228.jpeg",
+            "og:image:width": "900",
+            "og:image:height": "900",
+            "og:image:alt": "Postgraduate Institute of Medical Education and Research...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160560
+      },
+      "content_length": 160560,
+      "audited_at": "2026-07-02T11:49:16.466959+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-allahabad",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.475,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-allahabad",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Allahabad_a0d9693b03.jpeg",
+            "name": "University of Allahabad",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.allduniv.ac.in/",
+              "https://www.facebook.com/uoa.officialpage/",
+              "https://in.linkedin.com/school/university-of-allahabad-allahabad/",
+              "https://x.com/uoa_official",
+              "https://www.instagram.com/uoa_official/",
+              "https://www.youtube.com/@uoa_official"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "UP",
+              "streetAddress": "Senate House, University Road, Old Katra, Prayagraj, Uttar Pradesh 211002, India",
+              "addressCountry": "India",
+              "addressLocality": "Prayagraj"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.allduniv.ac.in/",
+                "name": "University of Allahabad",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Prayagraj"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "25.4669611",
+                "longitude": "81.8594275"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Allahabad is a public central university located in Prayagraj, Uttar Pradesh, India, recognized as an Institution of National Importance.",
+            "foundingDate": "1887-09-23",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-allahabad",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0e173dec672a43acbe1fb8daca69864e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-allahabad",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Allahabad, established in 1887 and located in Prayagraj, Uttar Pradesh."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Allahabad_a0d9693b03.jpeg"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Allahabad - Established 1887"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1260"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1260"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Allahabad - Established 1887"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-allahabad"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Allahabad - Established 1887",
+            "og:description": "Discover the University of Allahabad, established in 1887 and located in Prayagraj, Uttar Pradesh.",
+            "og:url": "https://citiesabc.com/wiki/university-of-allahabad",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Allahabad_a0d9693b03.jpeg",
+            "og:image:width": "1260",
+            "og:image:height": "1260",
+            "og:image:alt": "University of Allahabad - Established 1887",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157008
+      },
+      "content_length": 157008,
+      "audited_at": "2026-07-02T11:49:22.022429+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.508,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/National_Institute_of_Technology_Tiruchirappalli_e081a1c44a.png",
+            "name": "National Institute of Technology, Tiruchirappalli",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.nitt.edu/",
+              "https://www.facebook.com/NITT.Official/",
+              "https://in.linkedin.com/school/nittrichy/",
+              "https://x.com/reachnitt",
+              "https://www.instagram.com/nit_tiruchirappalli/",
+              "https://www.youtube.com/@NITTiruchirappalliOfficial"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Tanjore Main Road, NH67, near BHEL, Tiruchirappalli, Tamil Nadu 620015, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Tiruchirappalli"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.nitt.edu/",
+                "name": "National Institute of Technology, Tiruchirappalli",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Tiruchirappalli"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "10.7589381",
+                "longitude": "78.8132181"
+              },
+              "@type": "Place"
+            },
+            "description": "The National Institute of Technology, Tiruchirappalli is a public technical and research university in Tamil Nadu, India, recognized as an Institute of National Importance.",
+            "foundingDate": "1964",
+            "alternateName": [
+              "NIT Trichy"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N30cb8ccccc0040c18eda697fef7ffa01",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover National Institute of Technology, Tiruchirappalli, established in 1964. Learn more about its programs and history."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Tiruchirappalli_e081a1c44a.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "National Institute of Technology, Tiruchirappalli (Establ..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "724"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "726"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "National Institute of Technology, Tiruchirappalli (Establ..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "National Institute of Technology, Tiruchirappalli (Establ...",
+            "og:description": "Discover National Institute of Technology, Tiruchirappalli, established in 1964. Learn more about its programs and history.",
+            "og:url": "https://citiesabc.com/wiki/national-institute-of-technology-tiruchirappalli",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Tiruchirappalli_e081a1c44a.png",
+            "og:image:width": "726",
+            "og:image:height": "724",
+            "og:image:alt": "National Institute of Technology, Tiruchirappalli (Establ...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 160925
+      },
+      "content_length": 160925,
+      "audited_at": "2026-07-02T11:49:22.056276+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/annamalai-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.505,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/annamalai-university",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Annamalai_University_f8ccda29d5.png",
+            "name": "Annamalai University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://annamalaiuniversity.ac.in/",
+              "https://www.facebook.com/profile.php?id=105664882799981",
+              "https://in.linkedin.com/school/annamalai-university-annamalainagar/",
+              "https://x.com/AnnamalaiUni",
+              "https://www.instagram.com/annamalai__university_cdm/?hl=en",
+              "https://www.youtube.com/channel/UCjKdJT34VyVkwrcp6K1VZwg"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "postalCode": "608002",
+              "addressRegion": "Tamil Nadu",
+              "streetAddress": "Annamalai Nagar, Chidambaram, Tamil Nadu 608002, India",
+              "addressCountry": "India",
+              "addressLocality": "Chidambaram"
+            },
+            "hasPart": [
+              {
+                "url": "https://annamalaiuniversity.ac.in/",
+                "name": "Annamalai University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Chidambaram"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "11.390607",
+                "longitude": "79.7133444"
+              },
+              "@type": "Place"
+            },
+            "description": "Annamalai University is a large public state university in Chidambaram, Tamil Nadu, India, known for its diverse academic programs and significant contributions to higher education.",
+            "foundingDate": "1929-01-01",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/annamalai-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/annamalai-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Annamalai University, a public state university in Chidambaram, Tamil Nadu, India, established in 1929."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Annamalai_University_f8ccda29d5.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Annamalai University | Established 1929"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1156"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1360"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Annamalai University | Established 1929"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/annamalai-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf05aca3e0282462496db045b81a3c9ef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Annamalai University | Established 1929",
+            "og:description": "Discover Annamalai University, a public state university in Chidambaram, Tamil Nadu, India, established in 1929.",
+            "og:url": "https://citiesabc.com/wiki/annamalai-university",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Annamalai_University_f8ccda29d5.png",
+            "og:image:width": "1360",
+            "og:image:height": "1156",
+            "og:image:alt": "Annamalai University | Established 1929",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 156215
+      },
+      "content_length": 156215,
+      "audited_at": "2026-07-02T11:49:22.250646+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.433,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/National_Institute_of_Technology_Rourkela_3398dfcc5c.png",
+            "name": "National Institute of Technology, Rourkela",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.nitrkl.ac.in/",
+              "https://www.facebook.com/nitrkl1/",
+              "https://in.linkedin.com/school/national-institute-of-technology-rourkela/",
+              "https://x.com/nitrourkela",
+              "https://www.instagram.com/nitrourkela1961/",
+              "https://www.youtube.com/@NITROURKELA1961"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Odisha",
+              "streetAddress": "National Institute of Technology, Sector 1, Rourkela, Odisha 769008, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Rourkela"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.nitrkl.ac.in/",
+                "name": "National Institute of Technology, Rourkela",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Rourkela"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.253051",
+                "longitude": "84.9009428"
+              },
+              "@type": "Place"
+            },
+            "description": "National Institute of Technology, Rourkela is a publicly funded institute of higher learning for engineering, science, and technology in Rourkela, Odisha, India.",
+            "foundingDate": "1961-08-15",
+            "alternateName": [
+              "NIT Rourkela"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover National Institute of Technology, Rourkela, established in 1961. Learn more about its engineering, science, and technology programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Rourkela_3398dfcc5c.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "National Institute of Technology, Rourkela (Established 1..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1196"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1240"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "National Institute of Technology, Rourkela (Established 1..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nda80454681fe47e0abc3b62623c2beff",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "National Institute of Technology, Rourkela (Established 1...",
+            "og:description": "Discover National Institute of Technology, Rourkela, established in 1961. Learn more about its engineering, science, and technology programs.",
+            "og:url": "https://citiesabc.com/wiki/national-institute-of-technology-rourkela",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Rourkela_3398dfcc5c.png",
+            "og:image:width": "1240",
+            "og:image:height": "1196",
+            "og:image:alt": "National Institute of Technology, Rourkela (Established 1...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 155522
+      },
+      "content_length": 155522,
+      "audited_at": "2026-07-02T11:49:29.936446+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.549,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Nimhans_logo_caa88d1818.png",
+            "name": "National Institute of Mental Health and Neurosciences",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.nimhans.ac.in/",
+              "https://www.facebook.com/nimhansbengaluru/",
+              "https://in.linkedin.com/company/national-institute-of-mental-health-and-neuro-sciences",
+              "https://www.instagram.com/explore/locations/461102678/national-institute-of-mental-health-and-neurosciences/",
+              "https://www.youtube.com/channel/UCb1DHetfeJM4eMpoWwFpW0g/about"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Karnataka",
+              "streetAddress": "Hosur Main Road, Lakkasandra, Ayappa Garden, Adugodi, Bengaluru, Karnataka 560030, India",
+              "addressCountry": "India",
+              "addressLocality": "Bangalore"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.nimhans.ac.in/",
+                "name": "National Institute of Mental Health and Neurosciences",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Bangalore"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "12.9407261",
+                "longitude": "77.5982593"
+              },
+              "@type": "Place"
+            },
+            "description": "The National Institute of Mental Health and Neurosciences (NIMHANS) is a premier medical institution in Bengaluru, India, recognized as an Institute of National Importance and an apex center for mental health education and neuroscience research.",
+            "foundingDate": "1974-12-27",
+            "alternateName": [
+              "NIMHANS"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru, India, a center for mental health and neuroscience research."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Nimhans_logo_caa88d1818.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "National Institute of Mental Health and Neurosciences | B..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "314"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "314"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "National Institute of Mental Health and Neurosciences | B..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences"
+              }
+            ]
+          },
+          {
+            "@id": "_:N71cdd9472b2e4ee6ad719aff9c0b9b39",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "National Institute of Mental Health and Neurosciences | B...",
+            "og:description": "Explore the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru, India, a center for mental health and neuroscience research.",
+            "og:url": "https://citiesabc.com/wiki/national-institute-of-mental-health-and-neurosciences",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Nimhans_logo_caa88d1818.png",
+            "og:image:width": "314",
+            "og:image:height": "314",
+            "og:image:alt": "National Institute of Mental Health and Neurosciences | B...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157901
+      },
+      "content_length": 157901,
+      "audited_at": "2026-07-02T11:49:29.969317+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 6.491,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/National_Institute_of_Technology_Karnataka_79d18c36e3.png",
+            "name": "National Institute of Technology Karnataka",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.nitk.ac.in/",
+              "https://www.facebook.com/NITKarnataka/",
+              "https://in.linkedin.com/school/nitk-surathkal/",
+              "https://twitter.com/surathkal_nitk",
+              "https://www.instagram.com/nitk.surathkal/?hl=en"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Karnataka",
+              "streetAddress": "NH 66, Srinivasnagar, Surathkal, Mangaluru, Karnataka 575025, India",
+              "addressCountry": "India",
+              "addressLocality": "Surathkal"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.nitk.ac.in/",
+                "name": "National Institute of Technology Karnataka",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Surathkal"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "13.0107776",
+                "longitude": "74.794309"
+              },
+              "@type": "Place"
+            },
+            "description": "The National Institute of Technology Karnataka (NITK) is a public technical university located in Surathkal, Mangaluru, recognized as an Institute of National Importance by the Government of India.",
+            "foundingDate": "1960-08-06",
+            "alternateName": [
+              "NITK",
+              "NITK Surathkal"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1b2002aec2974ba9aa984065444b8d1d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the National Institute of Technology Karnataka, established in 1960. Explore its engineering, science, and management programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Karnataka_79d18c36e3.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "National Institute of Technology Karnataka | Est. 1960"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "347"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "365"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "National Institute of Technology Karnataka | Est. 1960"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "National Institute of Technology Karnataka | Est. 1960",
+            "og:description": "Discover the National Institute of Technology Karnataka, established in 1960. Explore its engineering, science, and management programs.",
+            "og:url": "https://citiesabc.com/wiki/national-institute-of-technology-karnataka",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/National_Institute_of_Technology_Karnataka_79d18c36e3.png",
+            "og:image:width": "365",
+            "og:image:height": "347",
+            "og:image:alt": "National Institute of Technology Karnataka | Est. 1960",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157208
+      },
+      "content_length": 157208,
+      "audited_at": "2026-07-02T11:49:29.897709+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.467,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/Indian_Institute_of_Technology_Guwahati_b36621c4de.png",
+            "name": "Indian Institute of Technology Guwahati",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.iitg.ac.in/",
+              "https://www.facebook.com/iitgwt/",
+              "https://in.linkedin.com/company/iit-guwahati",
+              "https://x.com/iitguwahati?lang=en",
+              "https://www.instagram.com/iitgwt/?hl=en",
+              "https://www.youtube.com/channel/UCPm2vuTGBM80v0tEecjP3Kw/about"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Assam",
+              "streetAddress": "5MRW+W2H, IIT Guwahati, Guwahati, Assam 781039, Indien",
+              "addressCountry": "India",
+              "addressLocality": "Guwahati"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.iitg.ac.in/",
+                "name": "Indian Institute of Technology Guwahati",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Guwahati"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "26.1923205",
+                "longitude": "91.6951067"
+              },
+              "@type": "Place"
+            },
+            "description": "The Indian Institute of Technology Guwahati is a public technical university established by the Government of India, known for its strong emphasis on engineering, science, and design.",
+            "foundingDate": "1994",
+            "alternateName": [
+              "IIT Guwahati",
+              "IITG"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Indian Institute of Technology Guwahati, established in 1994. Learn more about its academic programs and location."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Guwahati_b36621c4de.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "Indian Institute of Technology Guwahati - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1844"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1838"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Indian Institute of Technology Guwahati - Established 1994"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne3685ab8f4c949109e8cad3a73230189",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Indian Institute of Technology Guwahati - Established 1994",
+            "og:description": "Discover the Indian Institute of Technology Guwahati, established in 1994. Learn more about its academic programs and location.",
+            "og:url": "https://citiesabc.com/wiki/indian-institute-of-technology-guwahati",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/Indian_Institute_of_Technology_Guwahati_b36621c4de.png",
+            "og:image:width": "1838",
+            "og:image:height": "1844",
+            "og:image:alt": "Indian Institute of Technology Guwahati - Established 1994",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154857
+      },
+      "content_length": 154857,
+      "audited_at": "2026-07-02T11:49:35.383817+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.279,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/The_Maharaja_Sayajirao_University_of_Baroda_3ac5aa9cff.png",
+            "name": "The Maharaja Sayajirao University of Baroda",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://msubaroda.ac.in/",
+              "https://www.facebook.com/TheMSUBaroda/",
+              "https://in.linkedin.com/school/the-maharaja-sayajirao-university-of-baroda/",
+              "https://x.com/themsubaroda",
+              "https://www.instagram.com/themsubaroda/",
+              "https://www.youtube.com/c/TheMSUBaroda"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Gujarat",
+              "streetAddress": "Pratapgunj, Vadodara, Gujarat 390002, India",
+              "addressCountry": "India",
+              "addressLocality": "Vadodara"
+            },
+            "hasPart": [
+              {
+                "url": "https://msubaroda.ac.in/",
+                "name": "The Maharaja Sayajirao University of Baroda",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "Vadodara"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "22.3256313",
+                "longitude": "73.1824505"
+              },
+              "@type": "Place"
+            },
+            "description": "The Maharaja Sayajirao University of Baroda is a public residential university located in Vadodara, Gujarat, India, offering a wide range of undergraduate, postgraduate, and doctoral programs across numerous disciplines.",
+            "foundingDate": "1949-04-30",
+            "alternateName": [
+              "MSU"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The Maharaja Sayajirao University of Baroda, established in 1949 in Vadodara, India. Explore its many faculties and programs."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/The_Maharaja_Sayajirao_University_of_Baroda_3ac5aa9cff.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "The Maharaja Sayajirao University of Baroda - Vadodara, I..."
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "356"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "355"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The Maharaja Sayajirao University of Baroda - Vadodara, I..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1c5050c215bf45d9ad356854f92816b2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The Maharaja Sayajirao University of Baroda - Vadodara, I...",
+            "og:description": "Discover The Maharaja Sayajirao University of Baroda, established in 1949 in Vadodara, India. Explore its many faculties and programs.",
+            "og:url": "https://citiesabc.com/wiki/the-maharaja-sayajirao-university-of-baroda",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/The_Maharaja_Sayajirao_University_of_Baroda_3ac5aa9cff.png",
+            "og:image:width": "355",
+            "og:image:height": "356",
+            "og:image:alt": "The Maharaja Sayajirao University of Baroda - Vadodara, I...",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 158335
+      },
+      "content_length": 158335,
+      "audited_at": "2026-07-02T11:49:35.350693+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.28,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+            "logo": "https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/University_of_Delhi_South_Campus_294428da29.png",
+            "name": "University of Delhi (South Campus)",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.du.ac.in/index.php?page=south-campus",
+              "https://www.facebook.com/DelhiUniversitySouthCampus/",
+              "https://in.linkedin.com/in/university-of-delhi-19a059265",
+              "https://x.com/univofdelhi?lang=en",
+              "https://www.instagram.com/explore/locations/501226108/university-of-delhi---south-campus/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Delhi",
+              "streetAddress": "Benito Juarez Marg, South Campus, South Moti Bagh, New Delhi, Delhi 110021, India",
+              "addressCountry": "India",
+              "addressLocality": "New Delhi"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.du.ac.in/index.php?page=south-campus",
+                "name": "University of Delhi (South Campus)",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "India",
+                  "addressLocality": "New Delhi"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.5842824",
+                "longitude": "77.1638519"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Delhi South Campus is a prominent extension of the University of Delhi, offering diverse academic programs with a focus on inter-disciplinary and applied studies.",
+            "foundingDate": "1973",
+            "alternateName": [
+              "DU South Campus"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nbdea885d4be344d9b8ab4ec882ee194f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Delhi (South Campus), established in 1973, offering diverse academic programs in New Delhi."
+              }
+            ],
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Delhi_South_Campus_294428da29.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "University of Delhi (South Campus) - Established 1973"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "1144"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1161"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Delhi (South Campus) - Established 1973"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-delhi-south-campus"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Delhi (South Campus) - Established 1973",
+            "og:description": "Discover the University of Delhi (South Campus), established in 1973, offering diverse academic programs in New Delhi.",
+            "og:url": "https://citiesabc.com/wiki/university-of-delhi-south-campus",
+            "og:site_name": "citiesabc.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/University_of_Delhi_South_Campus_294428da29.png",
+            "og:image:width": "1161",
+            "og:image:height": "1144",
+            "og:image:alt": "University of Delhi (South Campus) - Established 1973",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154726
+      },
+      "content_length": 154726,
+      "audited_at": "2026-07-02T11:49:35.313439+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/bimm-university",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.553,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/bimm-university",
+            "name": "BIMM University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.bimm.university/",
+              "https://www.facebook.com/BIMMLondon/",
+              "https://uk.linkedin.com/school/bimm-university/",
+              "https://x.com/BIMM_Institute",
+              "https://www.instagram.com/bimm_london/reels/",
+              "https://www.youtube.com/@BIMMUniversity"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Barclay House, Effie Road, Fulham, London, SW6 1EN",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.bimm.university/",
+                "name": "BIMM University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.4744221",
+                "longitude": "-0.206809"
+              },
+              "@type": "Place"
+            },
+            "description": "BIMM University is a leading private university specializing in music, film, performing arts, and creative technology, dedicated to preparing students for careers in the global creative industries.",
+            "foundingDate": "1983",
+            "alternateName": [
+              "BIMM"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/bimm-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/bimm-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover BIMM University, established in 1983, a leading institution for music, film, and performing arts education. Learn more about its industry focus."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "BIMM University - Creative Arts Education"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/bimm-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N10359e0c240b42f1a7d83aad3da2eefe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "BIMM University - Creative Arts Education",
+            "og:description": "Discover BIMM University, established in 1983, a leading institution for music, film, and performing arts education. Learn more about its industry focus.",
+            "og:url": "https://citiesabc.com/wiki/bimm-university",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 159239
+      },
+      "content_length": 159239,
+      "audited_at": "2026-07-02T11:49:41.159938+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.336,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+            "name": "City St George's, University of London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.citystgeorges.ac.uk/",
+              "https://www.facebook.com/CityStGeorgesUni/",
+              "https://uk.linkedin.com/school/citystgeorges/",
+              "https://twitter.com/CityStGeorges",
+              "https://www.instagram.com/citystgeorgesuni/?hl=en",
+              "https://www.youtube.com/@citystgeorges"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Northampton Square, London, EC1V 0HB",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.citystgeorges.ac.uk/",
+                "name": "City St George's, University of London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.527903",
+                "longitude": "-0.103099"
+              },
+              "@type": "Place"
+            },
+            "description": "City St George's, University of London is a public research university in London, formed from the merger of City, University of London and St George's, University of London.",
+            "foundingDate": "2024-08-01",
+            "alternateName": [
+              "City St George's"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N0df50d02242c49859a3340b7db767b40",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover City St George's, University of London, established in 2024. Learn about its healthcare focus and diverse programs. Explore today!"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "City St George's, University of London - Established 2024"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/city-st-georges-university-of-london"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "City St George's, University of London - Established 2024",
+            "og:description": "Discover City St George's, University of London, established in 2024. Learn about its healthcare focus and diverse programs. Explore today!",
+            "og:url": "https://citiesabc.com/wiki/city-st-georges-university-of-london",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153115
+      },
+      "content_length": 153115,
+      "audited_at": "2026-07-02T11:49:40.913059+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/northeastern-university-london",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.334,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/northeastern-university-london",
+            "name": "Northeastern University – London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.nulondon.ac.uk/",
+              "https://www.facebook.com/NortheasternLDN/",
+              "https://uk.linkedin.com/school/northeasternuniversitylondon/",
+              "https://x.com/NortheasternLDN",
+              "https://www.instagram.com/northeastern.ldn/",
+              "https://www.youtube.com/@NortheasternLDN"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Devon House, 58 St Katharine's Way, London, E1W 1LP",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.nulondon.ac.uk/",
+                "name": "Northeastern University – London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.50611",
+                "longitude": "0.07139"
+              },
+              "@type": "Place"
+            },
+            "description": "Northeastern University – London is a public university in London, England, offering innovative and experiential degrees.",
+            "foundingDate": "2010",
+            "alternateName": [
+              "NUL"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/northeastern-university-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/northeastern-university-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Explore Northeastern University – London, a public university established in 2010. Discover its innovative undergraduate and postgraduate programs."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Northeastern University – London (Established 2010)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/northeastern-university-london"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf453621a1e05434ebc6b6635d751177b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Northeastern University – London (Established 2010)",
+            "og:description": "Explore Northeastern University – London, a public university established in 2010. Discover its innovative undergraduate and postgraduate programs.",
+            "og:url": "https://citiesabc.com/wiki/northeastern-university-london",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 154177
+      },
+      "content_length": 154177,
+      "audited_at": "2026-07-02T11:49:40.948254+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.422,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+            "name": "Richmond, The American International University in London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.richmond.ac.uk/",
+              "https://www.facebook.com/richmonduniversity/",
+              "https://uk.linkedin.com/school/richmondunildn/",
+              "https://x.com/RichmondUniLdn",
+              "https://www.instagram.com/richmondunildn/",
+              "https://www.youtube.com/@RichmondUniLdn"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.richmond.ac.uk/",
+                "name": "Richmond, The American International University in London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.4923137",
+                "longitude": "-0.263818"
+              },
+              "@type": "Place"
+            },
+            "description": "Richmond, The American International University in London is a private liberal arts university offering dual UK and US accredited degrees in London.",
+            "foundingDate": "1972",
+            "alternateName": [
+              "RAUL",
+              "Richmond University"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover Richmond, The American International University in London, established in 1972, offering dual UK and US degrees in London."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Richmond, The American International University in London..."
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8596d5ddbfc14a8e82bd239e9004548d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Richmond, The American International University in London...",
+            "og:description": "Discover Richmond, The American International University in London, established in 1972, offering dual UK and US degrees in London.",
+            "og:url": "https://citiesabc.com/wiki/richmond-the-american-international-university-in-london",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 162498
+      },
+      "content_length": 162498,
+      "audited_at": "2026-07-02T11:49:46.571069+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-university-of-law",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.194,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-university-of-law",
+            "name": "The University of Law",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.law.ac.uk",
+              "https://www.facebook.com/UniversityOfLaw/",
+              "https://uk.linkedin.com/school/the-university-of-law/",
+              "https://x.com/UniversityofLaw",
+              "https://www.instagram.com/u_law/",
+              "https://www.youtube.com/channel/UCf1fG74eA0_c6h-nQ4-jA7Q"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "2 Bunhill Row, London EC1Y 8HQ, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.law.ac.uk",
+                "name": "The University of Law",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.5235",
+                "longitude": "-0.09176"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Law is the UK's longest-established specialist provider of legal education and training, offering a wide range of undergraduate and postgraduate programs in law, business, and other related fields.",
+            "foundingDate": "1962",
+            "alternateName": [
+              "ULaw"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-university-of-law",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ncd1241e93b4247da9664f1e545fa35f6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/the-university-of-law",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The University of Law, a leading provider of legal and business education. Established 1962."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The University of Law - Specialist Legal Education"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-university-of-law"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The University of Law - Specialist Legal Education",
+            "og:description": "Discover The University of Law, a leading provider of legal and business education. Established 1962.",
+            "og:url": "https://citiesabc.com/wiki/the-university-of-law",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153932
+      },
+      "content_length": 153932,
+      "audited_at": "2026-07-02T11:49:46.469280+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/university-of-roehampton",
+      "score": 61,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 4,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.191,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/university-of-roehampton",
+            "name": "University of Roehampton",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.roehampton.ac.uk/",
+              "https://www.facebook.com/roehamptonuni/",
+              "https://uk.linkedin.com/school/university-of-roehampton/",
+              "https://x.com/RoehamptonUni",
+              "https://www.instagram.com/uni_roehampton/",
+              "https://www.youtube.com/channel/UCL3tSDPQZAaPRVPAMY3N3zg"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Roehampton Lane, London SW15 5PU, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.roehampton.ac.uk/",
+                "name": "University of Roehampton",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "0",
+                "longitude": "0"
+              },
+              "@type": "Place"
+            },
+            "description": "The University of Roehampton is a public research university in London, known for its vibrant campus and diverse academic offerings.",
+            "foundingDate": "2004",
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/university-of-roehampton",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nc009deda666d489cbe1c87f527fdb74c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://citiesabc.com/wiki/university-of-roehampton",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the University of Roehampton, a public research university established in 2004 in London."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "University of Roehampton - London"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/university-of-roehampton"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "University of Roehampton - London",
+            "og:description": "Discover the University of Roehampton, a public research university established in 2004 in London.",
+            "og:url": "https://citiesabc.com/wiki/university-of-roehampton",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 153700
+      },
+      "content_length": 153700,
+      "audited_at": "2026-07-02T11:49:46.376443+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.369,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+            "name": "The Institute of Cancer Research, London",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.icr.ac.uk/",
+              "https://www.facebook.com/theinstituteofcancerresearch/",
+              "https://uk.linkedin.com/school/the-institute-of-cancer-research/",
+              "https://x.com/ICR_London",
+              "https://www.instagram.com/icr_london/",
+              "https://www.youtube.com/user/theicrlondon"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "237 Fulham Road, Chelsea, London SW3 6JB, United Kingdom",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "London"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.icr.ac.uk/",
+                "name": "The Institute of Cancer Research, London",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "London"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "51.34435",
+                "longitude": "-0.18921"
+              },
+              "@type": "Place"
+            },
+            "description": "The Institute of Cancer Research (ICR) is a world-leading public research institute and postgraduate college specializing in oncology, dedicated to making discoveries that defeat cancer.",
+            "foundingDate": "1909",
+            "alternateName": [
+              "ICR"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The Institute of Cancer Research, London, a leading oncology research institute established in 1909."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The Institute of Cancer Research, London (Established 1909)"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf6a9ac523e134366899a7e8ca8ffd3e9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The Institute of Cancer Research, London (Established 1909)",
+            "og:description": "Discover The Institute of Cancer Research, London, a leading oncology research institute established in 1909.",
+            "og:url": "https://citiesabc.com/wiki/the-institute-of-cancer-research-london",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157767
+      },
+      "content_length": 157767,
+      "audited_at": "2026-07-02T11:49:52.131313+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.583,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+            "name": "The Manchester Metropolitan University",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.mmu.ac.uk/",
+              "https://www.facebook.com/manmetuni/",
+              "https://uk.linkedin.com/school/manchester-metropolitan-university/",
+              "https://x.com/ManMetUni",
+              "https://www.instagram.com/manmetuni/",
+              "https://www.youtube.com/@ManMetUni"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "Ormond Building, Lower Ormond Street, Manchester, M15 6BX",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "MANCHESTER"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.mmu.ac.uk/",
+                "name": "The Manchester Metropolitan University",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "MANCHESTER"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "53.4703704",
+                "longitude": "-2.2391476"
+              },
+              "@type": "Place"
+            },
+            "description": "Manchester Metropolitan University is a public university in Manchester, England, known for its diverse academic offerings and strong industry links.",
+            "foundingDate": "1992",
+            "alternateName": [
+              "Manchester Met"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover The Manchester Metropolitan University, a public university in Manchester, England, established in 1992."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "The Manchester Metropolitan University - Established 1992"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/the-manchester-metropolitan-university"
+              }
+            ]
+          },
+          {
+            "@id": "_:N99be5f901b314ca1b1843cc075dbdb64",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "The Manchester Metropolitan University - Established 1992",
+            "og:description": "Discover The Manchester Metropolitan University, a public university in Manchester, England, established in 1992.",
+            "og:url": "https://citiesabc.com/wiki/the-manchester-metropolitan-university",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 157872
+      },
+      "content_length": 157872,
+      "audited_at": "2026-07-02T11:49:52.099147+00:00"
+    },
+    {
+      "url": "https://citiesabc.com/wiki/royal-northern-college-of-music",
+      "score": 62,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 5,
+        "meta": 14,
+        "content": 10,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 5,
+        "negative_penalty": -5
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 4.367,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "url": "https://citiesabc.com/wiki/royal-northern-college-of-music",
+            "name": "Royal Northern College of Music",
+            "@type": "CollegeOrUniversity",
+            "sameAs": [
+              "https://www.rncm.ac.uk",
+              "https://www.facebook.com/rncmlive/",
+              "https://uk.linkedin.com/school/royal-northern-college-of-music/",
+              "https://twitter.com/rncmlive",
+              "https://www.instagram.com/rncmlive/",
+              "https://www.youtube.com/@rncmlive/"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "England",
+              "streetAddress": "124 Oxford Road, Manchester M13 9RD, England, UK",
+              "addressCountry": "United Kingdom",
+              "addressLocality": "MANCHESTER"
+            },
+            "hasPart": [
+              {
+                "url": "https://www.rncm.ac.uk",
+                "name": "Royal Northern College of Music",
+                "@type": "Place",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressCountry": "United Kingdom",
+                  "addressLocality": "MANCHESTER"
+                }
+              }
+            ],
+            "@context": "https://schema.org",
+            "location": {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "53.4684331",
+                "longitude": "-2.2365536"
+              },
+              "@type": "Place"
+            },
+            "description": "The Royal Northern College of Music is a leading international conservatoire in Manchester, England, dedicated to providing outstanding music education.",
+            "foundingDate": "1973",
+            "alternateName": [
+              "RNCM"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://citiesabc.com/wiki/royal-northern-college-of-music",
+              "@type": "WebPage"
+            }
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://citiesabc.com/wiki/royal-northern-college-of-music",
+            "http://ogp.me/ns#description": [
+              {
+                "@value": "Discover the Royal Northern College of Music, a prestigious music conservatoire located in Manchester, England."
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "citiesabc.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "Royal Northern College of Music - Established 1973"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://citiesabc.com/wiki/royal-northern-college-of-music"
+              }
+            ]
+          },
+          {
+            "@id": "_:N92827fa6f88b40329e92e7ebfcc6b7e2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "Royal Northern College of Music - Established 1973",
+            "og:description": "Discover the Royal Northern College of Music, a prestigious music conservatoire located in Manchester, England.",
+            "og:url": "https://citiesabc.com/wiki/royal-northern-college-of-music",
+            "og:site_name": "citiesabc.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 151750
+      },
+      "content_length": 151750,
+      "audited_at": "2026-07-02T11:49:51.976932+00:00"
     }
   ],
   "crawl_stats": {
