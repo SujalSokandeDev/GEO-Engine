@@ -1,10 +1,10 @@
 # GEO Engine
 
-Automation for Generative Engine Optimization audits across seven WordPress/content sites. The repo runs capped test audits and resumable full audits with GitHub Actions.
+Production-grade Generative Engine Optimization audit automation for seven WordPress/content properties.
 
-## Target Sites
+## Sites
 
-| Slug | Sitemap |
+| Site name | Sitemap |
 | --- | --- |
 | `businessabc` | `https://businessabc.net/sitemap.xml` |
 | `citiesabc` | `https://citiesabc.com/sitemap.xml` |
@@ -14,61 +14,73 @@ Automation for Generative Engine Optimization audits across seven WordPress/cont
 | `hedgethink` | `http://www.hedgethink.com/sitemap_index.xml` |
 | `tradersdna` | `http://www.tradersdna.com/sitemap_index.xml` |
 
-## Local Usage
-
-Install dependencies:
+## Local Setup
 
 ```bash
-python -m pip install -r requirements.txt -c constraints.txt
+python -m pip install -r requirements.txt
 python -m pip uninstall -y sentence-transformers || true
 ```
 
-Run a 30 URL sanity check:
+`sentence-transformers` is intentionally removed because it can trigger unstable per-page model loads in the underlying audit library.
+
+## Run A Local Audit
 
 ```bash
-python geo_audit.py test --site intelligenthq --max-urls 30
+python scripts/geo_audit.py "https://www.intelligenthq.com/sitemap_index.xml" \
+  --site-name intelligenthq \
+  --max-urls 30 \
+  --concurrency 3 \
+  --time-budget-minutes 25 \
+  --checkpoint-file progress/intelligenthq.json \
+  --out reports/test
 ```
 
-Run or resume a full audit for one site:
+The root `geo_audit.py` file is a compatibility wrapper around `scripts/geo_audit.py`.
 
-```bash
-python geo_audit.py resume --site intelligenthq --time-budget-minutes 330
-```
+## Checkpoint And Resume
 
-The legacy single-sitemap mode is still available:
+Each production run writes a checkpoint file such as `progress/intelligenthq.json`.
 
-```bash
-python geo_audit.py https://www.intelligenthq.com/sitemap_index.xml --max-urls 20
-```
+The checkpoint contains:
+
+- the discovered sitemap URL list
+- completed URL list
+- per-page GEO results, including failures and timeouts
+- `crawl_stats` from sitemap/page sampling
+- `status`: `in_progress` or `complete`
+
+Every checkpoint JSON write is atomic: the script writes a temporary file and renames it into place. If a job stops at the 5.5 hour soft budget, it finishes the current page, saves `status: in_progress`, and exits cleanly. The full GitHub Actions workflow commits that checkpoint and dispatches the same workflow for the same site so it resumes instead of restarting.
+
+When all URLs are complete, the script writes:
+
+- `results/<site-name>/final.json`
+- `results/<site-name>/final.csv`
 
 ## GitHub Actions
 
-`GEO Audit Test` is manually triggered and runs all seven sites in parallel with `--max-urls 30`. Reports are uploaded as artifacts and written to:
+`GEO Audit Test` is manually triggered. It runs all seven sites in parallel with:
 
-- `reports/test/<site-slug>.json`
-- `reports/test/<site-slug>.csv`
+- `--max-urls 30`
+- `--time-budget-minutes 25`
+- artifacts uploaded from `reports/test/`
+- no checkpoint commits and no retriggering
 
-`GEO Audit Full` supports manual and scheduled runs. It keeps one checkpoint per site:
+`GEO Audit Full` can be manually triggered for one site or all sites. It also runs weekly. Each site has its own concurrency group, checkpoint, and resume chain. Commits use `[skip ci]` to avoid workflow loops.
 
-- `progress/<site-slug>.json`
+## Consolidated Report
 
-Each full job runs for a 5 hour 30 minute soft budget. It finishes the current URL, writes the checkpoint, commits progress, and dispatches the same workflow for the same site if URLs remain. A completed site writes:
+After completed site reports exist under `results/<site-name>/final.json`, run:
 
-- `reports/<site-slug>/final.json`
-- `reports/<site-slug>/final.csv`
-- `reports/<site-slug>/state.json`
+```bash
+python scripts/generate_report.py --results-dir results --out-json summary.json --out-md REPORT.md
+```
 
-The workflow uses `GITHUB_TOKEN` with `contents: write` and `actions: write`; no personal tokens or hardcoded secrets are required in CI.
+`summary.json` contains per-site and cross-site aggregates, category averages against the expected maximums, timeout rates, and best/worst pages. `REPORT.md` is a one-page operational summary with headline site scores, consistent findings, and prioritized fixes.
 
-## Output Fields
+## Tests
 
-Every page result is retained, including failures and timeouts. Important fields:
+```bash
+python -m pytest
+```
 
-- `score`, `band`, `score_breakdown`: GEO score from `geo-optimizer-skill`.
-- `http_status`, `error`: status and failure reason. Failures are not discarded.
-- `duration_seconds`, `attempts`: timing and retry visibility.
-- `structured_data`: extracted JSON-LD, microdata, RDFa, and OpenGraph data from `extruct`.
-- `sitemap_metrics`: site-level status code, response time, and content length summaries.
-- `failure_patterns`: grouped counts of success and error strings.
-
-`constraints.txt` intentionally blocks `sentence-transformers` because that package destabilizes the embedding check under concurrent CI audits.
+Tests mock GEO audit and sitemap calls, so they do not hit live sites.

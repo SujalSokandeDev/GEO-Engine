@@ -17,11 +17,6 @@ on:
           - freedomx
           - hedgethink
           - tradersdna
-      force_restart:
-        description: "Delete the existing checkpoint before running"
-        required: false
-        default: false
-        type: boolean
   schedule:
     - cron: "17 2 * * 1"
 
@@ -40,18 +35,28 @@ jobs:
         run: |
           requested="${{ github.event.inputs.site || 'all' }}"
           if [ "$requested" = "all" ]; then
-            echo 'sites=["businessabc","citiesabc","intelligenthq","fashionabc","freedomx","hedgethink","tradersdna"]' >> "$GITHUB_OUTPUT"
+            echo 'sites=[{"name":"businessabc","sitemap":"https://businessabc.net/sitemap.xml"},{"name":"citiesabc","sitemap":"https://citiesabc.com/sitemap.xml"},{"name":"intelligenthq","sitemap":"https://www.intelligenthq.com/sitemap_index.xml"},{"name":"fashionabc","sitemap":"https://www.fashionabc.org/sitemap_index.xml"},{"name":"freedomx","sitemap":"https://freedomx.com/sitemap_index.xml"},{"name":"hedgethink","sitemap":"http://www.hedgethink.com/sitemap_index.xml"},{"name":"tradersdna","sitemap":"http://www.tradersdna.com/sitemap_index.xml"}]' >> "$GITHUB_OUTPUT"
           else
-            echo "sites=[\"$requested\"]" >> "$GITHUB_OUTPUT"
+            case "$requested" in
+              businessabc) sitemap="https://businessabc.net/sitemap.xml" ;;
+              citiesabc) sitemap="https://citiesabc.com/sitemap.xml" ;;
+              intelligenthq) sitemap="https://www.intelligenthq.com/sitemap_index.xml" ;;
+              fashionabc) sitemap="https://www.fashionabc.org/sitemap_index.xml" ;;
+              freedomx) sitemap="https://freedomx.com/sitemap_index.xml" ;;
+              hedgethink) sitemap="http://www.hedgethink.com/sitemap_index.xml" ;;
+              tradersdna) sitemap="http://www.tradersdna.com/sitemap_index.xml" ;;
+              *) echo "Unknown site: $requested" >&2; exit 1 ;;
+            esac
+            echo "sites=[{\"name\":\"$requested\",\"sitemap\":\"$sitemap\"}]" >> "$GITHUB_OUTPUT"
           fi
 
   full-audit:
     needs: plan
-    name: Full ${{ matrix.site }}
+    name: Full ${{ matrix.site.name }}
     runs-on: ubuntu-latest
     timeout-minutes: 360
     concurrency:
-      group: geo-full-${{ matrix.site }}
+      group: geo-full-${{ matrix.site.name }}
       cancel-in-progress: false
     strategy:
       fail-fast: false
@@ -73,64 +78,60 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt -c constraints.txt
+          python -m pip install -r requirements.txt
           python -m pip uninstall -y sentence-transformers || true
-
-      - name: Configure git author
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Run checkpointed GEO audit
         run: |
-          args=(resume --site "${{ matrix.site }}" --time-budget-minutes 330 --commit-checkpoints)
-          if [ "${{ github.event.inputs.force_restart || 'false' }}" = "true" ]; then
-            args+=(--force-restart)
-          fi
-          python geo_audit.py "${args[@]}"
+          python scripts/geo_audit.py "${{ matrix.site.sitemap }}" \
+            --site-name "${{ matrix.site.name }}" \
+            --concurrency 3 \
+            --time-budget-minutes 330 \
+            --checkpoint-file "progress/${{ matrix.site.name }}.json" \
+            --checkpoint-batch-size 20 \
+            --out "reports/${{ matrix.site.name }}"
 
-      - name: Commit progress and reports
-        id: commit
+      - name: Commit checkpoint and results
         shell: bash
         run: |
-          git add progress reports
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add progress reports results
           if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No checkpoint or result changes to commit."
           else
-            git commit -m "Update GEO audit checkpoint for ${{ matrix.site }}"
-            for attempt in 1 2 3; do
-              git pull --rebase && git push && break
+            git commit -m "Update GEO audit state for ${{ matrix.site.name }} [skip ci]"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase && git push; then
+                exit 0
+              fi
               sleep $((attempt * 5))
             done
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 1
           fi
 
-      - name: Upload latest state
-        uses: actions/upload-artifact@v4
-        with:
-          name: geo-full-${{ matrix.site }}
-          path: |
-            progress/${{ matrix.site }}.json
-            reports/${{ matrix.site }}/
-
-      - name: Check completion
-        id: state
+      - name: Check checkpoint status
+        id: checkpoint
         shell: bash
         run: |
-          if [ -f "reports/${{ matrix.site }}/state.json" ]; then
-            complete="$(python -c "import json; print(str(json.load(open('reports/${{ matrix.site }}/state.json'))['complete']).lower())")"
-          else
-            complete="false"
-          fi
-          echo "complete=$complete" >> "$GITHUB_OUTPUT"
+          status="$(python -c "import json; print(json.load(open('progress/${{ matrix.site.name }}.json'))['status'])")"
+          echo "status=$status" >> "$GITHUB_OUTPUT"
 
       - name: Dispatch next resume run
-        if: steps.state.outputs.complete != 'true'
+        if: steps.checkpoint.outputs.status == 'in_progress'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
         run: |
           gh api repos/${{ github.repository }}/actions/workflows/geo-audit-full.yml/dispatches \
             -f ref="${{ github.ref_name }}" \
-            -f inputs[site]="${{ matrix.site }}" \
-            -F inputs[force_restart]=false
+            -f inputs[site]="${{ matrix.site.name }}"
+
+      - name: Upload latest run artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: geo-full-${{ matrix.site.name }}
+          path: |
+            progress/${{ matrix.site.name }}.json
+            reports/${{ matrix.site.name }}/
+            results/${{ matrix.site.name }}/
