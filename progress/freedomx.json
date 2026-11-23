@@ -2,7 +2,7 @@
   "site_name": "freedomx",
   "sitemap_url": "https://freedomx.com/sitemap_index.xml",
   "created_at": "2026-07-02T11:23:02.809333+00:00",
-  "last_update": "2026-11-23T10:50:41.934513+00:00",
+  "last_update": "2026-11-23T10:51:34.286184+00:00",
   "status": "in_progress",
   "urls": [
     "https://freedomx.com/esports-gaming/character-class-rpg/",
@@ -3000,7 +3000,37 @@
     "https://freedomx.com/about-us",
     "https://freedomx.com/category/ai-ar-vr-avatars",
     "https://freedomx.com/category/entertainment",
-    "https://freedomx.com/category/esports-gaming"
+    "https://freedomx.com/category/esports-gaming",
+    "https://freedomx.com/category/news",
+    "https://freedomx.com/tag/ai-in-animation",
+    "https://freedomx.com/tag/akira",
+    "https://freedomx.com/tag/anime-evolution",
+    "https://freedomx.com/tag/anime-reconstruction",
+    "https://freedomx.com/tag/anime-revolution",
+    "https://freedomx.com/tag/artificial-intelligence",
+    "https://freedomx.com/tag/content",
+    "https://freedomx.com/tag/creative-liberation",
+    "https://freedomx.com/tag/cyber-clutch",
+    "https://freedomx.com/tag/detective-games",
+    "https://freedomx.com/tag/digital-metamorphosis",
+    "https://freedomx.com/tag/digital-play",
+    "https://freedomx.com/tag/entertainment",
+    "https://freedomx.com/tag/film",
+    "https://freedomx.com/tag/g7-pro-controller",
+    "https://freedomx.com/tag/gamescom",
+    "https://freedomx.com/tag/gamesir",
+    "https://freedomx.com/tag/gaming",
+    "https://freedomx.com/tag/gaming-renaissance",
+    "https://freedomx.com/tag/inside-out-characters",
+    "https://freedomx.com/tag/mobile-gaming-industry",
+    "https://freedomx.com/tag/nintendo-renaissance",
+    "https://freedomx.com/tag/opening-night-live",
+    "https://freedomx.com/tag/operation-night-strikers",
+    "https://freedomx.com/tag/otaku",
+    "https://freedomx.com/tag/otaku-phenomenon",
+    "https://freedomx.com/tag/paper",
+    "https://freedomx.com/tag/pc-gaming",
+    "https://freedomx.com/tag/pixel-speedrun"
   ],
   "results": [
     {
@@ -639666,6 +639696,5885 @@
       },
       "content_length": 196238,
       "audited_at": "2026-11-23T10:50:41.785070+00:00"
+    },
+    {
+      "url": "https://freedomx.com/category/news",
+      "score": 49,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 0,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 18,
+      "duration_seconds": 3.893,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://freedomx.com/page/freedomx-news",
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | News"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com/page/freedomx-news"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0efe155c10e54dde9f6405fdd28b2f8c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | News",
+            "og:url": "https://freedomx.com/page/freedomx-news",
+            "og:site_name": "freedomx.com",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 0,
+          "microdata": 0,
+          "rdfa": 2,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 197528
+      },
+      "content_length": 197528,
+      "audited_at": "2026-11-23T10:50:50.935638+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/ai-in-animation",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.897,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne1fd079ecb6842d3a287fe1d9b913159",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne956ed60f3734c78b9976258da34c9b8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N47e2c02bfe4e4680a374aab8ae67b3ce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0a619de7926244f3b3a402c8d386be60",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbc002daa56564ecd8a7292c0cbc688aa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndecd6330a9d440ba88ed8ed4992d5eb3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb12d8e7ad05e461787184e0cc4b43da8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3fad4050605a4725abf02f947b92fedb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb56a6f2642c14f1ca44c793cb214fe90",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nece6a753c3e244398fcfe64d447094f7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:50:50.901165+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/akira",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.895,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf6c1b55d508b4a018ba47907a481bfa4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9f17ebe970ff41bd8a0ca07579970e6d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc625daae31d449dd9d0edf29ebd59466",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1e69c970ca76476cb896ed09d06234ea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N96863a3c413442a69a8ab5b583c9aae3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N54bf86d0430044878b3acdee5864f068",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5846fe1c2b9c4a86bd6a71833a0e609f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5d2905f0a5c042d9bade33e954c2eeb6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N198b3a35256c48b08ea598737f421fe4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N29950a060e4a4132a374213473fce487",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:50:51.047527+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/anime-evolution",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.884,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N99868754fc874180b80a6b7343a8d2fa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbc1a75d835db4ffb802cb1bb264d55da",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncdce8d2b0ec84b599ee1e763a0d0b3b8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N04e0e0a5c1de4d69baf275475dbeaeb9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N71dc8985e0644fabb21fe8906a21f6b3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na58a77b91cb14290ab62a3c771838aa5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na605b3b392194de4ae20476daf4e2520",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb1c778c5bdec49eb83186b7d632f98bf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N082e6dac5b0d4515b87908a0012a37d1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8b63bbdc3bbe4f709902f417e75ce740",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:50:55.613943+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/anime-reconstruction",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.982,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8a73fcabe7054380a8f5880740b598fb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N61f08861aa47413d9bc1ba048f24b1a4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N227e4503a68447d88c20b886fd0013b3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9487700ce77741c8ba71c2423771f907",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N15cb33b31e7f4148987c00470a6dcfad",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6751485c86cb40d7bd3639ae0ebeb74d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf345332c9aec4a518fdb5a34be6dd099",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd3e06214078c43b8800ccfc57c2f1ea0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N194b940f31634b11a93fb777fe5ab642",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4d249449ece940cb80fe41e7a6bee230",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:50:55.804809+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/anime-revolution",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.927,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N51d9abb80ed44f76a3b2f7b9ee162ec4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0ecb112bd79f4dba9707d7bb3dbf36a5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1a4887b238704a79811c44c274a82768",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na78459c9ad2c4b32b120038461725952",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2b9519cc0d90464d986c24cff2ac815a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6610b151f02743b9ba8be8d80d3c703d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N37e9a49415074f5581eb64846e3c7bd9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfffe3603161b46ca938db1f7b1c333e6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N902a33504c3a4199a5f04fcbf529b2f0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neba66b14e5c2461992e29a4ca882a78c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:50:55.744501+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/artificial-intelligence",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.027,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N8f96015620724318bb29a61073992f49",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Necadad41fb76461cbbd916b1bf87e564",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nabf600133cb040c8b038cebafcd67a0a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N35ee5a33dbf045258ccfb647a7d5fb1a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc4f07017918345ae99f3f42aba0226b2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncf8748f28d00462eb8343ff8879aa6af",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neb0c1a9a69054709959ddb7b18ac476d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfc7a7c11c6f349f3bcc46aabd1c70ae2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N838b95cd2274490fbf5782868218d2b6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nae147ac6844042dfb1960286573d13aa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:00.548761+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/content",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.899,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nb51f7376cbf5467189e119255a237128",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N467c5586beee48dc968f9341dc416def",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N30750b93cbd94f279ec002f1a8de8c58",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfcec861b836c4d2298bfdf38d3fa8799",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7c884dd391814d50b64e0a180c8808de",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb5de500b068f4fd7a7cb2e3a2055198f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N39f9feab559043bfb6b5f78928d49fcf",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb1226f5052e14fb7b20a784c1df966f6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neab98f0d91874c4db0e90fce2111ff60",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf2be50b526fb4f44b524b212bd6e5d89",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:00.418001+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/creative-liberation",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.024,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N500aee09bb6e47d3bdbc6d6197540343",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ned9b0b88b2e8432293bb8039f45ae140",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N75d8901d8afb41058c23ef42a74254ef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne8b48e661ca240b5a8fefe173a5e214f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N34c2c6ab801c4e43b94d03df965b981e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbefa10ecd27d4302b16bf80680afce26",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0ae06bf6c58a4297a11a6ecacd6a9bfd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9ea90733e1f840a392897d98354b34af",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N866abb6016114cf8819eba840955cab7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N47a72b45552f4e49bc6c15dd0bb31f12",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:00.482295+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/cyber-clutch",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.686,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3468de8be72a4f0e968b7b3366cc2637",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N658731ba5c404e3381f811a1d5815647",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5471e91ab9154c7fb7224d56244dc65f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc2d050d23b1044b98b315fcac3b5db1d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N655b2751afd246e982312f7b9e61633e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4666470d88f342e3ba6efac884beec7d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5d67a3418d5b40a88d68a89b89b3bdda",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N46e552aaa78248a5bcf5939b6ea65ae6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8494b09d447e492096311f698d3e045f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb1f24533232245dd8d5429b7f22d35f6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:04.986391+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/detective-games",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.0,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1654a82f1cd94006b2dd61a00df8e0c9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0bccb601b2944db8ba526572b8db48f2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9691e16f861c40bd98aa1cae52cad41b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N32361df7c9b74ef4a677aced3b67d0d4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3605e764def445248707152d83c4d417",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N03b96be89fbf41fdad06c833095a7cfe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N750cd930603f487ca3eec9847a78c3be",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne97da1c0eb5d4caeab2a1bd6439bb384",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2eefa997e7854005b9ebbe5cb6c6ad7f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na01e44fbb0b64aab887d4979d75baf0e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:05.323122+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/digital-metamorphosis",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.997,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3e257e6bd27d44c7a9f591feeb17341d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na050359716524af6a124b2cd7b9d5252",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N36e3bb7e3ee94baba8a7d41cf1561b51",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0dfcc937eb4f42d6b35afbc5e0308740",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N29c0dd625045416f991e4ed0d07614c0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N07772b159d9c4024bab6cb1ef856319e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nac9d8fa30eef4ea7b281206c6688de62",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ncd88851c7f994c57ace203ac26654a3c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4070605f5c5d4d59b8af87eee61a2f11",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na4192134b0c344d98faad064a3097046",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:05.194537+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/digital-play",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.935,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nf81bbd30914d428bb447fcb1116f969f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8e4052ca439f40459ce0604392285fdb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N14178022ca3f493089ba83f55913d9d3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N57672d9684b34e528bd05814264c1165",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nab8e58ab3fdd4b409b86a488b17a29be",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6283ba5160ec466681c1dd296bf45e12",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N71febcebcfbe486f9a5d189d010e6709",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd632a15b4e144c22b339f843461ba886",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N96661a1c3faf4a88a1bc2741ebe56734",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd39079a0083f4f63aa63690e6232c85d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:10.002592+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/entertainment",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.849,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne208717c83e14cb6b944230bde276e52",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N889dd576d88746c6b77929e0bfe5516a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N09740ec12f0c4f69949c809e682b4705",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N879ab098d8c34e17ae572012481d26a0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nff9efc0294db44c59bc83022b5ee1e84",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9a2380c982c34ba4a2d5439b5656fa5b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N168150a0dfb947a49077e483c8f681ab",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5a7b82956c484c20a7357b3fc84bd7b1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4d405b602bf54ca292a2b09da84648d7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc1294ea97cc546e38e18e2a63d02faa8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:09.932589+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/film",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.795,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N41db0ce20d924a68978e2a37d9c8e647",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nae02e8fdc1c34ff793ec1207f22575c9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N1849ed029a0c45a8a62f3f86bcbc72ae",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfd9c347b91c346058282832047f26180",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd75acb20e600431ca17a03a6c2a69e6b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N544d454d04ee495990ec57b8bf0216f4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N60cf1238987e47db85c713934f7e41b9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na91c1b9982e34abbb01e8b540904ee81",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Naa6f4157ee504e319462c080704454a1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nff4278692eab43fc90d8133bcfef1332",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:09.807487+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/g7-pro-controller",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.907,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N7b73de3e1ca948039b9e0e281ce7e2cc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb07b677a1fa74624a6807f51522e197e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N51324ff66d7447dd89f732f40eb1d437",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nebd3207f615147c99c99647a132c612d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6a3b2e2911ff4f099b588f1a9fb84743",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0f1eff7c6d874ca5b20c2645948f90fe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3b46f1654a2b453a853a28a7cb52aa2b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4b98cdbe6ea346dda16fd89f232487da",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne8f32e362f0e4048b1f23c4b411fb204",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf3726711981c4b96b8041a144af6dfe6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:14.591112+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/gamescom",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.433,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ne773582c0a9e494d9eb3ebbbb5a80dc8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N77b0a53f18f84354bc39ada8677aacda",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N07572b3ca71d49bbbfeb2315ad557f2f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2cb646606b9344698624478b3cea03d1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9aa78cc7183b48df89b727e67530a8e9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na00c3beb404841b099b1516cbaa5a75a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9e5758d5b1714878ba17d35320a276cd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5feacfcf660044e58faa611a3a387657",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb5875eb749e84edfb0a6e9bd10c8bf2d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N084798bcbb00475abafb2cedcc4e865b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:14.212385+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/gamesir",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.904,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1ec02672c7724881ba6d5bf64fc29b42",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9b82fe86055247fdb21bf116120e404c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7da4850510e04c3eb95e68098ed96fc9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neaed60e100844f5eb10de8fe817275f1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne93240f3b04b4b518dd67f143fcd0f2a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N40678abee7574fcca247921e6e5cc0b0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9a47b4ea454d4e19ac41714f759cc0ea",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4a667da8ff2c4ed981b21ca51a8472aa",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfc54c6f9570e4104872fe4ba4c606e25",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf9d740510004415892566c4b47068440",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:14.652517+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/gaming",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.972,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N31685601e23642789595598a8cd103ce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N0232d74d51b64065adc7bc67cdf4154a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N65a48a013e15401298212eebd83bc72f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N56c37951f5704ae6b7b3aa2acbbbca5b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N354d3d49d4cd448eb50763a3504448bc",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8fe5eb894aa94550a09e343d38a864ef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc72b59d5420e485cb1225567ffb40d0e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc0e86e5c173d4b68bfd55b097178578c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N94544fffb33d422d847ea880bbdc923b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N821bc7e3dc884aafbd65b92a72660a7f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:19.414164+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/gaming-renaissance",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.973,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N1b236f20810a43ceb84ef324b7b28c66",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N56bcb269ddd8443e82551bca6d384725",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne6babd1aa79a42f8a5a32618981d69c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N788f57d4624e447abb9bd5c454096ece",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7728dbaf3a8744eda8b46f356f16655c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf5611bdd42214760a84728d9bc565874",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc4b44262c9ce4253a1b27545831c1bce",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne9b2041b018942949c8fa6e9dbf545b6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N72bed3e7cb3146be8b720ea53dc0b000",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N50c080e3fe4940e684eae7d377400f46",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:19.448085+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/inside-out-characters",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.975,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Necbda9129e384a7abe2470cf3fb77dfe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf262c09c55fd4ab7b9ee8ec4104d0a03",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb81d0cc168214c2e8d1f7fea8b6effe3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N77e2441df3fb42a1bd96de67392e517c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N80ebb7ec505e4b5498cd4043ad2ca922",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc5110920c4f24343a0f3b675621df9c0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd44d27e756d44b93815a19a30ffcc2da",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2f40017f29e14241a0fb276b3ca5ab89",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N75793956b90b4a4992b304c84e9e5cc7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Naabd56948e814ad3864b8142de654c88",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:19.302341+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/mobile-gaming-industry",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.157,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3a06dc3ead024d14b43d25a1401bd512",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N19bf19550fa348dfbc2a35f90d59afa9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N973149a43cdc44f7a1c5e6d9acf47c0f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N74fea3101324446896c36c7075c2061a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na4f4f94f923a40f69c7c0bdbd22e3ddd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc447cf40769e45e1bd62d772068d6430",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf2384a8b552f4cf4ae997e91a323aa07",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Naf9398e0e73b42979ee922748e1f3ea4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6ab700d71e2245569811e93cd7cc54b9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N840d42d2275f4033ac733a726fa81121",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:24.274376+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/nintendo-renaissance",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 3.905,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd4511169b2e04e6eb3713410f9de5c8d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb01b4fe9428f4c61a7c3f5e347982be4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nb3ce8c9e05b84d29af806e7d0431711c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N407d749b052044ca9d13804c042cf6d1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4e5c95d6d41a4ae0a84ee6af094832c9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6b379bc67e4f415b9155e8bd3a73b704",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N36bbcc8610794bdebfb0c4d5e39d3bfb",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nefe1256f8b894302bba93d94d1292e29",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne2472d0473e346feb46a9e2bf530440f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2f44e015368f4f909c618b327e6f7f32",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:24.094958+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/opening-night-live",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.155,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Na5ccfedb267d4891929fe616724268a9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4dd93241eebf4b9d874ce952ce1852f7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N97d1b8cfb24844a3997177061ceb7664",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf45b65529bdf4d1ab82d637014eab0a0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neea7e64d8cac4f95834e27bf6657e55f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne50baaaaf7564d579b70649dc8981d9f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nd0454552d1e94e7e9a16aa12ac8d4de7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N8143272998224db4be9d1023dcf86e50",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndf5216de546644c78228aca9730df95f",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4bcc23cd889c42a8aaefaec2b0526625",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:24.456379+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/operation-night-strikers",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.042,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N71f3b81269444cd9abe6b2ccf31ba002",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N30bf137f20a747e4b22b8320d727c250",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne1fa90c33f9d4ef1936236492f5f0277",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne763966a21894ca29f5e585ee11e27b9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6f2282ae6de6436c93e6fbf2e2930033",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Neb425c57f18149988a56fd127498ba9c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N94ed4f4ff829402b92eb7d65a081baee",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3d498e51733847b49c5ca67185714918",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbc78641214574bfbbb294a6ebe1338df",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N93859ca2da0941f2a2310d3271e9d54b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:29.335968+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/otaku",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.038,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N90359fffd59e446aa103c75e1e56a606",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N02f41b13247747a28f3ac961f41c752c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N90aaacc16a0746a0966b48613a295785",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N70f49bb63c7943d699703d4ee62d9258",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na24b3f25553b4c3f8c959dd221e463d2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7b35053098c9463996ae450711a265a9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9d45f13cb8434831aab8f205f3aae26a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N4d16c82cb8434e608085bb9a7f192aca",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N71087170eafb416d927427d6e8e955a7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nabe824fd8a2a4fd7a95c3a54bf79c009",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:29.217506+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/otaku-phenomenon",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.04,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Ndb757ce4b4ba473198d5819e29c551f4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N9c0c9d0317904727b7b65f08084fb556",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ne8edadc3dee04132a7d9e4853a1d219d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nc0deef4b8062417ea2c28e74413a059a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7d4d6a7e5a5542ba81f8943322cdb0f7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N299a07e019494a669cb913eb3afa2489",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5ec844810483451c9b0e2f56b0ee21fd",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N47439bf5317b47858819d8d194d18169",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5fbdd600f1234cbcaab1afa884e94877",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nce91440260fc4f379ef6e29166b5b3d4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:29.297813+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/paper",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.07,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:Nd50beba28a4042bbbc35922fd25d850b",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3ee7273169344a36a6b4ccfbd76bc8b0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N47f7cd5f0b4744afb564e303cd586142",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7d71aaf1d7ed45718640724d2a13b4e6",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N7f57848dfc8245bf98a92e82dc0772c5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N09c08809bc374f1caea6d1446e019d9a",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N52e37fcdd1cd4e3a97941cb4730bd14c",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N92d7d954cc264105b6af347e451989c9",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N25fac7e683e149ae9fa447b750222d33",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nfb7e9a4b9a1e442992f05e8d3d2f6b72",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 286215
+      },
+      "content_length": 286215,
+      "audited_at": "2026-11-23T10:51:34.285817+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/pc-gaming",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.045,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N3e130c2e7fe84a0d99a368dbd25248c0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N23cbb56f7a364a9abf22d3d5a80d32fe",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2432a1ee845e4981be3565b083c29cc0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N3c815b7ace2041fd997580f0f4c8afc7",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:Ndf58098e5dd44174a5c3ac851cad6732",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na8ac3ad1367a4e3b9e0214ee6ec68a01",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N659b1e5fe94246d6b0b759e0b1410e62",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf142c944c9164f6d803d638391628a3e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Na93f4bd9e8e241148ed10959b7b2c055",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N6c45ceb0af7d4d6096cabb21c462d8d8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:34.164197+00:00"
+    },
+    {
+      "url": "https://freedomx.com/tag/pixel-speedrun",
+      "score": 57,
+      "band": "foundation",
+      "http_status": 200,
+      "error": null,
+      "score_breakdown": {
+        "robots": 18,
+        "llms": 12,
+        "schema": 8,
+        "meta": 8,
+        "content": 8,
+        "signals": 3,
+        "ai_discovery": 0,
+        "brand_entity": 3,
+        "negative_penalty": -3
+      },
+      "recommendations_count": 17,
+      "duration_seconds": 4.072,
+      "attempts": 1,
+      "structured_data_extra": {
+        "json-ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Organization",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "logo": "https://freedomx.com/favicons/freedomx.ico"
+              },
+              {
+                "@type": "WebSite",
+                "name": "freedomx",
+                "url": "https://freedomx.com",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://freedomx.com/search?q={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ]
+          }
+        ],
+        "microdata": [],
+        "rdfa": [
+          {
+            "@id": "_:N49b5b9f3302e4b68bb535e70cda66294",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N682b09df675e43f8a6cbdba7b2ac2828",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nbcb595a57a46454a9a0e46f7fdda6a4e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "https://freedomx.com/",
+            "http://ogp.me/ns#image": [
+              {
+                "@value": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png"
+              }
+            ],
+            "http://ogp.me/ns#image:alt": [
+              {
+                "@value": "freedomx"
+              }
+            ],
+            "http://ogp.me/ns#image:height": [
+              {
+                "@value": "630"
+              }
+            ],
+            "http://ogp.me/ns#image:width": [
+              {
+                "@value": "1200"
+              }
+            ],
+            "http://ogp.me/ns#site_name": [
+              {
+                "@value": "freedomx.com"
+              }
+            ],
+            "http://ogp.me/ns#title": [
+              {
+                "@value": "FreedomX | Home"
+              }
+            ],
+            "http://ogp.me/ns#type": [
+              {
+                "@value": "website"
+              }
+            ],
+            "http://ogp.me/ns#url": [
+              {
+                "@value": "https://freedomx.com"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5669b5ae385044f0858b0a90da5ef2a1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nddb6638762064fd6b9ea67e6e1104e3e",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+              }
+            ]
+          },
+          {
+            "@id": "_:N966ea761038441e1a788d4a5994ec607",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#region"
+              }
+            ]
+          },
+          {
+            "@id": "_:N033bf87b5d584cd0ba727ad4aa4f9014",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:Nf3ab08eac707450c85e24348703f6030",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N2554f8d48ff24b8ea3826a05b854a894",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          },
+          {
+            "@id": "_:N5eebcd24cf5c4ad7ba9774f0dc385943",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+              {
+                "@id": "http://www.w3.org/1999/xhtml/vocab#group"
+              }
+            ]
+          }
+        ],
+        "opengraph": [
+          {
+            "og:title": "FreedomX | Home",
+            "og:url": "https://freedomx.com",
+            "og:site_name": "freedomx.com",
+            "og:image": "https://hel1.your-objectstorage.com/ztudium-cms/064011f0de08838c517fda5732a63c0977a3f4f0_d0728d44e8.png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "og:image:alt": "freedomx",
+            "@type": "website",
+            "@context": {
+              "og": "http://ogp.me/ns#"
+            }
+          }
+        ],
+        "counts": {
+          "json-ld": 1,
+          "microdata": 0,
+          "rdfa": 11,
+          "opengraph": 1
+        },
+        "error": null,
+        "content_length": 285980
+      },
+      "content_length": 285980,
+      "audited_at": "2026-11-23T10:51:34.225709+00:00"
     }
   ],
   "crawl_stats": {
